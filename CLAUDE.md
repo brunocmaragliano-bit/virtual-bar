@@ -1,10 +1,10 @@
 # Virtual Bar — app pessoal de bartender (PWA offline)
 
-> **Status: Fase 2 em andamento — falta publicar (2026-11-19).** Fase 1 aprovada em 2026-11-18.
-> App completo em `site/` (17 testes, fumaça de telas, offline e atualização testados no navegador local).
+> **Status: Fase 2 publicada, aguardando o teste do Bruno no iPhone (2026-11-19).** Fase 1 aprovada em 2026-11-18.
+> App: https://brunocmaragliano-bit.github.io/virtual-bar/ · repo: https://github.com/brunocmaragliano-bit/virtual-bar (público).
 > Base `2026.11.1` consolidada com o ok do Bruno à amostra (2026-11-19): 236 drinks (IBA inteira + 132 canônicos)
 > + 15 preparos, 217 tipos, 78 garrafas. 20 drinks possíveis só com as garrafas; ~44 com limões, laranja, ovos e hortelã.
-> Pendente com o Bruno: repositório do GitHub (D16) e identidade dos commits (D31). Depois: commit, deploy e teste no iPhone.
+> Critério de aceite da fase 2: instalado no iPhone e funcionando em modo avião → falta o ok do Bruno.
 > Nunca avançar de fase sem ok explícito.
 
 App só do Bruno para gerenciar o bar de casa e decidir o que preparar. Uso principal no
@@ -83,6 +83,11 @@ iPhone, muitas vezes sem internet. Interface em português; nomes dos drinks no 
 | D34 | `serveComo` também respeita a chave "contar substituições" (é uma substituição específica da garrafa) |
 | D35 | Receita de lote (ex.: Quentão da fonte para 6) guarda `porcoesBase`. A ficha abre nessa quantidade de porções e escala a partir dela; o volume estimado é por porção |
 | D36 | Mel 3:1 ou 2:1 de specs (Gold Rush, Brown Derby) usa o tipo `xarope_mel` (1:1) com `nota` citando a proporção da fonte. Um preparo próprio para mel denso fica para quando houver fonte |
+| D37 | Publicação (resolve D16 e D31): GitHub CLI instalado com ok do Bruno; login dele (conta `brunocmaragliano-bit`). Repo público `virtual-bar`, Pages pela Action (`build_type: workflow`). Git deste projeto usa `Bruno Maragliano <277779003+brunocmaragliano-bit@users.noreply.github.com>` (config local, não global). `gh` fica em `C:\Program Files\GitHub CLI\gh.exe` |
+| D38 | Os rótulos de lembrança de casamento ("Fernanda & Raul", 28.06.2025) foram publicados como estão, por decisão do Bruno (2026-11-19) |
+
+**Para publicar uma versão nova:** `npm run build` → `git commit` → `git push`. A Action valida, testa, confere o precache e publica;
+no celular aparece "Nova versão do app pronta · Atualizar".
 
 ## Pipeline da base (fase 1)
 ```
@@ -380,7 +385,7 @@ serão calibrados com referências publicadas na fase 2.
   visíveis. Inventário pessoal, notas e receitas autorais ficam só no aparelho.
 - **OneDrive + git:** um `.git` dentro do OneDrive funciona, mas a sincronização pode travar arquivos durante operações grandes.
 - **Fotos:** 114 DNG (~1,6 GB) — nunca no git. Extração do preview já testada.
-- **Ferramentas:** `gh` (GitHub CLI) não está instalado. Login no GitHub é feito pelo Bruno.
+- **Ferramentas:** `gh` (GitHub CLI) instalado em 2026-11-19 (fora do PATH das sessões antigas; usar o caminho completo). Login no GitHub é sempre do Bruno.
 - **Direitos:** proporções e listas de ingredientes são fatos; passos, notas e imagens são próprios ou de licença aberta com crédito.
 
 ## 12. Pendências técnicas da base

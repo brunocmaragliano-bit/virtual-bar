@@ -1,0 +1,406 @@
+[
+  {
+    "id": "san_basile_artichoke",
+    "rotulo": "San Basile Artichoke",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 950,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "alcachofra (Cynara scolymus) e infusão de ervas aromáticas; água, álcool, açúcar e caramelo",
+    "perfil": { "doce": 3, "acido": 0, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 1, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 1 },
+    "notas": "Aperitivo de alcachofra nacional, na mesma faixa de 20% do Cynar vendido no Brasil. O produtor descreve doce e amargo em equilíbrio e o perfume vegetal da alcachofra em destaque. Num drink, entra onde se usaria Cynar, com resultado parecido.",
+    "melhorUso": [
+      { "alvo": "receita:rabo_de_galo", "nota": 4, "frase": "Troca direta do Cynar, na mesma graduação; o rótulo traz a receita com cachaça envelhecida." },
+      { "alvo": "receita:bitter_giuseppe", "nota": 4, "frase": "Doce e amargo equilibrados como no Cynar; aguenta ser a base do drink com vermute e limão." },
+      { "alvo": "receita:cin_cyn", "nota": 3, "frase": "Faz o papel do Cynar ao lado do gin: amargor vegetal mais suave que o de um bitter vermelho." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda ou tônica e laranja vira aperitivo longo, de amargor moderado." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/artichoke-licor-de-alcachofra-san-basile-950ml-72539",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/",
+      "http://www.diffordsguide.com/beer-wine-spirits/859/cynar"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "País não está na frente do rótulo; fichas do produtor e do varejo confirmam Brasil (Tuiuti, SP). Não há nota de degustação independente: perfil estimado pela descrição do produtor e pela comparação com o Cynar. O verso traz receitas de Rabo de Galo e Mole Hill."
+  },
+  {
+    "id": "cynar",
+    "rotulo": "Cynar Receita Original",
+    "marca": "Cynar",
+    "produtor": "Campari do Brasil (Grupo Campari)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 900,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "infusão de folhas de alcachofra e ervas aromáticas (13 plantas na receita italiana); açúcar, caramelo e ácido cítrico",
+    "perfil": { "doce": 3, "acido": 0, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 1, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 1 },
+    "notas": "Amaro de alcachofra de cor âmbar escura, com caramelo, nozes e um lado vegetal quase de conserva. O amargor de quina aparece no fim e fica, com leve toque de canela. Nos drinks, amarga menos que Campari e deixa tudo mais terroso.",
+    "melhorUso": [
+      { "alvo": "receita:rabo_de_galo", "nota": 5, "frase": "É o amargo clássico do Rabo de Galo; o vegetal da alcachofra corta o doce do vermute." },
+      { "alvo": "receita:bitter_giuseppe", "nota": 5, "frase": "O drink foi pensado para o Cynar: caramelo e amargor seguram a dose alta sem pesar." },
+      { "alvo": "receita:cin_cyn", "nota": 5, "frase": "É o Negroni com Cynar: menos amargo e mais terroso que com Campari." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com soda ou tônica e laranja é o serviço de aperitivo que a própria marca indica." },
+      { "alvo": "receita:black_manhattan", "nota": 3, "frase": "No lugar do Averna dá um Manhattan mais vegetal e menos doce; vai melhor com rye." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.casadabebida.com.br/aperitivo/aperitivo-cynar-900-ml/",
+      "https://www.martinsatacado.com.br/produto/aperitivo-cynar-900-ml-martins_900042",
+      "http://www.diffordsguide.com/beer-wine-spirits/859/cynar"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "O rótulo diz 20% e confere com as fichas brasileiras (fabricado no Brasil, fornecedor Campari do Brasil). O Cynar italiano e o de outros mercados tem 16,5%, e é essa a versão das notas do Difford's. A ficha brasileira lista ácido cítrico."
+  },
+  {
+    "id": "apothek_scarlatti",
+    "rotulo": "Apothek Scarlatti Amaro",
+    "marca": "Apothek (APTK Spirits)",
+    "produtor": "APTK Spirits (Apothek Cocktails & Co.)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 30,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "São Paulo",
+    "composicao": "ervas, raízes, flores e frutas; o lote 70004 destaca limão-siciliano, sálvia, alecrim e açafrão; açúcar e corante carmim",
+    "perfil": { "doce": 3, "acido": 0, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 1, "umami": 0 },
+    "notas": "Bitter vermelho autoral de bar paulistano, vendido como amaro agridoce para coquetéis. A receita do lote puxa para limão e ervas de cozinha (sálvia, alecrim), com açafrão ao fundo. Fica entre Aperol e Campari: mais herbal e menos austero que o Campari.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 4, "frase": "É o bitter do Negroni engarrafado da própria APTK; o limão e a sálvia aparecem ao lado do gin." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Também usado pela APTK no Boulevardier; o lado doce e herbal acompanha bem o bourbon." },
+      { "alvo": "receita:negroni_sbagliato", "nota": 3, "frase": "Cítrico e herbal combinam com espumante; amargor mais gentil que o do Campari." },
+      { "alvo": "receita:americano", "nota": 3, "frase": "Alongado com vermute e soda, as ervas ficam mais evidentes que num Americano com Campari." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/amaro-scarlatti-aptk-spirits-750ml-72005",
+      "https://www.worldwine.com.br/dest-br-amaro-scarlatti-375-027462/p",
+      "https://brindisivinhos.com.br/produto/aptk-negroni-classico-750ml/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de amaro_medio para bitter_aperitivo_vermelho: tem corante carmim, é vendido como parecido com Campari e Aperol e é o amargo do Negroni e do Boulevardier engarrafados da APTK. O rótulo diz 'Amaro'. Lote 70004, fabricado em 19/12/2020; os ingredientes-chave variam por lote. Não há notas de degustação independentes, então o perfil vem da ficha e dos ingredientes."
+  },
+  {
+    "id": "bizantina_artichoke_menta",
+    "rotulo": "San Basile Artichoke Carvalho Francês e Menta (Sanbalab)",
+    "marca": "San Basile (linha Sanbalab)",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 980,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "aperitivo Artichoke San Basile armazenado em carvalho francês e reinfusionado com menta-piperita; o rótulo lista água, álcool, ervas aromáticas e caramelo",
+    "perfil": { "doce": 3, "acido": 0, "amargo": 3, "seco": 2, "herbal": 4, "frutado": 1, "defumado": 1, "picante": 1, "cremoso": 2, "umami": 1 },
+    "notas": "Edição limitada que pega o aperitivo de alcachofra da casa, passa por carvalho francês e termina com nova infusão de menta. Espere a base vegetal e agridoce do Artichoke, com um pouco de madeira e frescor de menta no final. Lembra um meio-termo entre Cynar e um amaro mentolado leve.",
+    "melhorUso": [
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "A madeira casa com cachaça envelhecida; a menta deixa o drink mais fresco que com Cynar." },
+      { "alvo": "receita:black_manhattan", "nota": 3, "frase": "Carvalho e menta dão um Manhattan escuro e refrescante; mais leve que com Averna, use rye." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e gelo a menta aparece bem e o amargor fica leve." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://bartenderstore.com.br/conheca-a-nova-linha-sanbalab-da-destilaria-san-basile/",
+      "https://www.espacoprime.com.br/produto/artichoke-licor-de-alcachofra-san-basile-950ml-72539",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "É a versão do Artichoke da linha Sanbalab, edições limitadas da San Basile (Destilaria Bizantina é a razão social): 20%, 980 ml, carvalho francês e menta-piperita, como no rótulo. A lista de ingredientes do rótulo não cita açúcar, mas a base Artichoke tem; a doçura foi estimada pela base. Não há nota de degustação publicada, então o perfil foi inferido do processo. Sem melhorUso do produtor."
+  },
+  {
+    "id": "aperol",
+    "rotulo": "Aperol",
+    "marca": "Aperol",
+    "produtor": "Grupo Campari (Fratelli Barbieri)",
+    "tipo": "aperitivo_laranja",
+    "abv": 11,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": null,
+    "composicao": "infusão de 16 ingredientes, entre eles laranja amarga, genciana, quina e ruibarbo; açúcar",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 2, "seco": 0, "herbal": 1, "frutado": 3, "defumado": 0, "picante": 0, "cremoso": 1, "umami": 0 },
+    "notas": "Aperitivo laranja, leve e doce, com casca de laranja, toranja rosada e um fundo de baunilha. O amargor de ervas é discreto e chega só no fim. Funciona como versão mais fácil e menos alcoólica de um bitter vermelho.",
+    "melhorUso": [
+      { "alvo": "receita:aperol_spritz", "nota": 5, "frase": "É o próprio drink: doce de laranja e amargor leve pensados para espumante e soda." },
+      { "alvo": "familia:spritz", "nota": 4, "frase": "Baixo teor e bastante doçura equilibram a acidez do espumante em qualquer spritz." },
+      { "alvo": "familia:sour", "nota": 4, "frase": "Em sours dá cor, laranja e um amargor suave que não domina o cítrico." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e laranja vira aperitivo longo de teor bem baixo." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://diffordsguide.com/beer-wine-spirits/70/aperol-aperitivo",
+      "https://www.aperol.com/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "O rótulo diz 'Padova·Italia' (a casa de origem); não confirmei onde esta garrafa foi feita. O ABV de 11% confere com as fontes."
+  },
+  {
+    "id": "campari",
+    "rotulo": "Campari",
+    "marca": "Campari",
+    "produtor": "Campari do Brasil (Grupo Campari)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 28.5,
+    "volumeMl": 900,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "receita secreta de ervas, cascas e frutas; ficha brasileira: álcool, açúcar, extratos naturais e corante natural",
+    "perfil": { "doce": 3, "acido": 0, "amargo": 4, "seco": 1, "herbal": 2, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 1, "umami": 0 },
+    "notas": "O bitter vermelho de referência: casca de laranja sanguínea, cereja e ervas, sobre um amargor de quinino firme e longo. É bem doce na entrada, mas o amargo vence no fim. A versão brasileira tem mais álcool que a europeia, o que deixa o drink um pouco mais firme.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 5, "frase": "Referência do Negroni: o amargor de quinino e laranja segura gin e vermute em partes iguais." },
+      { "alvo": "receita:americano", "nota": 5, "frase": "Com vermute e soda, o amargor e a cor do Campari são o drink." },
+      { "alvo": "receita:boulevardier", "nota": 5, "frase": "O amargor firme corta o doce do bourbon e do vermute." },
+      { "alvo": "receita:negroni_sbagliato", "nota": 5, "frase": "Laranja e quinino dão estrutura ao espumante; é a versão padrão do drink." },
+      { "alvo": "receita:milano_torino", "nota": 5, "frase": "Metade do drink; o bitter de Milão é exatamente o que a receita pede." },
+      { "alvo": "receita:mezcal_negroni", "nota": 4, "frase": "Amargo e cítrico aguentam a fumaça do mezcal sem sumir." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/190/campari-bitter",
+      "https://www.martinsatacado.com.br/bebidas-alcoolicas/p/campari-emb-contem-1un-de-900ml-campari-martins_902040"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Versão brasileira a 28,5% (produzida e engarrafada pela Campari do Brasil, segundo a ficha de atacado), contra 25% do Campari italiano/europeu descrito pelo Difford's. O rótulo e as fichas brasileiras conferem."
+  },
+  {
+    "id": "san_basile_bitter",
+    "rotulo": "San Basile Bitter",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "infusão de ervas aromáticas, álcool e açúcar; a versão atual (Bitter Rosso) usa carmim de cochonilha",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 4, "seco": 2, "herbal": 2, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 1, "umami": 0 },
+    "notas": "Bitter vermelho artesanal brasileiro, que o produtor descreve com cítrico agudo, amargor marcante e doçura contida. Com 40%, é bem mais forte que um Campari: o álcool aparece e o conjunto fica mais seco. Num drink, segura bem bases fortes, mas pede cuidado na dose.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Mais alcoólico e menos doce que o Campari: dá um Negroni mais seco, de cítrico agudo." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Receita do rótulo; o amargor marcante e o álcool alto não somem ao lado do whisky." },
+      { "alvo": "receita:negroni_sbagliato", "nota": 3, "frase": "Receita do rótulo; o cítrico combina com espumante, mas o drink sai mais forte que com Campari." },
+      { "alvo": "receita:americano", "nota": 3, "frase": "A soda dilui o álcool alto e deixa o cítrico aparecer." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/bitter-rosso-san-basile-700ml-72540",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "O rótulo diz 40% e 750 ml. A ficha atual do Bitter Rosso San Basile (700 ml) e a matéria de lançamento de 2019 dão 30%. Deve ser outra versão ou lote, e vale o rótulo. O texto do verso é o mesmo da descrição do Bitter Rosso. Não há notas de degustação independentes. A casa também indica Old Pal."
+  },
+  {
+    "id": "fernet_branca",
+    "rotulo": "Fernet-Branca (Argentina)",
+    "marca": "Fernet-Branca",
+    "produtor": "Fratelli Branca",
+    "tipo": "fernet",
+    "abv": 39,
+    "volumeMl": null,
+    "pais": "Argentina",
+    "regiao": "Buenos Aires (Tortuguitas)",
+    "composicao": "mais de 27 ervas, raízes e especiarias (entre elas genciana, camomila, açafrão, ruibarbo e mirra); repouso de cerca de 12 meses em tonéis de carvalho",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 5, "seco": 3, "herbal": 5, "frutado": 1, "defumado": 0, "picante": 2, "cremoso": 1, "umami": 0 },
+    "notas": "O fernet de referência: menta e alcaçuz no nariz, ervas e raízes muito amargas na boca e final longo e mentolado. Quase não tem doçura aparente e domina qualquer drink em dose alta. Na Argentina é tomado com cola; nos coquetéis clássicos entra em pequena quantidade.",
+    "melhorUso": [
+      { "alvo": "receita:toronto", "nota": 5, "frase": "É o amargo clássico do Toronto: menta e ervas contra o rye adoçado." },
+      { "alvo": "receita:hanky_panky", "nota": 5, "frase": "Poucos dashes bastam: menta e amargor dão a assinatura do drink de gin e vermute." },
+      { "alvo": "familia:highball", "nota": 5, "frase": "Com cola é o serviço argentino tradicional; menta e amargor aguentam muito gelo e diluição." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Uma colher de bar seca e refresca um Manhattan; mais que isso domina o drink." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/323/fernet-branca",
+      "https://losfenicios.com.ar/productos/branca-750-ml/",
+      "https://www.cronista.com/apertura/empresas/la-historia-detras-de-branca-la-creacion-de-un-boticario-que-solo-se-fabrica-en-italia-y-argentina/",
+      "https://www.iprofesional.com/recreo/383783-fernet-argentino-versus-italiano-revelo-cual-es-mejor"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Não deu para ler o ABV no rótulo. O valor de 39% vem do varejo argentino e é o mesmo do italiano no Difford's. O volume também não aparece. Versão 'Industria Argentina', feita em Tortuguitas, a única fábrica da Branca fora de Milão. A marca diz que a receita é a mesma, mas uma comparação informal achou a argentina um pouco menos amarga e mais leve, com mais mirra no nariz. O perfil mantém a âncora do Fernet-Branca."
+  },
+  {
+    "id": "angostura_aromatic",
+    "rotulo": "Angostura Aromatic Bitters",
+    "marca": "Angostura",
+    "produtor": "Angostura Ltd (House of Angostura)",
+    "tipo": "bitters_aromatico",
+    "abv": 44.7,
+    "volumeMl": 100,
+    "pais": "Trinidad e Tobago",
+    "regiao": null,
+    "composicao": "receita secreta com genciana, ervas e especiarias (cravo, canela, cardamomo e casca de laranja no perfil)",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 5, "seco": 2, "herbal": 3, "frutado": 1, "defumado": 0, "picante": 3, "cremoso": 0, "umami": 0 },
+    "notas": "O bitters aromático padrão do bar: cravo, canela e cardamomo, casca de laranja seca e um fundo de pimenta-do-reino, sobre genciana bem amarga. Usado em gotas e dashes, tempera e liga o drink mais do que adiciona sabor próprio. Na água fica vermelho-tijolo.",
+    "melhorUso": [
+      { "alvo": "receita:old_fashioned", "nota": 5, "frase": "Os dashes da receita original: especiaria e amargor que ligam o whisky ao açúcar." },
+      { "alvo": "receita:manhattan", "nota": 5, "frase": "Padrão do Manhattan: cravo e canela fazem a ponte entre o rye e o vermute." },
+      { "alvo": "receita:pisco_sour", "nota": 5, "frase": "As gotas sobre a espuma dão o aroma de especiaria que completa o drink." },
+      { "alvo": "familia:champagne_cocktail", "nota": 5, "frase": "Encharca o cubo de açúcar no Champagne Cocktail clássico; não há substituto melhor." },
+      { "alvo": "receita:vieux_carre", "nota": 5, "frase": "Junto do Peychaud's, a Angostura traz o fundo especiado da receita." },
+      { "alvo": "receita:rob_roy", "nota": 4, "frase": "Tempera o scotch e o vermute como no Manhattan; dá estrutura sem esconder o malte." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://diffordsguide.com/beer-wine-spirits/145/angostura-aromatic-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": null
+  },
+  {
+    "id": "bittermens_elemakule_tiki",
+    "rotulo": "Bittermens 'Elemakule Tiki Bitters",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_especiado",
+    "abv": 44,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "base com rum; canela e pimenta-da-jamaica à frente, com cravo, gengibre, genciana e cascas cítricas; inspirado no falernum",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 4, "seco": 2, "herbal": 2, "frutado": 2, "defumado": 0, "picante": 4, "cremoso": 0, "umami": 0 },
+    "notas": "Bitters feito para tiki, com canela e pimenta-da-jamaica em destaque e cascas cítricas ao fundo, num estilo que lembra falernum. É mais quente e doce na especiaria que a Angostura e menos de cravo. Brilha em drinks de rum com sucos e xaropes.",
+    "melhorUso": [
+      { "alvo": "familia:tiki", "nota": 5, "frase": "Feito para tiki: canela e pimenta-da-jamaica reforçam rum, sucos e xaropes sem pesar." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Com rum envelhecido ou bourbon, troca o cravo da Angostura por canela mais quente." },
+      { "alvo": "receita:mai_tai", "nota": 3, "frase": "Um dash acrescenta a especiaria que orgeat e curaçao não trazem." },
+      { "alvo": "receita:daiquiri", "nota": 3, "frase": "Um dash dá fundo especiado ao Daiquiri sem esconder o limão." },
+      { "alvo": "familia:punch_cobbler", "nota": 3, "frase": "Em ponches de rum, poucos dashes fazem o papel de noz-moscada e canela." }
+    ],
+    "serveComo": [
+      { "tipo": "bitters_aromatico", "qualidade": 2, "nota": "Substitui a Angostura em drinks de rum e bourbon; num Manhattan o perfil vai para canela." }
+    ],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/2290/bittermens-elemakule-tiki-bitters",
+      "https://cocktailemporium.com/products/elemakule-tiki-bitters",
+      "https://www.sazerac.com/our-brands/sazerac-brands/bittermens.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Adicionado serveComo bitters_aromatico (qualidade 2). O Difford's não tem nota de degustação; o perfil vem das descrições de varejo (canela, pimenta-da-jamaica, cravo, gengibre, cascas cítricas). O rótulo diz 5 fl oz (146 ml); o Difford's fala em 4 oz. A marca hoje aparece no portfólio da Sazerac."
+  },
+  {
+    "id": "bittermens_xocolatl_mole",
+    "rotulo": "Bittermens Xocolatl Mole Bitters",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_cacau",
+    "abv": 53,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "cacau, canela e especiarias, inspirado no mole mexicano",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 4, "seco": 3, "herbal": 1, "frutado": 1, "defumado": 0, "picante": 3, "cremoso": 0, "umami": 0 },
+    "notas": "Bitters de cacau e canela inspirado no mole, com cravo e anis ao fundo e amargor de chocolate amargo. Com 53%, é seco e alcoólico; a sensação de chocolate vem do aroma, não de doçura. Escurece e aquece drinks mexidos de destilados envelhecidos.",
+    "melhorUso": [
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Com bourbon, rum envelhecido ou tequila añejo, cacau e canela dão um Old Fashioned mais escuro." },
+      { "alvo": "receita:black_manhattan", "nota": 4, "frase": "O cacau reforça o chocolate e o caramelo do amaro escuro." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "No lugar da Angostura, arredonda o rye com cacau; um Manhattan mais de sobremesa." },
+      { "alvo": "familia:flip", "nota": 3, "frase": "Uns dashes por cima do flip ou nog trazem cacau e especiaria sem açúcar extra." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/2288/bittermens-xocolatl-mole-bitters",
+      "https://supermarketitaly.com/products/bittermens-xocolatl-mole-bitters-5-oz",
+      "https://www.cocktailemporium.com/products/bittermens-xocolatl-mole-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "O varejo diverge: uma ficha cita pimentas (chili), outra só páprica. O perfil não supõe ardência de pimenta. O ABV de 53% confere com rótulo e fontes."
+  },
+  {
+    "id": "angostura_orange",
+    "rotulo": "Angostura Orange Bitters",
+    "marca": "Angostura",
+    "produtor": "Angostura Ltd (House of Angostura)",
+    "tipo": "bitters_laranja",
+    "abv": 28,
+    "volumeMl": 100,
+    "pais": "Trinidad e Tobago",
+    "regiao": null,
+    "composicao": "óleos de laranja amarga e doce, essência cítrica, ervas e especiarias",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 4, "seco": 2, "herbal": 2, "frutado": 4, "defumado": 0, "picante": 2, "cremoso": 0, "umami": 0 },
+    "notas": "Bitters de laranja com casca bem viva, toque de laranja sanguínea e final de cardamomo e coentro. O amargor é seco e menos pesado que o da Angostura aromática. Ilumina drinks claros e mexidos à base de gin, vermute dry ou xerez.",
+    "melhorUso": [
+      { "alvo": "receita:martini", "nota": 5, "frase": "O Dry Martini clássico leva orange bitters; a laranja abre o gin e o vermute dry." },
+      { "alvo": "receita:bamboo", "nota": 5, "frase": "Com a Angostura, dá o fundo cítrico que o xerez e o vermute dry pedem." },
+      { "alvo": "receita:adonis", "nota": 4, "frase": "A casca de laranja ilumina xerez e vermute rosso sem acrescentar doçura." },
+      { "alvo": "receita:bitter_giuseppe", "nota": 4, "frase": "A receita usa bitters de laranja; o cítrico levanta o Cynar e o vermute." },
+      { "alvo": "receita:old_fashioned", "nota": 3, "frase": "Um dash junto da Angostura traz laranja ao drink sem precisar de casca." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/3505/angostura-orange-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "O país, lido em texto cortado, confere com o produtor (Angostura Ltd, Trinidad). O ABV de 28% confere."
+  },
+  {
+    "id": "bittermens_hellfire_habanero",
+    "rotulo": "Bittermens Hellfire Habanero Shrub",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_picante",
+    "abv": 44,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "habanero, vinagre de vinho tinto, sidra de maçã, ácido cítrico, sabugueiro, páprica, baunilha e sal",
+    "perfil": { "doce": 1, "acido": 3, "amargo": 1, "seco": 2, "herbal": 1, "frutado": 2, "defumado": 0, "picante": 5, "cremoso": 0, "umami": 1 },
+    "notas": "É menos bitters e mais um molho de pimenta concentrado para coquetéis: habanero ardido, vinagre e fruta escura de sabugueiro. Quase não amarga. Usado em gotas, dá calor e acidez a drinks cítricos de agave.",
+    "melhorUso": [
+      { "alvo": "receita:margarita", "nota": 4, "frase": "Poucas gotas dão uma Margarita picante sem macerar pimenta; o vinagre reforça o limão." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Em sours de tequila ou mezcal, 2 a 3 gotas trazem calor e acidez frutada." },
+      { "alvo": "receita:paloma", "nota": 3, "frase": "O ardor do habanero contrasta com a toranja e o sal da borda." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.bostongeneralstore.com/products/hellfire-habanero-shrub",
+      "https://www.sippitysup.com/?p=27508"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Não é bitters em sentido estrito: é um shrub (à base de vinagre) concentrado, da linha 'Shrubs, Citrates & Extracts', usado em gotas. Ficou em bitters_picante, o tipo mais próximo; se entrarem outros produtos assim, vale criar um tipo 'tempero_picante' ou 'shrub'. O ABV de 44% confere."
+  },
+  {
+    "id": "nielsen_massey_extrato_limao",
+    "rotulo": "Nielsen-Massey Pure Lemon Extract",
+    "marca": "Nielsen-Massey",
+    "produtor": "Nielsen-Massey Vanillas",
+    "tipo": "extrato_limao",
+    "abv": 90,
+    "volumeMl": 59,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "álcool de cana, óleo de limão (limões da Califórnia) e água; sem açúcar",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 3, "herbal": 0, "frutado": 5, "defumado": 0, "picante": 1, "cremoso": 0, "umami": 0 },
+    "notas": "Extrato culinário: óleo de casca de limão diluído em álcool. É aroma puro de raspa de limão, sem acidez nem doçura. Em coquetel, uma ou duas gotas reforçam o perfume cítrico, como uma casca espremida.",
+    "melhorUso": [
+      { "alvo": "familia:sour", "nota": 3, "frase": "Uma ou duas gotas reforçam o aroma de casca; não traz acidez, então não substitui o suco." },
+      { "alvo": "receita:tom_collins", "nota": 3, "frase": "Se o limão-siciliano está sem perfume, uma gota devolve o cítrico ao drink longo." },
+      { "alvo": "receita:gin_tonica", "nota": 3, "frase": "Uma gota substitui a casca de limão-siciliano; use pouco, é quase só óleo e álcool." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.nielsenmassey.com/products/pure-lemon-extract/",
+      "https://sellsheets.syndigo.com/food/02e5a281-69d2-4829-964c-26b8e90c277a"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Extrato culinário, não é bebida. Não li o ABV no rótulo. As fichas de distribuidor dizem 'álcool 90%', e uma listagem de varejo diz 83% (frasco de 18 oz). O produtor sugere usar em limonadas, mojitos, coquetéis de bourbon e amaretto sour."
+  }
+]

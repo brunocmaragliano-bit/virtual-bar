@@ -1,0 +1,84 @@
+[
+  {
+    "id": "caldo_cana",
+    "nome": "Caldo de cana",
+    "categoria": "citrico_suco",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 5,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 2,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "adocante"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "garapa",
+      "sugar cane juice",
+      "guarapo"
+    ],
+    "perecivel": {
+      "validadeDias": 1
+    }
+  },
+  {
+    "id": "agua_flor_laranjeira",
+    "nome": "Água de flor de laranjeira",
+    "categoria": "outros",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "dash",
+    "sinonimos": [
+      "orange flower water",
+      "orange blossom water",
+      "água de flor"
+    ]
+  },
+  {
+    "id": "extrato_baunilha",
+    "nome": "Extrato de baunilha",
+    "categoria": "outros",
+    "pai": null,
+    "abvTipico": 35,
+    "perfilTipico": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "gota",
+    "sinonimos": [
+      "vanilla extract",
+      "essência de baunilha"
+    ]
+  }
+]

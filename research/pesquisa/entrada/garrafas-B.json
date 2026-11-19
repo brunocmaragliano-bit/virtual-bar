@@ -1,0 +1,212 @@
+[
+  {
+    "id": "redwood_empire_lost_monarch",
+    "tipoSugerido": "whiskey_americano",
+    "rotulo": "Redwood Empire Lost Monarch Blend of Straight Whiskeys",
+    "marca": "Redwood Empire",
+    "expressao": "Lost Monarch",
+    "tipoLido": "blend de straight whiskeys americanos (rye e bourbon)",
+    "abvLido": 45,
+    "volumeMl": 750,
+    "paisLido": "EUA",
+    "duvidas": [
+      "Nível oculto pelo rótulo: há líquido abaixo do rótulo e o ombro está vazio, superfície não visível."
+    ],
+    "obs": [
+      "'750ml' e '45% ALC/VOL' em letras miúdas nas laterais do rótulo (confirmados no arquivo full). 'Sonoma County, California'. Topo do gargalo/tampa fora do quadro.",
+      "Verso: blend de straight rye e straight bourbon 'aged at least 3 years'; 'Bottled by Redwood Empire Distilling, Graton, CA'. ABV/volume lidos na frente."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160102215_iOS.jpg",
+      "20261108_160108394_iOS.jpg"
+    ]
+  },
+  {
+    "id": "johnnie_walker_red_label",
+    "tipoSugerido": "scotch_blended",
+    "rotulo": "Johnnie Walker Red Label Blended Scotch Whisky",
+    "marca": "Johnnie Walker",
+    "expressao": "Red Label",
+    "tipoLido": "blended scotch whisky",
+    "abvLido": 40,
+    "volumeMl": 1000,
+    "paisLido": "Escócia",
+    "duvidas": [],
+    "obs": [
+      "Nível em cerca de 1/3 da garrafa (linha do líquido bem visível). Rodapé: '1 LITRE', 'Distilled, blended & bottled in Scotland', '40% vol'. Garrafa de 1 litro (provavelmente versão travel retail/importada)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160203566_iOS.jpg"
+    ]
+  },
+  {
+    "id": "union_barrel_aged",
+    "tipoSugerido": "whisky_brasileiro",
+    "rotulo": "Union Distillery Blended Whisky Barrel Aged",
+    "marca": "Union Distillery",
+    "expressao": "Barrel Aged; garrafa numerada nº 017118",
+    "tipoLido": "blended whisky brasileiro (malt whisky e destilados envelhecidos em carvalho)",
+    "abvLido": 40,
+    "volumeMl": 1000,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Nível estimado em cerca de 1/4 a 1/3 pela linha do líquido nas bordas do rótulo; essa linha fica na mesma altura da borda da mesa ao fundo."
+    ],
+    "obs": [
+      "'Fund. 1848 RS.BR Brasil', 'Serra Gaúcha - Brasil', 'Elaborado e engarrafado na origem', '40%vol.', '1L'. Topo do gargalo fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160125791_iOS.jpg"
+    ]
+  },
+  {
+    "id": "jameson",
+    "tipoSugerido": "irish_whiskey",
+    "rotulo": "Jameson Triple Distilled Irish Whiskey",
+    "marca": "Jameson",
+    "expressao": null,
+    "tipoLido": "irish whiskey blended (triple distilled)",
+    "abvLido": null,
+    "volumeMl": 750,
+    "paisLido": "Irlanda",
+    "duvidas": [
+      "ABV na lateral esquerda do rótulo cortado pela curvatura (só '...% vol' visível). Volume '750 ml' lido na lateral direita, parcialmente curvado. Nível oculto pelo vidro verde e pelo rótulo (ombro parece vazio, há líquido no fundo)."
+    ],
+    "obs": [
+      "'Product of Ireland'; selo 'John Jameson & Son Limited' no gargalo. Topo da tampa encostado na borda da foto."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160150755_iOS.jpg"
+    ]
+  },
+  {
+    "id": "rittenhouse_rye_bib",
+    "tipoSugerido": "rye_whiskey",
+    "rotulo": "Rittenhouse Straight Rye Whisky Bottled-in-Bond 100 Proof",
+    "marca": "Rittenhouse",
+    "expressao": "Bottled-in-Bond, 100 Proof",
+    "tipoLido": "rye whiskey (straight, bottled-in-bond)",
+    "abvLido": 50,
+    "volumeMl": 750,
+    "paisLido": "EUA",
+    "duvidas": [],
+    "obs": [
+      "'50% ALC./VOL.' e 'under U.S. Government supervision' impressos na frente; volume 750 ml lido gravado no vidro (foto do verso 20261108_160047819_iOS.jpg). Tampa cortada no topo da foto.",
+      "Verso: 'Distilled and bottled by Heaven Hill Distilleries, Inc., Louisville KY / Bardstown KY'. '750 ML' gravado no vidro, na base. ABV lido na frente."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160041823_iOS.jpg",
+      "20261108_160047819_iOS.jpg"
+    ]
+  },
+  {
+    "id": "whisky_ye_monks",
+    "tipoSugerido": "scotch_blended",
+    "rotulo": "Whisky of Ye Monks – Scotch Whisky – Union Distillery (iniciais apagadas no rótulo)",
+    "marca": "Whisky of Ye Monks",
+    "expressao": null,
+    "tipoLido": "whisky (o rótulo diz 'Scotch Whisky')",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": null,
+    "duvidas": [
+      "As letras iniciais grandes do rótulo sumiram: lê-se 'hisky e onks', 'cotch hisky', 'nion istillery'. Reconstruí como 'Whisky of Ye Monks', 'Scotch Whisky', 'Union Distillery'; o texto menor confirma 'Ye Whisky of Ye Monks' / 'O Whisky dos Monges'. O nome da destilaria é o mesmo do whisky brasileiro da foto 20261108_160125791_iOS.jpg, e há um selo fiscal brasileiro ('Impresso na Casa...') no gargalo; a origem real (Escócia ou Brasil) não aparece no rótulo visível. ABV e volume não visíveis."
+    ],
+    "obs": [
+      "Garrafa de cerâmica em forma de jarra com alça (provavelmente colecionável/decorativa); lacre de cera no corpo preso por corda; pequena peça de cerâmica amarrada à alça com fita vermelha; selo fiscal no gargalo rasgado (indica que já foi aberta). Rótulo antigo, bilíngue inglês/português."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160221920_iOS.jpg"
+    ]
+  },
+  {
+    "id": "nikka_from_the_barrel",
+    "tipoSugerido": "whisky_japones",
+    "rotulo": "Nikka Whisky From The Barrel",
+    "marca": "Nikka",
+    "expressao": "From The Barrel",
+    "tipoLido": "whisky japonês blended (malte e grão)",
+    "abvLido": 51.4,
+    "volumeMl": 500,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "Rótulo impresso 'alc. 51.4°'; linha legal em japonês diz アルコール分51% e 内容量500ml; ingredientes モルト、グレーン (malte, grão). Versão do mercado japonês. Garrafa inteira, tampa de rosca.",
+      "Verso em japonês: origem da matéria-prima 'produção nacional e Reino Unido (whisky de grão)' (国内製造、英国製造(グレーンウイスキー)); vendido por Asahi Beer. ABV/volume remetidos ao rótulo da frente."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160000633_iOS.jpg",
+      "20261108_160006903_iOS.jpg"
+    ]
+  },
+  {
+    "id": "nikka_coffey_grain",
+    "tipoSugerido": "whisky_japones",
+    "rotulo": "Nikka Coffey Grain Whisky",
+    "marca": "Nikka",
+    "expressao": "Coffey Grain",
+    "tipoLido": "whisky japonês de grão (alambique Coffey)",
+    "abvLido": 45,
+    "volumeMl": 700,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "'Produced by The Nikka Whisky Distilling Co., Ltd., Japan'; alc. 45%. Volume lido no verso (20261108_160027735_iOS.jpg). Líquido até a base do gargalo (conferido no arquivo full); cápsula visível, tampa cortada.",
+      "Verso em japonês: 原材料名 グレーン、モルト; 内容量700ml; アルコール分45%; vendido por Asahi Beer; produzido pela Nikka (Kashiwa, Chiba)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160020796_iOS.jpg",
+      "20261108_160027735_iOS.jpg"
+    ]
+  },
+  {
+    "id": "kanosuke_single_malt",
+    "tipoSugerido": "whisky_japones",
+    "rotulo": "Kanosuke Single Malt Japanese Whisky",
+    "marca": "Kanosuke",
+    "expressao": null,
+    "tipoLido": "whisky japonês single malt",
+    "abvLido": 48,
+    "volumeMl": 700,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "'Distilled and bottled in Kagoshima, Japan'; 'Mellow Land, Mellow Whisky'; 700 ml / 48% Alc./Vol. (texto lateral conferido no arquivo full). Líquido até o ombro; topo cortado.",
+      "Verso em japonês: 内容量 700ml, アルコール分 48%; Komasa Kanosuke Distillery, Kagoshima; selo 'Non chill-filtered'; código EGBC."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155942042_iOS.jpg",
+      "20261108_155948035_iOS.jpg"
+    ]
+  },
+  {
+    "id": "komagatake_peated_sherry",
+    "tipoSugerido": "whisky_japones",
+    "rotulo": "Komagatake Single Malt Japanese Whisky Peated × Sherry Limited Batch",
+    "marca": "Komagatake (Mars Whisky / Hombo Shuzo)",
+    "expressao": "Peated × Sherry - Limited Batch",
+    "tipoLido": "whisky japonês single malt turfado, maturado em barril de jerez",
+    "abvLido": 50,
+    "volumeMl": 700,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "Mars Komagatake Distillery, produzido por Hombo Shuzo Co., Ltd., Japan; 50% alc by vol, 700 ml; non-chill filtered. Líquido visível até o ombro (topo cortado na foto).",
+      "Verso em japonês: アルコール分 50%, 内容量 700ml, 本坊酒造 (Hombo Shuzo), Kagoshima; selo 'Japanese Whisky' (JSLMA); lote 46P48."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155922737_iOS.jpg",
+      "20261108_155929534_iOS.jpg"
+    ]
+  }
+]

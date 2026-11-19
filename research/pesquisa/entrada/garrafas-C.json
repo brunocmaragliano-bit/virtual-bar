@@ -1,0 +1,232 @@
+[
+  {
+    "id": "cachaca_fernanda_raul",
+    "tipoSugerido": "cachaca",
+    "rotulo": "Cachaça Fernanda & Raul 28.06.2025",
+    "marca": null,
+    "expressao": "rótulo personalizado de casamento (28.06.2025)",
+    "tipoLido": "cachaça (cor dourada; envelhecimento não informado)",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Produtor, ABV, volume e tipo (envelhecida ou não) não aparecem; só se sabe que é 'cachaça' de cor dourada. País inferido pela palavra 'cachaça'.",
+      "Produtor, ABV, volume e tipo não aparecem no rótulo."
+    ],
+    "obs": [
+      "Lembrança de casamento: rótulo com aquarela de casarão. Corda de juta no gargalo. Close-up; a foto 20261108_155909055_iOS.jpg mostra a garrafa inteira.",
+      "Garrafa inteira visível, rolha de madeira, corda de juta no gargalo; líquido até a base do gargalo. Lembrança de casamento (garrafa decorativa/presente)."
+    ],
+    "perfilPendente": true,
+    "fotos": [
+      "20261108_155902932_iOS.jpg",
+      "20261108_155909055_iOS.jpg"
+    ]
+  },
+  {
+    "id": "lena_jambu",
+    "tipoSugerido": "cachaca_jambu",
+    "rotulo": "Lena Jambu",
+    "marca": "Lena",
+    "expressao": "Jambu (armazenada em tonéis de amburana)",
+    "tipoLido": "cachaça com jambu (bebida alcoólica mista)",
+    "abvLido": 30,
+    "volumeMl": 500,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Categoria: o rótulo diz 'Bebida alcoólica mista' (30%), não 'cachaça'; ingredientes 'mosto fermentado obtido do caldo de cana-de-açúcar, água e flor de jambu'. Classifiquei como destilado de cana com jambu; poderia ser 'outros'."
+    ],
+    "obs": [
+      "'Armazenada em tonéis de amburana'; 'Indústria Brasileira'; 'validade indeterminada'. Nível visível ~55%. Topo cortado; mancha no rótulo."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155830415_iOS.jpg"
+    ]
+  },
+  {
+    "id": "dom_tapparo_extra_premium",
+    "tipoSugerido": "cachaca_envelhecida",
+    "rotulo": "Dom Tápparo Engenho Cachaça Extra Premium",
+    "marca": "Dom Tápparo",
+    "expressao": "Extra Premium - envelhecida em tonéis de carvalho europeu",
+    "tipoLido": "cachaça extra premium (envelhecida em carvalho europeu)",
+    "abvLido": 38,
+    "volumeMl": 750,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Nível: vazio acima do rótulo e líquido visível na metade inferior; linha exata escondida pelo rótulo/medalhas."
+    ],
+    "obs": [
+      "'Engenho, desde 1978'. Muitos adesivos de medalhas (Spirits Business Global Rum & Cachaça Masters Gold 2023/2024/2025, Concours Mondial de Bruxelles 2018, Expo Cachaça 2022 etc.). Gargalo visível, tampa cortada."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155842049_iOS.jpg"
+    ]
+  },
+  {
+    "id": "tie_prata",
+    "tipoSugerido": "cachaca_prata",
+    "rotulo": "Cachaça Tiê Prata",
+    "marca": "Tiê",
+    "expressao": "Prata (armazenada em dorna de inox)",
+    "tipoLido": "cachaça prata (não envelhecida)",
+    "abvLido": 42,
+    "volumeMl": 700,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "O conteúdo não parece cachaça prata: o líquido está amarelado e há pedaços/formas escuras no fundo (talvez frutas em infusão ou garrafa reaproveitada; pode ser também o verso visto por refração). Nível estimado entre 1/3 e metade."
+    ],
+    "obs": [
+      "Selo 'V Ranking Cúpula da Cachaça 2022 - 50 melhores cachaças do ano'. Adesivo de loja 'Casa Santa Luzia' no ombro. Gargalo visível, tampa cortada."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155853861_iOS.jpg"
+    ]
+  },
+  {
+    "id": "mezcal_union_uno",
+    "tipoSugerido": "mezcal",
+    "rotulo": "Mezcal Unión Uno – Mezcal Joven 100% Agave",
+    "marca": "Mezcal Unión",
+    "expressao": "Uno (Espadín y Cirial)",
+    "tipoLido": "mezcal joven artesanal (espadín e cirial)",
+    "abvLido": 40,
+    "volumeMl": null,
+    "paisLido": "México",
+    "duvidas": [
+      "Texto lateral cortado pela curvatura: volume aparece como '…50 ML' (primeiro dígito oculto, provavelmente 750) e o % está cortado. O ABV 40 foi convertido do '(80 PROOF)' legível. Líquido incolor, nível indeterminado."
+    ],
+    "obs": [
+      "'Espadín y Cirial (A. angustifolia y A. karwinskii)', 'Made with 8 to 14 year old agave', 'Denominación de Origen Protegida', 'Mezcal Artesanal', 'Product of Mex[ico]', NOM '…M-0174X'. Topo do gargalo fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160608823_iOS.jpg"
+    ]
+  },
+  {
+    "id": "madre_mezcal_espadin",
+    "tipoSugerido": "mezcal",
+    "rotulo": "Madre Mezcal Espadín – Mezcal Artesanal 100% Maguey Joven",
+    "marca": "Madre",
+    "expressao": "Espadín",
+    "tipoLido": "mezcal joven artesanal (espadín)",
+    "abvLido": 40,
+    "volumeMl": 750,
+    "paisLido": "México",
+    "duvidas": [
+      "Nível oculto pelo rótulo: há líquido abaixo do rótulo e gotas no gargalo, superfície não visível."
+    ],
+    "obs": [
+      "'Desde Siempre', 'Oaxaca – México', '40% alc. by vol.', '750 ML', 'Product of Mexico', 'Denominación de Origen Protegida', Lot No. 'BK-82' (manuscrito). Rótulo com advertência do governo dos EUA. Topo do gargalo fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160631449_iOS.jpg"
+    ]
+  },
+  {
+    "id": "pisco_tres_erres_especial",
+    "tipoSugerido": "pisco_chileno",
+    "rotulo": "Pisco Especial Tres Erres",
+    "marca": "Tres Erres",
+    "expressao": "Especial – Doble Destilado (uvas Moscatel & Pedro Jiménez)",
+    "tipoLido": "pisco",
+    "abvLido": 35,
+    "volumeMl": 1000,
+    "paisLido": null,
+    "duvidas": [],
+    "obs": [
+      "Rótulo diz '35° G.L.' e '1000 cc', 'Desde 1928', região 'Valle de Elqui'; o país não aparece nesta face. Monograma 'RR' em relevo no vidro. Gargalo e tampa fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161348699_iOS.jpg"
+    ]
+  },
+  {
+    "id": "pisco_1615_italia_mosto_verde",
+    "tipoSugerido": "pisco_peruano",
+    "rotulo": "1615 Pisco del Perú – Italia Mosto Verde",
+    "marca": "1615",
+    "expressao": "Italia Mosto Verde, Vendimia 2021",
+    "tipoLido": "pisco mosto verde (uva Italia)",
+    "abvLido": 42,
+    "volumeMl": 700,
+    "paisLido": "Peru",
+    "duvidas": [
+      "Líquido incolor em vidro transparente, nível indeterminado."
+    ],
+    "obs": [
+      "'Denominación de Origen Pisco Nº 916', 'Pisco destilado de mostos frescos de uva en alambique de cobre', '42% ALC', '700 ML'. Topo do gargalo/tampa fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160513668_iOS.jpg"
+    ]
+  },
+  {
+    "id": "yvy_rum",
+    "tipoSugerido": "rum",
+    "rotulo": "YVY Rum",
+    "marca": "YVY",
+    "expressao": null,
+    "tipoLido": "rum",
+    "abvLido": 40,
+    "volumeMl": 750,
+    "paisLido": "Brasil",
+    "duvidas": [],
+    "obs": [
+      "'Destilaria Original do Brasil', 'Grad. alc. 40% vol.', 'Cont. 750ml'. Vidro azul fosco e opaco. Ombro, gargalo e tampa fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160653544_iOS.jpg"
+    ]
+  },
+  {
+    "id": "sotol_la_higuera",
+    "tipoSugerido": "sotol",
+    "rotulo": "Sotol La Higuera – Dasylirion Wheeleri",
+    "marca": "La Higuera",
+    "expressao": "Dasylirion wheeleri",
+    "tipoLido": "sotol",
+    "abvLido": 43.4,
+    "volumeMl": 750,
+    "paisLido": "México",
+    "duvidas": [
+      "Líquido incolor, nível indeterminado."
+    ],
+    "obs": [
+      "'Aldama Chihuahua', 'Sotol Spirits', '750 ML', ABV '43.4' escrito à mão. O rótulo traseiro (crânio de carneiro) aparece através do vidro. Topo do gargalo fora do quadro.",
+      "Rótulo de importadora (EUA): 'Imported by Fidencio Spirits, Manhasset, NY'. Ficha: Master distiller Gerardo Ruelas; forno de lenha e pedras; moagem mecânica; fermentação em tinas de pinho de 1000 L; levedura selvagem; alambique de cobre; 2 destilações. 'Elaborado y envasado por El Arbol del Pecado S.A. de C.V., Guadalajara, Jalisco'. Date 01/23, Lot 35, Bottle 1607/4400. ABV/volume lidos na frente."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160551092_iOS.jpg",
+      "20261108_160557621_iOS.jpg"
+    ]
+  },
+  {
+    "id": "herradura_reposado",
+    "tipoSugerido": "tequila_reposado",
+    "rotulo": "Herradura Reposado Tequila 100% de Agave",
+    "marca": "Herradura",
+    "expressao": "Reposado",
+    "tipoLido": "tequila reposado 100% agave",
+    "abvLido": 40,
+    "volumeMl": 750,
+    "paisLido": "México",
+    "duvidas": [],
+    "obs": [
+      "Nível em cerca de 40% da garrafa. 'Establecido 1870', 'Del Valle de Amatitán, Jalisco', 'Tequila Original', 'Envasado de origen', '40% ALC/VOL (80 PROOF)', '750mL', 'Hecho en México'. Fita fiscal 'Tequila Reposado' sobre a tampa; tampa cortada no topo da foto."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160540762_iOS.jpg"
+    ]
+  }
+]

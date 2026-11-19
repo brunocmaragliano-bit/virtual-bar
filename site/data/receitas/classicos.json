@@ -1,0 +1,914 @@
+[
+  {
+    "id": "negroni",
+    "nome": "Negroni",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "meia rodela de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo baixo e encha de gelo.",
+      "Coloque o gin, o Campari e o vermute direto no copo.",
+      "Mexa devagar por alguns segundos.",
+      "Finalize com meia rodela de laranja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 4,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1919,
+      "cidade": "Florença",
+      "bar": "Caffè Casoni",
+      "bartender": "Fosco Scarselli"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/negroni/",
+        "titulo": "IBA — Negroni",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://www.diffordsguide.com/g/1078/negroni-cocktail/history",
+        "titulo": "Difford's Guide — Negroni: origins and history",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "30 ml Gin, 30 ml Bitter Campari, 30 ml Sweet Red Vermouth",
+    "confianca": "spec_publicada",
+    "cor": "#b3262d",
+    "variacaoDe": "americano",
+    "tags": [
+      "partes_iguais",
+      "italiano",
+      "amargo"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 105,
+    "estimativa": "v0"
+  },
+  {
+    "id": "americano",
+    "nome": "Americano",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "splash",
+        "papel": "diluidor",
+        "nota": "A IBA pede um splash de soda (não completar o copo)."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "meia rodela de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Adicione o Campari e o vermute.",
+      "Complete com um pouco de água com gás e mexa de leve.",
+      "Decore com meia rodela de laranja e uma casca de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/americano/",
+        "titulo": "IBA — Americano",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "30 ml Bitter Campari, 30 ml Sweet Red Vermouth, a splash of Soda Water",
+    "confianca": "spec_publicada",
+    "cor": "#c94432",
+    "variacaoDe": null,
+    "tags": [
+      "baixo_teor",
+      "italiano",
+      "refrescante"
+    ],
+    "abv": 12,
+    "volumeFinalMl": 100,
+    "estimativa": "v0"
+  },
+  {
+    "id": "manhattan",
+    "nome": "Manhattan",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 20,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o rye, o vermute e a dash de Angostura.",
+      "Mexa bem até gelar e diluir.",
+      "Coe na taça gelada e coloque a cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova York",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/manhattan/",
+        "titulo": "IBA — Manhattan",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://www.diffordsguide.com/g/1221/manhattan-cocktail/history",
+        "titulo": "Difford's Guide — Manhattan: history",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "50 ml Rye Whiskey, 20 ml Sweet Red Vermouth, 1 dash Angostura Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#7a2e14",
+    "variacaoDe": null,
+    "tags": [
+      "spirit_forward",
+      "whiskey",
+      "historia_disputada"
+    ],
+    "abv": 31,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "old_fashioned",
+    "nome": "Old Fashioned",
+    "nomesAlt": [
+      "Old-Fashioned",
+      "Whiskey Old Fashioned"
+    ],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "whiskey_americano",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero",
+        "nota": "A IBA diz só 'algumas dashes'; o Punch publica 2–3. Use 2 a 3."
+      },
+      {
+        "tipo": "agua",
+        "unidade": "um_pouco",
+        "papel": "diluidor",
+        "nota": "A IBA diz só 'algumas dashes' de água, só para dissolver o açúcar."
+      }
+    ],
+    "tecnica": "macerado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "rodela ou casca de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No copo baixo, ponha o cubo de açúcar e encharque com Angostura.",
+      "Pingue um pouco de água e amasse até o açúcar dissolver.",
+      "Encha o copo de gelo e adicione o whiskey.",
+      "Mexa devagar e finalize com laranja e cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/old-fashioned/",
+        "titulo": "IBA — Old Fashioned",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/old-fashioned/",
+        "titulo": "Punch — Old-Fashioned",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "IBA: 45 ml Bourbon or Rye Whiskey, 1 Sugar Cube, Few Dashes Angostura Bitters, Few Dashes Plain Water. Contagem de dashes pelo Punch: 2–3 dashes Angostura bitters",
+    "confianca": "spec_publicada",
+    "cor": "#b5671f",
+    "variacaoDe": null,
+    "tags": [
+      "spirit_forward",
+      "whiskey",
+      "cubo_de_acucar"
+    ],
+    "abv": 33,
+    "volumeFinalMl": 65,
+    "estimativa": "v0"
+  },
+  {
+    "id": "hanky_panky",
+    "nome": "Hanky Panky",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin_london_dry",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 45,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "fernet",
+        "ml": 7.5,
+        "papel": "amargo"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o gin, o vermute e o Fernet no mixing glass com gelo.",
+      "Mexa bem e coe na taça gelada.",
+      "Torça a casca de laranja por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1921,
+      "cidade": "Londres",
+      "bar": "American Bar (Savoy)",
+      "bartender": "Ada Coleman"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/hanky-panky/",
+        "titulo": "IBA — Hanky Panky",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/930/hanky-panky",
+        "titulo": "Difford's Guide — Hanky Panky",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "45 ml London Dry Gin, 45 ml Sweet Red Vermouth, 7.5 ml Fernet",
+    "confianca": "spec_publicada",
+    "cor": "#6e2a1a",
+    "variacaoDe": null,
+    "tags": [
+      "fernet",
+      "gin",
+      "spirit_forward"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 120,
+    "estimativa": "v0"
+  },
+  {
+    "id": "boulevardier",
+    "nome": "Boulevardier",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "whiskey_americano",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Mexa o whiskey, o Campari e o vermute com gelo no mixing glass.",
+      "Coe na taça gelada.",
+      "Finalize com casca de laranja e, se quiser, de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1927,
+      "cidade": "Paris",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/boulevardier/",
+        "titulo": "IBA — Boulevardier",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2955/boulevardier-cocktail",
+        "titulo": "Difford's Guide — Boulevardier",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "45 ml Bourbon or Rye Whiskey, 30 ml Bitter Campari, 30 ml Sweet Red Vermouth",
+    "confianca": "spec_publicada",
+    "cor": "#8a2b1d",
+    "variacaoDe": "negroni",
+    "tags": [
+      "whiskey",
+      "amargo",
+      "spirit_forward"
+    ],
+    "abv": 25,
+    "volumeFinalMl": 130,
+    "estimativa": "v0"
+  },
+  {
+    "id": "toronto",
+    "nome": "Toronto",
+    "nomesAlt": [
+      "Toronto Cocktail",
+      "Fernet Cocktail"
+    ],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 75,
+        "papel": "base"
+      },
+      {
+        "tipo": "fernet",
+        "ml": 22.5,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "xarope_simples",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça (ou use um copo baixo).",
+      "Junte o rye, o Fernet e a colher de xarope no mixing glass com gelo.",
+      "Mexa até o copo de mistura ficar bem gelado por fora.",
+      "Coe e sirva na hora."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 4,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1922,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://archive.jamesbeard.org/recipes/toronto-cocktail",
+        "titulo": "James Beard Foundation — Toronto Cocktail (Ezekiel Miller, The Flatiron Lounge, NYC)",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3442/toronto-cocktail",
+        "titulo": "Difford's Guide — Toronto Cocktail (história)",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "2 1/2 ounces rye whiskey, 3/4 ounces Fernet Branca, 1 barspoon simple syrup (Ezekiel Miller, The Flatiron Lounge)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#4a2a18",
+    "variacaoDe": null,
+    "tags": [
+      "fernet",
+      "whiskey",
+      "versao_de_bar"
+    ],
+    "abv": 35,
+    "volumeFinalMl": 125,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rabo_de_galo",
+    "nome": "Rabo de Galo",
+    "nomesAlt": [
+      "Rabo-de-galo"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "cachaca",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 20,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "amaro_alcachofra",
+        "ml": 15,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "gota",
+        "papel": "tempero",
+        "opcional": true
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja torcida",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque a cachaça, o vermute e o Cynar num copo baixo.",
+      "Se quiser, pingue 2 gotas de Angostura.",
+      "Adicione gelo e mexa rapidamente.",
+      "Torça a casca de laranja por cima."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "São Paulo",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/rabo-de-galo/",
+        "titulo": "IBA — Rabo de Galo",
+        "acessadoEm": "2026-11-18"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/rabo-de-galo",
+        "titulo": "Punch — Rabo de Galo (história)",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "60 ml Cachaca, 20 ml Sweet Vermouth Cinzano Rosso, 15 ml Cynar, 2 Drops Angostura (Optional)",
+    "confianca": "spec_publicada",
+    "cor": "#9a4a1f",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "anos_1950"
+    ],
+    "abv": 27,
+    "volumeFinalMl": 110,
+    "estimativa": "v0"
+  },
+  {
+    "id": "gin_tonica",
+    "nome": "Gin & Tonic",
+    "nomesAlt": [
+      "G&T",
+      "Gin tônica"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "tonica",
+        "ml": 120,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele o copo alto.",
+      "Despeje o gin e a tônica.",
+      "Complete com gelo e mexa uma vez, bem de leve.",
+      "Finalize com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/835/gin-and-tonic",
+        "titulo": "Difford's Guide — Gin & Tonic",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "50 ml Hayman's London Dry Gin, 120 ml Thomas Henry Tonic Water",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e6efe9",
+    "variacaoDe": null,
+    "tags": [
+      "long_drink",
+      "refrescante",
+      "gin"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 185,
+    "estimativa": "v0"
+  },
+  {
+    "id": "highball_whisky",
+    "nome": "Japanese Highball",
+    "nomesAlt": [
+      "Whisky Highball",
+      "Haiboru",
+      "Highball japonês"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "whisky_japones",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "papel": "diluidor",
+        "ml": 90,
+        "nota": "A fonte diz 3 a 4 oz (90–120 ml) de soda bem gelada."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano (opcional; a Engawa serve sem guarnição)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Deixe o whisky no congelador e use água com gás bem gelada.",
+      "Monte uma torre de gelo no copo alto.",
+      "Despeje o whisky sem acertar o topo do gelo e complete com a água com gás até quase a borda.",
+      "Desça a colher pela lateral até o fundo, suba e desça, dê algumas voltas e sirva na hora."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/engawas-japanese-highball/",
+        "titulo": "Punch — Engawa's Japanese Highball (Washu Bar Engawa, Kaga)",
+        "acessadoEm": "2026-11-18"
+      }
+    ],
+    "specFonte": "1 1/2 oz Japanese whisky (chilled in the freezer), 3 to 4 oz cold seltzer",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e5c77f",
+    "variacaoDe": null,
+    "tags": [
+      "long_drink",
+      "japones",
+      "refrescante",
+      "baixo_teor"
+    ],
+    "abv": 14,
+    "volumeFinalMl": 150,
+    "estimativa": "v0"
+  }
+]

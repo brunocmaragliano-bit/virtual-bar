@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Virtual Bar</title>
+  <meta name="description" content="Bar de casa do Bruno: o que dá para fazer agora, receitas e inventário, offline.">
+  <meta name="theme-color" content="#0f0f10">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Bar">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="app" class="app" aria-live="polite">
+    <p class="carregando">Abrindo o bar…</p>
+  </div>
+  <nav class="abas" id="abas" aria-label="Seções">
+    <a href="#/descobrir" data-aba="descobrir"><span class="ic" data-icone="bussola"></span><span>Descobrir</span></a>
+    <a href="#/receitas" data-aba="receitas"><span class="ic" data-icone="livro"></span><span>Receitas</span></a>
+    <a href="#/bar" data-aba="bar"><span class="ic" data-icone="garrafa"></span><span>Meu Bar</span></a>
+    <a href="#/minhas" data-aba="minhas"><span class="ic" data-icone="caderno"></span><span>Minhas</span></a>
+  </nav>
+  <div class="veu" id="veu" hidden></div>
+  <section class="folha" id="folha" role="dialog" aria-modal="true" hidden></section>
+  <div class="aviso" id="aviso" hidden></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

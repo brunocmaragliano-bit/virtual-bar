@@ -1,0 +1,290 @@
+[
+  {
+    "id": "san_basile_artichoke",
+    "tipoSugerido": "amaro_alcachofra",
+    "rotulo": "San Basile Artichoke",
+    "marca": "San Basile",
+    "expressao": null,
+    "tipoLido": "amaro de alcachofra",
+    "abvLido": 20,
+    "volumeMl": 950,
+    "paisLido": null,
+    "duvidas": [
+      "País não impresso na frente (texto do verso em português sugere Brasil). O rótulo se descreve como 'licor/aperitivo/digestivo'; classifiquei como amaro de alcachofra."
+    ],
+    "obs": [
+      "Vidro transparente: vazio acima do rótulo; nível cerca de 60% (visto na foto lateral 20261108_155750930_iOS.jpg). Selo/fita visível no gargalo através do vidro.",
+      "Texto em português: 'Um licor. Um aperitivo. Um digestivo.', à base de Cynara scolymus. Receitas: Rabo de Galo (60 ml cachaça envelhecida, 40 ml Artichoke) e Mole Hill (whisky + Artichoke + Amaro Stomatico San Basile). Nível visível ~60% da garrafa."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155737986_iOS.jpg",
+      "20261108_155750930_iOS.jpg"
+    ]
+  },
+  {
+    "id": "cynar",
+    "tipoSugerido": "amaro_alcachofra",
+    "rotulo": "Cynar Receita Original",
+    "marca": "Cynar",
+    "expressao": "Receita Original",
+    "tipoLido": "amaro de alcachofra (impresso 'Aperitivo de Alcachofra')",
+    "abvLido": 20,
+    "volumeMl": 900,
+    "paisLido": null,
+    "duvidas": [
+      "nível estimado (~40-45%), um pouco abaixo da metade"
+    ],
+    "obs": [
+      "adesivo da loja Casa Santa Luzia (santaluzia.com.br) no ombro; país de produção não impresso na frente"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154333982_iOS.jpg"
+    ]
+  },
+  {
+    "id": "apothek_scarlatti",
+    "tipoSugerido": "amaro_medio",
+    "rotulo": "Apothek Scarlatti Amaro",
+    "marca": "Apothek (APTK Spirits)",
+    "expressao": "Batch 70004 – Lemon, Sage, Rosemary, Saffron",
+    "tipoLido": "amaro de ervas",
+    "abvLido": 30,
+    "volumeMl": 750,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Nível estimado em ~1/3 (entre 1/4 e metade). O gargalo está fora do quadro."
+    ],
+    "obs": [
+      "Lote 70004, fabricado em 19/12/2020. Os ingredientes principais do lote são limão, sálvia, alecrim e açafrão. Destilaria em São Paulo (impresso 'São Paulo, Brazil')."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161322680_iOS.jpg"
+    ]
+  },
+  {
+    "id": "bizantina_artichoke_menta",
+    "tipoSugerido": "amaro_alcachofra",
+    "rotulo": "Artichoke – Armazenado Carvalho Francês, Infusionado Menta Piperita",
+    "marca": "Destilaria Bizantina",
+    "expressao": "Armazenado em carvalho francês, finalizado com menta piperita",
+    "tipoLido": "amaro/bitter de alcachofra com menta (artesanal brasileiro)",
+    "abvLido": 20,
+    "volumeMl": 980,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "O rótulo não diz 'amaro' nem 'licor'. A classificação vem do produto-base (alcachofra) e dos 20GL; os ingredientes visíveis (água, álcool etílico potável, ervas aromáticas, corante caramelo) não citam açúcar. 'Artichoke' parece ser o nome do produto, e a marca seria a do fabricante."
+    ],
+    "obs": [
+      "'Produto base: Artichoke; Armazenamento: Carvalho Francês; Finalização: Menta Piperita; 20GL; 980ml; Tuiuti SP, Brasil'. 'Fabricado & engarrafado por: Destilaria Bizantina Indústria e Comércio de Bebidas Ltda.' Lacre de cera preta no gargalo, com trinca/corte no topo (possivelmente aberta), e medalhão de cera no rótulo. Nível na base do gargalo."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160447189_iOS.jpg"
+    ]
+  },
+  {
+    "id": "aperol",
+    "tipoSugerido": "aperitivo_laranja",
+    "rotulo": "Aperol Aperitivo",
+    "marca": "Aperol",
+    "expressao": "Ricetta Originale",
+    "tipoLido": "aperitivo (bitter de laranja leve)",
+    "abvLido": 11,
+    "volumeMl": 750,
+    "paisLido": "Itália",
+    "duvidas": [
+      "nível estimado ~30-35% (entre 1/4 e metade); 'Padova·Italia' indica a casa fundadora, local de produção não explícito"
+    ],
+    "obs": [
+      "gargalo e tampa cortados na foto"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154402454_iOS.jpg"
+    ]
+  },
+  {
+    "id": "campari",
+    "tipoSugerido": "bitter_aperitivo_vermelho",
+    "rotulo": "Campari Bitter",
+    "marca": "Campari",
+    "expressao": null,
+    "tipoLido": "bitter aperitivo",
+    "abvLido": 28.5,
+    "volumeMl": 900,
+    "paisLido": null,
+    "duvidas": [
+      "nível escondido pela faixa azul; estimado entre metade e 3/4"
+    ],
+    "obs": [
+      "tampa e gargalo cortados na foto; rótulo cita 'Davide Campari Milano' mas país de produção não está impresso; 900 ml sugere garrafa do mercado brasileiro"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154353258_iOS.jpg"
+    ]
+  },
+  {
+    "id": "san_basile_bitter",
+    "tipoSugerido": "bitter_aperitivo_vermelho",
+    "rotulo": "San Basile Bitter",
+    "marca": "San Basile",
+    "expressao": null,
+    "tipoLido": "bitter aperitivo",
+    "abvLido": 40,
+    "volumeMl": 750,
+    "paisLido": null,
+    "duvidas": [
+      "nível escondido pelo rótulo opaco (gargalo e ombro vazios, então no máximo ~3/4); textos pequenos do rótulo ilegíveis"
+    ],
+    "obs": [
+      "tampa de rosca com restos de selo/fita; país não impresso (textos em português sugerem Brasil)",
+      "verso em português com receitas: Negroni Sbagliato e Boulevardier; ABV/volume lidos na frente"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154744885_iOS.jpg",
+      "20261108_154800892_iOS.jpg"
+    ]
+  },
+  {
+    "id": "fernet_branca",
+    "tipoSugerido": "fernet",
+    "rotulo": "Fernet Branca",
+    "marca": "Fernet Branca",
+    "expressao": null,
+    "tipoLido": "fernet",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "ABV impresso na borda esquerda do rótulo, ilegível pela curvatura (parece '39% vol', não confirmado); volume não visível; nível no início do ombro (~90%)"
+    ],
+    "obs": [
+      "rótulo impresso 'Industria Argentina' (versão argentina); gargalo e tampa cortados na foto"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154414055_iOS.jpg"
+    ]
+  },
+  {
+    "id": "angostura_aromatic",
+    "tipoSugerido": "bitters_aromatico",
+    "rotulo": "Angostura Aromatic Bitters",
+    "marca": "Angostura",
+    "expressao": null,
+    "tipoLido": "bitters aromático",
+    "abvLido": 44.7,
+    "volumeMl": 100,
+    "paisLido": "Trinidad e Tobago",
+    "duvidas": [],
+    "obs": [
+      "Rótulo de papel envolvente amassado e tampa amarela. 'Product of Trinidad & Tobago'. Fundo diferente (bandeja de isopor)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163750049_iOS.jpg"
+    ]
+  },
+  {
+    "id": "bittermens_elemakule_tiki",
+    "tipoSugerido": "bitters_especiado",
+    "rotulo": "Bittermens 'Elemakule Tiki Bitters",
+    "marca": "Bittermens",
+    "expressao": "'Elemakule Tiki",
+    "tipoLido": "bitters aromático tiki (canela, pimenta-da-jamaica e especiarias)",
+    "abvLido": 44,
+    "volumeMl": 146,
+    "paisLido": null,
+    "duvidas": [],
+    "obs": [
+      "Frasco azul-cobalto com conta-gotas, 5 fl oz. Foto em outro ambiente (piso de madeira e bandeja de isopor), não na mesa de mármore."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163724176_iOS.jpg"
+    ]
+  },
+  {
+    "id": "bittermens_xocolatl_mole",
+    "tipoSugerido": "bitters_cacau",
+    "rotulo": "Bittermens Xocolatl Mole Bitters",
+    "marca": "Bittermens",
+    "expressao": "Xocolatl Mole",
+    "tipoLido": "bitters de cacau, canela e especiarias (mole)",
+    "abvLido": 53,
+    "volumeMl": 146,
+    "paisLido": null,
+    "duvidas": [],
+    "obs": [
+      "Frasco azul-cobalto com conta-gotas, 5 fl oz. Fundo diferente (bandeja de isopor)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163733086_iOS.jpg"
+    ]
+  },
+  {
+    "id": "angostura_orange",
+    "tipoSugerido": "bitters_laranja",
+    "rotulo": "Angostura Orange Bitters",
+    "marca": "Angostura",
+    "expressao": "Orange",
+    "tipoLido": "bitters de laranja",
+    "abvLido": 28,
+    "volumeMl": 100,
+    "paisLido": "Trinidad e Tobago",
+    "duvidas": [
+      "País lido de texto cortado na lateral ('PRODUCT OF T...', 'Trinidad & T...')."
+    ],
+    "obs": [
+      "Tampa laranja. Contra-rótulo em várias línguas (francês, espanhol, italiano) com menção 'Imported by...' parcialmente legível, o que sugere rótulo de importadora. Fundo diferente (bandeja de isopor)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163755780_iOS.jpg"
+    ]
+  },
+  {
+    "id": "bittermens_hellfire_habanero",
+    "tipoSugerido": "bitters_picante",
+    "rotulo": "Bittermens Hellfire Habanero Shrub",
+    "marca": "Bittermens",
+    "expressao": "Hellfire Habanero Shrub",
+    "tipoLido": "shrub/extrato picante de habanero para coquetéis",
+    "abvLido": 44,
+    "volumeMl": 146,
+    "paisLido": null,
+    "duvidas": [],
+    "obs": [
+      "Linha 'Shrubs, Citrates & Extracts', descrito no rótulo como molho picante para coquetéis; ficou em 'bitters' por ser a categoria mais próxima. Frasco azul-cobalto com conta-gotas (topo cortado), 5 fl oz."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163742101_iOS.jpg"
+    ]
+  },
+  {
+    "id": "nielsen_massey_extrato_limao",
+    "tipoSugerido": "extrato_limao",
+    "rotulo": "Nielsen-Massey Pure Lemon Extract",
+    "marca": "Nielsen-Massey",
+    "expressao": null,
+    "tipoLido": "extrato culinário de limão",
+    "abvLido": null,
+    "volumeMl": 59,
+    "paisLido": null,
+    "duvidas": [],
+    "obs": [
+      "Extrato culinário (não é bebida). 'Net contents 2 fl oz (59 ml)'. Tampa com filme plástico de lacre. Fundo diferente (bandeja de isopor)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_163801982_iOS.jpg"
+    ]
+  }
+]

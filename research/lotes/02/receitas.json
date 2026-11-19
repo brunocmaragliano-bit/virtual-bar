@@ -1,0 +1,2975 @@
+[
+  {
+    "id": "bellini",
+    "nome": "Bellini",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "champagne_cocktail",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "prosecco",
+        "ml": 100,
+        "papel": "base"
+      },
+      {
+        "tipo": "pure_pessego",
+        "ml": 50,
+        "papel": "modificador",
+        "nota": "A IBA pede purê de pêssego branco."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "flauta",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça flauta.",
+      "No mixing glass com gelo, coloque primeiro o purê de pêssego e depois o prosecco.",
+      "Mexa com delicadeza, só para integrar sem perder o gás.",
+      "Coe para a flauta gelada e sirva na hora."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "brunch",
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1945,
+      "cidade": "Veneza",
+      "bar": "Harry's Bar",
+      "bartender": "Giuseppe Cipriani"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/bellini/",
+        "titulo": "IBA — Bellini",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/202/bellini-diffords-recipe",
+        "titulo": "Difford's Guide — Bellini (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "100 ml Prosecco, 50 ml White Peach Puree",
+    "confianca": "spec_publicada",
+    "cor": "#f4c7a1",
+    "variacaoDe": null,
+    "tags": [
+      "espumante",
+      "italiano",
+      "baixo_teor",
+      "pessego"
+    ]
+  },
+  {
+    "id": "black_russian",
+    "nome": "Black Russian",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_cafe",
+        "ml": 20,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Despeje a vodka e o licor de café.",
+      "Mexa devagar por alguns segundos e sirva."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 1,
+      "picante": 0,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite",
+      "sobremesa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1949,
+      "cidade": "Bruxelas",
+      "bar": "Metropolitan Hotel",
+      "bartender": "Gustave Tops"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/black-russian/",
+        "titulo": "IBA — Black Russian",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/236/black-russian",
+        "titulo": "Difford's Guide — Black Russian (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Vodka, 20 ml Coffee Liqueur",
+    "confianca": "spec_publicada",
+    "cor": "#2b1a12",
+    "variacaoDe": null,
+    "tags": [
+      "cafe",
+      "vodka",
+      "dois_ingredientes"
+    ]
+  },
+  {
+    "id": "bloody_mary",
+    "nome": "Bloody Mary",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_tomate",
+        "ml": 90,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "molho_ingles",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "molho_pimenta",
+        "unidade": "um_pouco",
+        "papel": "tempero",
+        "nota": "Tabasco, a gosto (a IBA não dá quantidade)."
+      },
+      {
+        "tipo": "sal_aipo",
+        "unidade": "um_pouco",
+        "papel": "tempero",
+        "nota": "A gosto (a IBA não dá quantidade)."
+      },
+      {
+        "tipo": "pimenta_reino",
+        "unidade": "um_pouco",
+        "papel": "tempero",
+        "nota": "A gosto (a IBA não dá quantidade)."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "texto": "talo de aipo (opcional)",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "gomo de limão-siciliano (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No mixing glass com gelo, junte a vodka, o suco de tomate, o suco de limão e o molho inglês.",
+      "Tempere com Tabasco, sal de aipo e pimenta-do-reino a gosto.",
+      "Mexa com calma, sem bater, para o suco de tomate não espumar.",
+      "Coe para um copo baixo; se preferir com gelo, sirva num copo alto cheio de gelo.",
+      "Se quiser, decore com um talo de aipo e um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 2,
+      "umami": 5
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/bloody-mary/",
+        "titulo": "IBA — Bloody Mary",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Vodka, 90 ml Tomato Juice, 15 ml Fresh Lemon Juice, 2 dashes Worcestershire Sauce, Tabasco, Celery Salt, Pepper (Up to taste)",
+    "confianca": "spec_publicada",
+    "cor": "#b5281f",
+    "variacaoDe": null,
+    "tags": [
+      "salgado",
+      "picante",
+      "brunch",
+      "vodka"
+    ]
+  },
+  {
+    "id": "caipirinha",
+    "nome": "Caipirinha",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "cachaca",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "limao_taiti",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "acido",
+        "nota": "Um limão inteiro cortado em gomos pequenos."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 4,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA pede 4 colheres de chá de açúcar branco de cana."
+      }
+    ],
+    "tecnica": "macerado",
+    "copo": "dof",
+    "gelo": "picado",
+    "guarnicao": [],
+    "passos": [
+      "Corte o limão em gomos pequenos.",
+      "No copo baixo duplo, junte o limão e o açúcar e macere com delicadeza, sem esmagar a casca.",
+      "Encha o copo com gelo picado e adicione a cachaça.",
+      "Mexa para misturar e sirva."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/caipirinha/",
+        "titulo": "IBA — Caipirinha",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Cachaça, 1 Lime cut into small wedges, 4 Teaspoons White Cane Sugar",
+    "confianca": "spec_publicada",
+    "cor": "#e8edc8",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "refrescante"
+    ]
+  },
+  {
+    "id": "cardinale",
+    "nome": "Cardinale",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 20,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 10,
+        "papel": "amargo",
+        "nota": "A IBA pede Campari."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o gin, o vermute seco e o Campari.",
+      "Mexa bem e coe na taça gelada.",
+      "Torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 4,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/cardinale/",
+        "titulo": "IBA — Cardinale",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Gin, 20 ml Dry Vermouth, 10 ml Bitter Campari",
+    "confianca": "spec_publicada",
+    "cor": "#c8473b",
+    "variacaoDe": "negroni",
+    "tags": [
+      "gin",
+      "amargo",
+      "seco",
+      "italiano"
+    ]
+  },
+  {
+    "id": "champagne_cocktail",
+    "nome": "Champagne Cocktail",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "champagne_cocktail",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "champagne",
+        "ml": 90,
+        "papel": "base",
+        "nota": "Bem gelado."
+      },
+      {
+        "tipo": "cognac",
+        "ml": 10,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "grand_marnier",
+        "unidade": "um_pouco",
+        "papel": "modificador",
+        "opcional": true,
+        "nota": "A IBA diz \"algumas gotas\", opcional."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "adocante",
+        "nota": "Um cubo de açúcar."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "flauta",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o cubo de açúcar numa taça de champagne grande e pingue as 2 dashes de Angostura sobre ele.",
+      "Adicione o cognac e, se quiser, algumas gotas de Grand Marnier.",
+      "Complete devagar com o champagne bem gelado, para não transbordar.",
+      "Finalize com casca de laranja e uma cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 2,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/champagne-cocktail/",
+        "titulo": "IBA — Champagne Cocktail",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "90 ml Chilled Champagne, 10 ml Cognac, 2 dashes Angostura bitters, Few drops of Grand Marnier (optional), 1 sugar cube",
+    "confianca": "spec_publicada",
+    "cor": "#e9c46a",
+    "variacaoDe": null,
+    "tags": [
+      "espumante",
+      "cubo_de_acucar",
+      "comemoracao"
+    ]
+  },
+  {
+    "id": "corpse_reviver_2",
+    "nome": "Corpse Reviver #2",
+    "nomesAlt": [
+      "Corpse Reviver No. 2"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "A IBA pede Cointreau."
+      },
+      {
+        "tipo": "quinquina_branca",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "A IBA pede Lillet Blanc."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o gin, o Cointreau, o Lillet, o suco de limão e a dash de absinto com bastante gelo.",
+      "Coe na taça gelada.",
+      "Torça a casca de laranja por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "brunch",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/corpse-reviver-2/",
+        "titulo": "IBA — Corpse Reviver #2",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Gin, 30 ml Cointreau, 30 ml Lillet Blanc, 30 ml Fresh Lemon Juice, 1 dash Absinthe",
+    "confianca": "spec_publicada",
+    "cor": "#f0e2a8",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "absinto",
+      "partes_iguais"
+    ]
+  },
+  {
+    "id": "cosmopolitan",
+    "nome": "Cosmopolitan",
+    "nomesAlt": [
+      "Cosmo"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka_citrus",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A IBA pede Cointreau."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_cranberry",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "martini",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano torcida",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele uma taça grande.",
+      "Bata a vodka cítrica, o Cointreau, o suco de limão e o de cranberry com gelo.",
+      "Coe na taça gelada.",
+      "Finalize com uma casca de limão-siciliano torcida."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1988,
+      "cidade": "Nova York",
+      "bar": "The Odeon",
+      "bartender": "Toby Cecchini"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/cosmopolitan/",
+        "titulo": "IBA — Cosmopolitan",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/cosmopolitan/",
+        "titulo": "Punch — Cosmopolitan (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Vodka Citron, 15 ml Cointreau, 15 ml Fresh Lime Juice, 30 ml Cranberry Juice",
+    "confianca": "spec_publicada",
+    "cor": "#e0566f",
+    "variacaoDe": null,
+    "tags": [
+      "vodka",
+      "cranberry",
+      "anos_1980"
+    ]
+  },
+  {
+    "id": "cuba_libre",
+    "nome": "Cuba Libre",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "refrigerante_cola",
+        "ml": 120,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 10,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Adicione o rum e o suco de limão.",
+      "Complete com a cola e mexa de leve.",
+      "Decore com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/cuba-libre/",
+        "titulo": "IBA — Cuba Libre",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml White Rum, 120 ml Cola, 10 ml Fresh Lime Juice",
+    "confianca": "spec_publicada",
+    "cor": "#3b1d12",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "cola",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "french_75",
+    "nome": "French 75",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "champagne",
+        "ml": 60,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "flauta",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Bata o gin, o suco de limão e o xarope com gelo.",
+      "Coe para uma taça flauta.",
+      "Complete com o champagne gelado.",
+      "Mexa de leve, uma vez, e sirva."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "brunch",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/french-75/",
+        "titulo": "IBA — French 75",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Gin, 15 ml Fresh Lemon Juice, 15 ml Sugar Syrup, 60 ml Champagne",
+    "confianca": "spec_publicada",
+    "cor": "#efe3b0",
+    "variacaoDe": null,
+    "tags": [
+      "espumante",
+      "gin",
+      "comemoracao"
+    ]
+  },
+  {
+    "id": "french_connection",
+    "nome": "French Connection",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 35,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_amendoa",
+        "ml": 35,
+        "papel": "modificador",
+        "nota": "Amaretto."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Adicione o cognac e o amaretto.",
+      "Mexa devagar e sirva."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/french-connection/",
+        "titulo": "IBA — French Connection",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "35 ml Cognac, 35 ml Amaretto",
+    "confianca": "spec_publicada",
+    "cor": "#9c5a23",
+    "variacaoDe": null,
+    "tags": [
+      "cognac",
+      "amaretto",
+      "dois_ingredientes"
+    ]
+  },
+  {
+    "id": "garibaldi",
+    "nome": "Garibaldi",
+    "nomesAlt": [
+      "Campari Orange",
+      "Campari com laranja"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede Campari."
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 120,
+        "papel": "diluidor",
+        "nota": "Espremido na hora."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "gomo de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Despeje o Campari.",
+      "Complete com o suco de laranja espremido na hora.",
+      "Decore com um gomo de laranja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "brunch",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/garibaldi/",
+        "titulo": "IBA — Garibaldi",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Bitter Campari, 120 ml Freshly Squeezed Orange Juice",
+    "confianca": "spec_publicada",
+    "cor": "#ec6a2c",
+    "variacaoDe": null,
+    "tags": [
+      "italiano",
+      "baixo_teor",
+      "laranja"
+    ]
+  },
+  {
+    "id": "grasshopper",
+    "nome": "Grasshopper",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "creme",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "licor_menta",
+        "ml": 20,
+        "papel": "base",
+        "nota": "Crème de menthe verde."
+      },
+      {
+        "tipo": "licor_cacau_branco",
+        "ml": 20,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "creme_leite",
+        "ml": 20,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "folha de hortelã (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o crème de menthe, o crème de cacao e o creme de leite com bastante gelo, com força, por poucos segundos.",
+      "Coe na taça gelada.",
+      "Se quiser, finalize com uma folha de hortelã."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 3,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/grasshopper/",
+        "titulo": "IBA — Grasshopper",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "20 ml Crème de Cacao (White), 20 ml Crème de Menthe (Green), 20 ml Fresh Cream",
+    "confianca": "spec_publicada",
+    "cor": "#9fd8a5",
+    "variacaoDe": null,
+    "tags": [
+      "sobremesa",
+      "menta",
+      "cremoso"
+    ]
+  },
+  {
+    "id": "hemingway_special",
+    "nome": "Hemingway Special",
+    "nomesAlt": [
+      "Papa Doble",
+      "Hemingway Daiquiri"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A IBA diz só \"Rum\"; o tradicional é rum branco."
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 40,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A IBA pede Maraschino Luxardo."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "martini",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele uma taça grande.",
+      "Bata o rum, o suco de toranja, o maraschino e o suco de limão com bastante gelo.",
+      "Coe na taça gelada e sirva."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 4,
+      "amargo": 2,
+      "seco": 4,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Havana",
+      "bar": "El Floridita",
+      "bartender": "Constantino Ribalaigua Vert"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/hemingway-special/",
+        "titulo": "IBA — Hemingway Special",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/954/hemingway-special-daiquiri-papa-doble",
+        "titulo": "Difford's Guide — Hemingway Special Daiquiri (Papa Doble) (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Rum, 40 ml Grapefruit Juice, 15 ml Maraschino Luxardo, 15 ml Fresh Lime",
+    "confianca": "spec_publicada",
+    "cor": "#f3ead0",
+    "variacaoDe": "daiquiri",
+    "tags": [
+      "rum",
+      "toranja",
+      "cubano"
+    ]
+  },
+  {
+    "id": "horses_neck",
+    "nome": "Horse's Neck",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "ginger_ale",
+        "ml": 120,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero",
+        "opcional": true,
+        "nota": "A lista da IBA diz \"dash\" e o método diz \"dashes\"; a gosto."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca inteira de um limão-siciliano em espiral",
+        "essencial": true
+      }
+    ],
+    "passos": [
+      "Corte a casca inteira de um limão-siciliano numa espiral longa e coloque-a dentro do copo alto.",
+      "Encha o copo com gelo.",
+      "Adicione o cognac e o ginger ale e mexa de leve.",
+      "Se quiser, finalize com Angostura."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/horses-neck/",
+        "titulo": "IBA — Horse's Neck",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Cognac, 120 ml Ginger Ale, Dash of Angostura Bitters (optional)",
+    "confianca": "spec_publicada",
+    "cor": "#d9a54a",
+    "variacaoDe": null,
+    "tags": [
+      "cognac",
+      "gengibre",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "irish_coffee",
+    "nome": "Irish Coffee",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "quente",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "irish_whiskey",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "cafe_coado",
+        "ml": 120,
+        "papel": "diluidor",
+        "nota": "Café preto quente."
+      },
+      {
+        "tipo": "creme_leite",
+        "ml": 50,
+        "papel": "modificador",
+        "nota": "Fresco, gelado e encorpado."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA pede pelo menos 1 colher de chá de açúcar; aceita xarope de açúcar no lugar."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_quente",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Aqueça o copo com água quente e descarte a água.",
+      "Coloque o café quente, o whiskey e o açúcar e mexa até dissolver.",
+      "Despeje o creme gelado devagar sobre as costas de uma colher, logo acima do café, para ele flutuar.",
+      "Sirva sem mexer: o café se bebe através do creme."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "inverno",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1943,
+      "cidade": "Foynes",
+      "bar": "Restaurante do aeroporto de Foynes",
+      "bartender": "Joe Sheridan"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/irish-coffee/",
+        "titulo": "IBA — Irish Coffee",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/irish-coffee/",
+        "titulo": "Punch — Irish Coffee (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Irish Whiskey, 120 ml Hot coffee, 50 ml Fresh cream (Chilled), 1 teaspoon Sugar",
+    "confianca": "spec_publicada",
+    "cor": "#3a2417",
+    "variacaoDe": null,
+    "tags": [
+      "quente",
+      "cafe",
+      "whiskey"
+    ]
+  },
+  {
+    "id": "kir",
+    "nome": "Kir",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "champagne_cocktail",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vinho_branco",
+        "ml": 90,
+        "papel": "base",
+        "nota": "Vinho branco seco."
+      },
+      {
+        "tipo": "licor_cassis",
+        "ml": 10,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "taca_vinho",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele bem o vinho branco.",
+      "Coloque o crème de cassis na taça.",
+      "Complete com o vinho branco gelado e sirva."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/kir/",
+        "titulo": "IBA — Kir",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "90 ml Dry White Wine, 10 ml Crème de Cassis",
+    "confianca": "spec_publicada",
+    "cor": "#c0506a",
+    "variacaoDe": null,
+    "tags": [
+      "vinho",
+      "frances",
+      "baixo_teor"
+    ]
+  },
+  {
+    "id": "lemon_drop_martini",
+    "nome": "Lemon Drop Martini",
+    "nomesAlt": [
+      "Lemon Drop"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "A IBA pede triple sec."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Bata a vodka, o triple sec e o suco de limão-siciliano com gelo.",
+      "Coe na taça gelada e sirva."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/lemon-drop-martini/",
+        "titulo": "IBA — Lemon Drop Martini",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Vodka, 20 ml Triple Sec, 15 ml Fresh Squeezed Lemon Juice",
+    "confianca": "spec_publicada",
+    "cor": "#f5ef9c",
+    "variacaoDe": null,
+    "tags": [
+      "vodka",
+      "citrico"
+    ]
+  },
+  {
+    "id": "long_island_iced_tea",
+    "nome": "Long Island Iced Tea",
+    "nomesAlt": [
+      "Long Island"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "tequila",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "rum_branco",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "gin",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A IBA pede Cointreau."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 25,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 30,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "refrigerante_cola",
+        "unidade": "top",
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Adicione a vodka, a tequila, o rum, o gin, o Cointreau, o suco de limão e o xarope.",
+      "Complete com cola.",
+      "Mexa com delicadeza e, se quiser, decore com uma rodela de limão."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/long-island-iced-tea/",
+        "titulo": "IBA — Long Island Iced Tea",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "15 ml Vodka, 15 ml Tequila, 15 ml White rum, 15 ml Gin, 15 ml Cointreau, 25 ml Lemon juice, 30 ml Simple syrup, Top with Cola",
+    "confianca": "spec_publicada",
+    "cor": "#8a4b22",
+    "variacaoDe": null,
+    "tags": [
+      "forte",
+      "cola",
+      "festa"
+    ]
+  },
+  {
+    "id": "mai_tai",
+    "nome": "Mai Tai",
+    "nomesAlt": [
+      "Mai-Tai"
+    ],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 30,
+        "papel": "base",
+        "nota": "Rum jamaicano âmbar."
+      },
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 30,
+        "papel": "base",
+        "nota": "A IBA pede rum de melaço da Martinica (não é rhum agricole)."
+      },
+      {
+        "tipo": "curacao_laranja",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 7.5,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "dof",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "palito de abacaxi",
+        "essencial": false
+      },
+      {
+        "tipo": "hortela",
+        "texto": "folhas de hortelã",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_taiti",
+        "texto": "casca de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata os dois runs, o curaçao, o orgeat, o suco de limão e o xarope com gelo.",
+      "Despeje tudo, com o gelo, num copo baixo duplo (ou num copo alto).",
+      "Decore com um palito de abacaxi, folhas de hortelã e casca de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1944,
+      "cidade": null,
+      "bar": "Trader Vic's",
+      "bartender": "Trader Vic"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/mai-tai/",
+        "titulo": "IBA — Mai-Tai",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/mai-tai/",
+        "titulo": "Punch — Mai Tai (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Amber Jamaican Rum, 30 ml Martinique Molasses Rhum, 15 ml Orange Curacao, 15 ml Orgeat Syrup (Almond), 30 ml Fresh Squeezed Lime Juice, 7.5 ml Simple Syrup",
+    "confianca": "spec_publicada",
+    "cor": "#d98a3a",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "orgeat"
+    ]
+  },
+  {
+    "id": "margarita",
+    "nome": "Margarita",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "tequila",
+        "ml": 50,
+        "papel": "base",
+        "nota": "Tequila 100% agave."
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "A IBA pede triple sec."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "sal",
+        "texto": "meia borda de sal (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça e, se quiser, passe limão em metade da borda e cubra essa parte com sal.",
+      "Bata a tequila, o triple sec e o suco de limão com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/margarita/",
+        "titulo": "IBA — Margarita",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Tequila 100% Agave, 20 ml Triple Sec, 15 ml Freshly Squeezed Lime Juice",
+    "confianca": "spec_publicada",
+    "cor": "#eef0c4",
+    "variacaoDe": null,
+    "tags": [
+      "tequila",
+      "citrico",
+      "borda_de_sal"
+    ]
+  },
+  {
+    "id": "mimosa",
+    "nome": "Mimosa",
+    "nomesAlt": [
+      "Buck's Fizz"
+    ],
+    "tipoReceita": "drink",
+    "familia": "champagne_cocktail",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "suco_laranja",
+        "ml": 75,
+        "papel": "modificador",
+        "nota": "Espremido na hora."
+      },
+      {
+        "tipo": "prosecco",
+        "ml": 75,
+        "papel": "base"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "flauta",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Despeje o suco de laranja na taça flauta.",
+      "Complete devagar com o prosecco gelado.",
+      "Mexa de leve, uma vez.",
+      "Se quiser, finalize com uma casca de laranja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/mimosa/",
+        "titulo": "IBA — Mimosa",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "75 ml Freshly Squeezed Orange Juice, 75 ml Prosecco",
+    "confianca": "spec_publicada",
+    "cor": "#f7a531",
+    "variacaoDe": null,
+    "tags": [
+      "brunch",
+      "espumante",
+      "baixo_teor"
+    ]
+  },
+  {
+    "id": "mint_julep",
+    "nome": "Mint Julep",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "julep_smash",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "hortela",
+        "qtd": 4,
+        "unidade": "un",
+        "papel": "modificador",
+        "nota": "4 ramos de hortelã fresca."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA pede 1 colher de chá de açúcar de confeiteiro."
+      },
+      {
+        "tipo": "agua",
+        "qtd": 2,
+        "unidade": "bsp",
+        "papel": "diluidor",
+        "nota": "A IBA pede 2 colheres de chá de água."
+      }
+    ],
+    "tecnica": "macerado",
+    "copo": "julep_cup",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "ramo de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No copo de julep, macere a hortelã com o açúcar e a água, com delicadeza.",
+      "Encha o copo com gelo picado.",
+      "Adicione o bourbon e mexa bem até o copo congelar por fora.",
+      "Decore com um ramo de hortelã."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/mint-julep/",
+        "titulo": "IBA — Mint Julep",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Bourbon Whiskey, 4 fresh Mint sprigs, 1 tsp Powdered Sugar, 2 tsp Water",
+    "confianca": "spec_publicada",
+    "cor": "#c98b3c",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "hortela",
+      "gelo_picado"
+    ]
+  },
+  {
+    "id": "mojito",
+    "nome": "Mojito",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "julep_smash",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede rum branco cubano."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "hortela",
+        "qtd": 6,
+        "unidade": "un",
+        "papel": "modificador",
+        "nota": "6 ramos de hortelã."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 2,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA pede 2 colheres de chá de açúcar branco de cana."
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "Um pouco antes do gelo e o resto para completar."
+      }
+    ],
+    "tecnica": "macerado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "ramos de hortelã",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_taiti",
+        "texto": "rodela de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No copo alto, misture ou macere de leve a hortelã com o açúcar e o suco de limão.",
+      "Junte um pouco de água com gás e encha o copo de gelo.",
+      "Adicione o rum e complete com água com gás.",
+      "Mexa de leve e decore com hortelã e uma rodela de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/mojito/",
+        "titulo": "IBA — Mojito",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml White Cuban Ron, 20 ml Fresh Lime Juice, 6 pcs Mint Sprigs, 2 tsp White Cane Sugar, Soda Water",
+    "confianca": "spec_publicada",
+    "cor": "#dcebc4",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "hortela",
+      "cubano",
+      "refrescante"
+    ]
+  },
+  {
+    "id": "moscow_mule",
+    "nome": "Moscow Mule",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede Smirnoff."
+      },
+      {
+        "tipo": "ginger_beer",
+        "ml": 120,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 10,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_cobre",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "rodela de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha a caneca de cobre (ou um copo baixo) com gelo.",
+      "Despeje a vodka e o ginger beer.",
+      "Adicione o suco de limão e mexa de leve.",
+      "Decore com uma rodela de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/moscow-mule/",
+        "titulo": "IBA — Moscow Mule",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/moscow-mule/",
+        "titulo": "Punch — Moscow Mule (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Smirnoff Vodka, 120 ml Ginger Beer, 10 ml Fresh lime juice",
+    "confianca": "spec_publicada",
+    "cor": "#e3d3a0",
+    "variacaoDe": null,
+    "tags": [
+      "vodka",
+      "gengibre",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "pina_colada",
+    "nome": "Piña Colada",
+    "nomesAlt": [
+      "Pina Colada"
+    ],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "creme_coco",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 50,
+        "papel": "modificador",
+        "nota": "A IBA aceita 4 fatias de abacaxi fresco no lugar do suco."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "unidade": "um_pouco",
+        "papel": "acido",
+        "opcional": true,
+        "nota": "A IBA conta que, historicamente, se juntavam algumas gotas de limão, a gosto."
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "highball",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "fatia de abacaxi",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No liquidificador, junte o rum, o creme de coco, o suco de abacaxi e gelo.",
+      "Bata até ficar liso e cremoso.",
+      "Despeje num copo grande e sirva com canudo.",
+      "Decore com uma fatia de abacaxi e uma cereja."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa",
+      "sobremesa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/pina-colada/",
+        "titulo": "IBA — Pina Colada",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/pina-colada/",
+        "titulo": "Punch — Piña Colada (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml White Rum, 30 ml Coconut Cream, 50 ml Fresh Pineapple Juice",
+    "confianca": "spec_publicada",
+    "cor": "#f6efd8",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "coco",
+      "frozen",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "pisco_sour",
+    "nome": "Pisco Sour",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "pisco",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido",
+        "nota": "A IBA diz \"lemon juice\"."
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 20,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Uma clara crua inteira."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "taca_vinho",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "bitters_aromatico",
+        "texto": "algumas gotas de bitters Amargo (Amargo Chuncho) sobre a espuma",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o pisco, o suco de limão, o xarope e a clara com gelo, com vigor, até formar espuma.",
+      "Coe na taça gelada.",
+      "Pingue algumas gotas de bitters Amargo sobre a espuma."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": "Victor Morris"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/pisco-sour/",
+        "titulo": "IBA — Pisco Sour",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/pisco-sour/",
+        "titulo": "Punch — Pisco Sour (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Pisco, 30 ml Fresh Lemon Juice, 20 ml Simple Syrup, 1 Raw whole Egg White",
+    "confianca": "spec_publicada",
+    "cor": "#f1ead0",
+    "variacaoDe": null,
+    "tags": [
+      "pisco",
+      "clara_de_ovo",
+      "peruano"
+    ]
+  },
+  {
+    "id": "sea_breeze",
+    "nome": "Sea Breeze",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_cranberry",
+        "ml": 120,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Despeje a vodka, o suco de cranberry e o suco de toranja.",
+      "Mexa de leve.",
+      "Decore com casca de laranja e uma cereja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/sea-breeze/",
+        "titulo": "IBA — Sea Breeze",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Vodka, 120 ml Cranberry Juice, 30 ml Grapefruit Juice",
+    "confianca": "spec_publicada",
+    "cor": "#e45d6a",
+    "variacaoDe": null,
+    "tags": [
+      "vodka",
+      "cranberry",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "sex_on_the_beach",
+    "nome": "Sex on the Beach",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_pessego",
+        "ml": 20,
+        "papel": "modificador",
+        "nota": "A IBA pede peach schnapps."
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 40,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "suco_cranberry",
+        "ml": 40,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "meia rodela de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Despeje a vodka, o licor de pêssego, o suco de laranja e o de cranberry.",
+      "Mexa de leve.",
+      "Decore com meia rodela de laranja."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/sex-on-the-beach/",
+        "titulo": "IBA — Sex on the Beach",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Vodka, 20 ml Peach Schnapps, 40 ml Fresh Orange Juice, 40 ml Cranberry Juice",
+    "confianca": "spec_publicada",
+    "cor": "#f0703f",
+    "variacaoDe": null,
+    "tags": [
+      "vodka",
+      "frutado",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "singapore_sling",
+    "nome": "Singapore Sling",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "punch_cobbler",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_cereja",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A IBA pede Cherry Sangue Morlacco (Luxardo)."
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 7.5,
+        "papel": "modificador",
+        "nota": "A IBA pede Cointreau."
+      },
+      {
+        "tipo": "beneditino",
+        "ml": 7.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 120,
+        "papel": "diluidor",
+        "nota": "Fresco."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 10,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "pedaço de abacaxi",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata todos os ingredientes com bastante gelo.",
+      "Coe para um copo alto (tipo hurricane).",
+      "Decore com abacaxi e uma cereja."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1915,
+      "cidade": "Singapura",
+      "bar": "Raffles Hotel",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/singapore-sling/",
+        "titulo": "IBA — Singapore Sling",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/singapore-sling/",
+        "titulo": "Punch — Singapore Sling (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Gin, 15 ml Cherry Sangue Morlacco, 7.5 ml Cointreau, 7.5 ml DOM Bénédictine, 120 ml Fresh Pineapple Juice, 15 ml Fresh Lime Juice, 10 ml Grenadine Syrup, A dash of Angostura bitters",
+    "confianca": "spec_publicada",
+    "cor": "#e6766a",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "abacaxi",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "tequila_sunrise",
+    "nome": "Tequila Sunrise",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "tequila",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 90,
+        "papel": "diluidor",
+        "nota": "Espremido na hora."
+      },
+      {
+        "tipo": "granadina",
+        "ml": 15,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "meia rodela ou casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Adicione a tequila e o suco de laranja.",
+      "Despeje a granadina devagar, sem mexer, para ela descer e formar o degradê.",
+      "Decore com meia rodela de laranja ou uma casca."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/tequila-sunrise/",
+        "titulo": "IBA — Tequila Sunrise",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Tequila, 90 ml Fresh Orange Juice, 15 ml Grenadine Syrup",
+    "confianca": "spec_publicada",
+    "cor": "#f29a3a",
+    "variacaoDe": null,
+    "tags": [
+      "tequila",
+      "laranja",
+      "em_camadas"
+    ]
+  },
+  {
+    "id": "vesper",
+    "nome": "Vesper",
+    "nomesAlt": [
+      "Vesper Martini"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "vodka",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "quinquina_branca",
+        "ml": 7.5,
+        "papel": "modificador",
+        "nota": "A IBA pede Lillet Blanc."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o gin, a vodka e o Lillet com bastante gelo.",
+      "Coe na taça gelada.",
+      "Torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1953,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/vesper/",
+        "titulo": "IBA — Vesper",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/vesper/",
+        "titulo": "Punch — Vesper (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 15 ml Vodka, 7.5 ml Lillet Blanc",
+    "confianca": "spec_publicada",
+    "cor": "#f2ecd2",
+    "variacaoDe": "martini",
+    "tags": [
+      "gin",
+      "vodka",
+      "spirit_forward",
+      "literatura"
+    ]
+  },
+  {
+    "id": "zombie",
+    "nome": "Zombie",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": "Contemporary Classics",
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede rum jamaicano escuro."
+      },
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede rum dourado de Porto Rico."
+      },
+      {
+        "tipo": "rum_demerara",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "falernum",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 10,
+        "papel": "modificador",
+        "nota": "Parte do Donn's Mix (15 ml = 2 partes de toranja + 1 de xarope de canela, pela nota da IBA)."
+      },
+      {
+        "tipo": "xarope_canela",
+        "ml": 5,
+        "papel": "adocante",
+        "nota": "Parte do Donn's Mix (15 ml = 2 partes de toranja + 1 de xarope de canela, pela nota da IBA)."
+      },
+      {
+        "tipo": "granadina",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA pede 1 colher de chá."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "anis",
+        "qtd": 6,
+        "unidade": "gota",
+        "papel": "tempero",
+        "nota": "A IBA pede Pernod."
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "collins",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "folhas de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Misture o Donn's Mix: 2 partes de suco de toranja para 1 de xarope de canela.",
+      "No liquidificador, junte os três runs, o suco de limão, o falernum, o Donn's Mix, a granadina, a Angostura e o Pernod com cerca de 170 g de gelo picado.",
+      "Pulse na velocidade mais baixa por poucos segundos.",
+      "Despeje num copo alto e decore com folhas de hortelã."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "dificuldade": 3,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1934,
+      "cidade": "Hollywood",
+      "bar": "Don the Beachcomber's",
+      "bartender": "Donn Beach"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/zombie/",
+        "titulo": "IBA — Zombie",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/zombie/",
+        "titulo": "Punch — Zombie (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Jamaican dark rum, 45 ml Gold Puerto Rican rum, 30 ml Demerara Rum, 20 ml Fresh lime juice, 15 ml Falernum, 15 ml Donn's Mix (2 parts fresh yellow grapefruit, 1 part cinnamon syrup), 1 tsp Grenadine syrup, 1 dash Angostura bitters, 6 drops Pernod",
+    "confianca": "spec_publicada",
+    "cor": "#c2672b",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "forte"
+    ]
+  }
+]

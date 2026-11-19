@@ -1,0 +1,61 @@
+[
+  {
+    "id": "pure_pessego",
+    "nome": "Purê de pêssego",
+    "categoria": "citrico_suco",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "suco"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "white peach purée",
+      "peach purée",
+      "purê de pêssego branco"
+    ],
+    "derivadoDe": "pessego"
+  },
+  {
+    "id": "rum_demerara",
+    "nome": "Rum demerara",
+    "categoria": "destilado",
+    "pai": "rum",
+    "abvTipico": 40,
+    "perfilTipico": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 2,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "cana",
+      "destilado_envelhecido"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "demerara rum",
+      "rum da Guiana",
+      "El Dorado",
+      "Lemon Hart"
+    ]
+  }
+]

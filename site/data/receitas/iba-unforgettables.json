@@ -1,0 +1,2628 @@
+[
+  {
+    "id": "alexander",
+    "nome": "Alexander",
+    "nomesAlt": [
+      "Brandy Alexander",
+      "Alexander No. 2"
+    ],
+    "tipoReceita": "drink",
+    "familia": "creme",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_cacau_escuro",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "A IBA pede crème de cacao escuro (brown)."
+      },
+      {
+        "tipo": "creme_leite",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "Creme de leite fresco."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora por cima",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o conhaque, o licor de cacau e o creme de leite com bastante gelo.",
+      "Coe na taça gelada.",
+      "Rale um pouco de noz-moscada por cima."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/alexander/",
+        "titulo": "IBA — Alexander",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/brandy-alexander/",
+        "titulo": "Punch — Brandy Alexander (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Cognac, 30 ml Crème de Cacao (Brown), 30 ml Fresh Cream",
+    "confianca": "spec_publicada",
+    "cor": "#c8a07a",
+    "variacaoDe": null,
+    "tags": [
+      "sobremesa",
+      "cremoso",
+      "conhaque"
+    ],
+    "abv": 16,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "angel_face",
+    "nome": "Angel Face",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_damasco",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "A IBA diz 'apricot brandy', que aqui é o licor de damasco."
+      },
+      {
+        "tipo": "brandy_maca",
+        "ml": 30,
+        "papel": "base",
+        "nota": "A IBA pede Calvados."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Junte o gin, o licor de damasco e o Calvados na coqueteleira com gelo.",
+      "Bata bem por uns 10 segundos.",
+      "Coe na taça gelada e sirva sem guarnição."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/angel-face/",
+        "titulo": "IBA — Angel Face",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Gin, 30 ml Apricot Brandy, 30 ml Calvados",
+    "confianca": "spec_publicada",
+    "cor": "#d38a3a",
+    "variacaoDe": null,
+    "tags": [
+      "partes_iguais",
+      "calvados",
+      "frutado"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "aviation",
+    "nome": "Aviation",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "licor_violeta",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "modificador",
+        "nota": "Crème de violette."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Na coqueteleira, junte o gin, o marasquino, o suco de limão-siciliano e a colher de licor de violeta.",
+      "Bata com gelo quebrado até a coqueteleira ficar bem fria.",
+      "Coe na taça gelada e, se quiser, coloque uma cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1916,
+      "cidade": null,
+      "bar": null,
+      "bartender": "Hugo Ensslin"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/aviation/",
+        "titulo": "IBA — Aviation",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/aviation/",
+        "titulo": "Punch — Aviation (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 15 ml Maraschino Luxardo, 15 ml Fresh Lemon Juice, 1 Bar Spoon Crème de Violette",
+    "confianca": "spec_publicada",
+    "cor": "#c4c3dc",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "floral",
+      "marasquino"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 105,
+    "estimativa": "v0"
+  },
+  {
+    "id": "between_the_sheets",
+    "nome": "Between the Sheets",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "cognac",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "A IBA pede triple sec."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 20,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Coloque o rum, o conhaque, o triple sec e o suco de limão-siciliano na coqueteleira.",
+      "Bata com gelo até gelar bem.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/between-the-sheets/",
+        "titulo": "IBA — Between the Sheets",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/between-the-sheets/",
+        "titulo": "Punch — Between the Sheets (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml White Rum, 30 ml Cognac, 30 ml Triple Sec, 20 ml Fresh Lemon Juice",
+    "confianca": "spec_publicada",
+    "cor": "#e6bf78",
+    "variacaoDe": "sidecar",
+    "tags": [
+      "split_base",
+      "conhaque",
+      "rum",
+      "historia_disputada"
+    ],
+    "abv": 25,
+    "volumeFinalMl": 145,
+    "estimativa": "v0"
+  },
+  {
+    "id": "brandy_crusta",
+    "nome": "Brandy Crusta",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 52.5,
+        "papel": "base",
+        "nota": "A IBA diz só 'brandy'."
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 7.5,
+        "papel": "modificador",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "curacao_laranja",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "modificador",
+        "nota": "A IBA diz só 'curaçao'."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "nick_nora",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "acucar",
+        "texto": "crosta de açúcar refinado na borda do copo",
+        "essencial": true
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca longa de laranja ou limão-siciliano forrando o interior do copo",
+        "essencial": true
+      }
+    ],
+    "passos": [
+      "Passe uma fatia de laranja ou limão na borda de um copo fino e mergulhe no açúcar para formar a crosta.",
+      "Tire uma casca longa e encaixe em espiral por dentro do copo.",
+      "No mixing glass com gelo, junte o conhaque, o marasquino, o curaçao, o suco de limão, o xarope e o bitters.",
+      "Mexa até gelar e coe com cuidado no copo preparado."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 3,
+    "ocasioes": [
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova Orleans",
+      "bar": null,
+      "bartender": "Joseph Santini"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/brandy-crusta/",
+        "titulo": "IBA — Brandy Crusta",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/brandy-crusta/",
+        "titulo": "Punch — Brandy Crusta (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "52.5 ml Brandy, 7.5 ml Maraschino Luxardo, 1 Bar Spoon Curacao, 15 ml Fresh Lemon Juice, 1 Bar Spoon Simple Syrup, 2 Dashes Aromatic Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#d79c55",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "borda_de_acucar",
+      "seculo_xix",
+      "nova_orleans"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 105,
+    "estimativa": "v0"
+  },
+  {
+    "id": "casino",
+    "nome": "Casino",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin_old_tom",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 10,
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 10,
+        "papel": "acido"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Bata o Old Tom gin, o marasquino, o suco de limão e o bitters de laranja com gelo.",
+      "Coe sobre o gelo do copo.",
+      "Finalize com casca de limão e uma cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/casino/",
+        "titulo": "IBA — Casino",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Old Tom Gin, 10 ml Maraschino Luxardo, 10 ml Fresh Lemon Juice, 2 Dashes Orange Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#ebe4c6",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "old_tom",
+      "marasquino"
+    ],
+    "abv": 26,
+    "volumeFinalMl": 80,
+    "estimativa": "v0"
+  },
+  {
+    "id": "clover_club",
+    "nome": "Clover Club",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "xarope_framboesa",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "ovo_clara",
+        "unidade": "um_pouco",
+        "papel": "espuma",
+        "nota": "A IBA diz só 'algumas gotas' de clara."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "framboesa",
+        "texto": "framboesas frescas",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Na coqueteleira, junte o gin, o xarope de framboesa, o suco de limão e um pouco de clara.",
+      "Bata com força, com gelo, para a clara fazer espuma.",
+      "Coe na taça gelada e finalize com framboesas frescas."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Filadélfia",
+      "bar": "Bellevue-Stratford (Clover Club)",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/clover-club/",
+        "titulo": "IBA — Clover Club",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/clover-club/",
+        "titulo": "Punch — Clover Club (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 15 ml Raspberry Syrup, 15 ml Fresh Lemon Juice, Few Drops of Egg White",
+    "confianca": "spec_publicada",
+    "cor": "#e88fa0",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "framboesa",
+      "clara_de_ovo"
+    ],
+    "abv": 18,
+    "volumeFinalMl": 105,
+    "estimativa": "v0"
+  },
+  {
+    "id": "daiquiri",
+    "nome": "Daiquiri",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A IBA pede rum branco cubano."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 2,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "Açúcar refinado bem fino (superfine), dissolvido antes de pôr o gelo."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Na coqueteleira, misture o rum, o suco de limão e as 2 colheres de açúcar até dissolver.",
+      "Junte gelo e bata bem.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/daiquiri/",
+        "titulo": "IBA — Daiquiri",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/daiquiri/",
+        "titulo": "Punch — Daiquiri (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml White Cuban Ron, 20 ml Fresh Lime Juice, 2 Bar Spoons Superfine Sugar",
+    "confianca": "spec_publicada",
+    "cor": "#eef0d6",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "cubano",
+      "refrescante"
+    ],
+    "abv": 21,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "martini",
+    "nome": "Dry Martini",
+    "nomesAlt": [
+      "Martini"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 10,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "martini",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "óleos da casca de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "azeitona",
+        "texto": "azeitona verde, se preferir",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça de martini.",
+      "Mexa o gin e o vermute seco com bastante gelo no mixing glass.",
+      "Coe na taça gelada.",
+      "Torça a casca de limão por cima para soltar os óleos, ou use uma azeitona verde."
+    ],
+    "perfil": {
+      "doce": 0,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 5,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/dry-martini/",
+        "titulo": "IBA — Dry Martini",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/martini/",
+        "titulo": "Punch — Martini (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Gin, 10 ml Dry Vermouth",
+    "confianca": "spec_publicada",
+    "cor": "#eef0e4",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "spirit_forward",
+      "seco"
+    ],
+    "abv": 31,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "gin_fizz",
+    "nome": "Gin Fizz",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 10,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "splash",
+        "papel": "diluidor",
+        "nota": "A IBA pede só um splash de soda, depois de bater."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano (casca opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo alto e fino.",
+      "Bata o gin, o suco de limão e o xarope com gelo.",
+      "Coe no copo, sem gelo.",
+      "Complete com um pouco de água com gás e finalize com a rodela de limão.",
+      "Beba logo, enquanto está gelado e com gás."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/gin-fizz/",
+        "titulo": "IBA — Gin Fizz",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/gin-fizz/",
+        "titulo": "Punch — Gin Fizz (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 30 ml Fresh Lemon Juice, 10 ml Simple Syrup, Splash of Soda Water",
+    "confianca": "spec_publicada",
+    "cor": "#f2f1de",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "refrescante",
+      "sem_gelo"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 125,
+    "estimativa": "v0"
+  },
+  {
+    "id": "john_collins",
+    "nome": "John Collins",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA diz gin; com Old Tom gin o drink vira Tom Collins."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "ml": 60,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto de gelo.",
+      "Despeje o gin, o suco de limão, o xarope e a água com gás direto no copo.",
+      "Mexa devagar para não perder o gás.",
+      "Finalize com rodela de limão e cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/john-collins/",
+        "titulo": "IBA — John Collins",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 30 ml Fresh Lemon Juice, 15 ml Simple Syrup, 60 ml Soda Water",
+    "confianca": "spec_publicada",
+    "cor": "#f3f2e2",
+    "variacaoDe": null,
+    "tags": [
+      "long_drink",
+      "refrescante",
+      "gin"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 165,
+    "estimativa": "v0"
+  },
+  {
+    "id": "last_word",
+    "nome": "Last Word",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 22.5,
+        "papel": "base"
+      },
+      {
+        "tipo": "chartreuse_verde",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 22.5,
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Coloque partes iguais de gin, Chartreuse verde, marasquino e suco de limão na coqueteleira.",
+      "Bata com gelo até gelar bem.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 5,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Detroit",
+      "bar": "Detroit Athletic Club",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/last-word/",
+        "titulo": "IBA — Last Word",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/last-word/",
+        "titulo": "Punch — Last Word (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "22.5 ml Gin, 22.5 ml Green Chartreuse, 22.5 ml Maraschino Luxardo, 22.5 ml Fresh Lime Juice",
+    "confianca": "spec_publicada",
+    "cor": "#c8d17c",
+    "variacaoDe": null,
+    "tags": [
+      "partes_iguais",
+      "chartreuse",
+      "herbal"
+    ],
+    "abv": 25,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "martinez",
+    "nome": "Martinez",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin_london_dry",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede London Dry; versões antigas usam Old Tom."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 45,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "maraschino",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o gin, o vermute, a colher de marasquino e o bitters de laranja.",
+      "Mexa bem até gelar.",
+      "Coe na taça e torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/martinez/",
+        "titulo": "IBA — Martinez",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/martinez/",
+        "titulo": "Punch — Martinez (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml London Dry Gin, 45 ml Sweet Red Vermouth, 1 Bar Spoon Maraschino Luxardo, 2 Dashes Orange Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#8e3b22",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "vermute",
+      "historia_disputada"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 120,
+    "estimativa": "v0"
+  },
+  {
+    "id": "mary_pickford",
+    "nome": "Mary Pickford",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 45,
+        "papel": "modificador",
+        "nota": "Suco de abacaxi fresco."
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 7.5,
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "granadina",
+        "ml": 5,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rum, o suco de abacaxi, o marasquino e a granadina na coqueteleira.",
+      "Bata forte com gelo, para o abacaxi formar uma leve espuma.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Havana",
+      "bar": null,
+      "bartender": "Fred Kaufman"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/mary-pickford/",
+        "titulo": "IBA — Mary Pickford",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1268/mary-pickford-cocktail",
+        "titulo": "Difford's Guide — Mary Pickford (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml White Rum, 45 ml Fresh Pineapple Juice, 7.5 ml Maraschino Luxardo, 5 ml Grenadine Syrup",
+    "confianca": "spec_publicada",
+    "cor": "#f0b39c",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "abacaxi",
+      "cubano"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 135,
+    "estimativa": "v0"
+  },
+  {
+    "id": "monkey_gland",
+    "nome": "Monkey Gland",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede dry gin."
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 45,
+        "papel": "acido",
+        "nota": "Suco de laranja fresco."
+      },
+      {
+        "tipo": "absinto",
+        "ml": 15,
+        "papel": "tempero",
+        "nota": "A IBA diz 1 colher de sopa (cerca de 15 ml)."
+      },
+      {
+        "tipo": "granadina",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A IBA diz 1 colher de sopa (cerca de 15 ml)."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Na coqueteleira, junte o gin, o suco de laranja, o absinto e a granadina.",
+      "Bata bem com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "brunch",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Paris",
+      "bar": "Harry's New York Bar",
+      "bartender": "Harry MacElhone"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/monkey-gland/",
+        "titulo": "IBA — Monkey Gland",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1349/monkey-gland",
+        "titulo": "Difford's Guide — Monkey Gland (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Dry Gin, 45 ml Fresh Orange Juice, 1 Tablespoon Absinthe, 1 Tablespoon Grenadine Syrup",
+    "confianca": "spec_publicada",
+    "cor": "#e8773e",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "absinto",
+      "laranja"
+    ],
+    "abv": 18,
+    "volumeFinalMl": 155,
+    "estimativa": "v0"
+  },
+  {
+    "id": "paradise",
+    "nome": "Paradise",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_damasco",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "A IBA diz 'apricot brandy', que aqui é o licor de damasco."
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 15,
+        "papel": "acido",
+        "nota": "Suco de laranja fresco."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Bata o gin, o licor de damasco e o suco de laranja com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/paradise/",
+        "titulo": "IBA — Paradise",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Gin, 20 ml Apricot Brandy, 15 ml Fresh Orange Juice",
+    "confianca": "spec_publicada",
+    "cor": "#f0a548",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "damasco",
+      "frutado"
+    ],
+    "abv": 21,
+    "volumeFinalMl": 85,
+    "estimativa": "v0"
+  },
+  {
+    "id": "planters_punch",
+    "nome": "Planter's Punch",
+    "nomesAlt": [
+      "Planters Punch"
+    ],
+    "tipoReceita": "drink",
+    "familia": "punch_cobbler",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "caldo_cana",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "Caldo de cana (sugar cane juice) fresco."
+      },
+      {
+        "tipo": "agua",
+        "unidade": "um_pouco",
+        "papel": "diluidor",
+        "opcional": true,
+        "nota": "A IBA manda diluir a gosto, com água, gelo ou sucos frescos."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Despeje o rum, o suco de limão e o caldo de cana direto num copo baixo (ou de terracota).",
+      "Mexa para integrar.",
+      "Dilua a gosto com gelo, um pouco de água ou suco fresco.",
+      "Finalize com a casca de laranja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/planters-punch/",
+        "titulo": "IBA — Planters Punch",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Jamaican Rum, 15 ml Lime Juice, 30 ml Sugar Cane Juice",
+    "confianca": "spec_publicada",
+    "cor": "#d8b25f",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "caldo_de_cana",
+      "refrescante"
+    ],
+    "abv": 18,
+    "volumeFinalMl": 110,
+    "estimativa": "v0"
+  },
+  {
+    "id": "porto_flip",
+    "nome": "Porto Flip",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A IBA diz só 'brandy'."
+      },
+      {
+        "tipo": "porto_tawny",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA pede 'red tawny port'."
+      },
+      {
+        "tipo": "ovo_gema",
+        "ml": 10,
+        "papel": "espuma",
+        "nota": "A IBA pede 10 ml de gema, menos que uma gema inteira."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Na coqueteleira, junte o conhaque, o porto e a gema.",
+      "Bata com força, com gelo, até a mistura ficar lisa e espumosa.",
+      "Coe na taça e rale noz-moscada por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "inverno",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/porto-flip/",
+        "titulo": "IBA — Porto Flip",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "15 ml Brandy, 45 ml Red Tawny Port Wine, 10 ml Egg Yolk",
+    "confianca": "spec_publicada",
+    "cor": "#8c3d2b",
+    "variacaoDe": null,
+    "tags": [
+      "porto",
+      "gema",
+      "sobremesa"
+    ],
+    "abv": 16,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "ramos_fizz",
+    "nome": "Ramos Fizz",
+    "nomesAlt": [
+      "Ramos Gin Fizz"
+    ],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 30,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "creme_leite",
+        "ml": 60,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "ovo_clara",
+        "ml": 30,
+        "papel": "espuma"
+      },
+      {
+        "tipo": "agua_flor_laranja",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "extrato_baunilha",
+        "qtd": 2,
+        "unidade": "gota",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "A IBA não dá a quantidade: completar o copo."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "highball",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Junte tudo, menos a água com gás, na coqueteleira com gelo e bata por 2 minutos.",
+      "Coe duas vezes, devolva a mistura à coqueteleira sem gelo e bata forte por mais 1 minuto.",
+      "Despeje num copo alto.",
+      "Complete devagar com água com gás para a espuma subir."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 3,
+    "ocasioes": [
+      "brunch",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1888,
+      "cidade": "Nova Orleans",
+      "bar": "Meyer's Table d'Hôtel Internationale",
+      "bartender": "Henry Ramos"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/ramos-fizz/",
+        "titulo": "IBA — Ramos Fizz",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/ramos-gin-fizz/",
+        "titulo": "Punch — Ramos Gin Fizz (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Gin, 15 ml Fresh Lime Juice, 15 ml Fresh Lemon Juice, 30 ml Sugar Syrup, 60 ml Cream, 30 ml Egg white, 3 Dashes Orange Flower Water, 2 Drops Vanilla Extract, Soda Water",
+    "confianca": "spec_publicada",
+    "cor": "#f6f2e4",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "clara_de_ovo",
+      "creme",
+      "nova_orleans"
+    ],
+    "abv": 6,
+    "volumeFinalMl": 325,
+    "estimativa": "v0"
+  },
+  {
+    "id": "remember_the_maine",
+    "nome": "Remember the Maine",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "licor_cereja",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A IBA cita Cherry Brandy Luxardo (licor de cereja)."
+      },
+      {
+        "tipo": "absinto",
+        "ml": 7.5,
+        "papel": "lavagem",
+        "nota": "Só para lavar a taça; o excesso é descartado."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Despeje o absinto na taça, gire para cobrir todo o interior e descarte o excesso.",
+      "Encha o mixing glass até 3/4 com gelo e junte o rye, o vermute e o licor de cereja.",
+      "Mexa até gelar.",
+      "Coe na taça lavada com absinto e torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/remember-the-maine/",
+        "titulo": "IBA — Remember the Maine",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/remember-the-maine/",
+        "titulo": "Punch — Remember the Maine (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Rye Whiskey, 22.5 ml Sweet Vermouth, 15 ml Cherry Brandy Luxardo, 7.5 ml Absinthe",
+    "confianca": "spec_publicada",
+    "cor": "#6f2119",
+    "variacaoDe": null,
+    "tags": [
+      "whiskey",
+      "absinto",
+      "spirit_forward",
+      "charles_h_baker"
+    ],
+    "abv": 30,
+    "volumeFinalMl": 130,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rusty_nail",
+    "nome": "Rusty Nail",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "scotch",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A IBA diz scotch whisky, sem especificar o estilo."
+      },
+      {
+        "tipo": "drambuie",
+        "ml": 25,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Despeje o scotch e o Drambuie direto no copo.",
+      "Mexa devagar por alguns segundos.",
+      "Finalize com a casca de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 2,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/rusty-nail/",
+        "titulo": "IBA — Rusty Nail",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Scotch Whisky, 25 ml Drambuie",
+    "confianca": "spec_publicada",
+    "cor": "#b5702a",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "dois_ingredientes",
+      "digestivo"
+    ],
+    "abv": 35,
+    "volumeFinalMl": 80,
+    "estimativa": "v0"
+  },
+  {
+    "id": "sazerac",
+    "nome": "Sazerac",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 50,
+        "papel": "base",
+        "nota": "A IBA usa Cognac e diz que o rye entrou no lugar depois da Guerra Civil americana."
+      },
+      {
+        "tipo": "absinto",
+        "ml": 10,
+        "papel": "lavagem",
+        "nota": "Só para lavar o copo; o excesso é descartado."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "adocante",
+        "nota": "Cubo de açúcar."
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Lave um copo baixo gelado com o absinto, encha de gelo picado e reserve.",
+      "No mixing glass, amasse o cubo de açúcar com o Peychaud’s.",
+      "Junte o conhaque e gelo e mexa até gelar bem.",
+      "Descarte o gelo e o absinto que sobrou no copo e coe o drink nele.",
+      "Torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova Orleans",
+      "bar": "Sazerac Coffee House",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/sazerac/",
+        "titulo": "IBA — Sazerac",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/sazerac/",
+        "titulo": "Punch — Sazerac (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Cognac, 10 ml Absinthe, 1 Sugar Cube, 2 Dashes Peychaud's Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#a54f2a",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "absinto",
+      "nova_orleans",
+      "historia_disputada"
+    ],
+    "abv": 33,
+    "volumeFinalMl": 80,
+    "estimativa": "v0"
+  },
+  {
+    "id": "sidecar",
+    "nome": "Sidecar",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "A IBA pede triple sec."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 20,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Bata o conhaque, o triple sec e o suco de limão com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/sidecar/",
+        "titulo": "IBA — Sidecar",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/sidecar/",
+        "titulo": "Punch — Sidecar (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Cognac, 20 ml Triple Sec, 20 ml Fresh Lemon Juice",
+    "confianca": "spec_publicada",
+    "cor": "#dfa04d",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "historia_disputada"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "stinger",
+    "nome": "Stinger",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 50,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_menta",
+        "ml": 20,
+        "papel": "modificador",
+        "nota": "A IBA pede crème de menthe branco."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "martini",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "folha de hortelã (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Mexa o conhaque e o licor de menta com bastante gelo no mixing glass.",
+      "Coe na taça gelada.",
+      "Se quiser, decore com uma folha de hortelã."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/stinger/",
+        "titulo": "IBA — Stinger",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/stinger/",
+        "titulo": "Punch — Stinger (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Cognac, 20 ml White Crème de Menthe",
+    "confianca": "spec_publicada",
+    "cor": "#ead9ae",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "menta",
+      "digestivo"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "tuxedo",
+    "nome": "Tuxedo",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin_old_tom",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "maraschino",
+        "qtd": 0.5,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "A IBA cita Maraschino Luxardo."
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 0.25,
+        "unidade": "bsp",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "martini",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o Old Tom gin, o vermute seco, o marasquino, o absinto e o bitters de laranja.",
+      "Mexa bem até gelar.",
+      "Coe na taça e finalize com cereja e casca de limão."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/tuxedo/",
+        "titulo": "IBA — Tuxedo",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/encyclopedia/1511/cocktails/tuxedo-cocktail-and-its-many-variations",
+        "titulo": "Difford's Guide — Tuxedo cocktail and its many variations (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Old Tom Gin, 30 ml Dry Vermouth, 1/2 Bar Spoon Maraschino Luxardo, 1/4 Bar Spoon of Absinthe, 3 Dashes Orange Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#eee5c6",
+    "variacaoDe": "martini",
+    "tags": [
+      "gin",
+      "old_tom",
+      "seco",
+      "historia_disputada"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 80,
+    "estimativa": "v0"
+  },
+  {
+    "id": "vieux_carre",
+    "nome": "Vieux Carré",
+    "nomesAlt": [
+      "Vieux Carre"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "cognac",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "beneditino",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o rye, o conhaque, o vermute, a colher de Bénédictine e o Peychaud’s.",
+      "Mexa bem até gelar.",
+      "Coe na taça gelada e finalize com casca de laranja e cereja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova Orleans",
+      "bar": "Hotel Monteleone",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/vieux-carre/",
+        "titulo": "IBA — Vieux Carré",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/vieux-carre/",
+        "titulo": "Punch — Vieux Carré (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Rye Whiskey, 30 ml Cognac, 30 ml Sweet Vermouth, 1 Bar Spoon Bénédictine, 2 Dashes Peychaud's Bitters",
+    "confianca": "spec_publicada",
+    "cor": "#8b3b1d",
+    "variacaoDe": null,
+    "tags": [
+      "split_base",
+      "nova_orleans",
+      "spirit_forward"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 120,
+    "estimativa": "v0"
+  },
+  {
+    "id": "whiskey_sour",
+    "nome": "Whiskey Sour",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 25,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 20,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "unidade": "um_pouco",
+        "papel": "espuma",
+        "opcional": true,
+        "nota": "A IBA diz 'algumas gotas' de clara, opcional; com clara, bata com mais força."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "meia rodela de laranja (ou casca)",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo (ou gele uma taça, se for servir sem gelo).",
+      "Bata o bourbon, o suco de limão, o xarope e, se quiser, um pouco de clara com gelo.",
+      "Com clara, bata com mais força para formar espuma.",
+      "Coe sobre o gelo e finalize com meia rodela de laranja e cereja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/whiskey-sour/",
+        "titulo": "IBA — Whiskey Sour",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Bourbon Whiskey, 25 ml Fresh Lemon Juice, 20 ml Sugar Syrup, Few Drops of Egg White (Optional)",
+    "confianca": "spec_publicada",
+    "cor": "#e6c385",
+    "variacaoDe": null,
+    "tags": [
+      "whiskey",
+      "clara_de_ovo"
+    ],
+    "abv": 16,
+    "volumeFinalMl": 125,
+    "estimativa": "v0"
+  },
+  {
+    "id": "white_lady",
+    "nome": "White Lady",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": "Unforgettables",
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 40,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "A IBA pede triple sec."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 20,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Bata o gin, o triple sec e o suco de limão com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Paris",
+      "bar": "Harry's New York Bar",
+      "bartender": "Harry MacElhone"
+    },
+    "fontes": [
+      {
+        "url": "https://iba-world.com/iba-cocktail/white-lady/",
+        "titulo": "IBA — White Lady",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/white-lady/",
+        "titulo": "Punch — White Lady (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "40 ml Gin, 30 ml Triple Sec, 20 ml Fresh Lemon Juice",
+    "confianca": "spec_publicada",
+    "cor": "#f2eed8",
+    "variacaoDe": null,
+    "tags": [
+      "gin",
+      "savoy"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  }
+]

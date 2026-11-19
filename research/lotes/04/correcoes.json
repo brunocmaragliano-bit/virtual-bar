@@ -1,0 +1,9 @@
+{
+  "nota": "Correções minhas na revisão do lote 04 (2026-11-19), seguindo as notas da pesquisa.",
+  "tipos": [
+    { "id": "xarope_demerara", "set": { "docura": 1.0 } },
+    { "id": "xarope_agave", "set": { "docura": 1.0 }, "tirarSinonimos": ["néctar de agave"] },
+    { "id": "xarope_mel", "set": { "docura": 1.0 } },
+    { "id": "xarope_framboesa", "set": { "docura": 1.3 } }
+  ]
+}

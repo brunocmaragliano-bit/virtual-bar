@@ -1,0 +1,479 @@
+[
+  {
+    "id": "brennivin_aquavit_2023",
+    "rotulo": "Brennivín Aquavit Rúgbrauð Edition (2023 Release)",
+    "marca": "Brennivín",
+    "produtor": "Ölgerðin Egill Skallagrímsson",
+    "tipo": "aquavit",
+    "abv": 40,
+    "volumeMl": 700,
+    "pais": "Islândia",
+    "regiao": null,
+    "composicao": "destilado neutro de grãos redestilado com alcaravia; pão de centeio islandês (rúgbrauð, assado em calor geotérmico) macerado por cerca de duas semanas; não filtrado a frio; contém trigo, leite e centeio",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 3, "frutado": 0, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 1 },
+    "notas": "Aquavit islandês de alcaravia com pão de centeio macerado: além da semente anisada e picante, aparecem casca de pão tostado, malte e um leve salgado. Mais redondo e encorpado que o Brennivín clássico, mas ainda seco. Fica turvo gelado por não ser filtrado a frio; vai bem puro e gelado ou como base de drinks secos.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com tônica ou ginger ale, a alcaravia refresca e o pão dá um fundo maltado que a vodka não tem." },
+      { "alvo": "receita:martini", "nota": 3, "frase": "Com vermute dry e casca de limão vira um Martini de alcaravia e pão, mais terroso que o de gin." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "No lugar do gin, troca zimbro por alcaravia e pão tostado: Negroni mais terroso e menos floral." },
+      { "alvo": "receita:old_fashioned", "nota": 3, "frase": "O lado de pão de centeio aceita açúcar e bitters: um Old Fashioned nórdico, mais leve que o de whisky." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://skurnik.com/sku/aquavit-rugbraud-rye-bread-brennivin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "O rótulo diz '2023 Release'; o importador (Skurnik) trata a edição como sem safra e lista 750 ml (EUA) e 700 ml. ABV de 40% confere. Poucas notas de prova publicadas; perfil apoiado na descrição do produtor e no estilo do Brennivín."
+  },
+  {
+    "id": "hendricks",
+    "rotulo": "Hendrick's Gin",
+    "marca": "Hendrick's",
+    "produtor": "William Grant & Sons",
+    "tipo": "gin_contemporaneo",
+    "abv": 44,
+    "volumeMl": 1000,
+    "pais": "Escócia",
+    "regiao": "Girvan, Ayrshire",
+    "composicao": "base de trigo; zimbro, angélica, coentro, cubeba, raiz de íris, camomila, alcaravia, flor de sabugueiro, ulmária, cascas de limão e laranja; essências de rosa búlgara e pepino adicionadas depois da destilação",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Gin escocês de perfil floral e fresco: o zimbro fica em segundo plano, atrás de rosa, pepino, camomila e cítricos suaves. Boca macia para 44%, com final limpo e pouco amargo. Em drinks puxa para o lado verde e floral, não para o zimbro.",
+    "melhorUso": [
+      { "alvo": "receita:gin_tonica", "nota": 5, "frase": "Rosa e pepino são o ponto dele: G&T floral e fresco, com rodela de pepino no lugar do limão." },
+      { "alvo": "receita:martini", "nota": 4, "frase": "Num Martini fica macio e floral, menos austero que com London Dry; vai bem com fatia de pepino." },
+      { "alvo": "receita:gimlet", "nota": 4, "frase": "O pepino combina com a lima e deixa o Gimlet mais verde e suave do que com gin clássico." },
+      { "alvo": "receita:tom_collins", "nota": 4, "frase": "Alongado com limão e soda, o floral aparece leve e o drink fica bem refrescante." },
+      { "alvo": "familia:julep_smash", "nota": 3, "frase": "Com manjericão ou hortelã macerados, o lado verde do pepino reforça a erva." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/producer/1100/hendricks-gin-palace-distillery/production",
+      "https://global.hendricksgin.com/uk/distilling/",
+      "https://shop.frankfurt-airport.com/en-US/product/hendrick-s-gin-44-1l_574ef38458b53c94"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "44% é a graduação da garrafa de 1 L vendida em duty free (confirmada em lojas de aeroporto); a garrafa padrão europeia de 70 cl sai com graduação menor (41,4%)."
+  },
+  {
+    "id": "empress_1908_indigo",
+    "rotulo": "Empress 1908 Indigo Gin",
+    "marca": "Empress 1908",
+    "produtor": "Victoria Distillers",
+    "tipo": "gin_contemporaneo",
+    "abv": 42.5,
+    "volumeMl": 750,
+    "pais": "Canadá",
+    "regiao": "Colúmbia Britânica",
+    "composicao": "oito botânicos: zimbro, coentro, casca de toranja, pétala de rosa, gengibre, canela, chá preto da blend do hotel Fairmont Empress e flor de ervilha-borboleta (dá a cor índigo); alambique de cobre",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 4, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 1, "umami": 0 },
+    "notas": "Gin canadense colorido com flor de ervilha-borboleta, que passa de índigo a rosa quando encontra ácido (limão, tônica). No sabor é mais clássico do que a cor sugere: zimbro, toranja, chá preto e um toque de rosa e gengibre, seco e um pouco tânico. O atrativo maior é visual; use em drinks claros e com cítrico para ver a mudança de cor.",
+    "melhorUso": [
+      { "alvo": "receita:gin_tonica", "nota": 4, "frase": "A tônica muda a cor para rosa; toranja e chá dão um G&T cítrico e seco. Use copo transparente." },
+      { "alvo": "receita:french_75", "nota": 4, "frase": "Com limão e espumante fica lilás; o perfil seco e cítrico acompanha bem o espumante." },
+      { "alvo": "familia:sour", "nota": 4, "frase": "Num sour com limão (e clara, se quiser) a cor vira na hora; chá e toranja seguram o açúcar." },
+      { "alvo": "receita:tom_collins", "nota": 4, "frase": "Alongado com limão e soda, ganha cor lavanda e um gole leve de toranja e chá." },
+      { "alvo": "receita:martini", "nota": 3, "frase": "Num Martini seco lembra um London Dry com chá; o diferencial é a cor violeta, não a complexidade." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://empressgin.com/spirit/indigo-gin",
+      "https://www.diffordsguide.com/beer-wine-spirits/6930/empress-1908-gin",
+      "https://distiller.com/spirits/empress-1908-gin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "A cor depende do pH e desbota com luz; guarde longe do sol. ABV de 42,5% confere com as fontes."
+  },
+  {
+    "id": "bosque_craft_gin",
+    "rotulo": "Bosque Craft Gin",
+    "marca": "Bosque",
+    "produtor": "Polditos S.A.S.",
+    "tipo": "gin_contemporaneo",
+    "abv": 42,
+    "volumeMl": 500,
+    "pais": "Argentina",
+    "regiao": "Patagônia",
+    "composicao": "zimbro silvestre da Patagônia, limão, coentro, flor de laranjeira, cardamomo, cravo, cedrón (lúcia-lima) e toranja; base de grãos",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 3, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 2, "cremoso": 1, "umami": 0 },
+    "notas": "Gin argentino feito com zimbro silvestre da Patagônia, de perfil cítrico e especiado: toranja, cedrón e flor de laranjeira no nariz, cardamomo e cravo no final. Boca mais suave que a de um London Dry, com zimbro presente mas não dominante. Rende melhor em drinks longos e frescos.",
+    "melhorUso": [
+      { "alvo": "receita:gin_tonica", "nota": 4, "frase": "Toranja, cedrón e cravo fazem um G&T aromático; é o uso que o produtor indica. Casca de toranja." },
+      { "alvo": "receita:tom_collins", "nota": 4, "frase": "Cedrón e flor de laranjeira se destacam com limão e soda, num Collins mais perfumado que o padrão." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Cravo e cardamomo conversam com o vermute; menos seco que um London Dry, dá Negroni mais macio." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "O cítrico do gin soma ao limão; no sour use pouco açúcar para não apagar a flor de laranjeira." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.theginguide.com/bosque-gin.html",
+      "https://bottleofitaly.com/en/products/gin-dry-craft-nativo-50cl-bosque",
+      "https://www.forbesargentina.com/innovacion/vamos-bicampeonato-asi-historia-mejor-gin-mundo-produce-enebro-salvaje-patagonia-n29149"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "É a receita original da marca, hoje vendida como Bosque 'Nativo' (mesmos botânicos e 42%); a versão Alta Montaña tem 53%. Rótulo: 'Embotellado 2022' e consumir em até 12 meses depois de aberta."
+  },
+  {
+    "id": "chase_gb_extra_dry",
+    "rotulo": "Chase GB Extra Dry Gin",
+    "marca": "Chase",
+    "produtor": "Chase Distillery",
+    "tipo": "gin_london_dry",
+    "abv": 40,
+    "volumeMl": 700,
+    "pais": "Inglaterra",
+    "regiao": "Herefordshire",
+    "composicao": "vodka de batata da própria fazenda redestilada com zimbro (bagas e brotos), canela, noz-moscada, gengibre, amêndoa, coentro, cardamomo, cravo, alcaçuz e casca de limão",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 5, "herbal": 3, "frutado": 1, "defumado": 0, "picante": 3, "cremoso": 2, "umami": 0 },
+    "notas": "Gin inglês extra seco feito sobre vodka de batata da própria fazenda. Zimbro firme com bastante especiaria quente (canela, cravo, noz-moscada, gengibre) e limão ao fundo; textura levemente cremosa da base de batata e final longo e seco. Bom para quem quer um gin austero e especiado em drinks mexidos.",
+    "melhorUso": [
+      { "alvo": "receita:martini", "nota": 4, "frase": "Muito seco e especiado, com corpo de batata: Dry Martini firme, que pede pouco vermute e twist de limão." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Canela, cravo e gengibre seguram o Campari e combinam com a especiaria do vermute rosso." },
+      { "alvo": "receita:gin_tonica", "nota": 4, "frase": "Zimbro e especiaria quente num G&T seco; use tônica pouco doce e casca de limão." },
+      { "alvo": "receita:hanky_panky", "nota": 3, "frase": "O perfil seco e especiado aguenta o vermute doce e o Fernet sem o drink ficar pesado." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/spirits/gin-and-juniper-spirits/BWS005663/williams-chase-great-british-extra-dry-gin",
+      "https://distiller.com/spirits/williams-great-british-extra-dry-gin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Antes vendido como Williams Great British Extra Dry Gin. O Difford's lista 11 botânicos (com coentro e cardamomo); outras fontes listam 10. O rótulo não diz 'London Dry', mas é redestilado com botânicos, no estilo; tipo mantido."
+  },
+  {
+    "id": "sipsmith_london_dry",
+    "rotulo": "Sipsmith London Dry Gin (Travel Retail, 1 L)",
+    "marca": "Sipsmith",
+    "produtor": "Sipsmith (Suntory Global Spirits)",
+    "tipo": "gin_london_dry",
+    "abv": 44.1,
+    "volumeMl": 1000,
+    "pais": "Reino Unido",
+    "regiao": "Londres",
+    "composicao": "zimbro macedônio, coentro, angélica, alcaçuz, raiz de íris, amêndoa, cássia, canela, laranja-de-sevilha e casca de limão; destilação em alambique de cobre, método 'one shot'",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 4, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 2, "cremoso": 1, "umami": 0 },
+    "notas": "London Dry clássico destilado em alambique de cobre em Londres, aqui na versão de 1 L a 44,1% feita para duty free. Zimbro limpo de pinho, coentro, limão e laranja-de-sevilha, e final seco com alcaçuz. Referência de gin seco equilibrado; a graduação extra dá estrutura em drinks mexidos e com cítrico.",
+    "melhorUso": [
+      { "alvo": "receita:martini", "nota": 5, "frase": "Zimbro limpo, cítrico e final seco de alcaçuz: é o padrão de Dry Martini; a 44,1% fica ainda mais firme." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Zimbro e alcaçuz seguram o Campari e o vermute em partes iguais sem o gin sumir." },
+      { "alvo": "receita:gin_tonica", "nota": 4, "frase": "G&T clássico e seco, com o cítrico do gin em destaque; casca de limão ou laranja." },
+      { "alvo": "receita:gimlet", "nota": 4, "frase": "Os cítricos do gin casam com a lima, e a graduação alta não se perde no cordial." },
+      { "alvo": "receita:french_75", "nota": 4, "frase": "Seco e cítrico, combina com limão e espumante num French 75 bem nítido." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://sipsmith.com/product/sipsmith-london-dry-gin/",
+      "https://www.diffordsguide.com/beer-wine-spirits/564/sipsmith-london-dry-gin",
+      "https://shop.frankfurt-airport.com/en-US/product/sipsmith-gin-44-1-1l_e596cc1f04361aa7"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV: rótulo 44,1% (edição de 1 L exclusiva de travel retail, confirmada em loja duty free); a versão padrão de 70 cl tem 41,6% segundo o produtor. Mesma receita de 10 botânicos."
+  },
+  {
+    "id": "yvy_gin_terra",
+    "rotulo": "YVY Terra – Gin Seco Nativo (refil)",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "gin_contemporaneo",
+    "abv": 47.5,
+    "volumeMl": 710,
+    "pais": "Brasil",
+    "regiao": "Minas Gerais",
+    "composicao": "19 botânicos, entre eles zimbro, baunilha, caju, pacová, erva-mate, cambuci, cacau, puxuri, pinhão e maracujá",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 2, "seco": 3, "herbal": 3, "frutado": 2, "defumado": 1, "picante": 3, "cremoso": 2, "umami": 0 },
+    "notas": "Gin brasileiro de botânicos nativos (erva-mate, pacová, cambuci, cacau, puxuri, pinhão, maracujá, baunilha) em graduação alta. Nariz terroso e especiado; na boca, doçura de cacau e baunilha equilibrada por mate, pimenta e zimbro tostado. Encorpado e quente, pede mixers com sabor e drinks mais escuros.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Cacau, mate e baunilha dão um Negroni mais escuro e redondo; os 47,5% seguram o Campari." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com ginger ale e rodela de limão, como sugere o produtor: o gengibre puxa as especiarias e o mate." },
+      { "alvo": "familia:duo_trio", "nota": 3, "frase": "Com licor de café (estilo Espresso Martini, sugestão do produtor), cacau e baunilha se somam ao café." },
+      { "alvo": "receita:old_fashioned", "nota": 3, "frase": "A graduação alta e o lado de cacau aguentam açúcar e bitters num Old Fashioned de gin." },
+      { "alvo": "receita:gin_tonica", "nota": 3, "frase": "Funciona na tônica, mas o lado doce de cacau pede tônica seca e casca de laranja." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.thecuriousdrinker.com/blogs/cocktail-recipes/craft-gin-club-january-2023-gin-of-the-month-gin-yvy-mar-from-yvy-distilaria",
+      "https://forbes.com.br/forbeslife/2021/03/os-10-melhores-gins-nacionais-segundo-especialistas/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Refil em lata de alumínio de 710 ml. Nenhuma fonte informa o ABV do Terra; vale o rótulo (47,5%). O rótulo atual o chama de 'Gin Seco | Nativo'; tipo contemporâneo mantido pelos botânicos nativos."
+  },
+  {
+    "id": "yvy_gin_mar",
+    "rotulo": "YVY Mar – Gin Seco Clássico",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "gin_london_dry",
+    "abv": 46,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Minas Gerais",
+    "composicao": "zimbro, coentro, amêndoa, canela, cardamomo, noz-moscada, alcaçuz, angélica, íris, limão, laranja e alga kombu; base de destilado de cana",
+    "perfil": { "doce": 0, "acido": 0, "amargo": 1, "seco": 4, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 2, "cremoso": 2, "umami": 1 },
+    "notas": "Gin seco brasileiro de receita clássica (zimbro, coentro, angélica, íris, cítricos), com especiarias quentes e um toque de alga kombu. Cítrico e brilhante no nariz, canela e cardamomo na boca e final longo com leve fundo salino. Versátil, vai bem nos clássicos de gin.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Os 46% e a especiaria quente (canela, cardamomo) dão estrutura para o Campari e o vermute." },
+      { "alvo": "receita:martini", "nota": 4, "frase": "Seco e cítrico, e a kombu deixa um fundo salino que combina com Martini de azeitona." },
+      { "alvo": "receita:gin_tonica", "nota": 4, "frase": "Cítrico e especiado na tônica; o produtor sugere fatias de abacaxi como guarnição." },
+      { "alvo": "receita:tom_collins", "nota": 3, "frase": "Alongado com limão e soda continua firme pela graduação; as especiarias ficam na frente." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.thecuriousdrinker.com/blogs/cocktail-recipes/craft-gin-club-january-2023-gin-of-the-month-gin-yvy-mar-from-yvy-distilaria",
+      "https://forbes.com.br/forbeslife/2021/03/os-10-melhores-gins-nacionais-segundo-especialistas/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Tipo trocado de gin_contemporaneo para gin_london_dry: o rótulo diz 'Gin Seco Clássico' e a receita é de dry gin clássico (zimbro, coentro, angélica, íris, cítricos) com um toque de kombu; não há indicação de London Dry certificado. ABV: rótulo 46%, igual à Forbes Brasil; a versão exportada ao Reino Unido (Craft Gin Club) tem 40%."
+  },
+  {
+    "id": "belvedere",
+    "rotulo": "Belvedere Vodka",
+    "marca": "Belvedere",
+    "produtor": "Polmos Żyrardów (LVMH)",
+    "tipo": "vodka",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Polônia",
+    "regiao": "Żyrardów, Mazóvia",
+    "composicao": "100% centeio Dankowskie; água de poço local; sem aditivos",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 3, "herbal": 0, "frutado": 0, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Vodka polonesa de centeio Dankowskie, sem aditivos. Limpa, com leve doçura de baunilha, pimenta-branca do centeio e textura aveludada. Tem mais presença que vodkas de trigo, sem sabor que atrapalhe o drink.",
+    "melhorUso": [
+      { "alvo": "receita:martini", "nota": 4, "frase": "Num Vodka Martini, o centeio dá corpo aveludado e um toque de pimenta e baunilha; sirva bem gelado." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Limpa e macia, alonga bem com soda ou tônica e tem mais corpo que vodka de trigo." },
+      { "alvo": "familia:duo_trio", "nota": 4, "frase": "Base cremosa e neutra para licor de café (Black Russian, Espresso Martini) sem brigar com ele." },
+      { "alvo": "familia:daisy", "nota": 3, "frase": "Em Cosmopolitan e Kamikaze dá corpo sem mexer na fruta nem no licor de laranja." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://vinepair.com/articles/ntk-belvedere-vodka-guide/",
+      "https://alcademics.com/a-belvedere-vodka-distillery-visit-and-the-science-of-terroir-in-the-single-estate-series/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": null
+  },
+  {
+    "id": "noguchi_cup_laranja",
+    "rotulo": "Noguchi Naohiko Sake Institute – copo (estampa laranja)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "produtor": "Noguchi Naohiko Sake Institute (株式会社 農口尚彦研究所)",
+    "tipo": "saque_futsu",
+    "abv": 20,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Komatsu)",
+    "composicao": "arroz Gohyakumangoku 100%, koji de arroz nacional e álcool adicionado; 20% (força de genshu)",
+    "perfil": { "doce": 2, "acido": 1, "amargo": 0, "seco": 2, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 2, "cremoso": 3, "umami": 3 },
+    "notas": "Saquê de copo da casa do mestre Naohiko Noguchi, feito com arroz Gohyakumangoku e álcool adicionado, a 20%. Espere um saquê encorpado e quente, com umami de arroz, alguma doçura e final firme, mais pesado que um copo comum a 15%. Bom puro, gelado ou aquecido; em drinks aguenta diluição.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 3, "frase": "A 20%, aguenta soda e gelo sem ficar aguado: highball de saquê com mais corpo que o normal." },
+      { "alvo": "receita:sake_martini", "nota": 3, "frase": "Encorpado e alcoólico, segura o gin no Sake Martini, mas deixa o drink mais pesado que com ginjo." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Aquecido, o umami e a doçura do arroz se abrem; boa base para um toddy de saquê com gengibre." },
+      { "alvo": "receita:bamboo", "nota": 3, "frase": "No lugar do xerez traz umami e corpo; com vermute dry e bitters vira um Bamboo de saquê." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/brands/5002/",
+      "https://tengusake.com/brewery/noguchi-naohiko-sake-institute"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de saque para saque_futsu: o rótulo não traz classificação nem grau de polimento e tem álcool adicionado. Este copo não aparece em fontes; perfil pelo rótulo, pelo estilo da casa (encorpado, umami de arroz, produtos de 18–19%) e pelo tipo. Mesmo texto de verso do copo azul; muda só a estampa (motivos turísticos de Ishikawa)."
+  },
+  {
+    "id": "karatsu_hikiyama_cup",
+    "rotulo": "Karatsu Hikiyama (唐津ひきやま) – copo",
+    "marca": "Karatsu Hikiyama (唐津ひきやま)",
+    "produtor": "Komatsu Shuzo (小松酒造)",
+    "tipo": "saque",
+    "abv": null,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Saga (Karatsu)",
+    "composicao": null,
+    "perfil": { "doce": 1, "acido": 1, "amargo": 0, "seco": 2, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 3 },
+    "notas": "Saquê de copo do Komatsu Shuzo, adega de Karatsu que faz a marca Manrei, com arte dos carros alegóricos do festival Karatsu Kunchi. Classificação e graduação não aparecem no rótulo; espere um saquê de mesa simples, com arroz, umami médio e final limpo. Melhor puro, gelado ou morno.",
+    "melhorUso": [
+      { "alvo": "receita:sake_martini", "nota": 3, "frase": "Saquê de mesa simples: funciona no Sake Martini, só sem o aroma de um ginjo." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Saquê comum de copo ganha maciez e umami aquecido; serve de base para um toddy de saquê." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e casca de limão vira um highball leve e de baixo teor." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/brands/2032/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Copo não encontrado em fontes; só a adega (Komatsu Shuzo, Karatsu, Saga) foi confirmada. 'Hikiyama' são os carros do festival Karatsu Kunchi, o que sugere copo comemorativo. ABV e ingredientes não visíveis; classificação desconhecida, por isso o tipo genérico 'saque' foi mantido. Perfil = típico do tipo."
+  },
+  {
+    "id": "kinkyo_cup",
+    "rotulo": "Kinkyo (錦郷) Seishu – copo",
+    "marca": "Kinkyo (錦郷)",
+    "produtor": "Kokonoe Saika (九重雜賀)",
+    "tipo": "saque_futsu",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Wakayama (Kinokawa)",
+    "composicao": "arroz e koji de arroz nacionais com álcool adicionado; provavelmente yamahai",
+    "perfil": { "doce": 1, "acido": 2, "amargo": 0, "seco": 3, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 3 },
+    "notas": "Saquê comum de Wakayama com álcool adicionado, a 15%, provavelmente do estilo yamahai. Uma resenha do Kinkyo fala em aroma leve de caramelo, toque doce e final seco e picante, sem amargor; a marca foi premiada como saquê para tomar quente. A acidez do yamahai dá mais estrutura que a de um copo comum.",
+    "melhorUso": [
+      { "alvo": "familia:quente", "nota": 4, "frase": "Premiado como saquê para aquecer: morno fica doce e macio, e a acidez segura gengibre e mel num toddy." },
+      { "alvo": "receita:bamboo", "nota": 3, "frase": "Acidez e umami lembram um xerez leve; com vermute dry e bitters faz um Bamboo de saquê." },
+      { "alvo": "receita:sake_martini", "nota": 3, "frase": "Mais ácido e seco que o copo padrão, dá um Sake Martini firme; casca de limão ajuda." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/reviews/253901/",
+      "https://www.pref.wakayama.lg.jp/prefg/061000/d00215420_d/fil/R5kokonoesaika.pdf"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de saque para saque_futsu: sem classificação no rótulo, com álcool adicionado; o Saketime classifica o Kinkyo como futsushu yamahai (versão 1,8 L: Gohyakumangoku 75%, 15%, ouro em concurso de saquê quente 2018–19). O nome do fabricante está oculto na tampa; o endereço (Kinokawa, Momoyama-cho Moto 142-1) é o do Kokonoe Saika. Não confirmado que o copo seja yamahai."
+  },
+  {
+    "id": "sogen_seishu",
+    "rotulo": "Sōgen (宗玄) Seishu – copo",
+    "marca": "Sōgen (宗玄)",
+    "produtor": "Sogen Shuzo (宗玄酒造)",
+    "tipo": "saque_futsu",
+    "abv": 15,
+    "volumeMl": null,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Suzu, Noto)",
+    "composicao": "arroz e koji de arroz nacionais com álcool adicionado",
+    "perfil": { "doce": 2, "acido": 1, "amargo": 0, "seco": 2, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 3 },
+    "notas": "Saquê comum de copo de Suzu, na ponta da península de Noto, com álcool adicionado e 15%. O estilo da casa é encorpado e de umami redondo, com doçura de arroz, e costuma ir bem aquecido. Simples e de mesa, mais para beber puro que para drinks elaborados.",
+    "melhorUso": [
+      { "alvo": "familia:quente", "nota": 3, "frase": "O estilo encorpado de Noto se abre morno; serve de base para um toddy de saquê com gengibre." },
+      { "alvo": "receita:sake_martini", "nota": 3, "frase": "Mais doce e redondo que um honjozo seco: dá um Sake Martini macio; use gin bem seco." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e limão vira um highball leve, de baixo teor, que mantém o arroz." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/brands/1014/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de saque para saque_futsu: sem classificação nem polimento no rótulo, com álcool adicionado. Volume não impresso (o formato one cup costuma ser 180 ml, não confirmado). A ilustração é o rochedo Mitsukejima, de Suzu. Copo não encontrado em fontes; perfil pelo estilo da casa e pelo tipo."
+  },
+  {
+    "id": "noguchi_cup_azul",
+    "rotulo": "Noguchi Naohiko Sake Institute – copo (estampa azul)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "produtor": "Noguchi Naohiko Sake Institute (株式会社 農口尚彦研究所)",
+    "tipo": "saque_futsu",
+    "abv": 20,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Komatsu)",
+    "composicao": "arroz Gohyakumangoku 100%, koji de arroz nacional e álcool adicionado; 20% (força de genshu)",
+    "perfil": { "doce": 2, "acido": 1, "amargo": 0, "seco": 2, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 2, "cremoso": 3, "umami": 3 },
+    "notas": "Mesmo saquê do copo laranja, com estampa azul de paisagens de Ishikawa: arroz Gohyakumangoku com álcool adicionado, a 20%. Encorpado e quente, com umami de arroz e alguma doçura, mais pesado que um copo comum. Bom puro, gelado ou aquecido.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 3, "frase": "A 20%, aguenta soda e gelo sem ficar aguado: highball de saquê com mais corpo que o normal." },
+      { "alvo": "receita:sake_martini", "nota": 3, "frase": "Encorpado e alcoólico, segura o gin no Sake Martini, mas deixa o drink mais pesado que com ginjo." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Aquecido, o umami e a doçura do arroz se abrem; boa base para um toddy de saquê com gengibre." },
+      { "alvo": "receita:bamboo", "nota": 3, "frase": "No lugar do xerez traz umami e corpo; com vermute dry e bitters vira um Bamboo de saquê." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/brands/5002/",
+      "https://tengusake.com/brewery/noguchi-naohiko-sake-institute"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de saque para saque_futsu (mesmo motivo do copo laranja: sem classificação, com álcool adicionado). Copo não encontrado em fontes; perfil pelo rótulo, pelo estilo da casa e pelo tipo. Ilustrações de Onsen, Senmaida e castelo de Kanazawa."
+  },
+  {
+    "id": "waka_ebis_honjozo",
+    "rotulo": "Waka-Ebis Honjozo – copo",
+    "marca": "Waka-Ebis",
+    "produtor": "Wakaebis Shuzo (若戎酒造)",
+    "tipo": "saque_honjozo",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Mie (Iga)",
+    "composicao": "arroz e koji de arroz nacionais com um pouco de álcool adicionado; polimento 70%",
+    "perfil": { "doce": 1, "acido": 1, "amargo": 0, "seco": 3, "herbal": 0, "frutado": 1, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 3 },
+    "notas": "Honjozo de copo de Iga (Mie), com arroz polido a 70%, um pouco de álcool adicionado e 15%. Espere um saquê seco e leve, de umami moderado e final curto e limpo, sem perfume frutado marcante. Versátil: gelado, em temperatura ambiente ou morno.",
+    "melhorUso": [
+      { "alvo": "receita:sake_martini", "nota": 4, "frase": "Seco e limpo, é o perfil que o Sake Martini pede: não esconde o gin nem pesa no drink." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Honjozo leve fica macio morno; bom para um toddy de saquê com gengibre e limão." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e casca de limão vira um highball leve, de baixo teor." },
+      { "alvo": "receita:bamboo", "nota": 3, "frase": "No lugar do xerez fino, a secura e o umami dão um Bamboo de saquê leve." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.mlit.go.jp/tagengo-db/en/R1-01580.html",
+      "https://www.yodobashi.com/maker/5000020823/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "O copo aparece em varejista (本醸造 若戎, 15%, 180 ml), mas sem nota de prova; perfil pelo rótulo (honjozo, polimento 70%) e pelo tipo."
+  },
+  {
+    "id": "eshikoto_junmai_daiginjo",
+    "rotulo": "ESHIKOTO Gohyakumangoku Junmai Daiginjo",
+    "marca": "Eshikoto",
+    "produtor": "Kokuryu Shuzo (黒龍酒造)",
+    "tipo": "saque_daiginjo",
+    "abv": 16,
+    "volumeMl": 720,
+    "pais": "Japão",
+    "regiao": "Fukui (Eiheiji)",
+    "composicao": "arroz Gohyakumangoku de Fukui 100%, polimento 50%, sem álcool adicionado; fermentação inspirada no kimoto, com ácido lático natural",
+    "perfil": { "doce": 1, "acido": 2, "amargo": 0, "seco": 3, "herbal": 1, "frutado": 3, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 2 },
+    "notas": "Junmai daiginjo do Kokuryu, da linha ESHIKOTO, feito com Gohyakumangoku de Fukui polido a 50% e fermentação inspirada no kimoto. Aroma limpo de fruta branca e cítrico, boca firme e fina com acidez fresca, umami contido e final seco. Para beber gelado e puro; em drinks, só em preparos delicados.",
+    "melhorUso": [
+      { "alvo": "receita:sake_martini", "nota": 4, "frase": "Aroma frutado e acidez limpa fazem um Sake Martini elegante; use gin delicado e em pouca quantidade." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda bem gelada e casca de limão vira um aperitivo leve que mostra o aroma." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Num sour leve, com limão e pouco xarope, o frutado do daiginjo aparece; drink de baixo teor." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://eshikoto-store.shop-ishidaya.com/jp/sake/eshikoto",
+      "https://www.saketime.jp/brands/7568/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "'行雲流水 Blowing in the wind.' é frase do rótulo da frente, não nome do produto; o produto é o ESHIKOTO 五百万石 純米大吟醸. O rótulo pede guardar na geladeira. Especificações vêm do contrarrótulo; as fontes não trazem ficha técnica."
+  },
+  {
+    "id": "atagonomatsu_tokubetsu_junmai",
+    "rotulo": "Atagonomatsu Tokubetsu Junmai – copo",
+    "marca": "Atagonomatsu",
+    "produtor": "Niizawa Jozoten (新澤醸造店)",
+    "tipo": "saque_junmai",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Miyagi (Ōsaki)",
+    "composicao": "arroz polido a 60%, sem álcool adicionado",
+    "perfil": { "doce": 1, "acido": 1, "amargo": 0, "seco": 3, "herbal": 0, "frutado": 2, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 3 },
+    "notas": "Tokubetsu junmai de Miyagi, da casa que faz o Hakurakusei, sem álcool adicionado e com arroz polido a 60%. Seco e limpo, com fruta suave, um toque doce no meio e umami de arroz redondo; vai bem gelado e também morno. Equilibrado e de mesa, é um bom curinga para drinks de saquê.",
+    "melhorUso": [
+      { "alvo": "receita:sake_martini", "nota": 4, "frase": "Seco e limpo, com umami de arroz: dá um Sake Martini equilibrado, sem pesar nem sumir." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Morno mantém o sabor e ganha maciez; boa base para um toddy de saquê." },
+      { "alvo": "receita:bamboo", "nota": 3, "frase": "A secura e o umami substituem o xerez fino num Bamboo de saquê com vermute dry." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda e casca de limão vira um highball leve que preserva o arroz." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.saketime.jp/reviews/116859/",
+      "https://www.saketime.jp/brands/2146/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV: copo 15% (rótulo); a versão em garrafa do tokubetsu junmai (Sasanishiki 60%, SMV +5, acidez 1,6) aparece com 16% no Saketime. O rótulo pede refrigeração (-5 °C a 5 °C)."
+  }
+]

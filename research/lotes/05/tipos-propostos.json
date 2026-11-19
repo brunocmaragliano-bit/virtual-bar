@@ -1,0 +1,111 @@
+[
+  {
+    "id": "gin_earl_grey",
+    "nome": "Gin com Earl Grey",
+    "categoria": "destilado",
+    "pai": null,
+    "abvTipico": 43,
+    "perfilTipico": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "destilado_claro"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "earl grey gin",
+      "gin infusionado com chá",
+      "tea-infused gin"
+    ],
+    "preparo": "infusao_gin_earl_grey"
+  },
+  {
+    "id": "cha_earl_grey",
+    "nome": "Chá Earl Grey",
+    "categoria": "cafe_cha",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "ml",
+    "sinonimos": [
+      "earl grey",
+      "chá preto com bergamota"
+    ]
+  },
+  {
+    "id": "geleia_laranja",
+    "nome": "Geleia de laranja (marmalade)",
+    "categoria": "outros",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 2,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "bsp",
+    "sinonimos": [
+      "marmalade",
+      "orange marmalade",
+      "geleia de laranja amarga"
+    ]
+  },
+  {
+    "id": "fruit_cup",
+    "nome": "Fruit cup (Pimm's No. 1)",
+    "categoria": "licor",
+    "pai": null,
+    "abvTipico": 25,
+    "perfilTipico": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "licor_doce"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "pimm's",
+      "pimms",
+      "pimm's no. 1",
+      "fruit cup"
+    ]
+  }
+]

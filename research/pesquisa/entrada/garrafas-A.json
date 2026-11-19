@@ -1,0 +1,362 @@
+[
+  {
+    "id": "brennivin_aquavit_2023",
+    "tipoSugerido": "aquavit",
+    "rotulo": "Brennivín Aquavit 2023 Release – Rúgbrauð Edition",
+    "marca": "Brennivín",
+    "expressao": "2023 Release – Rúgbrauð Edition",
+    "tipoLido": "aquavit",
+    "abvLido": 40,
+    "volumeMl": 700,
+    "paisLido": "Islândia",
+    "duvidas": [],
+    "obs": [
+      "'Produced and bottled in Iceland'. Gargalo e tampa fora do quadro.",
+      "Produtor Ölgerðin Egill Skallagrímsson, Reykjavík. Contém trigo, leite e centeio. Rótulo avisa 'Gets hazy when chilled' (fica turvo gelado). EAN 5690772007793."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161412573_iOS.jpg",
+      "20261108_161418038_iOS.jpg"
+    ]
+  },
+  {
+    "id": "hendricks",
+    "tipoSugerido": "gin_contemporaneo",
+    "rotulo": "Hendrick's Gin",
+    "marca": "Hendrick's",
+    "expressao": null,
+    "tipoLido": "gin",
+    "abvLido": 44,
+    "volumeMl": 1000,
+    "paisLido": "Escócia",
+    "duvidas": [],
+    "obs": [
+      "'Small Batch – Handcrafted', 'Distilled and bottled in Scotland', 'Est. 1886', '44% alc./vol.', '1L'. Garrafa opaca (nível não visível); rótulo levemente rasgado na borda direita; rolha com papel no topo."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160238454_iOS.jpg"
+    ]
+  },
+  {
+    "id": "empress_1908_indigo",
+    "tipoSugerido": "gin_contemporaneo",
+    "rotulo": "Empress 1908 Indigo Gin",
+    "marca": "Empress 1908",
+    "expressao": "Indigo Gin",
+    "tipoLido": "gin contemporâneo colorido com butterfly pea (cor índigo)",
+    "abvLido": 42.5,
+    "volumeMl": 750,
+    "paisLido": "Canadá",
+    "duvidas": [
+      "A película plástica transparente sobre a rolha/gargalo parece intacta, mas pode ter sido reposta. O líquido vai até o ombro."
+    ],
+    "obs": [
+      "Faixa inferior: '750mL | 42.5% ALC/VOL | 85 PROOF', 'Distilled and bottled in Canada by [Vic]toria Distillers, British Columbia'. 'Gin coloured with butterfly [pea]...', 'handmade | small batch'."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160249291_iOS.jpg"
+    ]
+  },
+  {
+    "id": "bosque_craft_gin",
+    "tipoSugerido": "gin_contemporaneo",
+    "rotulo": "Bosque Craft Gin",
+    "marca": "Bosque",
+    "expressao": null,
+    "tipoLido": "gin destilado artesanal (zimbro silvestre da Patagônia)",
+    "abvLido": 42,
+    "volumeMl": 500,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "A cápsula plástica escura sobre a tampa parece intacta, mas pode não ser lacre de fábrica. O líquido vai até o ombro. Número de lote manuscrito pouco legível ('00940'?)."
+    ],
+    "obs": [
+      "'Elaborado con enebro salvaje de la Patagonia'; botânicos: enebro, limón, coriandro, flor de azahar, cardamomo, clavo de olor, cedrón, pomelo. 'Producto Argentino', 'Embotellado 2022', 'Cont. neto 500ml', 'Cont. alc. 42,0 % vol', 'Gin destilado'. Vidro âmbar; faixa/selo vertical na lateral direita.",
+      "Verso: ingredientes 'agua, gin destilado, enebro, coriandro, limón, pomelo, clavo de olor, cardamomo, cedrón y azahar'; 'Elaborado y envasado por: Polditos S.A.S.'; 'Consumir dentro de los 12 meses una vez abierto'. Nível no ombro. ABV, volume e país lidos na frente."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160354152_iOS.jpg",
+      "20261108_160412273_iOS.jpg"
+    ]
+  },
+  {
+    "id": "chase_gb_extra_dry",
+    "tipoSugerido": "gin_london_dry",
+    "rotulo": "Chase GB Gin Extra Dry",
+    "marca": "Chase",
+    "expressao": "GB Extra Dry",
+    "tipoLido": "gin extra dry (Great British)",
+    "abvLido": 40,
+    "volumeMl": 700,
+    "paisLido": "Inglaterra",
+    "duvidas": [],
+    "obs": [
+      "'From Field to Bottle – Handmade on our home farm in Herefordshire, England', '40% VOL 70cl'. Fita com a bandeira do Reino Unido no gargalo (passa da bbox à esquerda, até ~0.16). Vidro verde, nível não visível; a cápsula parece separada da tampa de rosca (provavelmente já aberta)."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160315751_iOS.jpg"
+    ]
+  },
+  {
+    "id": "sipsmith_london_dry",
+    "tipoSugerido": "gin_london_dry",
+    "rotulo": "Sipsmith London Dry Gin",
+    "marca": "Sipsmith",
+    "expressao": "Exclusive for Travel Retail",
+    "tipoLido": "gin London Dry",
+    "abvLido": 44.1,
+    "volumeMl": 1000,
+    "paisLido": "Reino Unido",
+    "duvidas": [
+      "O lacre de cera verde no gargalo, com a lingueta de abertura, parece intacto (avaliado só pela frente)."
+    ],
+    "obs": [
+      "'Hand crafted in small batches', '1L', '44.1% vol', 'Exclusive for Travel Retail'. País inferido de 'Sipsmith London' (não há 'produto de' visível). Líquido incolor até o ombro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160301848_iOS.jpg"
+    ]
+  },
+  {
+    "id": "yvy_gin_terra",
+    "tipoSugerido": "gin_contemporaneo",
+    "rotulo": "YVY Gin Seco | Nativo – Terra (Refil)",
+    "marca": "YVY",
+    "expressao": "Terra (refil)",
+    "tipoLido": "gin seco",
+    "abvLido": 47.5,
+    "volumeMl": 710,
+    "paisLido": "Brasil",
+    "duvidas": [],
+    "obs": [
+      "Refil em lata de alumínio (não é garrafa). 'Destilaria Original do Brasil'. Lista de ingredientes na lateral, legível só em parte."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161257196_iOS.jpg"
+    ]
+  },
+  {
+    "id": "yvy_gin_mar",
+    "tipoSugerido": "gin_contemporaneo",
+    "rotulo": "YVY Mar – Gin Seco Clássico",
+    "marca": "YVY",
+    "expressao": "Mar",
+    "tipoLido": "gin seco (dry gin)",
+    "abvLido": 46,
+    "volumeMl": 750,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "Líquido incolor em vidro transparente, nível indeterminado (há gotas no lado de dentro do ombro, então ele não está cheio até o topo)."
+    ],
+    "obs": [
+      "'Destilaria Original do Brasil', 'Gin cont. 750ml', 'Grad. alc. 46% vol.'. Selo de papel do gargalo rasgado (aberta). Tampa fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160428682_iOS.jpg"
+    ]
+  },
+  {
+    "id": "belvedere",
+    "tipoSugerido": "vodka",
+    "rotulo": "Belvedere Vodka",
+    "marca": "Belvedere",
+    "expressao": null,
+    "tipoLido": "vodka",
+    "abvLido": 40,
+    "volumeMl": 1000,
+    "paisLido": "Polônia",
+    "duvidas": [],
+    "obs": [
+      "'Distilled and bottled by Polmos Żyrardów in Poland', alc. 40% vol, 1 Litre. Vidro fosco impede ver o nível; topo cortado."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155812491_iOS.jpg"
+    ]
+  },
+  {
+    "id": "noguchi_cup_laranja",
+    "tipoSugerido": "saque",
+    "rotulo": "Noguchi Naohiko Sake Institute (cup, estampa laranja)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "expressao": null,
+    "tipoLido": "saquê (nihonshu) com álcool adicionado (醸造アルコール)",
+    "abvLido": 20,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [
+      "Nome/expressão do produto não impresso na frente (só a marca). Palavras pequenas da estampa: 'KAGAYASAI', '...GANI' (parcial), 'NOTO...' (cortada)."
+    ],
+    "obs": [
+      "Copo com sobretampa plástica e anel de abertura aparentemente intacto (provável lacrado). Estampa laranja com motivos (raiz de lótus, caranguejo). ABV 20 e 180 ml lidos no verso, em 20261108_160858112_iOS.jpg.",
+      "Texto do verso idêntico ao do copo azul (arroz Gohyakumangoku 100%, 20度, 180 ml), mas impresso em laranja. Fabricante 株式会社 農口尚彦研究所, Komatsu, Ishikawa."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160852924_iOS.jpg",
+      "20261108_160858112_iOS.jpg"
+    ]
+  },
+  {
+    "id": "karatsu_hikiyama_cup",
+    "tipoSugerido": "saque",
+    "rotulo": "唐津ひきやま (Karatsu Hikiyama) 清酒",
+    "marca": "Karatsu Hikiyama (唐津ひきやま)",
+    "expressao": null,
+    "tipoLido": "saquê (seishu) em copo – one cup",
+    "abvLido": null,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [
+      "ABV não visível neste lado. A tampa de alumínio parece intacta (anel de abertura não visível deste ângulo)."
+    ],
+    "obs": [
+      "'清酒', '内容量 180ml', produtor '小松酒造株式会社'. Ilustração de peixe vermelho e de pessoas puxando. Líquido quase até a tampa. Aviso sobre gravidez na borda da tampa."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160827788_iOS.jpg"
+    ]
+  },
+  {
+    "id": "kinkyo_cup",
+    "tipoSugerido": "saque",
+    "rotulo": "清酒 KINKYO 錦郷 (キンキョウ)",
+    "marca": "Kinkyo (錦郷)",
+    "expressao": null,
+    "tipoLido": "saquê (seishu) em copo – one cup",
+    "abvLido": 15,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [
+      "Texto da tampa lido em ângulo: 'アルコール分 15度' e '内容量 180ml' legíveis no arquivo full; o restante da borda está parcialmente oculto pela perspectiva."
+    ],
+    "obs": [
+      "Copo de vidro com tampa de alumínio com anel de puxar ('リングを手前に引っ張り'), aparentemente intacta. Ingredientes: arroz (nacional), koji (arroz nacional), álcool destilado adicionado (醸造アルコール). Etiqueta '26HC' na tampa. Ilustração de personagem sobre tartaruga.",
+      "Vista de cima da tampa: 'アルコール分 15度', '内容量 180ml', '米(国産), 米こうじ(国産米), 醸造アルコール', produtor em 和歌山県紀の川市桃山町元142番地1 (Wakayama), código de barras, etiqueta '26HC'."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160811610_iOS.jpg",
+      "20261108_160815154_iOS.jpg"
+    ]
+  },
+  {
+    "id": "sogen_seishu",
+    "tipoSugerido": "saque",
+    "rotulo": "清酒 宗玄 (Seishu Sōgen)",
+    "marca": "Sōgen (宗玄)",
+    "expressao": null,
+    "tipoLido": "saquê (seishu/nihonshu)",
+    "abvLido": 15,
+    "volumeMl": null,
+    "paisLido": "Japão",
+    "duvidas": [
+      "Volume não impresso nas partes visíveis da tampa."
+    ],
+    "obs": [
+      "Copo (one cup) com tampa metálica de borda azul intacta. Ilustração de rochedo no mar. A tampa está fotografada em 20261108_160941134_iOS.jpg.",
+      "Tampa vista de cima: アルコール分15.0度; arroz e koji nacionais + álcool adicionado. Fabricante 宗玄酒造株式会社, Suzu, Ishikawa. Carimbo de data '2026.07'. EAN 4997369014075."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160936722_iOS.jpg",
+      "20261108_160941134_iOS.jpg"
+    ]
+  },
+  {
+    "id": "noguchi_cup_azul",
+    "tipoSugerido": "saque",
+    "rotulo": "Noguchi Naohiko Sake Institute",
+    "marca": "Noguchi Naohiko Sake Institute",
+    "expressao": null,
+    "tipoLido": "saquê em copo (cup sake)",
+    "abvLido": 20,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [
+      "Só a marca está legível. O texto do verso, visto através do copo e espelhado, está ilegível, então o produto/estilo específico, o ABV e o volume são desconhecidos. País deduzido do idioma (palavras japonesas e kanji espelhados). Ilustrações 'Onsen', 'Senmaida' e '…ZAWAJO' (cortado).",
+      "Só o verso aparece; nome/expressão do produto não impresso nesta face. A frente deste copo azul parece ser 20261108_160840007_iOS.jpg (lote anterior), então provavelmente é foto repetida entre lotes. Não é o mesmo copo da estampa laranja (20261108_160852924_iOS.jpg)."
+    ],
+    "obs": [
+      "Copo de vidro com sobretampa plástica fosca; não dá para ver se há selo por baixo. Líquido quase até o topo; vidro embaçado.",
+      "Copo de vidro (one cup) com sobretampa plástica e anel de abertura de alumínio aparentemente intacto (provável lacrado). Arroz Gohyakumangoku (五百万石) 100%. Fabricante 株式会社 農口尚彦研究所, Komatsu, Ishikawa. Conservar em local fresco e escuro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160840007_iOS.jpg",
+      "20261108_160844993_iOS.jpg"
+    ]
+  },
+  {
+    "id": "waka_ebis_honjozo",
+    "tipoSugerido": "saque_honjozo",
+    "rotulo": "WAKA★EBIS 本醸造",
+    "marca": "Waka-Ebis",
+    "expressao": "Honjozo (本醸造)",
+    "tipoLido": "saquê honjozo",
+    "abvLido": 15,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "Copo com tampa preta 'waka-ebis' e anel de abertura intactos; ilustração do deus Ebisu. Verso em 20261108_161013106_iOS.jpg.",
+      "Verso: 精米歩合 70%, アルコール分 15度, 180 ml; arroz e koji nacionais + álcool adicionado. Fabricante 若戎酒造株式会社, Iga, Mie."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161008188_iOS.jpg",
+      "20261108_161013106_iOS.jpg"
+    ]
+  },
+  {
+    "id": "eshikoto_junmai_daiginjo",
+    "tipoSugerido": "saque_daiginjo",
+    "rotulo": "Eshikoto (えしこと) – 行雲流水 'Blowing in the wind.'",
+    "marca": "Eshikoto",
+    "expressao": "Gohyakumangoku Junmai Daiginjo",
+    "tipoLido": "saquê junmai daiginjo",
+    "abvLido": 16,
+    "volumeMl": 720,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "A frente só traz a caligrafia 'えしこと', '行雲流水 Blowing in the wind.' e 'ESHIKOTO'; tipo, ABV e volume foram lidos no verso (20261108_160714043_iOS.jpg). Vidro verde-azulado; a faixa escura acima do rótulo é a silhueta do rótulo do outro lado, não o nível. Gargalo fora do quadro.",
+      "品目: 日本酒; 原材料: 米(国産)、米麹(国産米); 使用米: 福井県産五百万石100%; 精米歩合 50%; アルコール分 16度; 内容量 720ml; conservar em geladeira (冷蔵庫). Produtor: 黒龍酒造株式会社 (Kokuryu) +K, Eiheiji, Fukui. Pequena etiqueta adicional na lateral direita, ilegível."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160705979_iOS.jpg",
+      "20261108_160714043_iOS.jpg"
+    ]
+  },
+  {
+    "id": "atagonomatsu_tokubetsu_junmai",
+    "tipoSugerido": "saque_junmai",
+    "rotulo": "Atagonomatsu Tokubetsu Junmai Cup",
+    "marca": "Atagonomatsu",
+    "expressao": "Tokubetsu Junmai (cup)",
+    "tipoLido": "saquê tokubetsu junmai",
+    "abvLido": 15,
+    "volumeMl": 180,
+    "paisLido": "Japão",
+    "duvidas": [],
+    "obs": [
+      "Copo com tampa metálica e anel de abertura intactos; mascote de samurai parcialmente cortado na lateral. Tampa com dados em 20261108_160956637_iOS.jpg.",
+      "Tampa: 精米歩合 60%, アルコール分 15度, 内容量 180ml. Conservar refrigerado entre -5°C e 5°C (要冷蔵). Fabricante 株式会社新澤醸造店, Ōsaki, Miyagi. Código '26IP'."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_160950546_iOS.jpg",
+      "20261108_160956637_iOS.jpg"
+    ]
+  }
+]

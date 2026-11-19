@@ -1,0 +1,385 @@
+{
+  "descricao": "Inventário inicial do Bruno (fotos de 2026-11-08). Aplicado só quando o inventário do aparelho está vazio.",
+  "inventario": [
+    {
+      "id": "brennivin_aquavit_2023",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "redwood_empire_lost_monarch",
+      "status": "tenho"
+    },
+    {
+      "id": "johnnie_walker_red_label",
+      "status": "tenho",
+      "nivel": "fim"
+    },
+    {
+      "id": "union_barrel_aged",
+      "status": "tenho",
+      "nivel": "fim"
+    },
+    {
+      "id": "cachaca_fernanda_raul",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "lena_jambu",
+      "status": "tenho",
+      "nivel": "metade"
+    },
+    {
+      "id": "dom_tapparo_extra_premium",
+      "status": "tenho"
+    },
+    {
+      "id": "tie_prata",
+      "status": "tenho",
+      "nivel": "metade"
+    },
+    {
+      "id": "hendricks",
+      "status": "tenho"
+    },
+    {
+      "id": "empress_1908_indigo",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "bosque_craft_gin",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "chase_gb_extra_dry",
+      "status": "tenho"
+    },
+    {
+      "id": "sipsmith_london_dry",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "yvy_gin_terra",
+      "status": "tenho"
+    },
+    {
+      "id": "yvy_gin_mar",
+      "status": "tenho"
+    },
+    {
+      "id": "jameson",
+      "status": "tenho"
+    },
+    {
+      "id": "mezcal_union_uno",
+      "status": "tenho"
+    },
+    {
+      "id": "madre_mezcal_espadin",
+      "status": "tenho"
+    },
+    {
+      "id": "pisco_tres_erres_especial",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "pisco_1615_italia_mosto_verde",
+      "status": "tenho"
+    },
+    {
+      "id": "yvy_rum",
+      "status": "tenho"
+    },
+    {
+      "id": "rittenhouse_rye_bib",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "sotol_la_higuera",
+      "status": "tenho"
+    },
+    {
+      "id": "herradura_reposado",
+      "status": "tenho",
+      "nivel": "metade"
+    },
+    {
+      "id": "belvedere",
+      "status": "tenho"
+    },
+    {
+      "id": "whisky_ye_monks",
+      "status": "tenho",
+      "colecao": true
+    },
+    {
+      "id": "nikka_from_the_barrel",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "nikka_coffey_grain",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "kanosuke_single_malt",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "komagatake_peated_sherry",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "bizantino_licor_ervas",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "reykjavik_blueberry",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "limoncino_bottega",
+      "status": "tenho"
+    },
+    {
+      "id": "villa_massa_limoncello",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "soberbo_vermouth",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "vermute_fernanda_raul",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "ataman_original",
+      "status": "tenho"
+    },
+    {
+      "id": "mulassano_bianco",
+      "status": "tenho"
+    },
+    {
+      "id": "la_fuerza_blanco",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "la_fuerza_primavera",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "la_fuerza_sideral",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "dolores_rojo",
+      "status": "tenho"
+    },
+    {
+      "id": "orlandoni_rosso",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "vincenzo_rosso",
+      "status": "tenho"
+    },
+    {
+      "id": "cantieri_navali_rosso",
+      "status": "tenho"
+    },
+    {
+      "id": "vecino_rosso_torino",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "dos_deus_origins",
+      "status": "tenho"
+    },
+    {
+      "id": "federal_rosso",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "cinzano_1757_rosso",
+      "status": "tenho"
+    },
+    {
+      "id": "carpano_antica_formula",
+      "status": "tenho"
+    },
+    {
+      "id": "cocchi_storico",
+      "status": "tenho"
+    },
+    {
+      "id": "schluck_rosso_amburana",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "vermu_coffea_arabica",
+      "status": "tenho"
+    },
+    {
+      "id": "la_fuerza_sideral_barrica_unica",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "brigs_porto_rose",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "ferreira_porto_ruby",
+      "status": "tenho"
+    },
+    {
+      "id": "san_basile_artichoke",
+      "status": "tenho",
+      "nivel": "metade"
+    },
+    {
+      "id": "cynar",
+      "status": "tenho",
+      "nivel": "metade"
+    },
+    {
+      "id": "apothek_scarlatti",
+      "status": "tenho",
+      "nivel": "fim"
+    },
+    {
+      "id": "bizantina_artichoke_menta",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "aperol",
+      "status": "tenho",
+      "nivel": "fim"
+    },
+    {
+      "id": "campari",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "san_basile_bitter",
+      "status": "tenho"
+    },
+    {
+      "id": "fernet_branca",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "angostura_aromatic",
+      "status": "tenho"
+    },
+    {
+      "id": "bittermens_elemakule_tiki",
+      "status": "tenho"
+    },
+    {
+      "id": "bittermens_xocolatl_mole",
+      "status": "tenho"
+    },
+    {
+      "id": "angostura_orange",
+      "status": "tenho"
+    },
+    {
+      "id": "bittermens_hellfire_habanero",
+      "status": "tenho"
+    },
+    {
+      "id": "nielsen_massey_extrato_limao",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "noguchi_cup_laranja",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "karatsu_hikiyama_cup",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "kinkyo_cup",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "sogen_seishu",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "noguchi_cup_azul",
+      "status": "tenho",
+      "nivel": "cheia"
+    },
+    {
+      "id": "waka_ebis_honjozo",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    },
+    {
+      "id": "eshikoto_junmai_daiginjo",
+      "status": "tenho"
+    },
+    {
+      "id": "atagonomatsu_tokubetsu_junmai",
+      "status": "tenho",
+      "nivel": "cheia",
+      "notas": "lacrada"
+    }
+  ],
+  "prefs": {
+    "basicosSempre": [
+      "gelo",
+      "agua",
+      "acucar",
+      "sal",
+      "xarope_simples",
+      "tonica",
+      "agua_com_gas"
+    ],
+    "unidade": "ml",
+    "porcoes": 1
+  }
+}

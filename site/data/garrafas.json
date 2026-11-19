@@ -1,0 +1,4567 @@
+[
+  {
+    "id": "brennivin_aquavit_2023",
+    "rotulo": "Brennivín Aquavit Rúgbrauð Edition (2023 Release)",
+    "marca": "Brennivín",
+    "produtor": "Ölgerðin Egill Skallagrímsson",
+    "tipo": "aquavit",
+    "abv": 40,
+    "volumeMl": 700,
+    "pais": "Islândia",
+    "regiao": null,
+    "composicao": "destilado neutro de grãos redestilado com alcaravia; pão de centeio islandês (rúgbrauð, assado em calor geotérmico) macerado por cerca de duas semanas; não filtrado a frio; contém trigo, leite e centeio",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 0,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Aquavit islandês de alcaravia com pão de centeio macerado: além da semente anisada e picante, aparecem casca de pão tostado, malte e um leve salgado. Mais redondo e encorpado que o Brennivín clássico, mas ainda seco. Fica turvo gelado por não ser filtrado a frio; vai bem puro e gelado ou como base de drinks secos.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com tônica ou ginger ale, a alcaravia refresca e o pão dá um fundo maltado que a vodka não tem."
+      },
+      {
+        "alvo": "receita:martini",
+        "nota": 3,
+        "frase": "Com vermute dry e casca de limão vira um Martini de alcaravia e pão, mais terroso que o de gin."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "No lugar do gin, troca zimbro por alcaravia e pão tostado: Negroni mais terroso e menos floral."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 3,
+        "frase": "O lado de pão de centeio aceita açúcar e bitters: um Old Fashioned nórdico, mais leve que o de whisky."
+      }
+    ],
+    "foto": "img/garrafas/brennivin_aquavit_2023.webp",
+    "fotoOrigem": "20261108_161412573_iOS.dng",
+    "fontes": [
+      "https://skurnik.com/sku/aquavit-rugbraud-rye-bread-brennivin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "redwood_empire_lost_monarch",
+    "rotulo": "Redwood Empire Lost Monarch",
+    "marca": "Redwood Empire",
+    "produtor": "Redwood Empire Distilling (Purple Brands)",
+    "tipo": "whiskey_americano",
+    "abv": 45,
+    "volumeMl": 750,
+    "pais": "EUA",
+    "regiao": "Sonoma County, Califórnia",
+    "composicao": "Blend de straight rye e straight bourbon: 55% rye / 45% bourbon segundo o produtor (Breaking Bourbon dá 60/40); rye de 95% centeio e 5% cevada maltada, bourbon de 75% milho, 21% centeio e 4% cevada maltada; componentes de 3 a 14 anos; local de destilação não informado.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Blend californiano de rye e bourbon com o rye na frente: cravo, canela, casca de laranja e baunilha no nariz, boca de caramelo e xarope de bordo, final com pimenta. A 45% é macio para um rye, mas tem especiaria de sobra para drinks mexidos. Faz a ponte entre bourbon e rye no bar.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "O rye de 95% centeio dá especiaria ao vermute e o bourbon arredonda; um pouco mais macio que um rye bonded."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Cravo, laranja e bordo já vêm no destilado: pede pouco açúcar e casa com Angostura e casca de laranja."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Tem corpo de bourbon para o Campari e especiaria de rye que impede o drink de ficar enjoativo."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "A picância do rye corta limão e açúcar no whiskey sour; fica menos untuoso que com bourbon puro."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com ginger beer (o produtor sugere um mule) a especiaria do rye conversa com o gengibre."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "rye_whiskey",
+        "qualidade": 3,
+        "nota": "Mais da metade é rye de 95% centeio; menos picante que um rye 100 proof."
+      },
+      {
+        "tipo": "bourbon",
+        "qualidade": 3,
+        "nota": "Quase metade é bourbon; doçura de milho e baunilha presentes, com mais especiaria."
+      }
+    ],
+    "foto": "img/garrafas/redwood_empire_lost_monarch.webp",
+    "fotoOrigem": "20261108_160102215_iOS.dng",
+    "fontes": [
+      "https://redwoodempirewhiskey.com/whiskey/small-batch-craft-whiskey-blend/",
+      "https://www.breakingbourbon.com/review/redwood-empire-lost-monarch",
+      "https://www.drinkhacker.com/2026/07/06/review-redwood-empire-pipe-dream-emerald-giant-and-lost-monarch-updated-2026/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "johnnie_walker_red_label",
+    "rotulo": "Johnnie Walker Red Label",
+    "marca": "Johnnie Walker",
+    "produtor": "Diageo",
+    "tipo": "scotch_blended",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Escócia",
+    "regiao": null,
+    "composicao": "Blend de até 35 whiskies escoceses de malte e grão; maltes citados: Cardhu, Caol Ila e Teaninich; grande parte do grão vem de Cameronbridge; sem idade declarada.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 2,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Blend escocês leve e de grão, pensado para misturar: maçã verde, pera e cítrico, toque de mel e baunilha, final curto com canela, pimenta e um fio de fumaça das ilhas. Puro é simples; com soda ou ginger ale a fumaça e a especiaria aparecem melhor.",
+    "melhorUso": [
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 4,
+        "frase": "Feito para drink longo: leve e de grão, com um fio de fumaça que continua aparecendo sob a soda."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com ginger ale e limão (o serviço da própria marca), canela e pimenta do blend casam com o gengibre."
+      },
+      {
+        "alvo": "receita:penicillin",
+        "nota": 3,
+        "frase": "Base de blend correta: a fumaça leve reforça o float turfado, mas falta corpo diante do mel e gengibre."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 3,
+        "frase": "Funciona, mas é leve: o vermute manda; um blend mais encorpado dá mais estrutura."
+      }
+    ],
+    "foto": "img/garrafas/johnnie_walker_red_label.webp",
+    "fotoOrigem": "20261108_160203566_iOS.dng",
+    "fontes": [
+      "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-red-label",
+      "https://thewhiskeywash.com/scotch-whiskey/the-ultimate-guide-to-johnnie-walker-red-label/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "union_barrel_aged",
+    "rotulo": "Union Blended Whisky Barrel Aged",
+    "marca": "Union Distillery",
+    "produtor": "Union Distillery",
+    "tipo": "whisky_brasileiro",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha (RS)",
+    "composicao": "Destilado de cereais envelhecido e malt whisky, água e corante caramelo (INS 150a); envelhecido em barris de carvalho; sem idade declarada; garrafa numerada.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Blend brasileiro simples, de malte com destilado de cereais envelhecido: aroma suave de cereal, tostado, baunilha e caramelo, boca equilibrada entre doçura e grão e final curto. Vai melhor em drinks longos e de volume, onde o whisky é base e não protagonista.",
+    "melhorUso": [
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 3,
+        "frase": "Leve e de cereal: com soda e muito gelo dá um highball limpo, sem pretensão."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com ginger ale e limão o perfil neutro some no mixer e o drink fica refrescante."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "No whisky sour o perfil discreto deixa limão e açúcar mandarem; correto, sem complexidade."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 3,
+        "frase": "Base suave em litro para ponche e drinks de jarra, onde frutas e especiarias fazem o trabalho."
+      }
+    ],
+    "foto": "img/garrafas/union_barrel_aged.webp",
+    "fotoOrigem": "20261108_160125791_iOS.dng",
+    "fontes": [
+      "https://www.uniondistillery.com.br/whiskys/blended-whisky",
+      "https://thewhiskeywash.com/whiskey-articles/brazil-has-been-making-whisky-for-50-years-so-why-havent-you-heard-about-it/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "cachaca_fernanda_raul",
+    "rotulo": "Cachaça Fernanda & Raul",
+    "marca": null,
+    "produtor": null,
+    "tipo": "cachaca",
+    "abv": null,
+    "volumeMl": null,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": null,
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Cachaça de lembrança de casamento, sem produtor, teor alcoólico ou madeira informados. A cor dourada sugere passagem ou armazenamento em madeira, então espere algo mais redondo e adocicado que uma prata, com cana madura e um toque amadeirado. Vale provar pura antes de escolher o drink.",
+    "melhorUso": [
+      {
+        "alvo": "receita:caipirinha",
+        "nota": 3,
+        "frase": "Dourada faz uma caipirinha mais macia e amadeirada; perde um pouco do frescor de cana de uma prata."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "O toque de madeira conversa bem com o vermute e o Cynar do Rabo de Galo."
+      },
+      {
+        "alvo": "familia:old_fashioned",
+        "nota": 3,
+        "frase": "Se for mesmo envelhecida, aguenta um Old Fashioned simples com açúcar e Angostura."
+      }
+    ],
+    "foto": "img/garrafas/cachaca_fernanda_raul.webp",
+    "fotoOrigem": "20261108_155909055_iOS.dng",
+    "fontes": [],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "lena_jambu",
+    "rotulo": "Lena Jambu",
+    "marca": "Lena",
+    "produtor": null,
+    "tipo": "cachaca_jambu",
+    "abv": 30,
+    "volumeMl": 500,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "Cachaça de alambique (mosto fermentado de caldo de cana) armazenada em tonéis de amburana e infusionada com flor de jambu.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Cachaça de alambique que descansa em amburana e recebe flores de jambu: a madeira dá cor âmbar e notas de canela e baunilha, e o jambu provoca o formigamento típico nos lábios e na língua. Com 30% é mais leve de álcool que uma cachaça comum, mas o efeito do jambu resiste à diluição, o que rende drinks curiosos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:caipirinha",
+        "nota": 4,
+        "frase": "Caipirinha de jambu é clássico paraense: o limão realça o lado verde e o formigamento vira a graça do drink."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com tônica ou soda e limão vira um long drink fresco; a amburana arredonda o amargor da tônica."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Num sour com limão e xarope o jambu continua presente; como o teor é baixo, use dose generosa."
+      }
+    ],
+    "foto": "img/garrafas/lena_jambu.webp",
+    "fotoOrigem": "20261108_155830415_iOS.dng",
+    "fontes": [
+      "https://www.bebalena.com.br/product-page/lena-jambu"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "dom_tapparo_extra_premium",
+    "rotulo": "Dom Tápparo Cachaça Extra Premium Carvalho Europeu",
+    "marca": "Dom Tápparo",
+    "produtor": "Engenho Dom Tápparo",
+    "tipo": "cachaca_envelhecida",
+    "abv": 38,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Mirassol, interior de São Paulo",
+    "composicao": "100% cana-de-açúcar; Extra Premium envelhecida em tonéis de carvalho europeu (provavelmente 12 anos, ver observações).",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Cachaça extra premium de longo descanso em carvalho europeu, dourada e mais de madeira do que de cana fresca: especiarias, fruta seca, um leve tostado e taninos macios. Com 38% é suave no álcool e tem bom corpo; brilha pura ou em drinks mexidos curtos, no papel de destilado envelhecido.",
+    "melhorUso": [
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Carvalho europeu dá especiaria e fruta seca: Old Fashioned brasileiro, com menos baunilha e mais tanino que o de bourbon."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 4,
+        "frase": "Envelhecida dá ao Rabo de Galo mais corpo e madeira, que casam com o vermute e o Cynar."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Funciona no lugar do whiskey; com 38% fica mais macio, então segure um pouco o vermute."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "rum_envelhecido",
+        "qualidade": 2,
+        "nota": "em drinks mexidos cobre um rum envelhecido seco, com mais tanino e menos melaço"
+      }
+    ],
+    "foto": "img/garrafas/dom_tapparo_extra_premium.webp",
+    "fotoOrigem": "20261108_155842049_iOS.dng",
+    "fontes": [
+      "https://domtapparo.com.br/us/products/extra-premium-12-years-cachaca-spirit-750ml-38-vol/",
+      "https://forbes.com.br/forbesagro/2024/11/cachacaria-dom-tapparo-e-a-melhor-do-mundo-com-seus-ices-no-global-spirits-masters/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "tie_prata",
+    "rotulo": "Tiê Prata",
+    "marca": "Tiê",
+    "produtor": "Cachaça Tiê (Fazenda Guapiara)",
+    "tipo": "cachaca_prata",
+    "abv": 42,
+    "volumeMl": 700,
+    "pais": "Brasil",
+    "regiao": "Aiuruoca, Sul de Minas (Serra da Mantiqueira)",
+    "composicao": "Cana própria colhida à mão, sem queima; destilada em alambique de cobre a fogo direto e armazenada em dornas de inox, sem madeira.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Prata mineira de alambique, descansada só em inox: cana fresca e adocicada no nariz, um toque cítrico e final picante sustentado pelos 42%. Tem álcool presente e sabor de cana intenso, por isso aparece bem através do limão e do açúcar.",
+    "melhorUso": [
+      {
+        "alvo": "receita:caipirinha",
+        "nota": 5,
+        "frase": "Prata de alambique a 42%, cana intensa e final picante: o perfil que a caipirinha pede, sem madeira no caminho."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 4,
+        "frase": "Cana marcante e álcool firme seguram o vermute e o Cynar sem o drink ficar doce demais."
+      },
+      {
+        "alvo": "receita:daiquiri",
+        "nota": 4,
+        "frase": "No lugar do rum branco dá um daiquiri mais vegetal e picante, com a cana verde em primeiro plano."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Como base de Negroni troca o zimbro por cana e pimenta; segura bem o Campari."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com tônica ou soda e limão a cana aparece limpa e o final picante dá estrutura ao copo longo."
+      }
+    ],
+    "foto": "img/garrafas/tie_prata.webp",
+    "fotoOrigem": "20261108_155853861_iOS.dng",
+    "fontes": [
+      "https://www.seudinheiro.com/2026/lifestyle/dia-da-cachaca-10-rotulos-premiados-produzidos-em-diferentes-partes-do-brasil-de-minas-gerais-a-paraiba-sama/",
+      "https://outraspalavras.net/mauricioayer/cachaca-tie-e-suas-raizes-na-mantiqueira/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "hendricks",
+    "rotulo": "Hendrick's Gin",
+    "marca": "Hendrick's",
+    "produtor": "William Grant & Sons",
+    "tipo": "gin_contemporaneo",
+    "abv": 44,
+    "volumeMl": 1000,
+    "pais": "Escócia",
+    "regiao": "Girvan, Ayrshire",
+    "composicao": "base de trigo; zimbro, angélica, coentro, cubeba, raiz de íris, camomila, alcaravia, flor de sabugueiro, ulmária, cascas de limão e laranja; essências de rosa búlgara e pepino adicionadas depois da destilação",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Gin escocês de perfil floral e fresco: o zimbro fica em segundo plano, atrás de rosa, pepino, camomila e cítricos suaves. Boca macia para 44%, com final limpo e pouco amargo. Em drinks puxa para o lado verde e floral, não para o zimbro.",
+    "melhorUso": [
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 5,
+        "frase": "Rosa e pepino são o ponto dele: G&T floral e fresco, com rodela de pepino no lugar do limão."
+      },
+      {
+        "alvo": "receita:martini",
+        "nota": 4,
+        "frase": "Num Martini fica macio e floral, menos austero que com London Dry; vai bem com fatia de pepino."
+      },
+      {
+        "alvo": "receita:gimlet",
+        "nota": 4,
+        "frase": "O pepino combina com a lima e deixa o Gimlet mais verde e suave do que com gin clássico."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 4,
+        "frase": "Alongado com limão e soda, o floral aparece leve e o drink fica bem refrescante."
+      },
+      {
+        "alvo": "familia:julep_smash",
+        "nota": 3,
+        "frase": "Com manjericão ou hortelã macerados, o lado verde do pepino reforça a erva."
+      }
+    ],
+    "foto": "img/garrafas/hendricks.webp",
+    "fotoOrigem": "20261108_160238454_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/producer/1100/hendricks-gin-palace-distillery/production",
+      "https://global.hendricksgin.com/uk/distilling/",
+      "https://shop.frankfurt-airport.com/en-US/product/hendrick-s-gin-44-1l_574ef38458b53c94"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "empress_1908_indigo",
+    "rotulo": "Empress 1908 Indigo Gin",
+    "marca": "Empress 1908",
+    "produtor": "Victoria Distillers",
+    "tipo": "gin_contemporaneo",
+    "abv": 42.5,
+    "volumeMl": 750,
+    "pais": "Canadá",
+    "regiao": "Colúmbia Britânica",
+    "composicao": "oito botânicos: zimbro, coentro, casca de toranja, pétala de rosa, gengibre, canela, chá preto da blend do hotel Fairmont Empress e flor de ervilha-borboleta (dá a cor índigo); alambique de cobre",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Gin canadense colorido com flor de ervilha-borboleta, que passa de índigo a rosa quando encontra ácido (limão, tônica). No sabor é mais clássico do que a cor sugere: zimbro, toranja, chá preto e um toque de rosa e gengibre, seco e um pouco tânico. O atrativo maior é visual; use em drinks claros e com cítrico para ver a mudança de cor.",
+    "melhorUso": [
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 4,
+        "frase": "A tônica muda a cor para rosa; toranja e chá dão um G&T cítrico e seco. Use copo transparente."
+      },
+      {
+        "alvo": "receita:french_75",
+        "nota": 4,
+        "frase": "Com limão e espumante fica lilás; o perfil seco e cítrico acompanha bem o espumante."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 4,
+        "frase": "Num sour com limão (e clara, se quiser) a cor vira na hora; chá e toranja seguram o açúcar."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 4,
+        "frase": "Alongado com limão e soda, ganha cor lavanda e um gole leve de toranja e chá."
+      },
+      {
+        "alvo": "receita:martini",
+        "nota": 3,
+        "frase": "Num Martini seco lembra um London Dry com chá; o diferencial é a cor violeta, não a complexidade."
+      }
+    ],
+    "foto": "img/garrafas/empress_1908_indigo.webp",
+    "fotoOrigem": "20261108_160249291_iOS.dng",
+    "fontes": [
+      "https://empressgin.com/spirit/indigo-gin",
+      "https://www.diffordsguide.com/beer-wine-spirits/6930/empress-1908-gin",
+      "https://distiller.com/spirits/empress-1908-gin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bosque_craft_gin",
+    "rotulo": "Bosque Craft Gin",
+    "marca": "Bosque",
+    "produtor": "Polditos S.A.S.",
+    "tipo": "gin_contemporaneo",
+    "abv": 42,
+    "volumeMl": 500,
+    "pais": "Argentina",
+    "regiao": "Patagônia",
+    "composicao": "zimbro silvestre da Patagônia, limão, coentro, flor de laranjeira, cardamomo, cravo, cedrón (lúcia-lima) e toranja; base de grãos",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Gin argentino feito com zimbro silvestre da Patagônia, de perfil cítrico e especiado: toranja, cedrón e flor de laranjeira no nariz, cardamomo e cravo no final. Boca mais suave que a de um London Dry, com zimbro presente mas não dominante. Rende melhor em drinks longos e frescos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 4,
+        "frase": "Toranja, cedrón e cravo fazem um G&T aromático; é o uso que o produtor indica. Casca de toranja."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 4,
+        "frase": "Cedrón e flor de laranjeira se destacam com limão e soda, num Collins mais perfumado que o padrão."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Cravo e cardamomo conversam com o vermute; menos seco que um London Dry, dá Negroni mais macio."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "O cítrico do gin soma ao limão; no sour use pouco açúcar para não apagar a flor de laranjeira."
+      }
+    ],
+    "foto": "img/garrafas/bosque_craft_gin.webp",
+    "fotoOrigem": "20261108_160354152_iOS.dng",
+    "fontes": [
+      "https://www.theginguide.com/bosque-gin.html",
+      "https://bottleofitaly.com/en/products/gin-dry-craft-nativo-50cl-bosque",
+      "https://www.forbesargentina.com/innovacion/vamos-bicampeonato-asi-historia-mejor-gin-mundo-produce-enebro-salvaje-patagonia-n29149"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "chase_gb_extra_dry",
+    "rotulo": "Chase GB Extra Dry Gin",
+    "marca": "Chase",
+    "produtor": "Chase Distillery",
+    "tipo": "gin_london_dry",
+    "abv": 40,
+    "volumeMl": 700,
+    "pais": "Inglaterra",
+    "regiao": "Herefordshire",
+    "composicao": "vodka de batata da própria fazenda redestilada com zimbro (bagas e brotos), canela, noz-moscada, gengibre, amêndoa, coentro, cardamomo, cravo, alcaçuz e casca de limão",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 5,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Gin inglês extra seco feito sobre vodka de batata da própria fazenda. Zimbro firme com bastante especiaria quente (canela, cravo, noz-moscada, gengibre) e limão ao fundo; textura levemente cremosa da base de batata e final longo e seco. Bom para quem quer um gin austero e especiado em drinks mexidos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:martini",
+        "nota": 4,
+        "frase": "Muito seco e especiado, com corpo de batata: Dry Martini firme, que pede pouco vermute e twist de limão."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Canela, cravo e gengibre seguram o Campari e combinam com a especiaria do vermute rosso."
+      },
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 4,
+        "frase": "Zimbro e especiaria quente num G&T seco; use tônica pouco doce e casca de limão."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 3,
+        "frase": "O perfil seco e especiado aguenta o vermute doce e o Fernet sem o drink ficar pesado."
+      }
+    ],
+    "foto": "img/garrafas/chase_gb_extra_dry.webp",
+    "fotoOrigem": "20261108_160315751_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/spirits/gin-and-juniper-spirits/BWS005663/williams-chase-great-british-extra-dry-gin",
+      "https://distiller.com/spirits/williams-great-british-extra-dry-gin"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "sipsmith_london_dry",
+    "rotulo": "Sipsmith London Dry Gin (Travel Retail, 1 L)",
+    "marca": "Sipsmith",
+    "produtor": "Sipsmith (Suntory Global Spirits)",
+    "tipo": "gin_london_dry",
+    "abv": 44.1,
+    "volumeMl": 1000,
+    "pais": "Reino Unido",
+    "regiao": "Londres",
+    "composicao": "zimbro macedônio, coentro, angélica, alcaçuz, raiz de íris, amêndoa, cássia, canela, laranja-de-sevilha e casca de limão; destilação em alambique de cobre, método 'one shot'",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "London Dry clássico destilado em alambique de cobre em Londres, aqui na versão de 1 L a 44,1% feita para duty free. Zimbro limpo de pinho, coentro, limão e laranja-de-sevilha, e final seco com alcaçuz. Referência de gin seco equilibrado; a graduação extra dá estrutura em drinks mexidos e com cítrico.",
+    "melhorUso": [
+      {
+        "alvo": "receita:martini",
+        "nota": 5,
+        "frase": "Zimbro limpo, cítrico e final seco de alcaçuz: é o padrão de Dry Martini; a 44,1% fica ainda mais firme."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Zimbro e alcaçuz seguram o Campari e o vermute em partes iguais sem o gin sumir."
+      },
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 4,
+        "frase": "G&T clássico e seco, com o cítrico do gin em destaque; casca de limão ou laranja."
+      },
+      {
+        "alvo": "receita:gimlet",
+        "nota": 4,
+        "frase": "Os cítricos do gin casam com a lima, e a graduação alta não se perde no cordial."
+      },
+      {
+        "alvo": "receita:french_75",
+        "nota": 4,
+        "frase": "Seco e cítrico, combina com limão e espumante num French 75 bem nítido."
+      }
+    ],
+    "foto": "img/garrafas/sipsmith_london_dry.webp",
+    "fotoOrigem": "20261108_160301848_iOS.dng",
+    "fontes": [
+      "https://sipsmith.com/product/sipsmith-london-dry-gin/",
+      "https://www.diffordsguide.com/beer-wine-spirits/564/sipsmith-london-dry-gin",
+      "https://shop.frankfurt-airport.com/en-US/product/sipsmith-gin-44-1-1l_e596cc1f04361aa7"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "yvy_gin_terra",
+    "rotulo": "YVY Terra – Gin Seco Nativo (refil)",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "gin_contemporaneo",
+    "abv": 47.5,
+    "volumeMl": 710,
+    "pais": "Brasil",
+    "regiao": "Minas Gerais",
+    "composicao": "19 botânicos, entre eles zimbro, baunilha, caju, pacová, erva-mate, cambuci, cacau, puxuri, pinhão e maracujá",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Gin brasileiro de botânicos nativos (erva-mate, pacová, cambuci, cacau, puxuri, pinhão, maracujá, baunilha) em graduação alta. Nariz terroso e especiado; na boca, doçura de cacau e baunilha equilibrada por mate, pimenta e zimbro tostado. Encorpado e quente, pede mixers com sabor e drinks mais escuros.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Cacau, mate e baunilha dão um Negroni mais escuro e redondo; os 47,5% seguram o Campari."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com ginger ale e rodela de limão, como sugere o produtor: o gengibre puxa as especiarias e o mate."
+      },
+      {
+        "alvo": "familia:duo_trio",
+        "nota": 3,
+        "frase": "Com licor de café (estilo Espresso Martini, sugestão do produtor), cacau e baunilha se somam ao café."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 3,
+        "frase": "A graduação alta e o lado de cacau aguentam açúcar e bitters num Old Fashioned de gin."
+      },
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 3,
+        "frase": "Funciona na tônica, mas o lado doce de cacau pede tônica seca e casca de laranja."
+      }
+    ],
+    "foto": "img/garrafas/yvy_gin_terra.webp",
+    "fotoOrigem": "20261108_161257196_iOS.dng",
+    "fontes": [
+      "https://www.thecuriousdrinker.com/blogs/cocktail-recipes/craft-gin-club-january-2023-gin-of-the-month-gin-yvy-mar-from-yvy-distilaria",
+      "https://forbes.com.br/forbeslife/2021/03/os-10-melhores-gins-nacionais-segundo-especialistas/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "yvy_gin_mar",
+    "rotulo": "YVY Mar – Gin Seco Clássico",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "gin_london_dry",
+    "abv": 46,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Minas Gerais",
+    "composicao": "zimbro, coentro, amêndoa, canela, cardamomo, noz-moscada, alcaçuz, angélica, íris, limão, laranja e alga kombu; base de destilado de cana",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Gin seco brasileiro de receita clássica (zimbro, coentro, angélica, íris, cítricos), com especiarias quentes e um toque de alga kombu. Cítrico e brilhante no nariz, canela e cardamomo na boca e final longo com leve fundo salino. Versátil, vai bem nos clássicos de gin.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Os 46% e a especiaria quente (canela, cardamomo) dão estrutura para o Campari e o vermute."
+      },
+      {
+        "alvo": "receita:martini",
+        "nota": 4,
+        "frase": "Seco e cítrico, e a kombu deixa um fundo salino que combina com Martini de azeitona."
+      },
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 4,
+        "frase": "Cítrico e especiado na tônica; o produtor sugere fatias de abacaxi como guarnição."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 3,
+        "frase": "Alongado com limão e soda continua firme pela graduação; as especiarias ficam na frente."
+      }
+    ],
+    "foto": "img/garrafas/yvy_gin_mar.webp",
+    "fotoOrigem": "20261108_160428682_iOS.dng",
+    "fontes": [
+      "https://www.thecuriousdrinker.com/blogs/cocktail-recipes/craft-gin-club-january-2023-gin-of-the-month-gin-yvy-mar-from-yvy-distilaria",
+      "https://forbes.com.br/forbeslife/2021/03/os-10-melhores-gins-nacionais-segundo-especialistas/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "jameson",
+    "rotulo": "Jameson",
+    "marca": "Jameson",
+    "produtor": "Irish Distillers (Pernod Ricard)",
+    "tipo": "irish_whiskey",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Irlanda",
+    "regiao": "Midleton, Cork",
+    "composicao": "Blend de pot still irlandês (cevada maltada e não maltada, destilação tripla) e whiskey de grão de coluna (milho e cevada); barris ex-bourbon e uma parte ex-xerez oloroso; sem idade declarada.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Irish blend triplamente destilado, macio e redondo: mel, baunilha, milho amanteigado e um leve floral, com nozes de xerez e especiaria suave no fim. Não tem fumaça. Em drinks entra fácil e não domina, e vai bem com café, gengibre e cítricos.",
+    "melhorUso": [
+      {
+        "alvo": "familia:quente",
+        "nota": 4,
+        "frase": "Macio e levemente doce: base clássica de Irish Coffee e toddy, se integra ao café e ao creme sem brigar."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com ginger ale e limão (o serviço da casa) fica leve e refrescante; o mel do whiskey aparece."
+      },
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 3,
+        "frase": "Com soda vira um highball suave e limpo; tem menos presença que um scotch ou um bourbon."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Whiskey sour leve e frutado; menos estrutura que com bourbon, então pede menos açúcar."
+      }
+    ],
+    "foto": "img/garrafas/jameson.webp",
+    "fotoOrigem": "20261108_160150755_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/1335/jameson-irish-whiskey"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "mezcal_union_uno",
+    "rotulo": "Mezcal Unión Uno",
+    "marca": "Mezcal Unión",
+    "produtor": "Mezcal Unión (coletivo de famílias produtoras de Oaxaca)",
+    "tipo": "mezcal",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Oaxaca",
+    "composicao": "Mezcal artesanal joven 100% agave: espadín (A. angustifolia) e cirial (A. karwinskii) de 8 a 14 anos; agave assado por cerca de 4 dias e destilado em alambique de cobre.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 3,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "notas": "Mezcal joven de entrada, pensado para misturar: fumaça de lenha média, agave assado adocicado, pera e maçã verde, fundo de terra molhada e ervas mentoladas. O cirial puxa para o lado terroso e cítrico. Em drinks a fumaça aparece sem dominar.",
+    "melhorUso": [
+      {
+        "alvo": "receita:mezcal_negroni",
+        "nota": 4,
+        "frase": "Fumaça média e fruta de pera: aparece no Negroni sem apagar o Campari nem o vermute."
+      },
+      {
+        "alvo": "receita:paloma",
+        "nota": 4,
+        "frase": "O produtor indica a Paloma: toranja e sal realçam a fruta e deixam a fumaça como pano de fundo."
+      },
+      {
+        "alvo": "receita:margarita",
+        "nota": 4,
+        "frase": "Numa margarita cítrica a fumaça vira tempero; boa para ter o perfil de mezcal sem exagero."
+      },
+      {
+        "alvo": "familia:old_fashioned",
+        "nota": 3,
+        "frase": "Mexido com agave e bitters funciona; dividindo a base com tequila reposado fica ainda melhor."
+      }
+    ],
+    "foto": "img/garrafas/mezcal_union_uno.webp",
+    "fotoOrigem": "20261108_160608823_iOS.dng",
+    "fontes": [
+      "https://www.thebar.com/en-us/products/mezcal-union-uno-joven-750-ml",
+      "https://mezcalreviews.com/?p=500"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "madre_mezcal_espadin",
+    "rotulo": "Madre Mezcal Espadín",
+    "marca": "Madre",
+    "produtor": "Madre Mezcal (famílias de mezcaleros de Oaxaca)",
+    "tipo": "mezcal",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Oaxaca",
+    "composicao": "Mezcal artesanal joven, 100% agave espadín; assado em forno de chão, moído em tahona, fermentação aberta com leveduras nativas.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 2,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "notas": "Espadín de fumaça discreta, mais verde e terroso do que defumado: grama, hortelã, agave assado e açúcar queimado, com final de especiaria ácida. Com 40% tem corpo leve, o que facilita misturar; quem procura muita fumaça vai achá-lo contido.",
+    "melhorUso": [
+      {
+        "alvo": "receita:paloma",
+        "nota": 4,
+        "frase": "Fumaça leve e lado herbal combinam com toranja e sal; a Paloma fica fresca, sem gosto de cinza."
+      },
+      {
+        "alvo": "receita:margarita",
+        "nota": 4,
+        "frase": "Margarita de mezcal suave: agave verde e hortelã aparecem e a fumaça só tempera."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "O próprio produtor sugere long drinks com hibisco ou goiaba e soda; o corpo leve vai bem no copo longo."
+      },
+      {
+        "alvo": "familia:old_fashioned",
+        "nota": 3,
+        "frase": "Funciona mexido com mel ou agave e bitters de cacau, como na receita do produtor; adoce com cuidado."
+      },
+      {
+        "alvo": "receita:mezcal_negroni",
+        "nota": 3,
+        "frase": "No Negroni a fumaça fica discreta e o drink sai mais herbal que defumado."
+      }
+    ],
+    "foto": "img/garrafas/madre_mezcal_espadin.webp",
+    "fotoOrigem": "20261108_160631449_iOS.dng",
+    "fontes": [
+      "https://madremezcal.com/pages/mezcal",
+      "https://madremezcal.com/blogs/news/espadin-cocktail-recipes",
+      "https://www.mezcalculture.com/brands/madre",
+      "https://mezcalistas.com/brand/madre-mezcal"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "pisco_tres_erres_especial",
+    "rotulo": "Pisco Especial Tres Erres 35°",
+    "marca": "Tres Erres",
+    "produtor": "Compañía Pisquera de Chile (grupo CCU)",
+    "tipo": "pisco_chileno",
+    "abv": 35,
+    "volumeMl": 1000,
+    "pais": "Chile",
+    "regiao": "Valle de Elqui",
+    "composicao": "Uvas Moscatel (Rosada e de Áustria) e Pedro Jiménez; dupla destilação; repouso em carvalho (cor palha).",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Pisco chileno de 35°, leve e fácil, com aroma de uva moscatel e flores e um toque discreto de madeira e baunilha do repouso em carvalho, que dá a cor palha. Menos aromático e alcoólico que um pisco peruano mosto verde; feito para drinks longos e sours do dia a dia.",
+    "melhorUso": [
+      {
+        "alvo": "receita:pisco_sour",
+        "nota": 4,
+        "frase": "É o estilo chileno de pisco sour: mais leve e floral; com 35° pede um pouco menos de limão e açúcar."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Base clássica da piscola e de long drinks com ginger ale ou tônica, onde o moscatel aparece sem pesar."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 3,
+        "frase": "Num Collins o floral da moscatel faz as vezes do gin; drink leve e refrescante."
+      }
+    ],
+    "foto": "img/garrafas/pisco_tres_erres_especial.webp",
+    "fotoOrigem": "20261108_161348699_iOS.dng",
+    "fontes": [
+      "https://www.jumbo.cl/pisco-tres-erres-1-l-doble-destilado-35/p",
+      "https://www.mundomaritimo.cl/noticias/grupo-luksic-adquiere-el-40-de-pisquera-peruana-barsol"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "pisco_1615_italia_mosto_verde",
+    "rotulo": "1615 Pisco Italia Mosto Verde",
+    "marca": "1615",
+    "produtor": "Bodega San Nicolás",
+    "tipo": "pisco_peruano",
+    "abv": 42,
+    "volumeMl": 700,
+    "pais": "Peru",
+    "regiao": "Ica",
+    "composicao": "100% uva Italia (aromática), mosto verde: destilado de mosto ainda em fermentação em alambique de cobre; 6 meses em inox, sem madeira; safra 2021.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Pisco peruano aromático de uva Italia, no estilo mosto verde: maçã verde, cítricos, uva fresca e flores brancas, boca frutada e redonda com sensação de frescor. Os 42% dão firmeza sem esconder o aroma, que atravessa bem o limão e a clara de ovo.",
+    "melhorUso": [
+      {
+        "alvo": "receita:pisco_sour",
+        "nota": 4,
+        "frase": "A Italia mosto verde perfuma o sour com flor e fruta; mais aromático que um quebranta e de corpo mais redondo."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "No Chilcano (pisco, ginger ale e limão) o aroma floral aparece por cima do gengibre."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 3,
+        "frase": "Num Pisco Punch com abacaxi e limão, a fruta da uva Italia combina com naturalidade."
+      }
+    ],
+    "foto": "img/garrafas/pisco_1615_italia_mosto_verde.webp",
+    "fotoOrigem": "20261108_160513668_iOS.dng",
+    "fontes": [
+      "https://www.vinmonopolet.no/Land/Peru/Ica/Pisco-1615-Mosto-Verde-Italia/p/14110301"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "yvy_rum",
+    "rotulo": "YVY Rum",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "rum",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": null,
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rum da YVY, destilaria brasileira conhecida pelos gins. Não há ficha pública com matéria-prima, envelhecimento ou notas, e o vidro azul opaco esconde a cor; o perfil é o de um rum genérico. Prove puro: se for claro e seco, use como rum branco; se tiver madeira, como envelhecido.",
+    "melhorUso": [
+      {
+        "alvo": "receita:daiquiri",
+        "nota": 3,
+        "frase": "Rum de 40% sem estilo confirmado: rende um daiquiri correto; ajuste o açúcar depois de provar."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com cola, soda ou ginger ale e limão funciona sem depender do estilo exato."
+      },
+      {
+        "alvo": "familia:tiki",
+        "nota": 3,
+        "frase": "Entra bem como uma das bases de um tiki, ao lado de um rum de perfil conhecido."
+      }
+    ],
+    "foto": "img/garrafas/yvy_rum.webp",
+    "fotoOrigem": "20261108_160653544_iOS.dng",
+    "fontes": [
+      "https://www.yvydestilaria.com.br/",
+      "https://theinspirationgrid.com/yvy-mar-gin-branding-packaging-by-estudio-bogota"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "rittenhouse_rye_bib",
+    "rotulo": "Rittenhouse Rye Bottled-in-Bond",
+    "marca": "Rittenhouse",
+    "produtor": "Heaven Hill Distillery",
+    "tipo": "rye_whiskey",
+    "abv": 50,
+    "volumeMl": 750,
+    "pais": "EUA",
+    "regiao": "Kentucky",
+    "composicao": "Straight rye Bottled-in-Bond: 51% centeio, 35% milho e 14% cevada maltada (algumas fontes dão 37% milho e 12% cevada); 4 anos em carvalho americano novo tostado; 100 proof.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rye clássico de bar, 4 anos e 100 proof: frutas secas, toffee e pimenta-doce no nariz, boca de cacau, canela, noz-moscada e casca de laranja, final longo e picante. Tem bastante milho para um rye, então é picante mas redondo. O teor alto aguenta diluição e vermute.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 5,
+        "frase": "Rye de bar por excelência: 50% e especiaria seguram o vermute doce sem o drink ficar mole."
+      },
+      {
+        "alvo": "receita:sazerac",
+        "nota": 5,
+        "frase": "Especiaria e teor alto sustentam açúcar, Peychaud's e absinto; é um dos ryes-padrão desse drink."
+      },
+      {
+        "alvo": "receita:vieux_carre",
+        "nota": 4,
+        "frase": "Dá a espinha seca e picante que equilibra o conhaque e o Bénédictine."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Cacau, laranja e pimenta no destilado; aguenta bem a diluição longa no gelo."
+      },
+      {
+        "alvo": "receita:toronto",
+        "nota": 4,
+        "frase": "A 50% não some diante do Fernet; a especiaria do rye casa com a menta do amaro."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Versão com rye: mais seca e picante que com bourbon, segura bem o Campari."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "bourbon",
+        "qualidade": 2,
+        "nota": "Rye de centeio mínimo e bastante milho; em receita de bourbon fica mais picante e seco."
+      }
+    ],
+    "foto": "img/garrafas/rittenhouse_rye_bib.webp",
+    "fotoOrigem": "20261108_160041823_iOS.dng",
+    "fontes": [
+      "https://heavenhilldistillery.com/rittenhouse-rye.php",
+      "https://www.diffordsguide.com/beer-wine-spirits/1384/rittenhouse-bottled-in-bond",
+      "https://www.drinkhacker.com/2014/06/30/review-rittenhouse-straight-rye-whisky-100-proof-bottled-in-bond/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "sotol_la_higuera",
+    "rotulo": "La Higuera Sotol Wheeleri",
+    "marca": "La Higuera",
+    "produtor": "El Árbol del Pecado S.A. de C.V. (sotolero Gerardo Ruelas)",
+    "tipo": "sotol",
+    "abv": 43.4,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Aldama, Chihuahua",
+    "composicao": "Dasylirion wheeleri; cozido em forno cônico de lenha e pedras, fermentação com leveduras selvagens em tinas de pinho de 1000 L, duas destilações em alambique de cobre; joven (lote 35, 01/2023).",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 2,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "notas": "Sotol de Chihuahua feito à moda tradicional, mais herbal do que defumado: capim-limão, hortelã, terra e vegetal verde, com abacaxi quente no meio da boca e uma fumaça leve ao fundo. Os lotes variam bastante; vai bem puro e é muito versátil em drinks cítricos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:margarita",
+        "nota": 4,
+        "frase": "Mais verde e mineral que uma tequila blanco, com fumaça leve: margarita herbal e diferente."
+      },
+      {
+        "alvo": "receita:paloma",
+        "nota": 4,
+        "frase": "Ervas e abacaxi encontram a toranja; a Paloma fica mais aromática que a de tequila."
+      },
+      {
+        "alvo": "receita:mezcal_negroni",
+        "nota": 3,
+        "frase": "Troca o mezcal por algo menos defumado e mais herbal; o Negroni fica verde e terroso."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda ou tônica e limão o lado de capim-limão aparece bem no copo longo."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "mezcal",
+        "qualidade": 2,
+        "nota": "menos fumaça e mais erva; serve em drinks de mezcal que aceitam perfil mais verde"
+      }
+    ],
+    "foto": "img/garrafas/sotol_la_higuera.webp",
+    "fotoOrigem": "20261108_160551092_iOS.dng",
+    "fontes": [
+      "https://mezcalreviews.com/?p=3894"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "herradura_reposado",
+    "rotulo": "Herradura Reposado",
+    "marca": "Herradura",
+    "produtor": "Casa Herradura (Tequila Herradura S.A. de C.V., NOM 1119)",
+    "tipo": "tequila_reposado",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Amatitán, Jalisco",
+    "composicao": "100% agave azul; cozido em fornos de barro, fermentação natural com leveduras do ambiente; 11 meses em barris de carvalho americano.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Reposado de 11 meses em carvalho americano, no limite da categoria: agave cozido com caramelo, baunilha, canela e maçã caramelada, e um fundo de chocolate amargo, amêndoa e pimenta-do-reino. Tem mais madeira e doçura que um reposado curto, mas o agave ainda aparece.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rosita",
+        "nota": 4,
+        "frase": "A Rosita pede reposado: caramelo e canela fazem ponte com os dois vermutes e o Campari."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Onze meses de barril dão estrutura para um Old Fashioned de tequila com agave e bitters."
+      },
+      {
+        "alvo": "receita:margarita",
+        "nota": 4,
+        "frase": "Margarita mais redonda e amadeirada que a de blanco; combina com licor de laranja mais doce."
+      },
+      {
+        "alvo": "receita:paloma",
+        "nota": 3,
+        "frase": "Funciona, mas a madeira disputa com a toranja; para uma Paloma fresca um blanco é mais direto."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "tequila_anejo",
+        "qualidade": 2,
+        "nota": "11 meses em carvalho aproximam do añejo em drinks mexidos"
+      }
+    ],
+    "foto": "img/garrafas/herradura_reposado.webp",
+    "fotoOrigem": "20261108_160540762_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/1119/herradura-reposado-tequila",
+      "https://www.herradura.com/the-story/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "belvedere",
+    "rotulo": "Belvedere Vodka",
+    "marca": "Belvedere",
+    "produtor": "Polmos Żyrardów (LVMH)",
+    "tipo": "vodka",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Polônia",
+    "regiao": "Żyrardów, Mazóvia",
+    "composicao": "100% centeio Dankowskie; água de poço local; sem aditivos",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Vodka polonesa de centeio Dankowskie, sem aditivos. Limpa, com leve doçura de baunilha, pimenta-branca do centeio e textura aveludada. Tem mais presença que vodkas de trigo, sem sabor que atrapalhe o drink.",
+    "melhorUso": [
+      {
+        "alvo": "receita:martini",
+        "nota": 4,
+        "frase": "Num Vodka Martini, o centeio dá corpo aveludado e um toque de pimenta e baunilha; sirva bem gelado."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Limpa e macia, alonga bem com soda ou tônica e tem mais corpo que vodka de trigo."
+      },
+      {
+        "alvo": "familia:duo_trio",
+        "nota": 4,
+        "frase": "Base cremosa e neutra para licor de café (Black Russian, Espresso Martini) sem brigar com ele."
+      },
+      {
+        "alvo": "familia:daisy",
+        "nota": 3,
+        "frase": "Em Cosmopolitan e Kamikaze dá corpo sem mexer na fruta nem no licor de laranja."
+      }
+    ],
+    "foto": "img/garrafas/belvedere.webp",
+    "fotoOrigem": "20261108_155812491_iOS.dng",
+    "fontes": [
+      "https://vinepair.com/articles/ntk-belvedere-vodka-guide/",
+      "https://alcademics.com/a-belvedere-vodka-distillery-visit-and-the-science-of-terroir-in-the-single-estate-series/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "whisky_ye_monks",
+    "rotulo": "Ye Whisky of Ye Monks (Union Distillery)",
+    "marca": "Whisky of Ye Monks",
+    "produtor": "Union Distillery (segundo o rótulo)",
+    "tipo": "scotch_blended",
+    "abv": null,
+    "volumeMl": null,
+    "pais": null,
+    "regiao": null,
+    "composicao": "O rótulo diz Scotch Whisky envelhecido em barris de carvalho. O Ye Monks original (Donald Fisher Ltd, Edimburgo, 1893) é um blended scotch de cerca de 40 whiskies; a composição desta jarra é desconhecida.",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Jarra antiga de cerâmica, peça de coleção. O Ye Monks original é um blended scotch suave; um review de jarra dos anos 1970 cita cítrico, frutas secas, mel e final com leve turfa. O perfil abaixo é o de um blended scotch típico, sem prova desta garrafa.",
+    "melhorUso": [
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 3,
+        "frase": "Blend suave: com soda funciona como qualquer scotch leve, sem pedir nada específico."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 3,
+        "frase": "Blend macio aceita bem vermute doce e Angostura, num Rob Roy clássico e leve."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Em toddy com mel e limão, um blend suave e pouco turfado é o que basta."
+      }
+    ],
+    "foto": "img/garrafas/whisky_ye_monks.webp",
+    "fotoOrigem": "20261108_160221920_iOS.dng",
+    "fontes": [
+      "https://scotchwhisky.com/whiskypedia/2559/ye-whisky-of-ye-monks/",
+      "https://www.connosr.com/donald-fisher-ltd-ye-whisky-of-ye-monks-whisky-review-13830",
+      "https://thewhiskeywash.com/whiskey-articles/brazil-has-been-making-whisky-for-50-years-so-why-havent-you-heard-about-it/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "nikka_from_the_barrel",
+    "rotulo": "Nikka From The Barrel",
+    "marca": "Nikka",
+    "produtor": "Nikka Whisky (Asahi)",
+    "tipo": "whisky_japones",
+    "abv": 51.4,
+    "volumeMl": 500,
+    "pais": "Japão",
+    "regiao": null,
+    "composicao": "Blend de mais de cem whiskies de malte e grão, com base nos maltes de Yoichi e Miyagikyo e no grão Coffey; casado de novo em barril por alguns meses; força quase de barril; sem idade. O verso japonês indica parte do whisky de grão produzida no Reino Unido.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Blend de malte e grão da Nikka em força quase de barril: carvalho, baunilha, chocolate e casca de laranja no nariz, boca densa e doce com tanino de madeira, final longo, amadeirado e levemente amargo. É concentrado: pede dose menor ou um pouco de água, e dá estrutura a drinks mexidos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "A 51,4% e denso, segura açúcar e diluição; o carvalho e a laranja fazem o trabalho dos bitters."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Carvalho e chocolate seguram o vermute doce; menos picante que com rye, mais redondo e amadeirado."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 4,
+        "frase": "Malte e grão como um blend escocês, só que bem mais concentrado: Rob Roy encorpado e longo."
+      },
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 4,
+        "frase": "O teor alto sobrevive à soda: highball com bem mais sabor que um blend de 40%."
+      },
+      {
+        "alvo": "receita:mizuwari",
+        "nota": 3,
+        "frase": "Aceita muita água e ainda mostra baunilha e laranja; a madeira fica mais macia."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "scotch_blended",
+        "qualidade": 3,
+        "nota": "Blend de malte e grão de estilo escocês, mais denso e alcoólico: use um pouco menos."
+      }
+    ],
+    "foto": "img/garrafas/nikka_from_the_barrel.webp",
+    "fotoOrigem": "20261108_160000633_iOS.dng",
+    "fontes": [
+      "https://nikka.com/en/brands/fromthebarrel/",
+      "https://nikka.com/en/brands/fromthebarrel/articles_1/",
+      "https://www.thewhiskyexchange.com/p/2928"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "nikka_coffey_grain",
+    "rotulo": "Nikka Coffey Grain",
+    "marca": "Nikka",
+    "produtor": "Nikka Whisky (Asahi)",
+    "tipo": "whisky_japones",
+    "abv": 45,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Miyagi (destilaria Miyagikyo)",
+    "composicao": "Whisky de grão, principalmente milho, destilado em alambique contínuo Coffey; maturado em barris usados de carvalho americano, refeitos e retostados; sem idade declarada.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Whisky de grão de milho feito em coluna Coffey: lembra um bourbon leve, com baunilha, milho doce, coco, banana e mel, e um toque de camomila. Macio, sem aspereza e de final limpo. Abre bem com água e soda e traz doçura redonda a drinks clássicos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 4,
+        "frase": "Doce e macio, abre bem na soda; o highball fica cremoso e com baunilha, sem amargor."
+      },
+      {
+        "alvo": "receita:mizuwari",
+        "nota": 4,
+        "frase": "Sem arestas para esconder: com água gelada mostra milho, mel e frutas tropicais."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Lembra um bourbon delicado: açúcar e Angostura realçam milho e baunilha sem pesar."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Manhattan redondo e pouco picante; o vermute aparece mais do que com rye."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Doçura de milho e frutas tropicais combinam com limão; corpo leve pede clara de ovo."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "bourbon",
+        "qualidade": 2,
+        "nota": "Milho e baunilha lembram bourbon, mas sem carvalho novo e com corpo mais leve."
+      }
+    ],
+    "foto": "img/garrafas/nikka_coffey_grain.webp",
+    "fotoOrigem": "20261108_160020796_iOS.dng",
+    "fontes": [
+      "https://www.nikka.com/en/brands/coffey-grain-malt/",
+      "https://www.masterofmalt.com/whiskies/nikka/nikka-coffey-grain-whisky-70cl/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "kanosuke_single_malt",
+    "rotulo": "Kanosuke Single Malt",
+    "marca": "Kanosuke",
+    "produtor": "Komasa Jyozo (Kanosuke Distillery)",
+    "tipo": "whisky_japones",
+    "abv": 48,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Kagoshima",
+    "composicao": "Single malt de três alambiques pot still; base de barris de carvalho americano retostados que guardaram shochu (Mellowed Kozuru), mais barris ex-xerez e ex-bourbon; jovem, sem idade declarada; sem filtragem a frio.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Single malt jovem de Kagoshima, frutado e luminoso: mel, banana, chá com limão e caramelo no nariz, boca de marmelo em calda, canela japonesa e gengibre, final agridoce de tanino de chá. Os barris de shochu dão um frutado próprio. Brilha com água e em highball.",
+    "melhorUso": [
+      {
+        "alvo": "receita:mizuwari",
+        "nota": 4,
+        "frase": "Mel, banana e chá com limão se abrem com água; a 48% tem estrutura para diluir bastante."
+      },
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 4,
+        "frase": "Frutado e cítrico com toque de canela: highball aromático, mais vivo que com um blend."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 3,
+        "frase": "Mel e tanino de chá dão um Old Fashioned leve e frutado; use pouco açúcar."
+      },
+      {
+        "alvo": "receita:penicillin",
+        "nota": 3,
+        "frase": "Mel e gengibre já estão no whisky: conversa com o xarope do drink; ainda precisa do float turfado."
+      }
+    ],
+    "foto": "img/garrafas/kanosuke_single_malt.webp",
+    "fotoOrigem": "20261108_155942042_iOS.dng",
+    "fontes": [
+      "https://kanosuke.com/en/products/single-malt-kanosuke",
+      "https://88bamboo.co/blogs/whisky-reviews/kanosuke-single-malt-48-abv"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "komagatake_peated_sherry",
+    "rotulo": "Komagatake Peated × Sherry",
+    "marca": "Komagatake (Mars Whisky)",
+    "produtor": "Hombo Shuzo (Mars Komagatake Distillery)",
+    "tipo": "whisky_japones",
+    "abv": 50,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Nagano",
+    "composicao": "Single malt de malte turfado maturado em barris de xerez; sem idade declarada; sem filtragem a frio; lote limitado lançado em outubro de 2026, o primeiro de uma nova série.",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 3,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Single malt turfado de Nagano maturado em xerez: casca de laranja e mel sob um véu de fumaça de turfa, boca doce e rica com frutas escuras e cacau, final longo, agridoce e defumado. A turfa é delicada, longe de Islay. A 50% sustenta drinks mexidos com vermute.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 4,
+        "frase": "Xerez, cacau e fumaça leve com vermute doce: Rob Roy escuro e profundo, e os 50% seguram bem."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Frutas escuras, laranja e turfa suave; com pouco açúcar vira um Old Fashioned defumado e elegante."
+      },
+      {
+        "alvo": "receita:penicillin",
+        "nota": 3,
+        "frase": "Serve de base com fumaça própria; como float é tímido perto de um Islay."
+      },
+      {
+        "alvo": "receita:mizuwari",
+        "nota": 3,
+        "frase": "A 50% aceita água: mel e laranja sobem e a turfa fica em segundo plano."
+      },
+      {
+        "alvo": "receita:highball_whisky",
+        "nota": 3,
+        "frase": "Highball defumado suave; o xerez dá corpo que um blend comum não tem."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "scotch_turfado",
+        "qualidade": 2,
+        "nota": "Turfa descrita como suave: serve em rinse ou float, mas sem a força de um Islay."
+      }
+    ],
+    "foto": "img/garrafas/komagatake_peated_sherry.webp",
+    "fotoOrigem": "20261108_155922737_iOS.dng",
+    "fontes": [
+      "https://www.hombo.co.jp/en/2026/new-product/20260930-newproduct-whisky/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bizantino_licor_ervas",
+    "rotulo": "San Basile Bizantino",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (San Basile), Tuiuti-SP",
+    "tipo": "licor_ervas",
+    "abv": 35,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "São Paulo (Tuiuti)",
+    "composicao": "licor fino de ervas e flores, receita não divulgada (notas de lavanda, alcaçuz e casca cítrica)",
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Licor de ervas brasileiro da família dos licores 'amarelos', na linha do Chartreuse amarelo, porém mais leve (35%) e bem mais barato. Ervas, flores como lavanda e um toque de casca cítrica no nariz; na boca é doce sem enjoar, com anis e alcaçuz e um fim levemente amargo. Em drinks rende como modificador, em doses pequenas.",
+    "melhorUso": [
+      {
+        "alvo": "familia:daisy",
+        "nota": 4,
+        "frase": "Faz o papel do licor no Daisy (o rótulo traz um Brandy Daisy): mais ervas e menos laranja que um triple sec."
+      },
+      {
+        "alvo": "receita:last_word",
+        "nota": 3,
+        "frase": "Troca acessível do Chartreuse verde: o drink sai mais doce, floral e manso, menos explosivo de ervas."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Meia dose no lugar de parte do xarope (como no 'Solar' do rótulo) dá ervas e anis a um gin sour."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Uma colher num Martini dá o ar de um Alaska; com 35% não domina o drink como o Chartreuse."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com tônica e gelo vira long drink herbal; o amargor da tônica equilibra o açúcar do licor."
+      }
+    ],
+    "foto": "img/garrafas/bizantino_licor_ervas.webp",
+    "fotoOrigem": "20261108_161454876_iOS.dng",
+    "fontes": [
+      "https://mothercityliquor.co.za/products/san-basile-bizantino-liqueur",
+      "https://www.pricecheck.co.za/offers/253948636/Basile+Bizantino+Liqueur",
+      "https://br.my-best.com/lists/17917"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "reykjavik_blueberry",
+    "rotulo": "64° Reykjavik Uliginosum Blueberry",
+    "marca": "64° Reykjavik Distillery",
+    "produtor": "Reykjavik Distillery ehf.",
+    "tipo": "licor_frutas_vermelhas",
+    "abv": 21,
+    "volumeMl": 200,
+    "pais": "Islândia",
+    "regiao": "Reykjavík",
+    "composicao": "mirtilo-do-pântano islandês silvestre (Vaccinium uliginosum) e açúcar, sem conservantes; pequeno lote numerado (safra 2023)",
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Licor de pequeno lote feito com mirtilos silvestres colhidos à mão nas terras altas da Islândia, com safra, lote e número da garrafa no rótulo. Fruta escura intensa, um pouco terrosa e ácida, menos açucarado que um crème de cassis ou de mûre típico. Bom puro e gelado, e como modificador de fruta em drinks com espumante e sours.",
+    "melhorUso": [
+      {
+        "alvo": "receita:bramble",
+        "nota": 4,
+        "frase": "No lugar do crème de mûre: fruta silvestre escura e terrosa, com menos açúcar, deixa o gin aparecer."
+      },
+      {
+        "alvo": "familia:champagne_cocktail",
+        "nota": 4,
+        "frase": "Um fio no espumante faz um Kir Royal nórdico; menos doce que o cassis, não pesa."
+      },
+      {
+        "alvo": "familia:daisy",
+        "nota": 3,
+        "frase": "Substitui o licor de laranja num Daisy, como na Blueberry Margarita de mezcal que a destilaria sugere."
+      },
+      {
+        "alvo": "familia:fizz_collins",
+        "nota": 3,
+        "frase": "Alongado com soda e limão vira um fizz leve; a acidez do mirtilo segura bem a diluição."
+      }
+    ],
+    "foto": "img/garrafas/reykjavik_blueberry.webp",
+    "fotoOrigem": "20261108_161526593_iOS.dng",
+    "fontes": [
+      "https://reykjavikdistillery.is/?portfolio_page=blueberry-uliginosum",
+      "https://reykjavikdistillery.is/?portfolio_page=bluberry",
+      "https://vinepair.com/articles/icelandic-unique-spirits-distillers",
+      "https://blog.thewhiskyexchange.com/?p=19671"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "limoncino_bottega",
+    "rotulo": "Bottega Limoncino",
+    "marca": "Bottega",
+    "produtor": "Bottega S.p.A. (Sandro Bottega)",
+    "tipo": "limoncello",
+    "abv": 30,
+    "volumeMl": null,
+    "pais": "Itália",
+    "regiao": "Vêneto (limões da Sicília)",
+    "composicao": "casca de limão Femminello da Sicília macerada cerca de 30 dias em álcool, açúcar e um toque de grappa",
+    "perfil": {
+      "doce": 5,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Limoncello feito no Vêneto com casca de limão siciliano e finalizado com um pouco de grappa, que arredonda o corpo. Doce, cheio e suculento, mais limão maduro do que casca ácida. Serve-se muito gelado puro ou como adoçante cítrico em spritzes e drinks com espumante.",
+    "melhorUso": [
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "Faz um Limoncello Spritz direto: doce e cheio, aguenta espumante e soda sem perder o limão."
+      },
+      {
+        "alvo": "familia:champagne_cocktail",
+        "nota": 4,
+        "frase": "Uma dose num flute de prosecco troca o cubo de açúcar por limão maduro."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com tônica e muito gelo vira long drink cítrico; como é bem doce, prefira tônica mais seca."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Num Lemon Drop com vodka e limão substitui o xarope; por ser mais doce, use menos."
+      }
+    ],
+    "foto": "img/garrafas/limoncino_bottega.webp",
+    "fotoOrigem": "20261108_161601370_iOS.dng",
+    "fontes": [
+      "https://www.bottegaspa.com/en/collezioni/limoncino/",
+      "https://www.bottegaspa.com/en/collezioni/limoncino-21/",
+      "https://www.nicolas.com/en/Liquors/LIMONCINO-BOTTEGA-30%25VOL/p/488790.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "villa_massa_limoncello",
+    "rotulo": "Villa Massa Limoncello",
+    "marca": "Villa Massa",
+    "produtor": "Villa Massa S.r.l.",
+    "tipo": "limoncello",
+    "abv": 30,
+    "volumeMl": 500,
+    "pais": "Itália",
+    "regiao": "Campânia (Piano di Sorrento)",
+    "composicao": "só a casca do limão Ovale di Sorrento IGP infusionada em álcool, com açúcar e água; sem aromas ou corantes artificiais",
+    "perfil": {
+      "doce": 5,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Limoncello de Sorrento feito apenas com a casca do limão Ovale IGP. Aroma de casca recém-ralada; boca doce, mas com acidez cítrica viva e um leve toque verde e picante da casca. Mais fresco e menos pesado que limoncellos comuns; brilha gelado e em drinks com espumante ou tônica.",
+    "melhorUso": [
+      {
+        "alvo": "familia:champagne_cocktail",
+        "nota": 4,
+        "frase": "É a base do Villamosa da casa (1 parte para 2 de prosecco): limão fresco no lugar de açúcar e bitters."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "Limoncello Spritz de referência: cítrico vivo o bastante para não enjoar com espumante e soda."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "O 'Villa Massa & Tonica' da casa: tônica e manjericão alongam sem apagar o limão."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Num Lemon Drop com vodka troca o xarope e reforça o limão; a acidez própria pede menos suco."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 3,
+        "frase": "Uma parte no lugar do xarope dá ao Collins um limão mais perfumado; reduza o açúcar."
+      }
+    ],
+    "foto": "img/garrafas/villa_massa_limoncello.webp",
+    "fotoOrigem": "20261108_161549798_iOS.dng",
+    "fontes": [
+      "https://villamassa.com/limoncello/",
+      "https://www.falstaff.com/en/spirits/dettling-marmot-villa-massa-limoncello",
+      "https://www.callmewine.com/en/limoncello-villa-massa-50cl-P27392.htm"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "soberbo_vermouth",
+    "rotulo": "Poças Soberbo Vermouth",
+    "marca": "Soberbo (Poças)",
+    "produtor": "Manoel D. Poças Júnior, Vinhos S.A.",
+    "tipo": "vermute_bianco",
+    "abv": 18.5,
+    "volumeMl": 750,
+    "pais": "Portugal",
+    "regiao": "Douro (Vila Nova de Gaia)",
+    "composicao": "Vinho do Porto branco com 18 botânicos colhidos nas quintas da Poças no Douro; receita inspirada em registros dos anos 1930–40",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 1
+    },
+    "notas": "Vermute português de base de Porto branco, cor palha-dourada, com casca de laranja, tangerina, esteva, açafrão e alecrim no nariz. A boca é macia e encorpada como a de um Porto, com mel e um amargor discreto no fim. Fica entre um bianco italiano e um Porto branco: ótimo com tônica e como modificador doce em drinks claros.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com tônica e laranja vira um Porto tónico mais aromático; a base de Porto dá um corpo que o bianco não tem."
+      },
+      {
+        "alvo": "receita:white_negroni",
+        "nota": 3,
+        "frase": "No lugar do Lillet: mais doce e encorpado, segura bem a genciana; diminua um pouco a dose."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 3,
+        "frase": "Spritz de bianco com espumante e soda: mel e laranja aparecem bem, o amargor fica leve."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Num Martini meio a meio traz mel e cítricos; tem mais corpo e açúcar que um vermute dry."
+      }
+    ],
+    "foto": "img/garrafas/soberbo_vermouth.webp",
+    "fotoOrigem": "20261108_154454088_iOS.dng",
+    "fontes": [
+      "https://www.pocas.pt/products/soberbo-vermouth",
+      "https://houseoftownend.com/spirits/type/aperitif/pocas-vermouth-soberbo",
+      "https://honest-rare.de/en/vermouth-soberbo",
+      "https://saltofportugal.com/2019/08/26/a-superb-vermouth"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "vermute_fernanda_raul",
+    "rotulo": "Vermute Fernanda & Raul (28.06.2025)",
+    "marca": null,
+    "produtor": null,
+    "tipo": "vermute",
+    "abv": 18,
+    "volumeMl": 500,
+    "pais": null,
+    "regiao": null,
+    "composicao": null,
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Vermute personalizado de lembrança de casamento, sem produtor identificado. O líquido é castanho-avermelhado escuro, o que sugere um estilo rosso, mas o rótulo não diz. Perfil genérico de vermute até alguém provar.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda, gelo e casca de laranja é o jeito mais seguro de conhecer um vermute de estilo desconhecido."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Pela cor escura deve funcionar como vermute doce num Manhattan; prove antes e ajuste a dose."
+      },
+      {
+        "alvo": "familia:negroni",
+        "nota": 3,
+        "frase": "Em partes iguais com gin e bitter; se for mais doce que um rosso comum, reduza a dose."
+      }
+    ],
+    "foto": "img/garrafas/vermute_fernanda_raul.webp",
+    "fotoOrigem": "20261108_155100022_iOS.dng",
+    "fontes": [],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "ataman_original",
+    "rotulo": "Atamán Original Vermut",
+    "marca": "Atamán (Barbadillo)",
+    "produtor": "Bodegas Barbadillo",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 500,
+    "pais": "Espanha",
+    "regiao": "Andaluzia (Sanlúcar de Barrameda)",
+    "composicao": "base de Manzanilla (cerca de 77%) com vinho macerado com ervas e um pouco de vinho quinado; losna, casca de laranja-amarga de Sevilha, alecrim, sabugueiro e cássia; parte de vermutes antigos guardados desde os anos 1970; 140 g/L de açúcar",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 2
+    },
+    "notas": "Vermut de Sanlúcar feito sobre Manzanilla, cor mogno e estilo 'rojo' espanhol. Caramelo, casca de laranja, uva-passa e um fundo oxidativo e salino de xerez; na boca começa doce e termina bem amargo, com quina e losna secando o final. Mais amargo e mais salino que um rosso italiano; ótimo puro com gelo e em drinks mexidos.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Do jeito espanhol (gelo, laranja e um pouco de soda): o amargor e o sal do xerez seguram a diluição."
+      },
+      {
+        "alvo": "receita:adonis",
+        "nota": 4,
+        "frase": "Já tem xerez na base: com fino faz um Adonis mais profundo e amargo que com rosso italiano."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Quina e laranja-amarga dão ao Manhattan um fim seco; o fundo de xerez combina com rye."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Mais amargo que um rosso comum, deixa o Negroni seco e longo; vá de gin firme."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "Com cachaça, a nota de xerez e o amargor de quina dão um Rabo de Galo mais complexo."
+      }
+    ],
+    "foto": "img/garrafas/ataman_original.webp",
+    "fotoOrigem": "20261108_155246272_iOS.dng",
+    "fontes": [
+      "https://www.barbadillo.com/wp-content/uploads/2020/06/ficha-vermut-ataman-barbadillo.pdf",
+      "https://fells.co.uk/wine/ataman-vermut-2/pdf",
+      "https://www.skurnik.com/sku/vermut-ataman-by-bodegas-barbadillo-2/",
+      "https://jerez-xeres-sherry.blogspot.com/2018/05/vermut-ataman-17-bodegas-barbadillo.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "mulassano_bianco",
+    "rotulo": "Mulassano Vermouth Bianco",
+    "marca": "Mulassano",
+    "produtor": "Cav. Pietro Bordiga s.r.l.",
+    "tipo": "vermute_bianco",
+    "abv": 18,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": "Piemonte (Cuneo)",
+    "composicao": "Vermouth di Torino bianco; genciana, casca de limão, hortelã, sabugueiro, pimenta, sálvia, cardamomo, casca de laranja-amarga e baunilha de Madagascar",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Bianco clássico de Torino feito pela destilaria Bordiga, com receita que remonta a 1879 e ao Caffè Mulassano. Ervas, especiarias, pêssego branco e camomila no nariz, com baunilha ao fundo; boca fresca e leve, doçura equilibrada e amargor discreto de genciana. Bianco versátil para spritz, tônica e drinks claros.",
+    "melhorUso": [
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "O spritz da casa (bianco, prosecco seco e soda): baunilha e pêssego aparecem sem açúcar demais."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com tônica e casca de limão, o amargor leve da genciana conversa bem com o quinino."
+      },
+      {
+        "alvo": "receita:white_negroni",
+        "nota": 3,
+        "frase": "No lugar do Lillet, com gin e Suze: mais herbal e baunilhado, um pouco mais doce."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Num Martini meio a meio com gin dá redondeza e baunilha; é mais doce que um dry clássico."
+      }
+    ],
+    "foto": "img/garrafas/mulassano_bianco.webp",
+    "fotoOrigem": "20261108_155010284_iOS.dng",
+    "fontes": [
+      "https://www.mswalker.com/wp-content/uploads/mulassano_vermouth_family_ss.pdf",
+      "https://www.thewhiskyexchange.com/p/48317"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "la_fuerza_blanco",
+    "rotulo": "La Fuerza Vermouth Blanco",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_bianco",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho Torrontés de Mendoza, aguardente de vinho e mosto, com botânicos argentinos e ervas silvestres dos Andes (sálvia, alecrim, camomila, anis, coentro, hortelã, tomilho); cerca de 120 g/L de açúcar",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Vermú argentino de base Torrontés, uva aromática que dá perfume floral e cítrico. Sálvia, alecrim, camomila, anis e coentro; boca fresca, doçura média e amargor baixo. Feito para ser alongado: com soda ou tônica e limão é o uso pensado pelo produtor.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "O serviço da casa é soda ou tônica com limão; o Torrontés perfumado aguenta bem a diluição."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "No spritz da casa (espumante, um pouco de Aperol e soda) faz a base floral e cítrica."
+      },
+      {
+        "alvo": "receita:white_negroni",
+        "nota": 3,
+        "frase": "Troca o Lillet por um bianco mais herbal e floral; o drink fica mais leve e perfumado."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Num Martini meio a meio dá sálvia e cítricos; é mais doce que um dry, então prefira um gin bem seco."
+      }
+    ],
+    "foto": "img/garrafas/la_fuerza_blanco.webp",
+    "fotoOrigem": "20261108_154600999_iOS.dng",
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.vineconnections.com/media/3160/la-fuerza-blanco_tech-sheet.pdf",
+      "https://www.hatchmansfield.com/our-winemakers/zuccardi/wine/la-fuerza-vermouth-blanco-nv-6x75cl"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "la_fuerza_primavera",
+    "rotulo": "La Fuerza Primavera en los Andes",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_bianco",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho Torrontés de Mendoza com flores (hibisco, lavanda, violeta), especiarias e ervas andinas; menos ervas que os outros La Fuerza",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Vermú sazonal de primavera: base Torrontés com hibisco, lavanda e violeta, que dão a cor dourado-rosada e um perfil mais floral do que herbal. Fresco, de doçura média e amargor bem baixo. Brilha alongado com soda e toranja ou com espumante rosé.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com soda e uma fatia de toranja (o serviço da casa): flores e hibisco no centro, sem açúcar demais."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "Spritz com espumante rosé e morango, como sugere o produtor; mais floral que um spritz de bianco."
+      },
+      {
+        "alvo": "receita:white_negroni",
+        "nota": 3,
+        "frase": "Versão floral do White Negroni no lugar do Lillet; violeta e lavanda suavizam a genciana."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 3,
+        "frase": "Num cobbler de vermute com frutas vermelhas e gelo picado, o hibisco reforça a fruta."
+      }
+    ],
+    "foto": "img/garrafas/la_fuerza_primavera.webp",
+    "fotoOrigem": "20261108_154520983_iOS.dng",
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.vineconnections.com/media/254030/la-fuerza-primavera_tech-sheet-vc.pdf",
+      "https://www.cronista.com/clase/gourmet/la-fuerza-de-los-valientes-el-grupo-de-amigos-y-socios-que-recupero-la-identidad-del-vermu-argentino"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "la_fuerza_sideral",
+    "rotulo": "La Fuerza Vermouth Sideral",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "blend de La Fuerza Rojo (base Malbec) com um pouco de La Fuerza Blanco (Torrontés), criado ao menos 12 meses em barricas de carvalho usadas para vinho",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Vermú rojo argentino envelhecido 12 meses em barricas usadas de vinho, com um pouco de Blanco no corte. Escuro e profundo: fruta vermelha e preta e especiarias herdadas do Rojo, ervas e madeira suave; amargor moderado e doçura média. O produtor o pensa para beber puro com gelo e laranja, mas ele segura bem drinks mexidos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Madeira e especiarias do barril casam com rye ou bourbon; dá um Manhattan redondo e pouco enjoativo."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Indicado pelo produtor: mais profundo e amadeirado que um rosso jovem, deixa o Negroni mais longo."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Com bourbon, o toque de barrica do vermute se soma ao do whisky; resultado macio e escuro."
+      },
+      {
+        "alvo": "receita:milano_torino",
+        "nota": 3,
+        "frase": "Meio a meio com Campari e gelo: a madeira arredonda o amargo sem precisar de soda."
+      }
+    ],
+    "foto": "img/garrafas/la_fuerza_sideral.webp",
+    "fotoOrigem": "20261108_154642831_iOS.dng",
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-sideral/",
+      "https://www.vineconnections.com/world-spirits/la-fuerza/la-fuerza-sideral-vermouth/",
+      "https://www.cronista.com/clase/gourmet/la-fuerza-de-los-valientes-el-grupo-de-amigos-y-socios-que-recupero-la-identidad-del-vermu-argentino",
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.hatchmansfield.com/our-winemakers/zuccardi/wine/la-fuerza-vermouth-rojo-nv-6x75cl"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "dolores_rojo",
+    "rotulo": "Vermouth Yriarte Rojo",
+    "marca": "Dolores de Góngora e Yriarte",
+    "produtor": "Bodegas Góngora S.L.",
+    "tipo": "vermute_rosso",
+    "abv": 14.5,
+    "volumeMl": 750,
+    "pais": "Espanha",
+    "regiao": "Villanueva del Ariscal, Sevilha (Andaluzia)",
+    "composicao": "vinho andaluz (Garrido Fino e Pedro Ximénez, segundo catálogo de feira) com ervas selecionadas; receita de vermute do século XIX recuperada pela bodega",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Vermute rojo de bodega andaluza fundada em 1682, leve e de teor baixo (14,5%). Cor mogno escura, nariz de tostado, casca de laranja e caramelo macio; boca de entrada leve, doce e especiada, com amargor de ervas discreto. Rende mais com gelo, soda e laranja do que em drinks mexidos com destilado forte.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Leve e alaranjado, é vermute de bodega para gelo, soda e azeitona; mais fácil de beber que os Torino encorpados."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Corpo leve e laranja tostada: alongado com soda, deixa o Campari conduzir sem pesar."
+      },
+      {
+        "alvo": "receita:adonis",
+        "nota": 4,
+        "frase": "Vermute da terra do xerez, conversa naturalmente com o fino do Adonis; mais caramelo que um Torino."
+      },
+      {
+        "alvo": "receita:milano_torino",
+        "nota": 3,
+        "frase": "Mais leve que o padrão: o Mi-To fica puxado para o Campari, mais refrescante que denso."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Com 14,5% e corpo leve, funciona, mas o Campari domina: Negroni mais aberto e menos redondo."
+      }
+    ],
+    "foto": "img/garrafas/dolores_rojo.webp",
+    "fotoOrigem": "20261108_155427308_iOS.dng",
+    "fontes": [
+      "https://www.bodegasgongora.com/producto/vermouth-yriarte/",
+      "https://www.gourmets.net/salon-gourmets/2024/exhibitors-catalogue/bodegas-gongora/red-vermouth-made-with-the-best-quality-wine-and-selected-herbs"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "orlandoni_rosso",
+    "rotulo": "Orlandoni Vermouth Rosso",
+    "marca": "Orlandoni",
+    "produtor": "Aguardientes y Licores Reylik S.A. (distribuidor)",
+    "tipo": "vermute_rosso",
+    "abv": 15,
+    "volumeMl": 700,
+    "pais": "Espanha",
+    "regiao": null,
+    "composicao": null,
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Vermute rosso espanhol de linha econômica, distribuído pela Reylik (Múrcia), sem ficha sensorial publicada. Espere um rosso padrão, doce, de ervas e caramelo, sem a complexidade dos Torino premium. Vale mais em drinks alongados ou em que o vermute é coadjuvante.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Rosso simples: com gelo, soda e laranja funciona bem e poupa as garrafas melhores."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 3,
+        "frase": "Alongado, as limitações somem; Campari e soda dão a estrutura que falta ao vermute."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "O Rabo de Galo de balcão sempre usou rosso comum; serve bem para o dia a dia."
+      }
+    ],
+    "foto": "img/garrafas/orlandoni_rosso.webp",
+    "fotoOrigem": "20261108_155227899_iOS.dng",
+    "fontes": [
+      "https://www.licorea.com/licores-reylik-en-m-438.html"
+    ],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "vincenzo_rosso",
+    "rotulo": "Vincenzo Vermouth Rosso",
+    "marca": "Vincenzo (Familia Catena)",
+    "produtor": "Bodega Catena Zapata",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 950,
+    "pais": "Argentina",
+    "regiao": "Agrelo, Luján de Cuyo (Mendoza)",
+    "composicao": "vinho branco com 33 botânicos de Mendoza cultivados no pedemonte (ervas, flores, raízes, cascas, cítricos, especiarias); receita familiar italiana adaptada pelo Catena Institute of Wine, com menos açúcar",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rosso da Catena Zapata, feito com 33 botânicos cultivados ao pé dos Andes e com a proposta declarada de menos açúcar que o padrão. Cor tostada, nariz herbal e fresco, boca equilibrada entre doce e amargo e final levemente tostado. Mais elegante que licoroso: vai bem alongado e onde não se quer vermute pesado.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Menos açúcar e ervas frescas: com gelo, soda e cítrico fica leve e seco, como o produtor sugere."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Herbal e pouco doce, deixa o Americano mais seco e refrescante que um Torino clássico."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Equilibrado, mas com menos corpo e doçura que Cocchi ou Carpano: Negroni mais seco e leve."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Funciona com bourbon; com rye potente falta um pouco do corpo dos italianos."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 3,
+        "frase": "O bourbon compensa o açúcar menor; resulta num Boulevardier menos licoroso."
+      }
+    ],
+    "foto": "img/garrafas/vincenzo_rosso.webp",
+    "fotoOrigem": "20261108_155200950_iOS.dng",
+    "fontes": [
+      "https://www.espaciovino.com.ar/destilado-ficha/Vincenzo-Vermouth-Rosso-950-ml",
+      "https://www.fondodeolla.com/nota/18618-vincenzo-el-rosso-de-catena/",
+      "https://www.losandes.com.ar/economia/dia-del-vermut-las-bodegas-que-tienen-el-suyo-y-un-opcion-diferente-de-prepararlo"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "cantieri_navali_rosso",
+    "rotulo": "Cantieri Navali Rosso",
+    "marca": "Cantieri Navali",
+    "produtor": "Cantieri Navali (Inés de los Santos e Felipe José Menéndez, Ribera del Cuarzo)",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Alto Valle de Río Negro (Patagônia)",
+    "composicao": "vinho branco do Alto Valle de Río Negro; ervas patagônicas de montanha (zimbro, rosa mosqueta, cranberry, burrito, cedrón), absinto, cardamomo, anis-estrelado, camomila e cascas cítricas; açúcar de cana orgânico (~130–150 g/l)",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rosso argentino de autor, criado pela bartender Inés de los Santos com o viticultor Felipe Menéndez sobre vinho branco patagônico e ervas de montanha como zimbro, rosa mosqueta e cedrón. Doce e macio, com laranja, caramelo, baunilha leve, cardamomo e anis-estrelado; o amargor é moderado. O zimbro faz ponte natural com gin.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Pensado para gelo e laranja; com soda, as ervas patagônicas e o cedrón aparecem bem."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Doce, cítrico e floral, ganha vida com soda; o amargor moderado deixa o Campari aparecer."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "O zimbro das ervas conversa com o gin; mais doce e menos amargo que um Torino, pede gin firme."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 3,
+        "frase": "Açúcar e corpo suficientes para segurar o Fernet, e o zimbro ecoa o gin."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Laranja e especiarias doces combinam com bourbon; com rye fica um pouco leve."
+      }
+    ],
+    "foto": "img/garrafas/cantieri_navali_rosso.webp",
+    "fotoOrigem": "20261108_155506425_iOS.dng",
+    "fontes": [
+      "https://www.bebiendoestrellas.com.ar/productos/vermut-cantieri-navali-rosso-750-ml-139dx",
+      "https://sebarios.com.ar/cantieri-navali-vermouth-de-inspiracion-patagonica/",
+      "https://www.forbesargentina.com/lifestyle/dia-mundial-vermut-mas-irrespetuoso-vinos-n69379"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "vecino_rosso_torino",
+    "rotulo": "Vecino Rosso Torino",
+    "marca": "Vecino",
+    "produtor": "Byrka S.A.S. (Vecino Vermú)",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Luján de Cuyo (Mendoza)",
+    "composicao": "vinho branco de uvas criollas (criolla chica, criolla grande, pedro giménez); alecrim, canela, feno-grego, noz-moscada, baunilha, coentro, orégano e absinto; caramelo tostado",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rosso Torino de Mendoza, sobre vinho de uvas criollas, com caramelo tostado dando cor e equilíbrio. O absinto comanda a boca, amaciado por doçura de caramelo, canela e baunilha, com fundo de alecrim e orégano; corpo médio. O rótulo sugere gelo e soda, e é aí que ele rende mais.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Absinto e caramelo pedem gelo e soda, o serviço do rótulo; o amargo de ervas refresca."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Amargor de absinto firme soma ao Campari num drink longo e mais seco que o habitual."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "O absinto ajuda, mas o corpo médio cede ao Campari: Negroni mais amargo e menos redondo."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "Canela e caramelo casam com cachaça; o absinto dá o amargo que o Cynar completa."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Canela e baunilha acompanham bourbon; falta corpo para um rye robusto."
+      }
+    ],
+    "foto": "img/garrafas/vecino_rosso_torino.webp",
+    "fotoOrigem": "20261108_155639561_iOS.dng",
+    "fontes": [
+      "https://www.bebiendoestrellas.com.ar/productos/vermut-vecino-rosso-750-ml/",
+      "https://www.losandes.com.ar/agroindustria/mendoza-puso-un-vermut-nacido-la-pandemia-los-mejores-del-mundo-n5992399",
+      "https://caras.perfil.com/noticias/caras-resto/vecino-vermu-a-la-conquista-del-mercado.phtml"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "dos_deus_origins",
+    "rotulo": "Dos Déus Origins Red Vermouth Reserve",
+    "marca": "Dos Déus",
+    "produtor": "Priorat B&D Lab",
+    "tipo": "vermute_rosso",
+    "abv": 15,
+    "volumeMl": 750,
+    "pais": "Espanha",
+    "regiao": "Bellmunt del Priorat, Tarragona (Priorat)",
+    "composicao": "vinho branco de Macabeo, Parellada e Xarel·lo; 40 ervas e especiarias (inclui sândalo, aloe vera e zimbro); dupla maturação, 6–12 meses, em barris de xerez e de vinho do Priorat",
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 2
+    },
+    "notas": "Vermute do Priorat com parte do lote em barris de xerez e parte em barris de vinho do Priorat, depois unidas. Quase negro, com noz-moscada, cravo, madeira velha, toque oxidativo de xerez e algo de moscatel e tomilho; boca cheia, acidez viva, doçura contida e amargor leve. É o mais vinoso e oxidativo do lote, ótimo ao lado de whisky.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Madeira de xerez e acidez estruturam o rye; menos doce que o Carpano e mais vinoso."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 4,
+        "frase": "Barril de xerez é o par clássico do scotch: Rob Roy seco, profundo e de nozes."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Doçura contida e corpo cheio equilibram bourbon e Campari sem ficar enjoativo."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Corpo e acidez seguram o Campari; o lado oxidativo dá um Negroni mais vinoso e complexo."
+      },
+      {
+        "alvo": "receita:adonis",
+        "nota": 4,
+        "frase": "Já traz o xerez do barril: com fino, faz um Adonis coeso, seco e de nozes."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 3,
+        "frase": "Encorpado para o Fernet, mas a acidez deixa o drink menos redondo que com Carpano."
+      }
+    ],
+    "foto": "img/garrafas/dos_deus_origins.webp",
+    "fotoOrigem": "20261108_155405074_iOS.dng",
+    "fontes": [
+      "https://www.vinissimus.com/en/vermouth/vermouth-dos-deus-origins/",
+      "https://www.licorea.com/dos-deus-origins-red-reserve-en-p-6511.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "federal_rosso",
+    "rotulo": "Federal Rosso",
+    "marca": "Federal",
+    "produtor": "Andes Federales S.A.",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho branco e mosto de Mendoza; absinto, genciana, cacau, baunilha, canela, erva-mate de Misiones e camomila de Neuquén; álcool de Córdoba",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Rosso tipo Torino de Mendoza, montado com ingredientes de várias províncias, como erva-mate, genciana e cacau. Semi-doce e escuro, com frutas escuras, laranja amarga, cravo e especiarias de inverno; final seco e de raízes, com amargor persistente. Bronze no World Vermouth Awards 2025.",
+    "melhorUso": [
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Laranja amarga e final seco de raízes alongam bem com Campari e soda."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com gelo, soda ou tônica e cítrico, o amargor de genciana fica refrescante."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Genciana e laranja amarga combinam com Campari; corpo médio deixa o Negroni mais seco que redondo."
+      },
+      {
+        "alvo": "receita:milano_torino",
+        "nota": 3,
+        "frase": "Final seco e amargo acompanha o Campari: Mi-To mais austero que com rosso italiano."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Cravo e cacau vão bem com whiskey, mas falta a riqueza dos Torino para um Manhattan de referência."
+      }
+    ],
+    "foto": "img/garrafas/federal_rosso.webp",
+    "fotoOrigem": "20261108_154933550_iOS.dng",
+    "fontes": [
+      "https://www.worldvermouthawards.com/winner-vermouth/bronze-56945-world-vermouth-awards-2025",
+      "https://www.vitobebidas.com/productos/vermouth-federal-rosso-750-ml/",
+      "https://www.booz.cl/productos/vermouth-rosso-federal-750cc-16-alc",
+      "https://www.sitioandino.com.ar/economia/identidad-argentina-una-botella-un-vermut-mendocino-logro-su-primera-exportacion-n5715999"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "cinzano_1757_rosso",
+    "rotulo": "Cinzano 1757 Vermouth di Torino Rosso",
+    "marca": "Cinzano",
+    "produtor": "Cinzano (Campari Group)",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 1000,
+    "pais": "Itália",
+    "regiao": "Piemonte",
+    "composicao": "somente vinhos italianos com botânicos, com destaque para absinto (Artemisia) do Piemonte; IG Vermouth di Torino; garrafas numeradas",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Linha premium e numerada da Cinzano, lançada em 2015 como Vermouth di Torino IG. Corpo médio, mais leve e menos doce que o Carpano, com figo e tâmara secos, ameixa, madeira tostada e baunilha suave, e um amargor de absinto que fica no final. Versátil e agridoce: deixa o destilado aparecer.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Absinto marcado e corpo médio: Negroni clássico e seco, em que o gin ainda aparece."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Figo, madeira e baunilha discreta; mais leve que o Carpano, brilha com bourbon ou rye macio."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 4,
+        "frase": "Cinzano é o vermute histórico do Rabo de Galo; o 1757 leva mais madeira e absinto à cachaça."
+      },
+      {
+        "alvo": "receita:cin_cyn",
+        "nota": 4,
+        "frase": "É o 'Cin' do nome; o 1757 dá mais madeira e amargor ao lado do Cynar que o rosso comum."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 3,
+        "frase": "Funciona, mas bourbon e Campari pedem vermute mais rico: Boulevardier mais seco que o habitual."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 3,
+        "frase": "Corpo médio: o Fernet aparece mais que com Carpano; bom para quem quer o drink mais amargo."
+      }
+    ],
+    "foto": "img/garrafas/cinzano_1757_rosso.webp",
+    "fotoOrigem": "20261108_155537551_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/5368/cinzano-1757-rosso",
+      "https://www.stocchettibevande.it/wp-content/uploads/2023/07/Cinzano-1757-rosso-vermouth.pdf",
+      "https://www.tastings.com/Wine-Review/Cinzano-NV-1757-Vermouth-di-Torino-Rosso-Liter-04-09-2020.aspx"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "carpano_antica_formula",
+    "rotulo": "Carpano Antica Formula",
+    "marca": "Carpano",
+    "produtor": "Fratelli Branca Distillerie",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 1000,
+    "pais": "Itália",
+    "regiao": "Piemonte (IG Vermouth di Torino)",
+    "composicao": "vinhos brancos da Romagna, Puglia e Sicília; baunilha de Madagascar, Papua-Nova Guiné e Taiti, açafrão iraniano, absinto dos Alpes piemonteses e do Vale de Aosta, açúcar queimado",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "notas": "A referência de rosso rico e baunilhado, um 'vermouth vanigliato' com baunilha de três origens, açafrão e absinto. Cor âmbar-marrom, nariz de baunilha, laranja cristalizada, passas, amêndoa e cravo; boca cheia, doce e redonda, com cacau e tâmara e amargor bem integrado. Domina o drink: perfeito com whiskey, pode deixar o Negroni pesado.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 5,
+        "frase": "O padrão de luxo: baunilha, passas e corpo cheio abraçam o rye sem sumir."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 5,
+        "frase": "Baunilha e cacau unem bourbon e Campari; o Boulevardier fica redondo e profundo."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 5,
+        "frase": "Doçura e corpo amortecem o Fernet; o mentolado e a baunilha se completam."
+      },
+      {
+        "alvo": "receita:bitter_giuseppe",
+        "nota": 5,
+        "frase": "É o vermute da receita original: a doçura baunilhada equilibra o Cynar e o limão."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Ótimo, mas baunilha e corpo pesam: Negroni mais doce e denso que com Cocchi."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "Funciona, porém a baunilha encobre a cachaça; vai melhor com cachaça envelhecida."
+      }
+    ],
+    "foto": "img/garrafas/carpano_antica_formula.webp",
+    "fotoOrigem": "20261108_155340759_iOS.dng",
+    "fontes": [
+      "https://carpano.com/?p=173",
+      "https://www.falstaff.com/en/spirits/fratelli-branca-distillery-spa-carpano-antica-formula"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "cocchi_storico",
+    "rotulo": "Cocchi Storico Vermouth di Torino",
+    "marca": "Cocchi",
+    "produtor": "Giulio Cocchi Spumanti",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": "Asti (Piemonte)",
+    "composicao": "base de Moscato do Piemonte; quina e ruibarbo (cor e amargor), absinto, cítricos, sândalo, mirra, noz-moscada, madeiras nobres; açúcar caramelizado no fogo",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Vermouth di Torino de Asti, relançado em 2011 a partir da receita original da casa (1891), sobre Moscato com quina, ruibarbo e absinto. Âmbar, doce de caramelo e açúcar queimado, mas cortado por cacau, laranja amarga e um amargor de quina que seca o final, com toque canforado. Mais equilibrado e amargo que o Carpano: o rosso mais versátil do lote.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 5,
+        "frase": "Cacau, laranja amarga e quina: equilíbrio exato entre doce e amargo ao lado do Campari."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Corpo e especiarias firmes com rye; menos baunilha que o Carpano e final mais seco."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "O amargor de quina reforça o Campari e o cacau abraça o bourbon."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 4,
+        "frase": "Encara bem o Fernet; o drink sai mais amargo e achocolatado que com Carpano."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 4,
+        "frase": "Laranja amarga e ruibarbo brilham com soda: Americano firme e aromático."
+      },
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "Cacau e quina somam ao Cynar; dá um Rabo de Galo mais amargo que o tradicional."
+      }
+    ],
+    "foto": "img/garrafas/cocchi_storico.webp",
+    "fotoOrigem": "20261108_155311486_iOS.dng",
+    "fontes": [
+      "https://www.cocchi.it/en/products/storico-vermouth-di-torino/",
+      "https://www.diffordsguide.com/beer-wine-spirits/451/cocchi-vermouth-di-torino"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "schluck_rosso_amburana",
+    "rotulo": "Schluck Vermute Rosso Amburana",
+    "marca": "Schluck",
+    "produtor": "Schluck Licores",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 700,
+    "pais": "Brasil",
+    "regiao": "Blumenau (Santa Catarina)",
+    "composicao": "vinho Cabernet Sauvignon catarinense com ervas de origem brasileira; maturado em barril de amburana",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Rosso artesanal de Blumenau, sobre vinho tinto catarinense e ervas brasileiras, com passagem por barril de amburana. Rubi escuro, nariz de frutas secas, ameixa, baunilha e chocolate; entra doce com caramelo e fruta vermelha, vira para amargor marcado com canela, cravo e madeira e termina seco e aveludado. A amburana o aproxima da cachaça envelhecida.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 5,
+        "frase": "Amburana, canela e ervas brasileiras falam a língua da cachaça: é o Rabo de Galo do lote."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Madeira, baunilha e tanino de Cabernet sustentam o whiskey; o final seco evita o enjoativo."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "A amburana soma baunilha e canela ao bourbon; o amargor firme acompanha o Campari."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Funciona, mas madeira e canela puxam o drink para o lado do whiskey; pede gin encorpado."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "O produtor sugere com tônica e laranja; a madeira aparece mais que as ervas."
+      }
+    ],
+    "foto": "img/garrafas/schluck_rosso_amburana.webp",
+    "fotoOrigem": "20261108_155123236_iOS.dng",
+    "fontes": [
+      "https://www.schluckstore.com/vermute-rosso-700ml-schluck-novo",
+      "https://www.espacoprime.com.br/produto/vermute-rosso-schluck-700ml-73281",
+      "https://mixologynews.com.br/08/2025/schluck-licores/schluck-licores-tradicao-alema-alma-brasileira/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "vermu_coffea_arabica",
+    "rotulo": "Vermú Coffea arabica",
+    "marca": "Companhia dos Fermentados",
+    "produtor": "Companhia dos Fermentados (Fermentare BNC Ltda.)",
+    "tipo": "vermute_rosso",
+    "abv": 18,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Barueri (São Paulo)",
+    "composicao": "vinho tinto fino com extrato de café catucaí amarelo fermentado, jurubeba, catuaba, artemísia, cítricos, gengibre e especiarias; fortificado com álcool de cereais",
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Vermute tinto autoral feito em colaboração com o bar Hideout, sobre vinho tinto com extrato de café fermentado, jurubeba e catuaba, fortificado a 18%. Denso e aveludado, meio seco, com café torrado, caramelo, madeira, notas terrosas e leve defumado, e amargor moderado. Mais perto de um amaro de café que de um Torino: use quando o café for bem-vindo.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 4,
+        "frase": "Jurubeba, catuaba e café: versão bem brasileira, mais seca e escura que o padrão com Cinzano."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "O serviço do produtor: gelo, laranja e tônica; café com cítrico fica refrescante."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 3,
+        "frase": "Café e bourbon combinam, mas mudam o drink: Boulevardier mais seco e torrado."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "Vira um Manhattan de café, denso e seco; pede bourbon e casca de laranja."
+      },
+      {
+        "alvo": "receita:negroni",
+        "nota": 3,
+        "frase": "Twist de café: o Campari aceita bem, mas foge do clássico e fica mais terroso."
+      }
+    ],
+    "foto": "img/garrafas/vermu_coffea_arabica.webp",
+    "fotoOrigem": "20261108_155034809_iOS.dng",
+    "fontes": [
+      "https://ciadosfermentados.com.br/alcoolicos/vermutes/vermu-de-cafe",
+      "https://elle.com.br/elle-a-table/guia-do-vermute-tudo-sobre-a-bebida-que-esta-conquistando-os-bares"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "la_fuerza_sideral_barrica_unica",
+    "rotulo": "La Fuerza Sideral Barrica Única",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "o blend do Sideral (Rojo com um pouco de Blanco) devolvido a seis barricas por mais 12 meses, total de mais de 24 meses; vinho tinto, álcool vínico, mosto e macerado de ervas aromáticas",
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Edição limitada do Sideral com mais de 24 meses de barrica, de apenas seis barricas. Comparado ao Sideral comum, a madeira deve ficar mais presente e a fruta mais recolhida, com final mais seco e especiado. É um vermute para beber puro, depois do jantar; em drinks, vale nos mexidos com whisky.",
+    "melhorUso": [
+      {
+        "alvo": "receita:manhattan",
+        "nota": 4,
+        "frase": "Mais madeira e menos fruta que o Sideral: dá um Manhattan seco e especiado, de vermute 'riserva'."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "A barrica longa conversa com o bourbon; o drink fica mais seco e menos doce que com um rosso jovem."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 3,
+        "frase": "Com scotch, as especiarias e a madeira do vermute fazem ponte com o malte."
+      },
+      {
+        "alvo": "receita:vieux_carre",
+        "nota": 3,
+        "frase": "Segura conhaque e rye num Vieux Carré; a madeira se soma ao Bénédictine sem pesar."
+      }
+    ],
+    "foto": "img/garrafas/la_fuerza_sideral_barrica_unica.webp",
+    "fotoOrigem": "20261108_154707963_iOS.dng",
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-sideral/",
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.saratogawine.com/product/la-fuerza-vermouth-sideral-nv-750ml/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "brigs_porto_rose",
+    "rotulo": "Brig's Rosé Porto",
+    "marca": "Brig's (Poças Junior)",
+    "produtor": "Manoel D. Poças Júnior, Vinhos S.A.",
+    "tipo": "porto_rose",
+    "abv": 19,
+    "volumeMl": 750,
+    "pais": "Portugal",
+    "regiao": "Douro",
+    "composicao": "Touriga Nacional, Touriga Franca e Tinta Roriz; maceração curta, fermentação interrompida com aguardente vínica, estágio em inox",
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "notas": "Porto rosé leve da Poças, de maceração curta e sem madeira, para guardar a fruta fresca. Cereja, framboesa e frutas silvestres, boca macia e doce com frescor. Feito pensando em coquetelaria: o uso natural é com tônica e gelo ou em ponches de verão.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com tônica, gelo e frutas é o serviço clássico do Porto rosé; mais fresco e frutado que o Porto tónico de branco."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "Com espumante e soda faz um spritz rosado de fruta vermelha, menos amargo que o de Aperol."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 4,
+        "frase": "Base boa para cobbler ou ponche com frutas vermelhas e gelo picado: doçura e fruta já vêm prontas."
+      },
+      {
+        "alvo": "familia:champagne_cocktail",
+        "nota": 3,
+        "frase": "Uma dose no espumante dá cor e framboesa, no lugar do cubo de açúcar com bitters."
+      }
+    ],
+    "foto": "img/garrafas/brigs_porto_rose.webp",
+    "fotoOrigem": "20261108_161434513_iOS.dng",
+    "fontes": [
+      "https://winehouseportugal.com/en/pocas-port-wines/7261-pocas-brig-s-rose-port-wine-5601085004218.html",
+      "https://radar.wine/en/wines/wine/pocas-brigs-rose/",
+      "https://winevins.com/en/products/porto-pocas-brigs-rose"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "ferreira_porto_ruby",
+    "rotulo": "Ferreira Porto Ruby",
+    "marca": "Ferreira",
+    "produtor": "A. A. Ferreira (Sogrape)",
+    "tipo": "porto_ruby",
+    "abv": 19.5,
+    "volumeMl": null,
+    "pais": "Portugal",
+    "regiao": "Douro",
+    "composicao": "uvas tintas do Douro (Cima Corgo e Baixo Corgo; Touriga Franca, Touriga Nacional, Tinta Roriz, Tinta Barroca e outras); fermentação interrompida com aguardente; envelhecido em tonéis de carvalho, idade média de cerca de 3 anos; 95 g/L de açúcar",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "notas": "Ruby de entrada de uma das casas mais antigas de Gaia. Cor rubi intensa, morango, framboesa e groselha maduros; boca doce e redonda, com taninos macios e acidez que segura o açúcar. Tem fruta vermelha e corpo para flips, cobblers e drinks quentes.",
+    "melhorUso": [
+      {
+        "alvo": "familia:flip",
+        "nota": 4,
+        "frase": "O Porto Flip pede ruby: fruta vermelha e corpo seguram ovo e açúcar sem ficar chato."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 4,
+        "frase": "Num Port Cobbler com laranja e gelo picado, a fruta madura e a doçura média fazem quase todo o drink."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Aquecido com especiarias e casca de laranja (estilo negus) vira um ponche de inverno simples."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Em float sobre um whisky sour dá cor e fruta vermelha, no papel do vinho tinto do New York Sour."
+      }
+    ],
+    "foto": "img/garrafas/ferreira_porto_ruby.webp",
+    "fotoOrigem": "20261108_161401865_iOS.dng",
+    "fontes": [
+      "https://www.libertywines.co.uk/our-portfolio/FE401-ruby-port",
+      "https://www.weinquelle.com/artikel/Ferreira_Ruby_Port_17947_e.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "san_basile_artichoke",
+    "rotulo": "San Basile Artichoke",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 950,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "alcachofra (Cynara scolymus) e infusão de ervas aromáticas; água, álcool, açúcar e caramelo",
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Aperitivo de alcachofra nacional, na mesma faixa de 20% do Cynar vendido no Brasil. O produtor descreve doce e amargo em equilíbrio e o perfume vegetal da alcachofra em destaque. Num drink, entra onde se usaria Cynar, com resultado parecido.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 4,
+        "frase": "Troca direta do Cynar, na mesma graduação; o rótulo traz a receita com cachaça envelhecida."
+      },
+      {
+        "alvo": "receita:bitter_giuseppe",
+        "nota": 4,
+        "frase": "Doce e amargo equilibrados como no Cynar; aguenta ser a base do drink com vermute e limão."
+      },
+      {
+        "alvo": "receita:cin_cyn",
+        "nota": 3,
+        "frase": "Faz o papel do Cynar ao lado do gin: amargor vegetal mais suave que o de um bitter vermelho."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda ou tônica e laranja vira aperitivo longo, de amargor moderado."
+      }
+    ],
+    "foto": "img/garrafas/san_basile_artichoke.webp",
+    "fotoOrigem": "20261108_155737986_iOS.dng",
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/artichoke-licor-de-alcachofra-san-basile-950ml-72539",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/",
+      "http://www.diffordsguide.com/beer-wine-spirits/859/cynar"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "cynar",
+    "rotulo": "Cynar Receita Original",
+    "marca": "Cynar",
+    "produtor": "Campari do Brasil (Grupo Campari)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 900,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "infusão de folhas de alcachofra e ervas aromáticas (13 plantas na receita italiana); açúcar, caramelo e ácido cítrico",
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Amaro de alcachofra de cor âmbar escura, com caramelo, nozes e um lado vegetal quase de conserva. O amargor de quina aparece no fim e fica, com leve toque de canela. Nos drinks, amarga menos que Campari e deixa tudo mais terroso.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 5,
+        "frase": "É o amargo clássico do Rabo de Galo; o vegetal da alcachofra corta o doce do vermute."
+      },
+      {
+        "alvo": "receita:bitter_giuseppe",
+        "nota": 5,
+        "frase": "O drink foi pensado para o Cynar: caramelo e amargor seguram a dose alta sem pesar."
+      },
+      {
+        "alvo": "receita:cin_cyn",
+        "nota": 5,
+        "frase": "É o Negroni com Cynar: menos amargo e mais terroso que com Campari."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 4,
+        "frase": "Com soda ou tônica e laranja é o serviço de aperitivo que a própria marca indica."
+      },
+      {
+        "alvo": "receita:black_manhattan",
+        "nota": 3,
+        "frase": "No lugar do Averna dá um Manhattan mais vegetal e menos doce; vai melhor com rye."
+      }
+    ],
+    "foto": "img/garrafas/cynar.webp",
+    "fotoOrigem": "20261108_154333982_iOS.dng",
+    "fontes": [
+      "https://www.casadabebida.com.br/aperitivo/aperitivo-cynar-900-ml/",
+      "https://www.martinsatacado.com.br/produto/aperitivo-cynar-900-ml-martins_900042",
+      "http://www.diffordsguide.com/beer-wine-spirits/859/cynar"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "apothek_scarlatti",
+    "rotulo": "Apothek Scarlatti Amaro",
+    "marca": "Apothek (APTK Spirits)",
+    "produtor": "APTK Spirits (Apothek Cocktails & Co.)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 30,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "São Paulo",
+    "composicao": "ervas, raízes, flores e frutas; o lote 70004 destaca limão-siciliano, sálvia, alecrim e açafrão; açúcar e corante carmim",
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Bitter vermelho autoral de bar paulistano, vendido como amaro agridoce para coquetéis. A receita do lote puxa para limão e ervas de cozinha (sálvia, alecrim), com açafrão ao fundo. Fica entre Aperol e Campari: mais herbal e menos austero que o Campari.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "É o bitter do Negroni engarrafado da própria APTK; o limão e a sálvia aparecem ao lado do gin."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Também usado pela APTK no Boulevardier; o lado doce e herbal acompanha bem o bourbon."
+      },
+      {
+        "alvo": "receita:negroni_sbagliato",
+        "nota": 3,
+        "frase": "Cítrico e herbal combinam com espumante; amargor mais gentil que o do Campari."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 3,
+        "frase": "Alongado com vermute e soda, as ervas ficam mais evidentes que num Americano com Campari."
+      }
+    ],
+    "foto": "img/garrafas/apothek_scarlatti.webp",
+    "fotoOrigem": "20261108_161322680_iOS.dng",
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/amaro-scarlatti-aptk-spirits-750ml-72005",
+      "https://www.worldwine.com.br/dest-br-amaro-scarlatti-375-027462/p",
+      "https://brindisivinhos.com.br/produto/aptk-negroni-classico-750ml/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bizantina_artichoke_menta",
+    "rotulo": "San Basile Artichoke Carvalho Francês e Menta (Sanbalab)",
+    "marca": "San Basile (linha Sanbalab)",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "amaro_alcachofra",
+    "abv": 20,
+    "volumeMl": 980,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "aperitivo Artichoke San Basile armazenado em carvalho francês e reinfusionado com menta-piperita; o rótulo lista água, álcool, ervas aromáticas e caramelo",
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "notas": "Edição limitada que pega o aperitivo de alcachofra da casa, passa por carvalho francês e termina com nova infusão de menta. Espere a base vegetal e agridoce do Artichoke, com um pouco de madeira e frescor de menta no final. Lembra um meio-termo entre Cynar e um amaro mentolado leve.",
+    "melhorUso": [
+      {
+        "alvo": "receita:rabo_de_galo",
+        "nota": 3,
+        "frase": "A madeira casa com cachaça envelhecida; a menta deixa o drink mais fresco que com Cynar."
+      },
+      {
+        "alvo": "receita:black_manhattan",
+        "nota": 3,
+        "frase": "Carvalho e menta dão um Manhattan escuro e refrescante; mais leve que com Averna, use rye."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e gelo a menta aparece bem e o amargor fica leve."
+      }
+    ],
+    "foto": "img/garrafas/bizantina_artichoke_menta.webp",
+    "fotoOrigem": "20261108_160447189_iOS.dng",
+    "fontes": [
+      "https://bartenderstore.com.br/conheca-a-nova-linha-sanbalab-da-destilaria-san-basile/",
+      "https://www.espacoprime.com.br/produto/artichoke-licor-de-alcachofra-san-basile-950ml-72539",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "aperol",
+    "rotulo": "Aperol",
+    "marca": "Aperol",
+    "produtor": "Grupo Campari (Fratelli Barbieri)",
+    "tipo": "aperitivo_laranja",
+    "abv": 11,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": null,
+    "composicao": "infusão de 16 ingredientes, entre eles laranja amarga, genciana, quina e ruibarbo; açúcar",
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 2,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Aperitivo laranja, leve e doce, com casca de laranja, toranja rosada e um fundo de baunilha. O amargor de ervas é discreto e chega só no fim. Funciona como versão mais fácil e menos alcoólica de um bitter vermelho.",
+    "melhorUso": [
+      {
+        "alvo": "receita:aperol_spritz",
+        "nota": 5,
+        "frase": "É o próprio drink: doce de laranja e amargor leve pensados para espumante e soda."
+      },
+      {
+        "alvo": "familia:spritz",
+        "nota": 4,
+        "frase": "Baixo teor e bastante doçura equilibram a acidez do espumante em qualquer spritz."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 4,
+        "frase": "Em sours dá cor, laranja e um amargor suave que não domina o cítrico."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e laranja vira aperitivo longo de teor bem baixo."
+      }
+    ],
+    "foto": "img/garrafas/aperol.webp",
+    "fotoOrigem": "20261108_154402454_iOS.dng",
+    "fontes": [
+      "https://diffordsguide.com/beer-wine-spirits/70/aperol-aperitivo",
+      "https://www.aperol.com/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "campari",
+    "rotulo": "Campari",
+    "marca": "Campari",
+    "produtor": "Campari do Brasil (Grupo Campari)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 28.5,
+    "volumeMl": 900,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "receita secreta de ervas, cascas e frutas; ficha brasileira: álcool, açúcar, extratos naturais e corante natural",
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "O bitter vermelho de referência: casca de laranja sanguínea, cereja e ervas, sobre um amargor de quinino firme e longo. É bem doce na entrada, mas o amargo vence no fim. A versão brasileira tem mais álcool que a europeia, o que deixa o drink um pouco mais firme.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 5,
+        "frase": "Referência do Negroni: o amargor de quinino e laranja segura gin e vermute em partes iguais."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 5,
+        "frase": "Com vermute e soda, o amargor e a cor do Campari são o drink."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 5,
+        "frase": "O amargor firme corta o doce do bourbon e do vermute."
+      },
+      {
+        "alvo": "receita:negroni_sbagliato",
+        "nota": 5,
+        "frase": "Laranja e quinino dão estrutura ao espumante; é a versão padrão do drink."
+      },
+      {
+        "alvo": "receita:milano_torino",
+        "nota": 5,
+        "frase": "Metade do drink; o bitter de Milão é exatamente o que a receita pede."
+      },
+      {
+        "alvo": "receita:mezcal_negroni",
+        "nota": 4,
+        "frase": "Amargo e cítrico aguentam a fumaça do mezcal sem sumir."
+      }
+    ],
+    "foto": "img/garrafas/campari.webp",
+    "fotoOrigem": "20261108_154353258_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/190/campari-bitter",
+      "https://www.martinsatacado.com.br/bebidas-alcoolicas/p/campari-emb-contem-1un-de-900ml-campari-martins_902040"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "san_basile_bitter",
+    "rotulo": "San Basile Bitter",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (Destilaria San Basile)",
+    "tipo": "bitter_aperitivo_vermelho",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Tuiuti, SP",
+    "composicao": "infusão de ervas aromáticas, álcool e açúcar; a versão atual (Bitter Rosso) usa carmim de cochonilha",
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "Bitter vermelho artesanal brasileiro, que o produtor descreve com cítrico agudo, amargor marcante e doçura contida. Com 40%, é bem mais forte que um Campari: o álcool aparece e o conjunto fica mais seco. Num drink, segura bem bases fortes, mas pede cuidado na dose.",
+    "melhorUso": [
+      {
+        "alvo": "receita:negroni",
+        "nota": 4,
+        "frase": "Mais alcoólico e menos doce que o Campari: dá um Negroni mais seco, de cítrico agudo."
+      },
+      {
+        "alvo": "receita:boulevardier",
+        "nota": 4,
+        "frase": "Receita do rótulo; o amargor marcante e o álcool alto não somem ao lado do whisky."
+      },
+      {
+        "alvo": "receita:negroni_sbagliato",
+        "nota": 3,
+        "frase": "Receita do rótulo; o cítrico combina com espumante, mas o drink sai mais forte que com Campari."
+      },
+      {
+        "alvo": "receita:americano",
+        "nota": 3,
+        "frase": "A soda dilui o álcool alto e deixa o cítrico aparecer."
+      }
+    ],
+    "foto": "img/garrafas/san_basile_bitter.webp",
+    "fotoOrigem": "20261108_154744885_iOS.dng",
+    "fontes": [
+      "https://www.espacoprime.com.br/produto/bitter-rosso-san-basile-700ml-72540",
+      "https://mixologynews.com.br/08/2019/mixologia/san-basile-produtos/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "fernet_branca",
+    "rotulo": "Fernet-Branca (Argentina)",
+    "marca": "Fernet-Branca",
+    "produtor": "Fratelli Branca",
+    "tipo": "fernet",
+    "abv": 39,
+    "volumeMl": null,
+    "pais": "Argentina",
+    "regiao": "Buenos Aires (Tortuguitas)",
+    "composicao": "mais de 27 ervas, raízes e especiarias (entre elas genciana, camomila, açafrão, ruibarbo e mirra); repouso de cerca de 12 meses em tonéis de carvalho",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 5,
+      "seco": 3,
+      "herbal": 5,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "notas": "O fernet de referência: menta e alcaçuz no nariz, ervas e raízes muito amargas na boca e final longo e mentolado. Quase não tem doçura aparente e domina qualquer drink em dose alta. Na Argentina é tomado com cola; nos coquetéis clássicos entra em pequena quantidade.",
+    "melhorUso": [
+      {
+        "alvo": "receita:toronto",
+        "nota": 5,
+        "frase": "É o amargo clássico do Toronto: menta e ervas contra o rye adoçado."
+      },
+      {
+        "alvo": "receita:hanky_panky",
+        "nota": 5,
+        "frase": "Poucos dashes bastam: menta e amargor dão a assinatura do drink de gin e vermute."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 5,
+        "frase": "Com cola é o serviço argentino tradicional; menta e amargor aguentam muito gelo e diluição."
+      },
+      {
+        "alvo": "familia:martini_manhattan",
+        "nota": 3,
+        "frase": "Uma colher de bar seca e refresca um Manhattan; mais que isso domina o drink."
+      }
+    ],
+    "foto": "img/garrafas/fernet_branca.webp",
+    "fotoOrigem": "20261108_154414055_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/323/fernet-branca",
+      "https://losfenicios.com.ar/productos/branca-750-ml/",
+      "https://www.cronista.com/apertura/empresas/la-historia-detras-de-branca-la-creacion-de-un-boticario-que-solo-se-fabrica-en-italia-y-argentina/",
+      "https://www.iprofesional.com/recreo/383783-fernet-argentino-versus-italiano-revelo-cual-es-mejor"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "angostura_aromatic",
+    "rotulo": "Angostura Aromatic Bitters",
+    "marca": "Angostura",
+    "produtor": "Angostura Ltd (House of Angostura)",
+    "tipo": "bitters_aromatico",
+    "abv": 44.7,
+    "volumeMl": 100,
+    "pais": "Trinidad e Tobago",
+    "regiao": null,
+    "composicao": "receita secreta com genciana, ervas e especiarias (cravo, canela, cardamomo e casca de laranja no perfil)",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 5,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "notas": "O bitters aromático padrão do bar: cravo, canela e cardamomo, casca de laranja seca e um fundo de pimenta-do-reino, sobre genciana bem amarga. Usado em gotas e dashes, tempera e liga o drink mais do que adiciona sabor próprio. Na água fica vermelho-tijolo.",
+    "melhorUso": [
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 5,
+        "frase": "Os dashes da receita original: especiaria e amargor que ligam o whisky ao açúcar."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 5,
+        "frase": "Padrão do Manhattan: cravo e canela fazem a ponte entre o rye e o vermute."
+      },
+      {
+        "alvo": "receita:pisco_sour",
+        "nota": 5,
+        "frase": "As gotas sobre a espuma dão o aroma de especiaria que completa o drink."
+      },
+      {
+        "alvo": "familia:champagne_cocktail",
+        "nota": 5,
+        "frase": "Encharca o cubo de açúcar no Champagne Cocktail clássico; não há substituto melhor."
+      },
+      {
+        "alvo": "receita:vieux_carre",
+        "nota": 5,
+        "frase": "Junto do Peychaud's, a Angostura traz o fundo especiado da receita."
+      },
+      {
+        "alvo": "receita:rob_roy",
+        "nota": 4,
+        "frase": "Tempera o scotch e o vermute como no Manhattan; dá estrutura sem esconder o malte."
+      }
+    ],
+    "foto": "img/garrafas/angostura_aromatic.webp",
+    "fotoOrigem": "20261108_163750049_iOS.dng",
+    "fontes": [
+      "https://diffordsguide.com/beer-wine-spirits/145/angostura-aromatic-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bittermens_elemakule_tiki",
+    "rotulo": "Bittermens 'Elemakule Tiki Bitters",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_especiado",
+    "abv": 44,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "base com rum; canela e pimenta-da-jamaica à frente, com cravo, gengibre, genciana e cascas cítricas; inspirado no falernum",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "notas": "Bitters feito para tiki, com canela e pimenta-da-jamaica em destaque e cascas cítricas ao fundo, num estilo que lembra falernum. É mais quente e doce na especiaria que a Angostura e menos de cravo. Brilha em drinks de rum com sucos e xaropes.",
+    "melhorUso": [
+      {
+        "alvo": "familia:tiki",
+        "nota": 5,
+        "frase": "Feito para tiki: canela e pimenta-da-jamaica reforçam rum, sucos e xaropes sem pesar."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Com rum envelhecido ou bourbon, troca o cravo da Angostura por canela mais quente."
+      },
+      {
+        "alvo": "receita:mai_tai",
+        "nota": 3,
+        "frase": "Um dash acrescenta a especiaria que orgeat e curaçao não trazem."
+      },
+      {
+        "alvo": "receita:daiquiri",
+        "nota": 3,
+        "frase": "Um dash dá fundo especiado ao Daiquiri sem esconder o limão."
+      },
+      {
+        "alvo": "familia:punch_cobbler",
+        "nota": 3,
+        "frase": "Em ponches de rum, poucos dashes fazem o papel de noz-moscada e canela."
+      }
+    ],
+    "serveComo": [
+      {
+        "tipo": "bitters_aromatico",
+        "qualidade": 2,
+        "nota": "Substitui a Angostura em drinks de rum e bourbon; num Manhattan o perfil vai para canela."
+      }
+    ],
+    "foto": "img/garrafas/bittermens_elemakule_tiki.webp",
+    "fotoOrigem": "20261108_163724176_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/2290/bittermens-elemakule-tiki-bitters",
+      "https://cocktailemporium.com/products/elemakule-tiki-bitters",
+      "https://www.sazerac.com/our-brands/sazerac-brands/bittermens.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bittermens_xocolatl_mole",
+    "rotulo": "Bittermens Xocolatl Mole Bitters",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_cacau",
+    "abv": 53,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "cacau, canela e especiarias, inspirado no mole mexicano",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "notas": "Bitters de cacau e canela inspirado no mole, com cravo e anis ao fundo e amargor de chocolate amargo. Com 53%, é seco e alcoólico; a sensação de chocolate vem do aroma, não de doçura. Escurece e aquece drinks mexidos de destilados envelhecidos.",
+    "melhorUso": [
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 4,
+        "frase": "Com bourbon, rum envelhecido ou tequila añejo, cacau e canela dão um Old Fashioned mais escuro."
+      },
+      {
+        "alvo": "receita:black_manhattan",
+        "nota": 4,
+        "frase": "O cacau reforça o chocolate e o caramelo do amaro escuro."
+      },
+      {
+        "alvo": "receita:manhattan",
+        "nota": 3,
+        "frase": "No lugar da Angostura, arredonda o rye com cacau; um Manhattan mais de sobremesa."
+      },
+      {
+        "alvo": "familia:flip",
+        "nota": 3,
+        "frase": "Uns dashes por cima do flip ou nog trazem cacau e especiaria sem açúcar extra."
+      }
+    ],
+    "foto": "img/garrafas/bittermens_xocolatl_mole.webp",
+    "fotoOrigem": "20261108_163733086_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/2288/bittermens-xocolatl-mole-bitters",
+      "https://supermarketitaly.com/products/bittermens-xocolatl-mole-bitters-5-oz",
+      "https://www.cocktailemporium.com/products/bittermens-xocolatl-mole-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "angostura_orange",
+    "rotulo": "Angostura Orange Bitters",
+    "marca": "Angostura",
+    "produtor": "Angostura Ltd (House of Angostura)",
+    "tipo": "bitters_laranja",
+    "abv": 28,
+    "volumeMl": 100,
+    "pais": "Trinidad e Tobago",
+    "regiao": null,
+    "composicao": "óleos de laranja amarga e doce, essência cítrica, ervas e especiarias",
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "notas": "Bitters de laranja com casca bem viva, toque de laranja sanguínea e final de cardamomo e coentro. O amargor é seco e menos pesado que o da Angostura aromática. Ilumina drinks claros e mexidos à base de gin, vermute dry ou xerez.",
+    "melhorUso": [
+      {
+        "alvo": "receita:martini",
+        "nota": 5,
+        "frase": "O Dry Martini clássico leva orange bitters; a laranja abre o gin e o vermute dry."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 5,
+        "frase": "Com a Angostura, dá o fundo cítrico que o xerez e o vermute dry pedem."
+      },
+      {
+        "alvo": "receita:adonis",
+        "nota": 4,
+        "frase": "A casca de laranja ilumina xerez e vermute rosso sem acrescentar doçura."
+      },
+      {
+        "alvo": "receita:bitter_giuseppe",
+        "nota": 4,
+        "frase": "A receita usa bitters de laranja; o cítrico levanta o Cynar e o vermute."
+      },
+      {
+        "alvo": "receita:old_fashioned",
+        "nota": 3,
+        "frase": "Um dash junto da Angostura traz laranja ao drink sem precisar de casca."
+      }
+    ],
+    "foto": "img/garrafas/angostura_orange.webp",
+    "fotoOrigem": "20261108_163755780_iOS.dng",
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/3505/angostura-orange-bitters"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "bittermens_hellfire_habanero",
+    "rotulo": "Bittermens Hellfire Habanero Shrub",
+    "marca": "Bittermens",
+    "produtor": "Bittermens",
+    "tipo": "bitters_picante",
+    "abv": 44,
+    "volumeMl": 146,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "habanero, vinagre de vinho tinto, sidra de maçã, ácido cítrico, sabugueiro, páprica, baunilha e sal",
+    "perfil": {
+      "doce": 1,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 5,
+      "cremoso": 0,
+      "umami": 1
+    },
+    "notas": "É menos bitters e mais um molho de pimenta concentrado para coquetéis: habanero ardido, vinagre e fruta escura de sabugueiro. Quase não amarga. Usado em gotas, dá calor e acidez a drinks cítricos de agave.",
+    "melhorUso": [
+      {
+        "alvo": "receita:margarita",
+        "nota": 4,
+        "frase": "Poucas gotas dão uma Margarita picante sem macerar pimenta; o vinagre reforça o limão."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Em sours de tequila ou mezcal, 2 a 3 gotas trazem calor e acidez frutada."
+      },
+      {
+        "alvo": "receita:paloma",
+        "nota": 3,
+        "frase": "O ardor do habanero contrasta com a toranja e o sal da borda."
+      }
+    ],
+    "foto": "img/garrafas/bittermens_hellfire_habanero.webp",
+    "fotoOrigem": "20261108_163742101_iOS.dng",
+    "fontes": [
+      "https://www.bostongeneralstore.com/products/hellfire-habanero-shrub",
+      "https://www.sippitysup.com/?p=27508"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "nielsen_massey_extrato_limao",
+    "rotulo": "Nielsen-Massey Pure Lemon Extract",
+    "marca": "Nielsen-Massey",
+    "produtor": "Nielsen-Massey Vanillas",
+    "tipo": "extrato_limao",
+    "abv": 90,
+    "volumeMl": 59,
+    "pais": "EUA",
+    "regiao": null,
+    "composicao": "álcool de cana, óleo de limão (limões da Califórnia) e água; sem açúcar",
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "notas": "Extrato culinário: óleo de casca de limão diluído em álcool. É aroma puro de raspa de limão, sem acidez nem doçura. Em coquetel, uma ou duas gotas reforçam o perfume cítrico, como uma casca espremida.",
+    "melhorUso": [
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Uma ou duas gotas reforçam o aroma de casca; não traz acidez, então não substitui o suco."
+      },
+      {
+        "alvo": "receita:tom_collins",
+        "nota": 3,
+        "frase": "Se o limão-siciliano está sem perfume, uma gota devolve o cítrico ao drink longo."
+      },
+      {
+        "alvo": "receita:gin_tonica",
+        "nota": 3,
+        "frase": "Uma gota substitui a casca de limão-siciliano; use pouco, é quase só óleo e álcool."
+      }
+    ],
+    "foto": "img/garrafas/nielsen_massey_extrato_limao.webp",
+    "fotoOrigem": "20261108_163801982_iOS.dng",
+    "fontes": [
+      "https://www.nielsenmassey.com/products/pure-lemon-extract/",
+      "https://sellsheets.syndigo.com/food/02e5a281-69d2-4829-964c-26b8e90c277a"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "noguchi_cup_laranja",
+    "rotulo": "Noguchi Naohiko Sake Institute – copo (estampa laranja)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "produtor": "Noguchi Naohiko Sake Institute (株式会社 農口尚彦研究所)",
+    "tipo": "saque_futsu",
+    "abv": 20,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Komatsu)",
+    "composicao": "arroz Gohyakumangoku 100%, koji de arroz nacional e álcool adicionado; 20% (força de genshu)",
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 3
+    },
+    "notas": "Saquê de copo da casa do mestre Naohiko Noguchi, feito com arroz Gohyakumangoku e álcool adicionado, a 20%. Espere um saquê encorpado e quente, com umami de arroz, alguma doçura e final firme, mais pesado que um copo comum a 15%. Bom puro, gelado ou aquecido; em drinks aguenta diluição.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "A 20%, aguenta soda e gelo sem ficar aguado: highball de saquê com mais corpo que o normal."
+      },
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 3,
+        "frase": "Encorpado e alcoólico, segura o gin no Sake Martini, mas deixa o drink mais pesado que com ginjo."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Aquecido, o umami e a doçura do arroz se abrem; boa base para um toddy de saquê com gengibre."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 3,
+        "frase": "No lugar do xerez traz umami e corpo; com vermute dry e bitters vira um Bamboo de saquê."
+      }
+    ],
+    "foto": "img/garrafas/noguchi_cup_laranja.webp",
+    "fotoOrigem": "20261108_160852924_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/brands/5002/",
+      "https://tengusake.com/brewery/noguchi-naohiko-sake-institute"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "karatsu_hikiyama_cup",
+    "rotulo": "Karatsu Hikiyama (唐津ひきやま) – copo",
+    "marca": "Karatsu Hikiyama (唐津ひきやま)",
+    "produtor": "Komatsu Shuzo (小松酒造)",
+    "tipo": "saque",
+    "abv": null,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Saga (Karatsu)",
+    "composicao": null,
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 3
+    },
+    "notas": "Saquê de copo do Komatsu Shuzo, adega de Karatsu que faz a marca Manrei, com arte dos carros alegóricos do festival Karatsu Kunchi. Classificação e graduação não aparecem no rótulo; espere um saquê de mesa simples, com arroz, umami médio e final limpo. Melhor puro, gelado ou morno.",
+    "melhorUso": [
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 3,
+        "frase": "Saquê de mesa simples: funciona no Sake Martini, só sem o aroma de um ginjo."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Saquê comum de copo ganha maciez e umami aquecido; serve de base para um toddy de saquê."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e casca de limão vira um highball leve e de baixo teor."
+      }
+    ],
+    "foto": "img/garrafas/karatsu_hikiyama_cup.webp",
+    "fotoOrigem": "20261108_160827788_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/brands/2032/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "kinkyo_cup",
+    "rotulo": "Kinkyo (錦郷) Seishu – copo",
+    "marca": "Kinkyo (錦郷)",
+    "produtor": "Kokonoe Saika (九重雜賀)",
+    "tipo": "saque_futsu",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Wakayama (Kinokawa)",
+    "composicao": "arroz e koji de arroz nacionais com álcool adicionado; provavelmente yamahai",
+    "perfil": {
+      "doce": 1,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 3
+    },
+    "notas": "Saquê comum de Wakayama com álcool adicionado, a 15%, provavelmente do estilo yamahai. Uma resenha do Kinkyo fala em aroma leve de caramelo, toque doce e final seco e picante, sem amargor; a marca foi premiada como saquê para tomar quente. A acidez do yamahai dá mais estrutura que a de um copo comum.",
+    "melhorUso": [
+      {
+        "alvo": "familia:quente",
+        "nota": 4,
+        "frase": "Premiado como saquê para aquecer: morno fica doce e macio, e a acidez segura gengibre e mel num toddy."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 3,
+        "frase": "Acidez e umami lembram um xerez leve; com vermute dry e bitters faz um Bamboo de saquê."
+      },
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 3,
+        "frase": "Mais ácido e seco que o copo padrão, dá um Sake Martini firme; casca de limão ajuda."
+      }
+    ],
+    "foto": "img/garrafas/kinkyo_cup.webp",
+    "fotoOrigem": "20261108_160811610_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/reviews/253901/",
+      "https://www.pref.wakayama.lg.jp/prefg/061000/d00215420_d/fil/R5kokonoesaika.pdf"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "sogen_seishu",
+    "rotulo": "Sōgen (宗玄) Seishu – copo",
+    "marca": "Sōgen (宗玄)",
+    "produtor": "Sogen Shuzo (宗玄酒造)",
+    "tipo": "saque_futsu",
+    "abv": 15,
+    "volumeMl": null,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Suzu, Noto)",
+    "composicao": "arroz e koji de arroz nacionais com álcool adicionado",
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 3
+    },
+    "notas": "Saquê comum de copo de Suzu, na ponta da península de Noto, com álcool adicionado e 15%. O estilo da casa é encorpado e de umami redondo, com doçura de arroz, e costuma ir bem aquecido. Simples e de mesa, mais para beber puro que para drinks elaborados.",
+    "melhorUso": [
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "O estilo encorpado de Noto se abre morno; serve de base para um toddy de saquê com gengibre."
+      },
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 3,
+        "frase": "Mais doce e redondo que um honjozo seco: dá um Sake Martini macio; use gin bem seco."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e limão vira um highball leve, de baixo teor, que mantém o arroz."
+      }
+    ],
+    "foto": "img/garrafas/sogen_seishu.webp",
+    "fotoOrigem": "20261108_160936722_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/brands/1014/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "noguchi_cup_azul",
+    "rotulo": "Noguchi Naohiko Sake Institute – copo (estampa azul)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "produtor": "Noguchi Naohiko Sake Institute (株式会社 農口尚彦研究所)",
+    "tipo": "saque_futsu",
+    "abv": 20,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Ishikawa (Komatsu)",
+    "composicao": "arroz Gohyakumangoku 100%, koji de arroz nacional e álcool adicionado; 20% (força de genshu)",
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 3
+    },
+    "notas": "Mesmo saquê do copo laranja, com estampa azul de paisagens de Ishikawa: arroz Gohyakumangoku com álcool adicionado, a 20%. Encorpado e quente, com umami de arroz e alguma doçura, mais pesado que um copo comum. Bom puro, gelado ou aquecido.",
+    "melhorUso": [
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "A 20%, aguenta soda e gelo sem ficar aguado: highball de saquê com mais corpo que o normal."
+      },
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 3,
+        "frase": "Encorpado e alcoólico, segura o gin no Sake Martini, mas deixa o drink mais pesado que com ginjo."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Aquecido, o umami e a doçura do arroz se abrem; boa base para um toddy de saquê com gengibre."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 3,
+        "frase": "No lugar do xerez traz umami e corpo; com vermute dry e bitters vira um Bamboo de saquê."
+      }
+    ],
+    "foto": "img/garrafas/noguchi_cup_azul.webp",
+    "fotoOrigem": "20261108_160840007_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/brands/5002/",
+      "https://tengusake.com/brewery/noguchi-naohiko-sake-institute"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "waka_ebis_honjozo",
+    "rotulo": "Waka-Ebis Honjozo – copo",
+    "marca": "Waka-Ebis",
+    "produtor": "Wakaebis Shuzo (若戎酒造)",
+    "tipo": "saque_honjozo",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Mie (Iga)",
+    "composicao": "arroz e koji de arroz nacionais com um pouco de álcool adicionado; polimento 70%",
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 3
+    },
+    "notas": "Honjozo de copo de Iga (Mie), com arroz polido a 70%, um pouco de álcool adicionado e 15%. Espere um saquê seco e leve, de umami moderado e final curto e limpo, sem perfume frutado marcante. Versátil: gelado, em temperatura ambiente ou morno.",
+    "melhorUso": [
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 4,
+        "frase": "Seco e limpo, é o perfil que o Sake Martini pede: não esconde o gin nem pesa no drink."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Honjozo leve fica macio morno; bom para um toddy de saquê com gengibre e limão."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e casca de limão vira um highball leve, de baixo teor."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 3,
+        "frase": "No lugar do xerez fino, a secura e o umami dão um Bamboo de saquê leve."
+      }
+    ],
+    "foto": "img/garrafas/waka_ebis_honjozo.webp",
+    "fotoOrigem": "20261108_161008188_iOS.dng",
+    "fontes": [
+      "https://www.mlit.go.jp/tagengo-db/en/R1-01580.html",
+      "https://www.yodobashi.com/maker/5000020823/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "eshikoto_junmai_daiginjo",
+    "rotulo": "ESHIKOTO Gohyakumangoku Junmai Daiginjo",
+    "marca": "Eshikoto",
+    "produtor": "Kokuryu Shuzo (黒龍酒造)",
+    "tipo": "saque_daiginjo",
+    "abv": 16,
+    "volumeMl": 720,
+    "pais": "Japão",
+    "regiao": "Fukui (Eiheiji)",
+    "composicao": "arroz Gohyakumangoku de Fukui 100%, polimento 50%, sem álcool adicionado; fermentação inspirada no kimoto, com ácido lático natural",
+    "perfil": {
+      "doce": 1,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 2
+    },
+    "notas": "Junmai daiginjo do Kokuryu, da linha ESHIKOTO, feito com Gohyakumangoku de Fukui polido a 50% e fermentação inspirada no kimoto. Aroma limpo de fruta branca e cítrico, boca firme e fina com acidez fresca, umami contido e final seco. Para beber gelado e puro; em drinks, só em preparos delicados.",
+    "melhorUso": [
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 4,
+        "frase": "Aroma frutado e acidez limpa fazem um Sake Martini elegante; use gin delicado e em pouca quantidade."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda bem gelada e casca de limão vira um aperitivo leve que mostra o aroma."
+      },
+      {
+        "alvo": "familia:sour",
+        "nota": 3,
+        "frase": "Num sour leve, com limão e pouco xarope, o frutado do daiginjo aparece; drink de baixo teor."
+      }
+    ],
+    "foto": "img/garrafas/eshikoto_junmai_daiginjo.webp",
+    "fotoOrigem": "20261108_160705979_iOS.dng",
+    "fontes": [
+      "https://eshikoto-store.shop-ishidaya.com/jp/sake/eshikoto",
+      "https://www.saketime.jp/brands/7568/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  },
+  {
+    "id": "atagonomatsu_tokubetsu_junmai",
+    "rotulo": "Atagonomatsu Tokubetsu Junmai – copo",
+    "marca": "Atagonomatsu",
+    "produtor": "Niizawa Jozoten (新澤醸造店)",
+    "tipo": "saque_junmai",
+    "abv": 15,
+    "volumeMl": 180,
+    "pais": "Japão",
+    "regiao": "Miyagi (Ōsaki)",
+    "composicao": "arroz polido a 60%, sem álcool adicionado",
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 3
+    },
+    "notas": "Tokubetsu junmai de Miyagi, da casa que faz o Hakurakusei, sem álcool adicionado e com arroz polido a 60%. Seco e limpo, com fruta suave, um toque doce no meio e umami de arroz redondo; vai bem gelado e também morno. Equilibrado e de mesa, é um bom curinga para drinks de saquê.",
+    "melhorUso": [
+      {
+        "alvo": "receita:sake_martini",
+        "nota": 4,
+        "frase": "Seco e limpo, com umami de arroz: dá um Sake Martini equilibrado, sem pesar nem sumir."
+      },
+      {
+        "alvo": "familia:quente",
+        "nota": 3,
+        "frase": "Morno mantém o sabor e ganha maciez; boa base para um toddy de saquê."
+      },
+      {
+        "alvo": "receita:bamboo",
+        "nota": 3,
+        "frase": "A secura e o umami substituem o xerez fino num Bamboo de saquê com vermute dry."
+      },
+      {
+        "alvo": "familia:highball",
+        "nota": 3,
+        "frase": "Com soda e casca de limão vira um highball leve que preserva o arroz."
+      }
+    ],
+    "foto": "img/garrafas/atagonomatsu_tokubetsu_junmai.webp",
+    "fotoOrigem": "20261108_160950546_iOS.dng",
+    "fontes": [
+      "https://www.saketime.jp/reviews/116859/",
+      "https://www.saketime.jp/brands/2146/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "revisadoEm": "2026-11-18"
+  }
+]

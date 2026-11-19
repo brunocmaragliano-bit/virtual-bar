@@ -1,0 +1,17 @@
+{
+  "name": "virtual-bar",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "App pessoal de bartender (PWA offline). O app em site/ não tem dependências; os pacotes abaixo são só das ferramentas de construção.",
+  "scripts": {
+    "validar": "node tools/validar.mjs",
+    "test": "node --test \"tests/*.test.mjs\"",
+    "precache": "node tools/precache.mjs",
+    "build": "node tools/base/calcular.mjs && node tools/validar.mjs && node --test \"tests/*.test.mjs\" && node tools/precache.mjs",
+    "servir": "node tools/servir.mjs site 8081"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

@@ -1,0 +1,3947 @@
+[
+  {
+    "id": "rob_roy",
+    "nome": "Rob Roy",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch_blended",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda (ou casca de limão-siciliano)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o scotch, o vermute e o Angostura.",
+      "Mexa até gelar bem.",
+      "Coe na taça e finalize com a cereja ou uma casca de limão torcida."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova York",
+      "bar": "Waldorf-Astoria",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/rob-roy/",
+        "titulo": "Punch — Rob Roy",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces Scotch, blended; 1 ounce sweet vermouth; 2 dashes Angostura bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#8a3a1c",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "scotch",
+      "spirit_forward",
+      "nova_york"
+    ]
+  },
+  {
+    "id": "bobby_burns",
+    "nome": "Bobby Burns",
+    "nomesAlt": [
+      "Robert Burns"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch_single_malt",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte pede single malt das Highlands."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "beneditino",
+        "ml": 15,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Junte o scotch, o vermute e o Bénédictine no mixing glass com gelo.",
+      "Mexa até ficar bem gelado.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/bobby-burns-cocktail/",
+        "titulo": "Imbibe — Bobby Burns Cocktail (de The Essential Cocktail, Dale DeGroff)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 oz. Highland malt scotch, 3/4 oz. sweet vermouth, 1/2 oz. Bénédictine",
+    "confianca": "adaptacao_publicada",
+    "cor": "#9a4a1e",
+    "variacaoDe": "rob_roy",
+    "tags": [
+      "scotch",
+      "beneditino",
+      "spirit_forward"
+    ]
+  },
+  {
+    "id": "fanciulli",
+    "nome": "Fanciulli",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 22.5,
+        "papel": "base",
+        "nota": "Difford's pede rye 100 proof (50%)."
+      },
+      {
+        "tipo": "bourbon",
+        "ml": 22.5,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "fernet",
+        "ml": 7.5,
+        "papel": "amargo",
+        "nota": "Difford's pede Fernet-Branca."
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "Difford's pede 3 gotas de solução salina (20 g de sal em 80 g de água) ou uma pitada de sal."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "nick_nora",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja torcida e descartada",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda no palito",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o rye, o bourbon, o vermute, o Fernet e o sal.",
+      "Mexa até gelar e diluir.",
+      "Coe na taça, torça a casca de laranja por cima e descarte-a.",
+      "Finalize com a cereja no palito."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 4,
+      "seco": 3,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/25114/fanciulli",
+        "titulo": "Difford's Guide — Fanciulli",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "22.5 ml straight rye whiskey (100 proof), 22.5 ml bourbon whiskey, 22.5 ml rosso vermouth, 7.5 ml Fernet Branca, 3 drops saline solution or pinch of salt",
+    "confianca": "adaptacao_publicada",
+    "cor": "#5a2414",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "whiskey",
+      "fernet",
+      "amaro",
+      "split_base",
+      "spirit_forward"
+    ]
+  },
+  {
+    "id": "monte_carlo",
+    "nome": "Monte Carlo",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's pede rye 100 proof (50%)."
+      },
+      {
+        "tipo": "beneditino",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo baixo com um cubo grande de gelo.",
+      "Mexa o rye, o Bénédictine e o Angostura com gelo no mixing glass.",
+      "Coe sobre o cubo grande.",
+      "Torça a casca de limão por cima e deixe no copo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2506/monte-carlo",
+        "titulo": "Difford's Guide — Monte Carlo",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml straight rye whiskey (100 proof), 15 ml Bénédictine D.O.M., 1 dash Angostura aromatic bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a3561f",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "whiskey",
+      "beneditino",
+      "spirit_forward"
+    ]
+  },
+  {
+    "id": "de_la_louisiane",
+    "nome": "De La Louisiane",
+    "nomesAlt": [
+      "Cocktail à la Louisiane",
+      "La Louisiane"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "beneditino",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "três cerejas em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rye, o Bénédictine, o vermute, o absinto e o Peychaud's no mixing glass.",
+      "Encha de gelo e mexa até gelar bem.",
+      "Coe na taça e coloque as três cerejas."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova Orleans",
+      "bar": "Restaurant La Louisiane",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/de-la-louisiane/",
+        "titulo": "Punch — De La Louisiane (adaptado de The PDT Cocktail Book, Jim Meehan)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye, 3/4 ounce Bénédictine, 3/4 ounce sweet vermouth, 3 dashes absinthe, 3 dashes Peychaud's bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#8c3a1a",
+    "variacaoDe": null,
+    "tags": [
+      "whiskey",
+      "beneditino",
+      "absinto",
+      "nova_orleans"
+    ]
+  },
+  {
+    "id": "black_manhattan",
+    "nome": "Black Manhattan",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "amaro_medio",
+        "ml": 30,
+        "papel": "amargo",
+        "nota": "A fonte pede Averna."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o rye, o Averna e os dois bitters.",
+      "Mexa até gelar.",
+      "Coe na taça e coloque a cereja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2005,
+      "cidade": "São Francisco",
+      "bar": "Cortez",
+      "bartender": "Todd Smith"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/black-manhattan/",
+        "titulo": "Punch — Black Manhattan",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye, 1 ounce Averna, 1 dash Angostura bitters, 1 dash orange bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#3d1a10",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "whiskey",
+      "amaro",
+      "moderno_classico",
+      "spirit_forward"
+    ]
+  },
+  {
+    "id": "brooklyn",
+    "nome": "Brooklyn",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 7.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "amer_picon",
+        "ml": 7.5,
+        "papel": "amargo",
+        "nota": "A fonte pede Amer Picon ou, na falta dele, Amaro CioCiaro."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rye, o vermute seco, o marasquino e o Amer Picon no mixing glass.",
+      "Encha de gelo e mexa até gelar.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova York",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/brooklyn/",
+        "titulo": "Punch — Brooklyn",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2785/brooklyn",
+        "titulo": "Difford's Guide — Brooklyn (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye whiskey, 1/2 ounce dry vermouth, 1/4 ounce maraschino liqueur, 1/4 ounce Amer Picon, or Amaro CioCiaro if unavailable",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c7802f",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "whiskey",
+      "marasquino",
+      "nova_york",
+      "seco"
+    ]
+  },
+  {
+    "id": "red_hook",
+    "nome": "Red Hook",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A fonte pede Punt e Mes, um vermute tinto mais amargo."
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 7.5,
+        "papel": "modificador",
+        "nota": "A fonte diz 1/4 a 1/2 oz (7,5 a 15 ml), a gosto."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass, junte o rye, o Punt e Mes e o marasquino.",
+      "Encha de gelo e mexa.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova York",
+      "bar": "Milk & Honey",
+      "bartender": "Enzo Errico"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/red-hook/",
+        "titulo": "Punch — Red Hook",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2892/red-hook",
+        "titulo": "Difford's Guide — Red Hook (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye whiskey, 1/2 ounce sweet vermouth (Punt e Mes), 1/4 - 1/2 ounce maraschino liqueur, to taste",
+    "confianca": "adaptacao_publicada",
+    "cor": "#7d2a1a",
+    "variacaoDe": "brooklyn",
+    "tags": [
+      "whiskey",
+      "marasquino",
+      "moderno_classico",
+      "nova_york"
+    ]
+  },
+  {
+    "id": "greenpoint",
+    "nome": "Greenpoint",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "chartreuse_amarela",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano torcida",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rye, o vermute, a Chartreuse amarela e os bitters no mixing glass.",
+      "Encha de gelo e mexa até gelar.",
+      "Coe na taça e torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2005,
+      "cidade": "Nova York",
+      "bar": "Milk & Honey",
+      "bartender": "Michael McIlroy"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/greenpoint/",
+        "titulo": "Punch — The Greenpoint",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3635/greenpoint",
+        "titulo": "Difford's Guide — Greenpoint (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye whiskey, 1/2 ounce sweet vermouth, 1/2 ounce yellow Chartreuse, 1 dash Angostura bitters, 1 dash orange bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a8662a",
+    "variacaoDe": "brooklyn",
+    "tags": [
+      "whiskey",
+      "chartreuse",
+      "moderno_classico",
+      "nova_york"
+    ]
+  },
+  {
+    "id": "little_italy",
+    "nome": "Little Italy",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte sugere Rittenhouse 100 proof."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "amaro_alcachofra",
+        "ml": 15,
+        "papel": "amargo",
+        "nota": "A fonte pede Cynar."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cerejas em calda no palito",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Mexa o rye, o vermute e o Cynar com gelo no mixing glass.",
+      "Coe na taça gelada.",
+      "Finalize com as cerejas no palito."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2005,
+      "cidade": "Nova York",
+      "bar": null,
+      "bartender": "Audrey Saunders"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/little-italy/",
+        "titulo": "Punch — Little Italy",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye whiskey (Rittenhouse 100-proof), 3/4 ounce sweet vermouth, 1/2 ounce Cynar",
+    "confianca": "adaptacao_publicada",
+    "cor": "#6b2414",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "whiskey",
+      "cynar",
+      "amaro",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "revolver",
+    "nome": "Revolver",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_cafe",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja flambada",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "No mixing glass com gelo, junte o bourbon, o licor de café e o bitter de laranja.",
+      "Mexa até gelar e coe na taça.",
+      "Aqueça a casca de laranja com uma chama, esprema o óleo sobre o drink e use como guarnição."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2004,
+      "cidade": "São Francisco",
+      "bar": "Bruno's",
+      "bartender": "Jon Santer"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/revolver/",
+        "titulo": "Punch — Revolver",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon (preferably Bulleit), 1/2 ounce coffee liqueur, 2 dashes orange bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#4a2414",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "bourbon",
+      "cafe",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "corpse_reviver_1",
+    "nome": "Corpse Reviver No. 1",
+    "nomesAlt": [
+      "Corpse Reviver #1"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede cognac (ou brandy)."
+      },
+      {
+        "tipo": "brandy_maca",
+        "ml": 22.5,
+        "papel": "base",
+        "nota": "Calvados ou applejack."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_laranja",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Mexa o conhaque, o calvados, o vermute e o bitter de laranja com gelo.",
+      "Coe na taça gelada.",
+      "Torça a casca de laranja por cima e deixe no drink."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "brunch",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/471/corpse-reviver-no1-savoy-recipe",
+        "titulo": "Difford's Guide — Corpse Reviver No. 1 (Savoy recipe)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Cognac (brandy), 22.5 ml Calvados / apple brandy, 22.5 ml rosso vermouth, 1 dash orange bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#9c4a1c",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "calvados",
+      "spirit_forward",
+      "savoy"
+    ]
+  },
+  {
+    "id": "metropolitan",
+    "nome": "Metropolitan",
+    "nomesAlt": [
+      "Metropolitan (1884)"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 15,
+        "papel": "base",
+        "nota": "O original pede ½ pony de brandy."
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "O original pede 1 pony de vermute francês."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "xarope_simples",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "adocante",
+        "nota": "O original pede gum syrup (xarope com goma arábica)."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "nick_nora",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda no palito",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o conhaque, o vermute seco, o Angostura e o xarope no mixing glass.",
+      "Encha de gelo e mexa até gelar.",
+      "Coe na taça e coloque a cereja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/18557/metropolitan-1884",
+        "titulo": "Difford's Guide — Metropolitan (1884) — receita de O. H. Byron citada",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "½ pony brandy, 1 pony French vermouth, 3 dashes Angostura bitters, 3 dashes gum syrup (O. H. Byron, The Modern Bartenders' Guide, 1884)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b57a3a",
+    "variacaoDe": "manhattan",
+    "tags": [
+      "conhaque",
+      "vermute",
+      "baixo_teor",
+      "seculo_xix"
+    ]
+  },
+  {
+    "id": "improved_whiskey_cocktail",
+    "nome": "Improved Whiskey Cocktail",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "whiskey_americano",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte aceita bourbon ou rye."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "adocante",
+        "nota": "Cubo de açúcar; a fonte aceita 1 colher de chá de açúcar ou ¼ oz generoso de xarope simples."
+      },
+      {
+        "tipo": "maraschino",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano ou de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No copo baixo, amasse o cubo de açúcar com o marasquino, os bitters e o absinto.",
+      "Junte o whiskey e mexa para dissolver.",
+      "Coloque o cubo grande de gelo e mexa até gelar.",
+      "Torça a casca por cima e deixe no copo."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/improved-whiskey-cocktail/",
+        "titulo": "Punch — Improved Whiskey Cocktail",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/5083/improved-whiskey-cocktail",
+        "titulo": "Difford's Guide — Improved Whiskey Cocktail (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon or rye, 1 sugar cube, 1 bar spoon maraschino liqueur, 1 dash Angostura bitters, 1 dash Peychaud's bitters, 1 dash absinthe",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b06a2a",
+    "variacaoDe": "old_fashioned",
+    "tags": [
+      "whiskey",
+      "absinto",
+      "marasquino",
+      "seculo_xix",
+      "cubo_de_acucar"
+    ]
+  },
+  {
+    "id": "japanese_cocktail",
+    "nome": "Japanese Cocktail",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cognac",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o cognac, o orgeat e o Angostura com gelo.",
+      "Coe na taça gelada.",
+      "Torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "digestivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1862,
+      "cidade": "Nova York",
+      "bar": null,
+      "bartender": "Jerry Thomas"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/japanese-cocktail/",
+        "titulo": "Punch — Japanese Cocktail",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces cognac, 1/2 ounce orgeat, 2 dashes Angostura bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c98a3a",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "orgeat",
+      "seculo_xix"
+    ]
+  },
+  {
+    "id": "art_of_choke",
+    "nome": "Art of Choke",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "hortela",
+        "qtd": 8,
+        "unidade": "folha",
+        "papel": "modificador"
+      },
+      {
+        "tipo": "rum_branco",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "amaro_alcachofra",
+        "ml": 30,
+        "papel": "amargo",
+        "nota": "Cynar ou outro amaro de alcachofra."
+      },
+      {
+        "tipo": "chartreuse_verde",
+        "ml": 7.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "xarope_demerara",
+        "ml": 7.5,
+        "papel": "adocante",
+        "nota": "Difford's pede xarope de demerara 2:1 (açúcar:água), mais concentrado que o 1:1."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "ramos de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Amasse de leve as folhas de hortelã no fundo do mixing glass, só para soltar o aroma.",
+      "Junte o rum, o Cynar, a Chartreuse, o xarope, o limão e o Angostura.",
+      "Encha de gelo e mexa.",
+      "Coe num copo baixo com gelo e decore com um buquê de hortelã."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 5,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2008,
+      "cidade": "Chicago",
+      "bar": "The Violet Hour",
+      "bartender": "Kyle Davidson"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4854/art-of-choke",
+        "titulo": "Difford's Guide — Art of Choke",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "8 fresh mint leaves, 30 ml light white rum, 30 ml Cynar, 7.5 ml green Chartreuse, 7.5 ml demerara sugar syrup (2:1), 5 ml lime juice, 2 dash Angostura aromatic bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#5a3a1a",
+    "variacaoDe": null,
+    "tags": [
+      "amaro",
+      "cynar",
+      "chartreuse",
+      "hortela",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "godfather",
+    "nome": "Godfather",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "duo_trio",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch_blended",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_amendoa",
+        "ml": 20,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "gota",
+        "papel": "tempero",
+        "opcional": true,
+        "nota": "Difford's sugere 2 gotas de bitter estilo Boker's, opcional."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo baixo com um cubo grande de gelo.",
+      "Mexa o scotch, o amaretto e o bitter com gelo.",
+      "Coe sobre o cubo grande.",
+      "Torça a casca de laranja por cima e deixe no copo."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/864/godfather",
+        "titulo": "Difford's Guide — Godfather",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml blended Scotch whisky, 20 ml amaretto liqueur, 2 drops Boker's style bitters (optional)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a8642a",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "amaretto",
+      "dois_ingredientes",
+      "anos_1970"
+    ]
+  },
+  {
+    "id": "old_pal",
+    "nome": "Old Pal",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo",
+        "nota": "A fonte pede Campari."
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de limão-siciliano ou de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rye, o Campari e o vermute seco no mixing glass com gelo.",
+      "Mexa até gelar.",
+      "Coe na taça e torça a casca por cima."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 1,
+      "amargo": 4,
+      "seco": 4,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Paris",
+      "bar": "Harry's New York Bar",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/old-pal/",
+        "titulo": "Punch — Old Pal",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1430/old-pal",
+        "titulo": "Difford's Guide — Old Pal (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 ounce rye, 1 ounce Campari, 1 ounce dry vermouth",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b8322a",
+    "variacaoDe": "boulevardier",
+    "tags": [
+      "whiskey",
+      "campari",
+      "partes_iguais",
+      "paris",
+      "amargo"
+    ]
+  },
+  {
+    "id": "gold_rush",
+    "nome": "Gold Rush",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte sugere Elijah Craig."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_mel",
+        "ml": 22.5,
+        "papel": "adocante",
+        "nota": "A fonte pede xarope de mel 3:1 (mel:água), mais denso que o 1:1."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [],
+    "passos": [
+      "Coloque um cubo grande de gelo num copo baixo.",
+      "Bata o bourbon, o limão e o xarope de mel com gelo.",
+      "Coe sobre o cubo grande."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova York",
+      "bar": "Milk & Honey",
+      "bartender": "T. J. Siegel"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/gold-rush/",
+        "titulo": "Punch — Gold Rush",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3629/gold-rush",
+        "titulo": "Difford's Guide — Gold Rush (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon (preferably Elijah Craig), 3/4 ounce lemon juice, 3/4 ounce honey syrup (3:1, honey:water)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9a441",
+    "variacaoDe": "whiskey_sour",
+    "tags": [
+      "bourbon",
+      "mel",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "brown_derby",
+    "nome": "Brown Derby",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_mel",
+        "ml": 22.5,
+        "papel": "adocante",
+        "nota": "A fonte pede xarope de mel 2:1 (mel:água), mais denso que o 1:1."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "toranja",
+        "texto": "casca de toranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o bourbon, o suco de toranja e o xarope de mel com gelo.",
+      "Coe na taça gelada.",
+      "Torça a casca de toranja por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Los Angeles",
+      "bar": "Vendôme Club",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/brown-derby/",
+        "titulo": "Punch — Brown Derby",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces bourbon, 3/4 ounce grapefruit juice, 3/4 ounce honey syrup (2:1, honey:water)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e0a65a",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "mel",
+      "toranja"
+    ]
+  },
+  {
+    "id": "ward_eight",
+    "nome": "Ward Eight",
+    "nomesAlt": [
+      "Ward 8"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's pede rye 100 proof (50%)."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 7.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 5,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "quarto de rodela de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o rye, os sucos, o xarope e a granadina com gelo.",
+      "Coe duas vezes na taça gelada.",
+      "Decore com um quarto de rodela de laranja e a cereja no palito."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Boston",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2062/ward-eight",
+        "titulo": "Difford's Guide — Ward Eight",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml straight rye whiskey (100 proof), 22.5 ml lemon juice, 22.5 ml orange juice, 7.5 ml rich sugar syrup (2:1), 5 ml grenadine",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9603b",
+    "variacaoDe": "whiskey_sour",
+    "tags": [
+      "whiskey",
+      "boston",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "scofflaw",
+    "nome": "Scofflaw",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede rye 100 proof (50%)."
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Gelado."
+      },
+      {
+        "tipo": "vermute_bianco",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Gelado."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 10,
+        "papel": "acido"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero",
+        "opcional": true
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "opcional": true,
+        "nota": "Difford's pede 2 gotas de solução salina ou uma pitada de sal, opcional."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o rye, os dois vermutes, o limão, a granadina e, se quiser, o Peychaud's e o sal com gelo.",
+      "Coe duas vezes na taça.",
+      "Torça a casca de limão por cima e deixe no drink."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 3,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1924,
+      "cidade": "Paris",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1755/scofflaw",
+        "titulo": "Difford's Guide — Scofflaw",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml straight rye whiskey (100 proof), 15 ml dry vermouth, 15 ml bianco vermouth, 10 ml lemon juice, 5 ml grenadine, 1 dash Peychaud's bitters (optional), 2 drops saline solution or pinch of salt (optional)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c96a4a",
+    "variacaoDe": null,
+    "tags": [
+      "whiskey",
+      "lei_seca",
+      "paris",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "lions_tail",
+    "nome": "Lion's Tail",
+    "nomesAlt": [
+      "Lions Tail"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "licor_pimenta_jamaica",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Allspice dram (licor de pimenta-da-jamaica)."
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 5,
+        "papel": "adocante",
+        "nota": "A fonte pede 1 colher de chá."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Junte o bourbon, o limão, o allspice dram, o xarope e o Angostura na coqueteleira.",
+      "Bata com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": "L. A. Clarke"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/lions-tail/",
+        "titulo": "Punch — Lion's Tail (adaptado do Café Royal Cocktail Book, 1937)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3624/lions-tail",
+        "titulo": "Difford's Guide — Lion's Tail (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon, 1/2 ounce lime juice, 1/2 ounce allspice dram, 1 teaspoon simple syrup, 2 dashes Angostura bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c26a2a",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "allspice",
+      "lei_seca"
+    ]
+  },
+  {
+    "id": "rattlesnake",
+    "nome": "Rattlesnake",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rye_whiskey",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 22.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "ovo_clara",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Uma clara inteira."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "bitters_aromatico",
+        "texto": "gotas de Angostura desenhadas na espuma",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata todos os ingredientes sem gelo para montar a espuma.",
+      "Junte gelo e bata de novo até gelar.",
+      "Coe com peneira fina numa taça.",
+      "Pingue gotas de Angostura na espuma e puxe com um palito, formando um desenho."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/rattlesnake/",
+        "titulo": "Punch — Rattlesnake",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1643/rattlesnake",
+        "titulo": "Difford's Guide — Rattlesnake (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces rye, 3/4 ounce lemon juice, 3/4 ounce simple syrup, 2 dashes absinthe, 1 egg white",
+    "confianca": "adaptacao_publicada",
+    "cor": "#efe0b0",
+    "variacaoDe": "whiskey_sour",
+    "tags": [
+      "whiskey",
+      "absinto",
+      "clara_de_ovo",
+      "savoy"
+    ]
+  },
+  {
+    "id": "bourbon_renewal",
+    "nome": "Bourbon Renewal",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "licor_cassis",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "gomo de limão-siciliano (ou groselhas frescas, na época)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo novo.",
+      "Bata o bourbon, o limão, o cassis, o xarope e o Angostura com gelo.",
+      "Coe sobre o gelo do copo.",
+      "Decore com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2004,
+      "cidade": "Eugene",
+      "bar": "Bel Ami Lounge",
+      "bartender": "Jeffrey Morgenthaler"
+    },
+    "fontes": [
+      {
+        "url": "https://jeffreymorgenthaler.com/bourbon-renewal/",
+        "titulo": "Jeffrey Morgenthaler — Bourbon Renewal",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2318/bourbon-renewal",
+        "titulo": "Difford's Guide — Bourbon Renewal (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 oz bourbon, 1 oz fresh lemon juice, .5 oz creme de cassis, .5 oz simple syrup, 1 dash Angostura bitters",
+    "confianca": "spec_publicada",
+    "cor": "#9c2a3a",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "cassis",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "amaretto_sour",
+    "nome": "Amaretto Sour",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "licor_amendoa",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "bourbon",
+        "ml": 22.5,
+        "papel": "modificador",
+        "nota": "O autor pede bourbon cask strength (alta graduação)."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "ml": 15,
+        "papel": "espuma",
+        "nota": "Clara levemente batida."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cerejas em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata todos os ingredientes sem gelo para montar a espuma.",
+      "Junte gelo e bata bem.",
+      "Coe sobre gelo novo num copo baixo.",
+      "Decore com a casca de limão e as cerejas, se quiser."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 4,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://jeffreymorgenthaler.com/i-make-the-best-amaretto-sour-in-the-world/",
+        "titulo": "Jeffrey Morgenthaler — I Make the Best Amaretto Sour in the World",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/amaretto-sour/",
+        "titulo": "Punch — Amaretto Sour (versão de Jeffrey Morgenthaler)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1½ oz/45 ml amaretto, ¾ oz/22.5 ml cask-proof bourbon, 1 oz/30 ml lemon juice, 1 tsp/5 ml 2:1 simple syrup, ½ oz/15 ml egg white, lightly beaten",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e8b24a",
+    "variacaoDe": null,
+    "tags": [
+      "amaretto",
+      "bourbon",
+      "clara_de_ovo"
+    ]
+  },
+  {
+    "id": "jack_rose",
+    "nome": "Jack Rose",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "brandy_maca",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte pede applejack."
+      },
+      {
+        "tipo": "granadina",
+        "ml": 22.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Bata o applejack, a granadina e o limão com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/recipe-the-jack-rose/",
+        "titulo": "Imbibe — Jack Rose Cocktail",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1039/jack-rose-cocktail",
+        "titulo": "Difford's Guide — Jack Rose (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 oz. applejack, 3/4 oz. grenadine, 3/4 oz. lemon juice",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9475a",
+    "variacaoDe": null,
+    "tags": [
+      "calvados",
+      "granadina",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "blood_and_sand",
+    "nome": "Blood and Sand",
+    "nomesAlt": [
+      "Blood & Sand"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch_blended",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_cereja",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "A fonte prefere Cherry Heering."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 30,
+        "papel": "acido",
+        "nota": "Espremido na hora."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele a taça.",
+      "Coloque o scotch, o licor de cereja, o vermute e o suco de laranja na coqueteleira.",
+      "Bata com gelo.",
+      "Coe na taça gelada."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/blood-and-sand/",
+        "titulo": "Punch — Blood and Sand",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 ounce Scotch, blended; 1 ounce cherry liqueur (preferably Cherry Heering); 1 ounce sweet vermouth; 1 ounce orange juice, freshly squeezed",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b5432a",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "partes_iguais",
+      "frutado",
+      "savoy"
+    ]
+  },
+  {
+    "id": "champs_elysees",
+    "nome": "Champs-Élysées",
+    "nomesAlt": [
+      "Champs Elysees"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede cognac (ou brandy)."
+      },
+      {
+        "tipo": "chartreuse_verde",
+        "ml": 10,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "agua",
+        "ml": 7.5,
+        "papel": "diluidor",
+        "opcional": true,
+        "nota": "Água gelada; Difford's manda omitir se o gelo estiver molhado."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "Difford's pede 2 gotas de solução salina ou uma pitada de sal."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o conhaque, a Chartreuse, o limão, o xarope, a água, o Angostura e o sal com gelo.",
+      "Coe duas vezes na taça gelada.",
+      "Torça a casca de limão por cima e deixe no drink."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "digestivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/396/champs-elysees",
+        "titulo": "Difford's Guide — Champs-Élysées",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Cognac (brandy), 10 ml green Chartreuse, 20 ml lemon juice, 15 ml rich sugar syrup (2:1), 7.5 ml chilled water (omit if using wet ice), 1 dash Angostura aromatic bitters, 2 drops saline solution or pinch of salt",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9c25a",
+    "variacaoDe": "sidecar",
+    "tags": [
+      "conhaque",
+      "chartreuse",
+      "paris"
+    ]
+  },
+  {
+    "id": "whiskey_smash",
+    "nome": "Whiskey Smash",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "julep_smash",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "hortela",
+        "qtd": 8,
+        "unidade": "folha",
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 15,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "hortela",
+        "texto": "buquê de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo com gelo.",
+      "Bata a hortelã, o bourbon, o limão e o xarope com bastante gelo.",
+      "Coe com peneira fina sobre o gelo do copo.",
+      "Decore com a rodela de limão e o buquê de hortelã."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3347/whiskey-smash",
+        "titulo": "Difford's Guide — Whiskey Smash",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "8 fresh mint leaves, 60 ml bourbon whiskey, 22.5 ml lemon juice, 15 ml rich sugar syrup (2:1)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c9a24a",
+    "variacaoDe": null,
+    "tags": [
+      "whiskey",
+      "hortela",
+      "refrescante"
+    ]
+  },
+  {
+    "id": "mizuwari",
+    "nome": "Mizuwari",
+    "nomesAlt": [
+      "Whisky com água"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "whisky",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's usa blended scotch; no Japão o costume é whisky japonês."
+      },
+      {
+        "tipo": "agua",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "Água mineral bem gelada. A proporção usual vai de 1:2,5 a 1:4 (whisky:água)."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano torcida e descartada",
+        "essencial": false
+      },
+      {
+        "tipo": "hortela",
+        "texto": "raminhos de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha o copo de gelo e mexa até juntar água no fundo; escorra essa água.",
+      "Coloque o whisky e complete o copo com gelo.",
+      "Mexa, repondo gelo até a borda.",
+      "Junte a água gelada e mexa mais um pouco.",
+      "Torça a casca de limão por cima, descarte-a e decore com hortelã."
+    ],
+    "perfil": {
+      "doce": 0,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2991/mizuwari",
+        "titulo": "Difford's Guide — Mizuwari",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml blended Scotch whisky, top up with chilled water/mineral water",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e2c58a",
+    "variacaoDe": null,
+    "tags": [
+      "whisky",
+      "japones",
+      "baixo_teor",
+      "long_drink",
+      "dois_ingredientes"
+    ]
+  },
+  {
+    "id": "presbyterian",
+    "nome": "Presbyterian",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch_blended",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "ml": 45,
+        "papel": "diluidor"
+      },
+      {
+        "tipo": "ginger_ale",
+        "unidade": "top",
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Coloque o scotch e a água com gás.",
+      "Complete com ginger ale e mexa de leve.",
+      "Decore com a rodela de limão."
+    ],
+    "perfil": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3091/presbyterian",
+        "titulo": "Difford's Guide — Presbyterian",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml blended Scotch whisky, 45 ml soda water, top up with ginger ale",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e6c27a",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "long_drink",
+      "refrescante",
+      "baixo_teor"
+    ]
+  },
+  {
+    "id": "mamie_taylor",
+    "nome": "Mamie Taylor",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "ginger_beer",
+        "ml": 120,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Coloque o scotch e o limão num copo alto.",
+      "Encha de gelo.",
+      "Complete com a ginger beer."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/mamie-taylor/",
+        "titulo": "Punch — Mamie Taylor",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces Scotch, 3/4 ounce lime juice, 4 ounces ginger beer",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e0b860",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "gengibre",
+      "long_drink",
+      "refrescante"
+    ]
+  },
+  {
+    "id": "kentucky_mule",
+    "nome": "Kentucky Mule",
+    "nomesAlt": [
+      "Bourbon Mule"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "ginger_beer",
+        "ml": 90,
+        "papel": "diluidor",
+        "nota": "A fonte diz 3 a 4 oz (90 a 120 ml)."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_cobre",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "rodela de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha a caneca de cobre com gelo.",
+      "Junte o bourbon, o limão e a ginger beer.",
+      "Mexa de leve e decore com a rodela de limão."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://vinepair.com/cocktail-recipe/kentucky-mule-recipe/",
+        "titulo": "VinePair — Kentucky Mule",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon, 1/2 ounce freshly squeezed lime juice, 3-4 ounces ginger beer",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9b46a",
+    "variacaoDe": "moscow_mule",
+    "tags": [
+      "bourbon",
+      "gengibre",
+      "long_drink"
+    ]
+  },
+  {
+    "id": "chilcano",
+    "nome": "Chilcano",
+    "nomesAlt": [
+      "Chilcano de Pisco"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "pisco",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 7.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero",
+        "nota": "Difford's pede Amargo Chuncho, o bitter peruano."
+      },
+      {
+        "tipo": "ginger_ale",
+        "ml": 105,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto com gelo.",
+      "Coloque o pisco, o limão e o bitter.",
+      "Complete com o ginger ale e mexa de leve.",
+      "Decore com o gomo de limão."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 0,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3490/chilcano-de-pisco",
+        "titulo": "Difford's Guide — Chilcano de Pisco",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml pisco, 7.5 ml lime juice, 3 dash Amargo Chuncho bitters, 105 ml ginger ale",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e8d9a0",
+    "variacaoDe": null,
+    "tags": [
+      "pisco",
+      "peruano",
+      "long_drink",
+      "refrescante"
+    ]
+  },
+  {
+    "id": "kentucky_buck",
+    "nome": "Kentucky Buck",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "morango",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_gengibre",
+        "ml": 22.5,
+        "papel": "adocante",
+        "nota": "O criador usa 3 partes de açúcar para 4 de suco de gengibre fresco. Sem suco, a fonte sugere amassar ~5 cm de gengibre picado com xarope simples."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "top",
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Amasse o morango com o xarope de gengibre na coqueteleira.",
+      "Junte o limão, o bourbon, o Angostura e gelo, e bata.",
+      "Coe duas vezes num copo alto com gelo.",
+      "Complete com água com gás e decore com a rodela de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2009,
+      "cidade": "São Francisco",
+      "bar": "Bourbon & Branch",
+      "bartender": "Erick Castro"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/kentucky-buck/",
+        "titulo": "Punch — Kentucky Buck (Erick Castro)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4121/kentucky-buck",
+        "titulo": "Difford's Guide — Kentucky Buck (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces bourbon, 3/4 ounce lemon juice, 3/4 ounce ginger syrup, 2 dashes Angostura bitters, 1 strawberry, soda water, to top",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9694a",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "gengibre",
+      "morango",
+      "long_drink",
+      "moderno_classico"
+    ]
+  },
+  {
+    "id": "morning_glory_fizz",
+    "nome": "Morning Glory Fizz",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "scotch",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte prefere blended."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Uma clara inteira."
+      },
+      {
+        "tipo": "absinto",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "tempero",
+        "nota": "A fonte diz 3 a 4 dashes."
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "top",
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "highball",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca ou rodela de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata tudo, menos a soda, sem gelo para montar a espuma.",
+      "Junte gelo e bata de novo até gelar bem.",
+      "Coe num copo alto gelado, sem gelo.",
+      "Complete com água com gás devagar e decore com a laranja."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/morning-glory-fizz/",
+        "titulo": "Punch — Morning Glory Fizz",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1364/morning-glory-fizz",
+        "titulo": "Difford's Guide — Morning Glory Fizz (história e serviço)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces Scotch (preferably blended), 1/2 ounce lemon juice, 1/2 ounce lime juice, 1/2 ounce simple syrup (1:1), 1 egg white, 3-4 dashes absinthe, soda, to top",
+    "confianca": "adaptacao_publicada",
+    "cor": "#efe2b8",
+    "variacaoDe": null,
+    "tags": [
+      "scotch",
+      "absinto",
+      "clara_de_ovo",
+      "seculo_xix"
+    ]
+  },
+  {
+    "id": "seelbach",
+    "nome": "Seelbach",
+    "nomesAlt": [
+      "Seelbach Cocktail"
+    ],
+    "tipoReceita": "drink",
+    "familia": "champagne_cocktail",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "A fonte pede Cointreau."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 7,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "bitters_peychaud",
+        "qtd": 7,
+        "unidade": "dash",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "espumante",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "Champagne ou outro espumante seco."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "flauta",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a flauta.",
+      "Mexa o bourbon, o Cointreau e os dois bitters com gelo.",
+      "Coe na flauta e complete com o espumante.",
+      "Torça a casca de laranja por cima."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1995,
+      "cidade": "Louisville",
+      "bar": "Seelbach Hotel",
+      "bartender": "Adam Seger"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/seelbach/",
+        "titulo": "Punch — Seelbach",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1807/seelbach",
+        "titulo": "Difford's Guide — Seelbach (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 ounce bourbon, 1/2 ounce Cointreau, 7 dashes Angostura bitters, 7 dashes Peychaud's bitters, Champagne (or a dry sparkling wine) to top",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c77d3a",
+    "variacaoDe": null,
+    "tags": [
+      "bourbon",
+      "espumante",
+      "angostura",
+      "historia_disputada"
+    ]
+  },
+  {
+    "id": "hot_toddy",
+    "nome": "Hot Toddy",
+    "nomesAlt": [
+      "Toddy"
+    ],
+    "tipoReceita": "drink",
+    "familia": "quente",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "whiskey_americano",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A fonte aceita bourbon, rye ou outro destilado escuro (rum envelhecido, cognac)."
+      },
+      {
+        "tipo": "mel",
+        "ml": 22.5,
+        "papel": "adocante",
+        "nota": "A fonte aceita mel ou xarope de bordo (maple)."
+      },
+      {
+        "tipo": "agua",
+        "ml": 120,
+        "papel": "diluidor",
+        "nota": "Água quente; a fonte diz 4 a 5 oz (120 a 150 ml)."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_quente",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano",
+        "essencial": false
+      },
+      {
+        "tipo": "canela",
+        "texto": "canela em pau",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Aqueça a caneca com água quente e descarte.",
+      "Coloque o whiskey e o mel.",
+      "Complete com a água quente e mexa até o mel dissolver.",
+      "Decore com a rodela de limão e a canela."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "inverno",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/hot-toddy/",
+        "titulo": "Punch — Hot Toddy",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces bourbon or rye (or any dark spirit including aged rum or cognac), 3/4 ounces honey or maple syrup, 4-5 ounces hot water",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c8893a",
+    "variacaoDe": null,
+    "tags": [
+      "quente",
+      "mel",
+      "whiskey"
+    ]
+  },
+  {
+    "id": "brandy_flip",
+    "nome": "Brandy Flip",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "conhaque",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "ovo",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Ovo inteiro."
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 30,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "taca_vinho",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o conhaque, o ovo e o xarope na coqueteleira.",
+      "Bata com força e por bastante tempo, com gelo, para emulsionar o ovo.",
+      "Coe numa taça pequena.",
+      "Rale noz-moscada por cima."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/brandy-flip/",
+        "titulo": "Punch — Brandy Flip (adaptado de The Essential Cocktail, Dale DeGroff)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces brandy, 1 whole egg, 1 ounce simple syrup (1:1, sugar:water)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e3c07a",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "ovo",
+      "sobremesa",
+      "cremoso"
+    ]
+  },
+  {
+    "id": "coffee_cocktail",
+    "nome": "Coffee Cocktail",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "porto_tawny",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "conhaque",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "Difford's pede cognac (ou brandy)."
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Ovo inteiro."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "taca_vinho",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata o porto, o conhaque, o xarope e o ovo com gelo.",
+      "Coe de volta na coqueteleira, sem o gelo, e bata de novo para emulsionar.",
+      "Coe com peneira fina numa taça gelada.",
+      "Rale noz-moscada por cima. Apesar do nome, não leva café."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2350/coffee-cocktail",
+        "titulo": "Difford's Guide — Coffee Cocktail",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml tawny port, 30 ml Cognac (brandy), 15 ml rich sugar syrup (2:1), 1 fresh egg (white & yolk)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#7a3a2a",
+    "variacaoDe": null,
+    "tags": [
+      "porto",
+      "conhaque",
+      "ovo",
+      "seculo_xix",
+      "sobremesa"
+    ]
+  },
+  {
+    "id": "eggnog",
+    "nome": "Eggnog",
+    "nomesAlt": [
+      "Egg Nog",
+      "Gemada alcoólica"
+    ],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_escuro",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "cognac",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 22.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "creme_leite",
+        "ml": 22.5,
+        "papel": "modificador",
+        "nota": "A fonte pede half and half (metade leite, metade creme) ou creme de leite."
+      },
+      {
+        "tipo": "ovo",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Ovo inteiro."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o rum, o cognac, o xarope, o creme e o ovo na coqueteleira.",
+      "Bata sem gelo para emulsionar.",
+      "Junte gelo e bata até gelar bem.",
+      "Coe numa taça e rale noz-moscada por cima."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "inverno",
+      "festa",
+      "sobremesa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/eggnog/",
+        "titulo": "Punch — Eggnog",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 ounce dark rum, 1 ounce Cognac, 3/4 ounce simple syrup, 3/4 ounce half and half (or cream), 1 egg",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f0dfb0",
+    "variacaoDe": null,
+    "tags": [
+      "conhaque",
+      "rum",
+      "ovo",
+      "cremoso",
+      "sobremesa"
+    ]
+  },
+  {
+    "id": "cynar_flip",
+    "nome": "Cynar Flip",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "amaro_alcachofra",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte pede Cynar."
+      },
+      {
+        "tipo": "ovo",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Ovo inteiro."
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 10,
+        "papel": "adocante",
+        "nota": "A fonte pede 2 colheres de chá de xarope 2:1."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "bitters_aromatico",
+        "texto": "gotas de Angostura pingadas na espuma",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata o ovo sozinho, sem gelo, na coqueteleira.",
+      "Junte o Cynar, o xarope e gelo, e bata de novo com força.",
+      "Coe numa taça.",
+      "Pingue algumas gotas de Angostura sobre a espuma."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 3,
+      "seco": 0,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "sobremesa",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": "Ben Sandrof"
+    },
+    "fontes": [
+      {
+        "url": "https://tuxedono2.com/cynar-flip-cocktail-recipe",
+        "titulo": "Tuxedo No.2 — Cynar Flip (adaptado de The Bar Book, Jeffrey Morgenthaler, 2014)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 oz Cynar, 1 egg, 2 tsp 2:1 simple syrup, Angostura bitters for garnish",
+    "confianca": "adaptacao_publicada",
+    "cor": "#6b3a1e",
+    "variacaoDe": null,
+    "tags": [
+      "cynar",
+      "amaro",
+      "ovo",
+      "baixo_teor",
+      "sobremesa"
+    ]
+  }
+]

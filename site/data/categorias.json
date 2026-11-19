@@ -1,0 +1,20 @@
+[
+  { "id": "destilado",           "nome": "Destilados",                  "grupo": "garrafas", "ordem": 1 },
+  { "id": "licor",               "nome": "Licores",                     "grupo": "garrafas", "ordem": 2 },
+  { "id": "vermute_fortificado", "nome": "Vermutes e fortificados",     "grupo": "garrafas", "ordem": 3 },
+  { "id": "amaro",               "nome": "Amaros e bitters aperitivos", "grupo": "garrafas", "ordem": 4 },
+  { "id": "bitters",             "nome": "Bitters",                     "grupo": "garrafas", "ordem": 5 },
+  { "id": "vinho_espumante",     "nome": "Vinhos e espumantes",         "grupo": "garrafas", "ordem": 6 },
+  { "id": "saque",               "nome": "Saquês",                      "grupo": "garrafas", "ordem": 7 },
+  { "id": "cerveja_sidra",       "nome": "Cervejas e sidras",           "grupo": "garrafas", "ordem": 8 },
+  { "id": "citrico_suco",        "nome": "Cítricos e sucos",            "grupo": "frescos",  "ordem": 10 },
+  { "id": "erva",                "nome": "Ervas",                       "grupo": "frescos",  "ordem": 11 },
+  { "id": "fruta",               "nome": "Frutas",                      "grupo": "frescos",  "ordem": 12 },
+  { "id": "ovo_laticinio",       "nome": "Ovos e laticínios",           "grupo": "frescos",  "ordem": 13 },
+  { "id": "xarope",              "nome": "Xaropes, cordiais e infusões", "grupo": "despensa", "ordem": 20 },
+  { "id": "especiaria",          "nome": "Especiarias",                 "grupo": "despensa", "ordem": 21 },
+  { "id": "mixer",               "nome": "Mixers",                      "grupo": "despensa", "ordem": 22 },
+  { "id": "cafe_cha",            "nome": "Café e chá",                  "grupo": "despensa", "ordem": 23 },
+  { "id": "outros",              "nome": "Outros",                      "grupo": "despensa", "ordem": 24 },
+  { "id": "basico",              "nome": "Básicos",                     "grupo": "basicos",  "ordem": 30 }
+]

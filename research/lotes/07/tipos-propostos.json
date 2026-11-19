@@ -1,0 +1,195 @@
+[
+  {
+    "id": "rum_navy",
+    "nome": "Navy rum",
+    "categoria": "destilado",
+    "pai": "rum_escuro",
+    "abvTipico": 54.5,
+    "perfilTipico": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 2,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 1
+    },
+    "gruposTroca": [
+      "cana",
+      "destilado_envelhecido"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "navy rum",
+      "Pusser's",
+      "rum da marinha",
+      "navy strength"
+    ]
+  },
+  {
+    "id": "xarope_cana",
+    "nome": "Xarope de cana (sirop de canne)",
+    "categoria": "xarope",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "adocante"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "sirop de canne",
+      "cane syrup",
+      "sugar cane syrup"
+    ]
+  },
+  {
+    "id": "licor_banana",
+    "nome": "Licor de banana",
+    "categoria": "licor",
+    "pai": null,
+    "abvTipico": 25,
+    "perfilTipico": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "licor_fruta"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "crème de banane",
+      "banana liqueur",
+      "Banane du Brésil"
+    ]
+  },
+  {
+    "id": "manteiga",
+    "nome": "Manteiga sem sal",
+    "categoria": "ovo_laticinio",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 1,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 2
+    },
+    "gruposTroca": [],
+    "unidade": "un",
+    "sinonimos": [
+      "butter",
+      "unsalted butter"
+    ],
+    "perecivel": {
+      "validadeDias": 30
+    }
+  },
+  {
+    "id": "leite_condensado",
+    "nome": "Leite condensado",
+    "categoria": "outros",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "ml",
+    "sinonimos": [
+      "condensed milk",
+      "sweetened condensed milk",
+      "leite moça"
+    ]
+  },
+  {
+    "id": "caju_calda",
+    "nome": "Caju em calda",
+    "categoria": "outros",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 5,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "gruposTroca": [],
+    "unidade": "un",
+    "sinonimos": [
+      "doce de caju em calda",
+      "compota de caju"
+    ]
+  },
+  {
+    "id": "suco_caju",
+    "nome": "Suco de caju",
+    "categoria": "mixer",
+    "pai": null,
+    "abvTipico": 0,
+    "perfilTipico": {
+      "doce": 2,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "gruposTroca": [
+      "suco"
+    ],
+    "unidade": "ml",
+    "sinonimos": [
+      "suco de caju concentrado",
+      "cashew apple juice",
+      "caju juice"
+    ]
+  }
+]

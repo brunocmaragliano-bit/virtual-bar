@@ -1,0 +1,22 @@
+[
+  { "id": "doce",     "nome": "doce",     "descricao": "açúcar residual e sensação de doçura",
+    "ancoras": "0 London Dry gin, vodka · 2 bourbon, vermute bianco · 4 vermute rosso doce, Aperol · 5 limoncello, licor de frutas" },
+  { "id": "acido",    "nome": "ácido",    "descricao": "acidez percebida",
+    "ancoras": "0 destilados · 1 vermutes, saquê · 2 limoncello · 5 suco de limão" },
+  { "id": "amargo",   "nome": "amargo",   "descricao": "amargor (raízes, cascas, quinino, lúpulo)",
+    "ancoras": "0 vodka · 2 Aperol, vermute rosso · 3 Cynar · 4 Campari · 5 Fernet-Branca, Angostura" },
+  { "id": "seco",     "nome": "seco",     "descricao": "secura e austeridade: pouco açúcar, álcool firme, taninos",
+    "ancoras": "0 licores · 1 vermute rosso doce · 3 rye, vermute dry · 4 London Dry gin · 5 xerez fino" },
+  { "id": "herbal",   "nome": "herbal",   "descricao": "ervas, botânicos, notas verdes e florais",
+    "ancoras": "0 vodka · 2 bourbon · 3 gin London Dry, vermute rosso · 5 Chartreuse, Fernet-Branca" },
+  { "id": "frutado",  "nome": "frutado",  "descricao": "frutas frescas, secas ou cítricas",
+    "ancoras": "0 vodka · 2 bourbon · 3 Aperol, porto ruby · 4 pisco mosto verde · 5 limoncello, licor de frutas" },
+  { "id": "defumado", "nome": "defumado", "descricao": "fumaça, turfa, madeira tostada",
+    "ancoras": "0 gin · 1 bourbon · 3 whisky levemente turfado · 4 mezcal · 5 scotch de Islay" },
+  { "id": "picante",  "nome": "picante",  "descricao": "especiarias, pimenta, calor alcoólico",
+    "ancoras": "0 vodka · 1 bourbon · 3 rye, Angostura · 5 pimenta habanero" },
+  { "id": "cremoso",  "nome": "cremoso",  "descricao": "corpo, textura, untuosidade",
+    "ancoras": "0 água com gás · 1 London Dry gin · 2 bourbon · 3 porto · 5 licor de creme, drink com ovo" },
+  { "id": "umami",    "nome": "salgado/umami", "descricao": "salinidade, notas de levedura, oxidação, umami",
+    "ancoras": "0 maioria dos destilados · 1 mezcal · 3 saquê, xerez manzanilla · 5 drink salgado (ex.: com caldo ou azeitona)" }
+]

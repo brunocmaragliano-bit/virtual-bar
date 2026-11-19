@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "xarope_rico_2_1",
+    "nome": "Xarope rico 2:1",
+    "nomesAlt": [
+      "Rich simple syrup",
+      "Rich syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_rico",
+    "rendimentoMl": 480,
+    "rendimentoEstimado": true,
+    "tempoMin": 10,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "acucar",
+        "ml": 480,
+        "papel": "adocante",
+        "nota": "medida em volume (2 xícaras de açúcar refinado)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "medida em volume (1 xícara)"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Junte 2 medidas de açúcar refinado para 1 de água numa panela pequena.",
+      "Aqueça em fogo médio a baixo, mexendo sempre, até não sobrar nenhum cristal.",
+      "Desligue antes de ferver forte e espere chegar à temperatura ambiente.",
+      "Passe para um pote de vidro limpo, tampe e guarde na geladeira por até 2 semanas.",
+      "É mais doce que o simples: 10 ml de rico equivalem a cerca de 15 ml de xarope simples 1:1."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/encyclopedia/3593/cocktails/2-to-1-rich-sugar-syrup-versus-1-to-1-simple-syrup",
+        "titulo": "Difford's Guide — 2:1 rich sugar syrup vs 1:1 simple syrup",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://imbibemagazine.com/recipe/rich-simple-syrup/",
+        "titulo": "Imbibe — Rich Simple Syrup",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Difford's: 2 cups sugar to 1 cup water, gently heated and stirred until dissolved (≈65° Brix); 10 ml 2:1 ≈ 15 ml 1:1. Imbibe: 2 cups granulated sugar, 1 cup water; medium heat until dissolved; refrigerate up to 2 weeks",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f1e9d2",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "basico",
+      "adocante"
+    ]
+  },
+  {
+    "id": "xarope_demerara",
+    "nome": "Xarope de demerara",
+    "nomesAlt": [
+      "Demerara syrup",
+      "Turbinado syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_demerara",
+    "rendimentoMl": 360,
+    "rendimentoEstimado": true,
+    "tempoMin": 10,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "acucar_mascavo",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "açúcar demerara ou turbinado, medida em volume (1 xícara)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "medida em volume (1 xícara)"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Meça partes iguais de açúcar demerara e água (1 xícara de cada).",
+      "Leve ao fogo médio numa panela pequena e mexa até o açúcar dissolver por completo.",
+      "Tire do fogo e deixe esfriar em temperatura ambiente.",
+      "Guarde num pote de vidro limpo e tampado na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/demerara-syrup/",
+        "titulo": "Imbibe — Demerara Syrup (or Turbinado Syrup)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 1 cup demerara or turbinado sugar, 1 cup water; medium heat until dissolved; refrigerate up to 2 weeks",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c98a3c",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "xarope_mel",
+    "nome": "Xarope de mel",
+    "nomesAlt": [
+      "Honey syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_mel",
+    "rendimentoMl": 480,
+    "rendimentoEstimado": true,
+    "tempoMin": 5,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "mel",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Junte mel e água em partes iguais (1 xícara de cada) numa panela pequena.",
+      "Aqueça em fogo médio mexendo só até o mel se misturar por inteiro à água.",
+      "Deixe esfriar, passe para um pote de vidro limpo e tampe.",
+      "Guarde na geladeira por até 2 semanas. Diluído, o mel não empelota no gelo da coqueteleira."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/honey-syrup/",
+        "titulo": "Imbibe — Honey Syrup",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/articles/not-too-sweet-ok-how-to-use-simple-demerara-cane-honey-agave-cocktail-syrup/",
+        "titulo": "Punch — Not Too Sweet, OK? (Jack Schramm)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 1 cup honey, 1 cup water; medium heat, stir to combine; refrigerate up to 2 weeks. Punch (referência de Brix): 1,000 g honey + 640 g hot water ≈ 50° Brix",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e0a526",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "xarope_mel_gengibre",
+    "nome": "Xarope de mel e gengibre",
+    "nomesAlt": [
+      "Honey-ginger syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_mel_gengibre",
+    "rendimentoMl": 450,
+    "rendimentoEstimado": true,
+    "tempoMin": 495,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "mel",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "gengibre",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "um pedaço de ~15 cm (6 in), descascado e fatiado"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Descasque um pedaço de gengibre de uns 15 cm e corte em rodelas finas.",
+      "Ponha o gengibre, o mel e a água numa panela pequena e deixe levantar fervura.",
+      "Baixe o fogo e cozinhe devagar por 5 minutos.",
+      "Deixe esfriar e leve à geladeira com o gengibre dentro durante a noite.",
+      "No dia seguinte, coe, descarte o gengibre e guarde o xarope fechado na geladeira."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/penicillin/",
+        "titulo": "Punch — Penicillin (adaptado de A Proper Drink, Robert Simonson)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Punch (Penicillin, editor’s note): 1 cup honey, 1 cup water, one 6-inch piece ginger root, peeled and sliced; bring to a boil, simmer 5 minutes, refrigerate overnight, strain",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d89a2b",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "infusao"
+    ]
+  },
+  {
+    "id": "xarope_gengibre",
+    "nome": "Xarope de gengibre",
+    "nomesAlt": [
+      "Ginger syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_gengibre",
+    "rendimentoMl": 1000,
+    "rendimentoEstimado": true,
+    "tempoMin": 90,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "gengibre",
+        "ml": 480,
+        "papel": "tempero",
+        "nota": "2 xícaras de gengibre fresco com casca, lavado e picado grosseiramente"
+      },
+      {
+        "tipo": "acucar",
+        "ml": 480,
+        "papel": "adocante",
+        "nota": "medida em volume (2 xícaras)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 1440,
+        "papel": "diluidor",
+        "nota": "medida em volume (6 xícaras)"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Lave o gengibre, mantenha a casca e triture no processador ou liquidificador até ficar bem picado.",
+      "Coloque numa panela grande com o açúcar e a água e misture.",
+      "Deixe ferver, abaixe para fogo médio-baixo e cozinhe por cerca de 1 hora, até engrossar.",
+      "Coe duas vezes (pano fino ou peneira fina) e engarrafe.",
+      "Guarde na geladeira. Com água com gás e um pouco de limão vira um ginger ale caseiro."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/ginger-syrup/",
+        "titulo": "Imbibe — Ginger Syrup (Betty Fraser e Denise DeCarlo, Los Angeles)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 6 cups water, 2 cups unpeeled fresh ginger, roughly chopped, 2 cups sugar; process ginger, bring to a boil, simmer 1 hour on medium-low, strain twice, refrigerate",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9c07a",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "xarope_agave",
+    "nome": "Xarope de agave",
+    "nomesAlt": [
+      "Agave syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_agave",
+    "rendimentoMl": 480,
+    "rendimentoEstimado": true,
+    "tempoMin": 5,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "nectar_agave",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "1 xícara de néctar de agave (o concentrado, de garrafa)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Misture néctar de agave e água em partes iguais (1 xícara de cada).",
+      "Aqueça em fogo médio mexendo até ficar homogêneo.",
+      "Deixe esfriar e passe para um pote de vidro limpo e tampado.",
+      "Guarde na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/agave-syrup/",
+        "titulo": "Imbibe — Agave Syrup",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/articles/not-too-sweet-ok-how-to-use-simple-demerara-cane-honey-agave-cocktail-syrup/",
+        "titulo": "Punch — Not Too Sweet, OK? (Jack Schramm)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 1 cup agave (nectar), 1 cup water; medium heat until combined; refrigerate up to 2 weeks. Punch (alternativa): 2 parts agave nectar to 1 part water by weight ≈ 50° Brix",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e8c46a",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "granadina",
+    "nome": "Granadina caseira",
+    "nomesAlt": [
+      "Grenadine",
+      "Xarope de romã"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "granadina",
+    "rendimentoMl": 240,
+    "tempoMin": 10,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "suco_roma",
+        "ml": 240,
+        "papel": "base",
+        "nota": "1 xícara; suco fresco ou integral engarrafado (a fonte cita POM)"
+      },
+      {
+        "tipo": "acucar",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "medida em volume (1 xícara)"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Junte o suco de romã e o açúcar em partes iguais numa panela pequena.",
+      "Aqueça em fogo baixo, mexendo, só até o açúcar dissolver; não deixe ferver.",
+      "Espere esfriar e engarrafe.",
+      "Guarde na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/grenadine/",
+        "titulo": "Punch — Grenadine",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Punch: 1 cup sugar, 1 cup pomegranate juice (fresh or POM); low heat, stir until dissolved; cool, bottle, refrigerate; keeps 2 weeks; yield 1 cup",
+    "confianca": "adaptacao_publicada",
+    "cor": "#9e1b32",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "orgeat",
+    "nome": "Orgeat",
+    "nomesAlt": [
+      "Xarope de amêndoa",
+      "Orzata"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "orgeat",
+    "rendimentoMl": 480,
+    "tempoMin": 300,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "amendoa",
+        "ml": 540,
+        "papel": "base",
+        "nota": "2¼ xícaras de amêndoas cruas laminadas"
+      },
+      {
+        "tipo": "agua",
+        "ml": 840,
+        "papel": "diluidor",
+        "nota": "3½ xícaras de água filtrada para a infusão (mais 3½ xícaras de água da torneira para o pré-molho, descartada)"
+      },
+      {
+        "tipo": "acucar",
+        "ml": 840,
+        "papel": "adocante",
+        "nota": "3½ xícaras de açúcar de cana, medida em volume"
+      },
+      {
+        "tipo": "vodka",
+        "ml": 30,
+        "papel": "tempero",
+        "nota": "1 oz; ajuda a conservar"
+      },
+      {
+        "tipo": "agua_flor_laranja",
+        "ml": 1.25,
+        "papel": "tempero",
+        "nota": "¼ colher de chá"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Deixe as amêndoas laminadas de molho em água da torneira por 30 minutos e descarte essa água.",
+      "Pulse as amêndoas no processador só até ficarem grosseiramente moídas.",
+      "Cubra com a água filtrada e deixe de molho por 4 a 5 horas, mexendo bem a cada hora.",
+      "Coe num pano fino sobre um pote de 1 litro, espremendo bem, e descarte as amêndoas.",
+      "Junte o açúcar, tampe e chacoalhe várias vezes por uns 15 minutos, até dissolver.",
+      "Acrescente a vodka e a água de flor de laranjeira, misture e guarde na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/homemade-orgeat-recipe/",
+        "titulo": "Imbibe — Homemade Orgeat Recipe (Teardrop Lounge, Portland)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe (Teardrop Lounge, Daniel Shoemaker): 2¼ cups raw sliced almonds soaked 30 min in 3½ cups tap water (discard); coarsely ground; soaked 4–5 h in 3½ cups distilled water; strained; 3½ cups cane sugar shaken to dissolve; 1 oz vodka, ¼ tsp orange blossom water; refrigerate up to 2 weeks; makes 2 to 3 cups",
+    "confianca": "adaptacao_publicada",
+    "cor": "#efe6d6",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "infusao"
+    ]
+  },
+  {
+    "id": "xarope_framboesa",
+    "nome": "Xarope de framboesa",
+    "nomesAlt": [
+      "Raspberry syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_framboesa",
+    "rendimentoMl": 540,
+    "rendimentoEstimado": true,
+    "tempoMin": 40,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "acucar_mascavo",
+        "ml": 480,
+        "papel": "adocante",
+        "nota": "a fonte pede açúcar demerara; 2 xícaras, medida em volume"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "framboesa",
+        "ml": 240,
+        "papel": "base",
+        "nota": "1 xícara, frescas ou congeladas"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Aqueça o açúcar demerara com a água em fogo baixo, mexendo até dissolver.",
+      "Tire do fogo, junte as framboesas e amasse-as no xarope ainda quente.",
+      "Deixe esfriar por completo com a fruta dentro.",
+      "Coe numa peneira, apertando a polpa com uma colher para extrair todo o líquido.",
+      "Guarde num pote fechado na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/raspberry-syrup/",
+        "titulo": "Imbibe — Raspberry Syrup",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 2 cups demerara sugar, 1 cup water, 1 cup raspberries (fresh or frozen); dissolve sugar over low heat, add and mash berries off heat, cool fully, strain pressing the pulp; refrigerate up to 2 weeks",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b0203f",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante"
+    ]
+  },
+  {
+    "id": "xarope_canela",
+    "nome": "Xarope de canela",
+    "nomesAlt": [
+      "Cinnamon syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_canela",
+    "rendimentoMl": 300,
+    "rendimentoEstimado": true,
+    "tempoMin": 45,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "acucar",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "medida em volume (1 xícara)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "canela",
+        "qtd": 4,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "paus de canela quebrados em pedaços grandes"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Quebre 4 paus de canela em pedaços grandes.",
+      "Leve a canela, o açúcar e a água ao fogo médio até ferver.",
+      "Abaixe para fogo médio-baixo e cozinhe por 8 a 10 minutos, mexendo com frequência.",
+      "Desligue, deixe esfriar, retire a canela e coe para um pote de vidro limpo.",
+      "Guarde tampado na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/cinnamon-syrup-recipe/",
+        "titulo": "Imbibe — Cinnamon Syrup",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 1 cup granulated sugar, 1 cup water, 4 cinnamon sticks broken into large pieces; boil, simmer 8–10 min on medium-low, cool, discard sticks, strain; refrigerate up to 2 weeks",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a8642c",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "infusao"
+    ]
+  },
+  {
+    "id": "cordial_limao",
+    "nome": "Cordial de limão",
+    "nomesAlt": [
+      "Lime cordial",
+      "Rose's lime caseiro"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "cordial_limao",
+    "rendimentoMl": 360,
+    "tempoMin": 5,
+    "validadeDias": 14,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "acucar",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "250 g na receita impressa; 8 oz/240 ml no texto do post"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "quente, não precisa ferver"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 45,
+        "papel": "acido",
+        "nota": "1½ oz de suco fresco"
+      },
+      {
+        "tipo": "limao_taiti",
+        "ml": 45,
+        "papel": "tempero",
+        "nota": "casca ralada na hora: 8 g (≈ 1½ oz em volume)"
+      },
+      {
+        "tipo": "acido_citrico",
+        "ml": 30,
+        "papel": "acido",
+        "nota": "25 g (≈ 1 oz em volume)"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Rale a casca dos limões sem pegar a parte branca e esprema o suco.",
+      "Ponha no liquidificador a água quente, o açúcar, o suco, as raspas e o ácido cítrico.",
+      "Bata em velocidade média por cerca de 30 segundos.",
+      "Coe numa peneira fina, engarrafe e leve à geladeira.",
+      "O sabor fica melhor nos primeiros dias; o autor sugere até 2 semanas por segurança (ou congelar)."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 5,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://jeffreymorgenthaler.com/lime-cordial/",
+        "titulo": "Jeffrey Morgenthaler — How to Make Your Own Lime Cordial (Rose’s Lime Juice)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Morgenthaler: 250 g sugar (8 oz/240 ml no texto), 8 oz/240 ml hot water, 1½ oz/45 ml fresh lime juice, 8 g freshly grated lime peel (1½ oz/45 ml by volume), 25 g citric acid (1 oz/30 ml by volume); blend 30 s on medium, fine-strain, bottle and refrigerate; ~12 fl oz",
+    "confianca": "spec_publicada",
+    "cor": "#d4e08a",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "acido"
+    ]
+  },
+  {
+    "id": "xarope_maracuja",
+    "nome": "Xarope de maracujá",
+    "nomesAlt": [
+      "Passion fruit syrup",
+      "Passionfruit syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_maracuja",
+    "rendimentoMl": 480,
+    "rendimentoEstimado": true,
+    "tempoMin": 5,
+    "validadeDias": 7,
+    "rapido": true,
+    "ingredientes": [
+      {
+        "tipo": "suco_maracuja",
+        "ml": 240,
+        "papel": "base",
+        "nota": "1 parte de polpa 100% maracujá, sem açúcar (congelada e descongelada, ou fresca coada)"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "1 parte de xarope simples 1:1"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Descongele a polpa de maracujá 100% (ou coe a polpa fresca para tirar as sementes).",
+      "Misture partes iguais de polpa e xarope simples 1:1 num pote com tampa.",
+      "Tampe, chacoalhe bem e leve à geladeira até a hora de usar.",
+      "Evite suco de caixinha adoçado; a fonte pede polpa pura."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/jeff-beachbum-berrys-passion-fruit-syrup/",
+        "titulo": "Punch — Jeff \"Beachbum\" Berry’s Passionfruit Syrup",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Punch (Jeff \"Beachbum\" Berry, Latitude 29): 1 part frozen 100% passionfruit pulp, thawed; 1 part simple syrup (1:1); combine in a sealable container and refrigerate until use",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f0b32a",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "tiki"
+    ]
+  },
+  {
+    "id": "xarope_baunilha",
+    "nome": "Xarope de baunilha",
+    "nomesAlt": [
+      "Vanilla syrup"
+    ],
+    "tipoReceita": "preparo",
+    "familia": null,
+    "iba": null,
+    "produz": "xarope_baunilha",
+    "rendimentoMl": 360,
+    "rendimentoEstimado": true,
+    "tempoMin": 35,
+    "validadeDias": 14,
+    "rapido": false,
+    "ingredientes": [
+      {
+        "tipo": "acucar",
+        "ml": 240,
+        "papel": "adocante",
+        "nota": "medida em volume (1 xícara)"
+      },
+      {
+        "tipo": "agua",
+        "ml": 240,
+        "papel": "diluidor",
+        "nota": "1 xícara"
+      },
+      {
+        "tipo": "fava_baunilha",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "aberta ao meio no comprimento"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": null,
+    "gelo": null,
+    "guarnicao": [],
+    "passos": [
+      "Dissolva o açúcar na água numa panela pequena em fogo médio, mexendo.",
+      "Tire do fogo, junte a fava de baunilha aberta ao meio e deixe esfriar com ela dentro.",
+      "Coe para um pote de vidro limpo; para um sabor mais forte, deixe a fava no pote.",
+      "Guarde tampado na geladeira por até 2 semanas."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 0,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [],
+    "origem": {
+      "classico": null,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/vanilla-syrup/",
+        "titulo": "Imbibe — Vanilla Syrup",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Imbibe: 1 cup granulated sugar, 1 cup water, 1 vanilla bean, split; dissolve over medium heat, add bean off heat and cool, strain (or leave bean in); refrigerate up to 2 weeks",
+    "confianca": "adaptacao_publicada",
+    "cor": "#efe2c0",
+    "variacaoDe": null,
+    "tags": [
+      "preparo",
+      "adocante",
+      "infusao"
+    ]
+  }
+]

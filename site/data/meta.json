@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "baseVersion": "2026.11.1",
+  "geradoEm": "2026-11-19",
+  "arquivos": {
+    "receitas": [
+      "canonicos-gin-vodka-vermute.json",
+      "canonicos-rum-agave-cachaca.json",
+      "canonicos-whiskey-conhaque-amaro.json",
+      "classicos.json",
+      "iba-contemporary.json",
+      "iba-new-era.json",
+      "iba-unforgettables.json",
+      "preparos.json"
+    ]
+  },
+  "contagens": {
+    "tipos": 217,
+    "garrafas": 78,
+    "receitas": 236,
+    "preparos": 15
+  }
+}

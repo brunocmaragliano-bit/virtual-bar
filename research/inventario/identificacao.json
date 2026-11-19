@@ -1,0 +1,2925 @@
+[
+  {
+    "id": "brennivin_2023_release_rugbrau_edition",
+    "rotulo": "Brennivín Aquavit 2023 Release – Rúgbrauð Edition",
+    "marca": "Brennivín",
+    "expressao": "2023 Release – Rúgbrauð Edition",
+    "categoria": "destilado",
+    "tipo": "aquavit",
+    "abv": 40,
+    "volume_ml": 700,
+    "pais": "Islândia",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Produced and bottled in Iceland'. Gargalo e tampa fora do quadro.",
+      "Produtor Ölgerðin Egill Skallagrímsson, Reykjavík. Contém trigo, leite e centeio. Rótulo avisa 'Gets hazy when chilled' (fica turvo gelado). EAN 5690772007793."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161412573_iOS.jpg",
+    "bbox": [
+      0.3,
+      0,
+      0.68,
+      0.9
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161412573_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_161418038_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "redwood_empire_lost_monarch",
+    "rotulo": "Redwood Empire Lost Monarch Blend of Straight Whiskeys",
+    "marca": "Redwood Empire",
+    "expressao": "Lost Monarch",
+    "categoria": "destilado",
+    "tipo": "blend de straight whiskeys americanos (rye e bourbon)",
+    "abv": 45,
+    "volume_ml": 750,
+    "pais": "EUA",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível oculto pelo rótulo: há líquido abaixo do rótulo e o ombro está vazio, superfície não visível."
+    ],
+    "obs": [
+      "'750ml' e '45% ALC/VOL' em letras miúdas nas laterais do rótulo (confirmados no arquivo full). 'Sonoma County, California'. Topo do gargalo/tampa fora do quadro.",
+      "Verso: blend de straight rye e straight bourbon 'aged at least 3 years'; 'Bottled by Redwood Empire Distilling, Graton, CA'. ABV/volume lidos na frente."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160102215_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.69,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160102215_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_160108394_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "johnnie_walker_red_label",
+    "rotulo": "Johnnie Walker Red Label Blended Scotch Whisky",
+    "marca": "Johnnie Walker",
+    "expressao": "Red Label",
+    "categoria": "destilado",
+    "tipo": "blended scotch whisky",
+    "abv": 40,
+    "volume_ml": 1000,
+    "pais": "Escócia",
+    "nivel": "1/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Nível em cerca de 1/3 da garrafa (linha do líquido bem visível). Rodapé: '1 LITRE', 'Distilled, blended & bottled in Scotland', '40% vol'. Garrafa de 1 litro (provavelmente versão travel retail/importada)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160203566_iOS.jpg",
+    "bbox": [
+      0.29,
+      0,
+      0.67,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160203566_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "union_distillery_barrel_aged_garrafa_numerada_n_017118",
+    "rotulo": "Union Distillery Blended Whisky Barrel Aged",
+    "marca": "Union Distillery",
+    "expressao": "Barrel Aged; garrafa numerada nº 017118",
+    "categoria": "destilado",
+    "tipo": "blended whisky brasileiro (malt whisky e destilados envelhecidos em carvalho)",
+    "abv": 40,
+    "volume_ml": 1000,
+    "pais": "Brasil",
+    "nivel": "1/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível estimado em cerca de 1/4 a 1/3 pela linha do líquido nas bordas do rótulo; essa linha fica na mesma altura da borda da mesa ao fundo."
+    ],
+    "obs": [
+      "'Fund. 1848 RS.BR Brasil', 'Serra Gaúcha - Brasil', 'Elaborado e engarrafado na origem', '40%vol.', '1L'. Topo do gargalo fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160125791_iOS.jpg",
+    "bbox": [
+      0.28,
+      0,
+      0.69,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160125791_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "rotulo_personalizado_de_casamento_28_06_2025",
+    "rotulo": "Cachaça Fernanda & Raul 28.06.2025",
+    "marca": null,
+    "expressao": "rótulo personalizado de casamento (28.06.2025)",
+    "categoria": "destilado",
+    "tipo": "cachaça (cor dourada; envelhecimento não informado)",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Brasil",
+    "nivel": "cheia",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Produtor, ABV, volume e tipo (envelhecida ou não) não aparecem; só se sabe que é 'cachaça' de cor dourada. País inferido pela palavra 'cachaça'.",
+      "Produtor, ABV, volume e tipo não aparecem no rótulo."
+    ],
+    "obs": [
+      "Lembrança de casamento: rótulo com aquarela de casarão. Corda de juta no gargalo. Close-up; a foto 20261108_155909055_iOS.jpg mostra a garrafa inteira.",
+      "Garrafa inteira visível, rolha de madeira, corda de juta no gargalo; líquido até a base do gargalo. Lembrança de casamento (garrafa decorativa/presente)."
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_155909055_iOS.jpg",
+    "bbox": [
+      0.29,
+      0.03,
+      0.77,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155902932_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 2
+      },
+      {
+        "arquivo": "20261108_155909055_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "lena_jambu_armazenada_em_toneis_de_amburana",
+    "rotulo": "Lena Jambu",
+    "marca": "Lena",
+    "expressao": "Jambu (armazenada em tonéis de amburana)",
+    "categoria": "destilado",
+    "tipo": "cachaça com jambu (bebida alcoólica mista)",
+    "abv": 30,
+    "volume_ml": 500,
+    "pais": "Brasil",
+    "nivel": "metade",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Categoria: o rótulo diz 'Bebida alcoólica mista' (30%), não 'cachaça'; ingredientes 'mosto fermentado obtido do caldo de cana-de-açúcar, água e flor de jambu'. Classifiquei como destilado de cana com jambu; poderia ser 'outros'."
+    ],
+    "obs": [
+      "'Armazenada em tonéis de amburana'; 'Indústria Brasileira'; 'validade indeterminada'. Nível visível ~55%. Topo cortado; mancha no rótulo."
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_155830415_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.69,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155830415_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "dom_tapparo_extra_premium_envelhecida_em_toneis_de_carvalho_europeu",
+    "rotulo": "Dom Tápparo Engenho Cachaça Extra Premium",
+    "marca": "Dom Tápparo",
+    "expressao": "Extra Premium - envelhecida em tonéis de carvalho europeu",
+    "categoria": "destilado",
+    "tipo": "cachaça extra premium (envelhecida em carvalho europeu)",
+    "abv": 38,
+    "volume_ml": 750,
+    "pais": "Brasil",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível: vazio acima do rótulo e líquido visível na metade inferior; linha exata escondida pelo rótulo/medalhas."
+    ],
+    "obs": [
+      "'Engenho, desde 1978'. Muitos adesivos de medalhas (Spirits Business Global Rum & Cachaça Masters Gold 2023/2024/2025, Concours Mondial de Bruxelles 2018, Expo Cachaça 2022 etc.). Gargalo visível, tampa cortada."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155842049_iOS.jpg",
+    "bbox": [
+      0.22,
+      0,
+      0.75,
+      0.88
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155842049_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "tie_prata_armazenada_em_dorna_de_inox",
+    "rotulo": "Cachaça Tiê Prata",
+    "marca": "Tiê",
+    "expressao": "Prata (armazenada em dorna de inox)",
+    "categoria": "destilado",
+    "tipo": "cachaça prata (não envelhecida)",
+    "abv": 42,
+    "volume_ml": 700,
+    "pais": "Brasil",
+    "nivel": "metade",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O conteúdo não parece cachaça prata: o líquido está amarelado e há pedaços/formas escuras no fundo (talvez frutas em infusão ou garrafa reaproveitada; pode ser também o verso visto por refração). Nível estimado entre 1/3 e metade."
+    ],
+    "obs": [
+      "Selo 'V Ranking Cúpula da Cachaça 2022 - 50 melhores cachaças do ano'. Adesivo de loja 'Casa Santa Luzia' no ombro. Gargalo visível, tampa cortada."
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_155853861_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.72,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155853861_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "hendrick_s",
+    "rotulo": "Hendrick's Gin",
+    "marca": "Hendrick's",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "gin",
+    "abv": 44,
+    "volume_ml": 1000,
+    "pais": "Escócia",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Small Batch – Handcrafted', 'Distilled and bottled in Scotland', 'Est. 1886', '44% alc./vol.', '1L'. Garrafa opaca (nível não visível); rótulo levemente rasgado na borda direita; rolha com papel no topo."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160238454_iOS.jpg",
+    "bbox": [
+      0.23,
+      0.03,
+      0.74,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160238454_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "empress_1908_indigo_gin",
+    "rotulo": "Empress 1908 Indigo Gin",
+    "marca": "Empress 1908",
+    "expressao": "Indigo Gin",
+    "categoria": "destilado",
+    "tipo": "gin contemporâneo colorido com butterfly pea (cor índigo)",
+    "abv": 42.5,
+    "volume_ml": 750,
+    "pais": "Canadá",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "A película plástica transparente sobre a rolha/gargalo parece intacta, mas pode ter sido reposta. O líquido vai até o ombro."
+    ],
+    "obs": [
+      "Faixa inferior: '750mL | 42.5% ALC/VOL | 85 PROOF', 'Distilled and bottled in Canada by [Vic]toria Distillers, British Columbia'. 'Gin coloured with butterfly [pea]...', 'handmade | small batch'."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160249291_iOS.jpg",
+    "bbox": [
+      0.29,
+      0.02,
+      0.67,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160249291_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "bosque",
+    "rotulo": "Bosque Craft Gin",
+    "marca": "Bosque",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "gin destilado artesanal (zimbro silvestre da Patagônia)",
+    "abv": 42,
+    "volume_ml": 500,
+    "pais": "Argentina",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "A cápsula plástica escura sobre a tampa parece intacta, mas pode não ser lacre de fábrica. O líquido vai até o ombro. Número de lote manuscrito pouco legível ('00940'?)."
+    ],
+    "obs": [
+      "'Elaborado con enebro salvaje de la Patagonia'; botânicos: enebro, limón, coriandro, flor de azahar, cardamomo, clavo de olor, cedrón, pomelo. 'Producto Argentino', 'Embotellado 2022', 'Cont. neto 500ml', 'Cont. alc. 42,0 % vol', 'Gin destilado'. Vidro âmbar; faixa/selo vertical na lateral direita.",
+      "Verso: ingredientes 'agua, gin destilado, enebro, coriandro, limón, pomelo, clavo de olor, cardamomo, cedrón y azahar'; 'Elaborado y envasado por: Polditos S.A.S.'; 'Consumir dentro de los 12 meses una vez abierto'. Nível no ombro. ABV, volume e país lidos na frente."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160354152_iOS.jpg",
+    "bbox": [
+      0.27,
+      0.03,
+      0.72,
+      0.95
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160354152_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_160412273_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "chase_gb_extra_dry",
+    "rotulo": "Chase GB Gin Extra Dry",
+    "marca": "Chase",
+    "expressao": "GB Extra Dry",
+    "categoria": "destilado",
+    "tipo": "gin extra dry (Great British)",
+    "abv": 40,
+    "volume_ml": 700,
+    "pais": "Inglaterra",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'From Field to Bottle – Handmade on our home farm in Herefordshire, England', '40% VOL 70cl'. Fita com a bandeira do Reino Unido no gargalo (passa da bbox à esquerda, até ~0.16). Vidro verde, nível não visível; a cápsula parece separada da tampa de rosca (provavelmente já aberta)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160315751_iOS.jpg",
+    "bbox": [
+      0.27,
+      0.03,
+      0.69,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160315751_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "sipsmith_exclusive_for_travel_retail",
+    "rotulo": "Sipsmith London Dry Gin",
+    "marca": "Sipsmith",
+    "expressao": "Exclusive for Travel Retail",
+    "categoria": "destilado",
+    "tipo": "gin London Dry",
+    "abv": 44.1,
+    "volume_ml": 1000,
+    "pais": "Reino Unido",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O lacre de cera verde no gargalo, com a lingueta de abertura, parece intacto (avaliado só pela frente)."
+    ],
+    "obs": [
+      "'Hand crafted in small batches', '1L', '44.1% vol', 'Exclusive for Travel Retail'. País inferido de 'Sipsmith London' (não há 'produto de' visível). Líquido incolor até o ombro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160301848_iOS.jpg",
+    "bbox": [
+      0.26,
+      0.02,
+      0.68,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160301848_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "yvy_terra_refil",
+    "rotulo": "YVY Gin Seco | Nativo – Terra (Refil)",
+    "marca": "YVY",
+    "expressao": "Terra (refil)",
+    "categoria": "destilado",
+    "tipo": "gin seco",
+    "abv": 47.5,
+    "volume_ml": 710,
+    "pais": "Brasil",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Refil em lata de alumínio (não é garrafa). 'Destilaria Original do Brasil'. Lista de ingredientes na lateral, legível só em parte."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161257196_iOS.jpg",
+    "bbox": [
+      0.29,
+      0.09,
+      0.71,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161257196_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "yvy_mar",
+    "rotulo": "YVY Mar – Gin Seco Clássico",
+    "marca": "YVY",
+    "expressao": "Mar",
+    "categoria": "destilado",
+    "tipo": "gin seco (dry gin)",
+    "abv": 46,
+    "volume_ml": 750,
+    "pais": "Brasil",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Líquido incolor em vidro transparente, nível indeterminado (há gotas no lado de dentro do ombro, então ele não está cheio até o topo)."
+    ],
+    "obs": [
+      "'Destilaria Original do Brasil', 'Gin cont. 750ml', 'Grad. alc. 46% vol.'. Selo de papel do gargalo rasgado (aberta). Tampa fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160428682_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.74,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160428682_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "jameson",
+    "rotulo": "Jameson Triple Distilled Irish Whiskey",
+    "marca": "Jameson",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "irish whiskey blended (triple distilled)",
+    "abv": null,
+    "volume_ml": 750,
+    "pais": "Irlanda",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "ABV na lateral esquerda do rótulo cortado pela curvatura (só '...% vol' visível). Volume '750 ml' lido na lateral direita, parcialmente curvado. Nível oculto pelo vidro verde e pelo rótulo (ombro parece vazio, há líquido no fundo)."
+    ],
+    "obs": [
+      "'Product of Ireland'; selo 'John Jameson & Son Limited' no gargalo. Topo da tampa encostado na borda da foto."
+    ],
+    "flags": [
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_160150755_iOS.jpg",
+    "bbox": [
+      0.28,
+      0,
+      0.68,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160150755_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "mezcal_union_uno_espadin_y_cirial",
+    "rotulo": "Mezcal Unión Uno – Mezcal Joven 100% Agave",
+    "marca": "Mezcal Unión",
+    "expressao": "Uno (Espadín y Cirial)",
+    "categoria": "destilado",
+    "tipo": "mezcal joven artesanal (espadín e cirial)",
+    "abv": 40,
+    "volume_ml": null,
+    "pais": "México",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "Texto lateral cortado pela curvatura: volume aparece como '…50 ML' (primeiro dígito oculto, provavelmente 750) e o % está cortado. O ABV 40 foi convertido do '(80 PROOF)' legível. Líquido incolor, nível indeterminado."
+    ],
+    "obs": [
+      "'Espadín y Cirial (A. angustifolia y A. karwinskii)', 'Made with 8 to 14 year old agave', 'Denominación de Origen Protegida', 'Mezcal Artesanal', 'Product of Mex[ico]', NOM '…M-0174X'. Topo do gargalo fora do quadro."
+    ],
+    "flags": [
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_160608823_iOS.jpg",
+    "bbox": [
+      0.3,
+      0,
+      0.68,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160608823_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "madre_espadin",
+    "rotulo": "Madre Mezcal Espadín – Mezcal Artesanal 100% Maguey Joven",
+    "marca": "Madre",
+    "expressao": "Espadín",
+    "categoria": "destilado",
+    "tipo": "mezcal joven artesanal (espadín)",
+    "abv": 40,
+    "volume_ml": 750,
+    "pais": "México",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível oculto pelo rótulo: há líquido abaixo do rótulo e gotas no gargalo, superfície não visível."
+    ],
+    "obs": [
+      "'Desde Siempre', 'Oaxaca – México', '40% alc. by vol.', '750 ML', 'Product of Mexico', 'Denominación de Origen Protegida', Lot No. 'BK-82' (manuscrito). Rótulo com advertência do governo dos EUA. Topo do gargalo fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160631449_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.68,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160631449_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "tres_erres_especial_doble_destilado_uvas_moscatel_pedro_jimenez",
+    "rotulo": "Pisco Especial Tres Erres",
+    "marca": "Tres Erres",
+    "expressao": "Especial – Doble Destilado (uvas Moscatel & Pedro Jiménez)",
+    "categoria": "destilado",
+    "tipo": "pisco",
+    "abv": 35,
+    "volume_ml": 1000,
+    "pais": null,
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Rótulo diz '35° G.L.' e '1000 cc', 'Desde 1928', região 'Valle de Elqui'; o país não aparece nesta face. Monograma 'RR' em relevo no vidro. Gargalo e tampa fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161348699_iOS.jpg",
+    "bbox": [
+      0.21,
+      0,
+      0.76,
+      0.95
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161348699_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "1615_italia_mosto_verde_vendimia_2021",
+    "rotulo": "1615 Pisco del Perú – Italia Mosto Verde",
+    "marca": "1615",
+    "expressao": "Italia Mosto Verde, Vendimia 2021",
+    "categoria": "destilado",
+    "tipo": "pisco mosto verde (uva Italia)",
+    "abv": 42,
+    "volume_ml": 700,
+    "pais": "Peru",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Líquido incolor em vidro transparente, nível indeterminado."
+    ],
+    "obs": [
+      "'Denominación de Origen Pisco Nº 916', 'Pisco destilado de mostos frescos de uva en alambique de cobre', '42% ALC', '700 ML'. Topo do gargalo/tampa fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160513668_iOS.jpg",
+    "bbox": [
+      0.18,
+      0,
+      0.74,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160513668_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "yvy",
+    "rotulo": "YVY Rum",
+    "marca": "YVY",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "rum",
+    "abv": 40,
+    "volume_ml": 750,
+    "pais": "Brasil",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Destilaria Original do Brasil', 'Grad. alc. 40% vol.', 'Cont. 750ml'. Vidro azul fosco e opaco. Ombro, gargalo e tampa fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160653544_iOS.jpg",
+    "bbox": [
+      0.15,
+      0,
+      0.76,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160653544_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "rittenhouse_bottled_in_bond_100_proof",
+    "rotulo": "Rittenhouse Straight Rye Whisky Bottled-in-Bond 100 Proof",
+    "marca": "Rittenhouse",
+    "expressao": "Bottled-in-Bond, 100 Proof",
+    "categoria": "destilado",
+    "tipo": "rye whiskey (straight, bottled-in-bond)",
+    "abv": 50,
+    "volume_ml": 750,
+    "pais": "EUA",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'50% ALC./VOL.' e 'under U.S. Government supervision' impressos na frente; volume 750 ml lido gravado no vidro (foto do verso 20261108_160047819_iOS.jpg). Tampa cortada no topo da foto.",
+      "Verso: 'Distilled and bottled by Heaven Hill Distilleries, Inc., Louisville KY / Bardstown KY'. '750 ML' gravado no vidro, na base. ABV lido na frente."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160041823_iOS.jpg",
+    "bbox": [
+      0.3,
+      0,
+      0.72,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160041823_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_160047819_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "la_higuera_dasylirion_wheeleri",
+    "rotulo": "Sotol La Higuera – Dasylirion Wheeleri",
+    "marca": "La Higuera",
+    "expressao": "Dasylirion wheeleri",
+    "categoria": "destilado",
+    "tipo": "sotol",
+    "abv": 43.4,
+    "volume_ml": 750,
+    "pais": "México",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Líquido incolor, nível indeterminado."
+    ],
+    "obs": [
+      "'Aldama Chihuahua', 'Sotol Spirits', '750 ML', ABV '43.4' escrito à mão. O rótulo traseiro (crânio de carneiro) aparece através do vidro. Topo do gargalo fora do quadro.",
+      "Rótulo de importadora (EUA): 'Imported by Fidencio Spirits, Manhasset, NY'. Ficha: Master distiller Gerardo Ruelas; forno de lenha e pedras; moagem mecânica; fermentação em tinas de pinho de 1000 L; levedura selvagem; alambique de cobre; 2 destilações. 'Elaborado y envasado por El Arbol del Pecado S.A. de C.V., Guadalajara, Jalisco'. Date 01/23, Lot 35, Bottle 1607/4400. ABV/volume lidos na frente."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160551092_iOS.jpg",
+    "bbox": [
+      0.19,
+      0,
+      0.76,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160551092_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_160557621_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "herradura_reposado",
+    "rotulo": "Herradura Reposado Tequila 100% de Agave",
+    "marca": "Herradura",
+    "expressao": "Reposado",
+    "categoria": "destilado",
+    "tipo": "tequila reposado 100% agave",
+    "abv": 40,
+    "volume_ml": 750,
+    "pais": "México",
+    "nivel": "metade",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Nível em cerca de 40% da garrafa. 'Establecido 1870', 'Del Valle de Amatitán, Jalisco', 'Tequila Original', 'Envasado de origen', '40% ALC/VOL (80 PROOF)', '750mL', 'Hecho en México'. Fita fiscal 'Tequila Reposado' sobre a tampa; tampa cortada no topo da foto."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160540762_iOS.jpg",
+    "bbox": [
+      0.15,
+      0,
+      0.76,
+      0.89
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160540762_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "belvedere",
+    "rotulo": "Belvedere Vodka",
+    "marca": "Belvedere",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "vodka",
+    "abv": 40,
+    "volume_ml": 1000,
+    "pais": "Polônia",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Distilled and bottled by Polmos Żyrardów in Poland', alc. 40% vol, 1 Litre. Vidro fosco impede ver o nível; topo cortado."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155812491_iOS.jpg",
+    "bbox": [
+      0.24,
+      0,
+      0.73,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155812491_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "whisky_of_ye_monks",
+    "rotulo": "Whisky of Ye Monks – Scotch Whisky – Union Distillery (iniciais apagadas no rótulo)",
+    "marca": "Whisky of Ye Monks",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "whisky (o rótulo diz 'Scotch Whisky')",
+    "abv": null,
+    "volume_ml": null,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "media",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "As letras iniciais grandes do rótulo sumiram: lê-se 'hisky e onks', 'cotch hisky', 'nion istillery'. Reconstruí como 'Whisky of Ye Monks', 'Scotch Whisky', 'Union Distillery'; o texto menor confirma 'Ye Whisky of Ye Monks' / 'O Whisky dos Monges'. O nome da destilaria é o mesmo do whisky brasileiro da foto 20261108_160125791_iOS.jpg, e há um selo fiscal brasileiro ('Impresso na Casa...') no gargalo; a origem real (Escócia ou Brasil) não aparece no rótulo visível. ABV e volume não visíveis."
+    ],
+    "obs": [
+      "Garrafa de cerâmica em forma de jarra com alça (provavelmente colecionável/decorativa); lacre de cera no corpo preso por corda; pequena peça de cerâmica amarrada à alça com fita vermelha; selo fiscal no gargalo rasgado (indica que já foi aberta). Rótulo antigo, bilíngue inglês/português."
+    ],
+    "flags": [
+      "media_confianca",
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_160221920_iOS.jpg",
+    "bbox": [
+      0.17,
+      0.08,
+      1,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160221920_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "nikka_from_the_barrel",
+    "rotulo": "Nikka Whisky From The Barrel",
+    "marca": "Nikka",
+    "expressao": "From The Barrel",
+    "categoria": "destilado",
+    "tipo": "whisky japonês blended (malte e grão)",
+    "abv": 51.4,
+    "volume_ml": 500,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Rótulo impresso 'alc. 51.4°'; linha legal em japonês diz アルコール分51% e 内容量500ml; ingredientes モルト、グレーン (malte, grão). Versão do mercado japonês. Garrafa inteira, tampa de rosca.",
+      "Verso em japonês: origem da matéria-prima 'produção nacional e Reino Unido (whisky de grão)' (国内製造、英国製造(グレーンウイスキー)); vendido por Asahi Beer. ABV/volume remetidos ao rótulo da frente."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160000633_iOS.jpg",
+    "bbox": [
+      0.15,
+      0.12,
+      0.79,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160000633_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_160006903_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "nikka_coffey_grain",
+    "rotulo": "Nikka Coffey Grain Whisky",
+    "marca": "Nikka",
+    "expressao": "Coffey Grain",
+    "categoria": "destilado",
+    "tipo": "whisky japonês de grão (alambique Coffey)",
+    "abv": 45,
+    "volume_ml": 700,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Produced by The Nikka Whisky Distilling Co., Ltd., Japan'; alc. 45%. Volume lido no verso (20261108_160027735_iOS.jpg). Líquido até a base do gargalo (conferido no arquivo full); cápsula visível, tampa cortada.",
+      "Verso em japonês: 原材料名 グレーン、モルト; 内容量700ml; アルコール分45%; vendido por Asahi Beer; produzido pela Nikka (Kashiwa, Chiba)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160020796_iOS.jpg",
+    "bbox": [
+      0.25,
+      0,
+      0.77,
+      0.98
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160020796_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_160027735_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "kanosuke",
+    "rotulo": "Kanosuke Single Malt Japanese Whisky",
+    "marca": "Kanosuke",
+    "expressao": null,
+    "categoria": "destilado",
+    "tipo": "whisky japonês single malt",
+    "abv": 48,
+    "volume_ml": 700,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Distilled and bottled in Kagoshima, Japan'; 'Mellow Land, Mellow Whisky'; 700 ml / 48% Alc./Vol. (texto lateral conferido no arquivo full). Líquido até o ombro; topo cortado.",
+      "Verso em japonês: 内容量 700ml, アルコール分 48%; Komasa Kanosuke Distillery, Kagoshima; selo 'Non chill-filtered'; código EGBC."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155942042_iOS.jpg",
+    "bbox": [
+      0.16,
+      0,
+      0.8,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155942042_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155948035_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "komagatake_mars_whisky_hombo_shuzo_peated_sherry_limited_batch",
+    "rotulo": "Komagatake Single Malt Japanese Whisky Peated × Sherry Limited Batch",
+    "marca": "Komagatake (Mars Whisky / Hombo Shuzo)",
+    "expressao": "Peated × Sherry - Limited Batch",
+    "categoria": "destilado",
+    "tipo": "whisky japonês single malt turfado, maturado em barril de jerez",
+    "abv": 50,
+    "volume_ml": 700,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Mars Komagatake Distillery, produzido por Hombo Shuzo Co., Ltd., Japan; 50% alc by vol, 700 ml; non-chill filtered. Líquido visível até o ombro (topo cortado na foto).",
+      "Verso em japonês: アルコール分 50%, 内容量 700ml, 本坊酒造 (Hombo Shuzo), Kagoshima; selo 'Japanese Whisky' (JSLMA); lote 46P48."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155922737_iOS.jpg",
+    "bbox": [
+      0.22,
+      0,
+      0.79,
+      0.97
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155922737_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155929534_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "san_basile_bizantino_elixir_ervas",
+    "rotulo": "Bizantino San Basile – Licor Fino de Ervas",
+    "marca": "San Basile",
+    "expressao": "Bizantino – Elixir Ervas",
+    "categoria": "licor",
+    "tipo": "licor de ervas",
+    "abv": 35,
+    "volume_ml": 750,
+    "pais": null,
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O título da 1ª receita está danificado ('...dy daisy'), além de parte das linhas abaixo dele."
+    ],
+    "obs": [
+      "Rótulo em português. O país não aparece na frente. A tampa fica fora do quadro.",
+      "Rótulo lateral com receitas ('...dy daisy' e 'Solar'), que citam Gin New Wave San Basile e Absinthe Blanc San Basile. Tampa metálica prateada. '750 ml' visível na borda do rótulo frontal."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161454876_iOS.jpg",
+    "bbox": [
+      0.31,
+      0,
+      0.63,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161454876_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_161508318_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "64_reykjavik_distillery_uliginosum_blueberry",
+    "rotulo": "64° Reykjavik Distillery Uliginosum Blueberry – Bláberja Liqueur",
+    "marca": "64° Reykjavik Distillery",
+    "expressao": "Uliginosum Blueberry",
+    "categoria": "licor",
+    "tipo": "licor de mirtilo (blueberry)",
+    "abv": 21,
+    "volume_ml": 200,
+    "pais": "Islândia",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível estimado: o líquido escuro parece chegar até o gargalo (topo fora do quadro)."
+    ],
+    "obs": [
+      "'The Original from Iceland'. Garrafa alta e fina, de vidro transparente com líquido escuro. Gargalo cortado.",
+      "Vintage 2023, Batch 01, Bottle 222 (manuscritos). Contém mirtilos e açúcar, sem conservantes. Produzido por Reykjavik Distillery ehf. EAN 5694230075072."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161526593_iOS.jpg",
+    "bbox": [
+      0.34,
+      0,
+      0.58,
+      0.89
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161526593_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_161540580_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "bottega_sandro_bottega_limoncino_limoni_sicilia",
+    "rotulo": "Limoncino Limoncello Bottega",
+    "marca": "Bottega (Sandro Bottega)",
+    "expressao": "Limoncino – Limoni Sicilia",
+    "categoria": "licor",
+    "tipo": "limoncello (licor de limão)",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Itália",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Teor alcoólico e volume não aparecem na frente."
+    ],
+    "obs": [
+      "Garrafa fosca em formato de pino de boliche, 'Product of Italy'. Há texto vertical em relevo no vidro, ilegível. Gargalo fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161601370_iOS.jpg",
+    "bbox": [
+      0.19,
+      0,
+      0.75,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161601370_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "villa_massa",
+    "rotulo": "Villa Massa Limoncello – Liquore di Limone di Sorrento",
+    "marca": "Villa Massa",
+    "expressao": null,
+    "categoria": "licor",
+    "tipo": "limoncello (licor de limão)",
+    "abv": 30,
+    "volume_ml": 500,
+    "pais": "Itália",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O vidro fosco dificulta ver o nível; parece cheia."
+    ],
+    "obs": [
+      "'Piano di Sorrento - Italia'. Faixa 'RICETTA FA... VILLA MASSA' sobre a tampa (pode ser lacre, não confirmado). Garrafa inteira visível."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161549798_iOS.jpg",
+    "bbox": [
+      0.23,
+      0.04,
+      0.72,
+      0.9
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161549798_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "soberbo_pocas_remastered_recipe",
+    "rotulo": "Soberbo Apéritif Vermouth Remastered Recipe",
+    "marca": "Soberbo (Poças)",
+    "expressao": "Remastered Recipe",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute (estilo não indicado no rótulo; líquido escuro)",
+    "abv": 18.5,
+    "volume_ml": 750,
+    "pais": "Portugal",
+    "nivel": "3/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "estilo (tinto/branco) não impresso; vidro verde escuro dificulta ver a cor"
+    ],
+    "obs": [
+      "Manoel D. Poças Júnior, Vinhos S.A., Vila Nova de Gaia; ABV e volume lidos no verso (20261108_154502665_iOS.jpg); topo da cápsula levemente cortado",
+      "contra-rótulo: 'Produto de Portugal', EAN 5601085003198; selo numerado de garantia na lateral"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154454088_iOS.jpg",
+    "bbox": [
+      0.23,
+      0,
+      0.75,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154454088_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_154502665_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "edicao_personalizada_28_06_2025",
+    "rotulo": "Vermute Fernanda & Raul 28.06.2025",
+    "marca": null,
+    "expressao": "edição personalizada 28.06.2025",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute (estilo não indicado; líquido âmbar escuro)",
+    "abv": 18,
+    "volume_ml": 500,
+    "pais": null,
+    "nivel": "cheia",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "produtor/marca não identificado no rótulo; estilo não indicado"
+    ],
+    "obs": [
+      "rótulo personalizado (provável lembrança de casamento); garrafa de vidro transparente com rolha de madeira e barbante"
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_155100022_iOS.jpg",
+    "bbox": [
+      0.26,
+      0.03,
+      0.72,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155100022_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "ataman_barbadillo_original",
+    "rotulo": "Atamán Original Vermut",
+    "marca": "Atamán (Barbadillo)",
+    "expressao": "Original",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute à base de manzanilla",
+    "abv": 17,
+    "volume_ml": 500,
+    "pais": "Espanha",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível não visível (parte superior escura, gargalo fora da foto)"
+    ],
+    "obs": [
+      "'Elaborado con Manzanilla'; ABV e volume lidos no verso (20261108_155255515_iOS.jpg)",
+      "Bodegas Barbadillo S.L., Sanlúcar; 'Producto de España'; impresso '50 cl'"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155246272_iOS.jpg",
+    "bbox": [
+      0.25,
+      0,
+      0.69,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155246272_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155255515_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "mulassano_bianco",
+    "rotulo": "Mulassano Vermouth Bianco",
+    "marca": "Mulassano",
+    "expressao": "Bianco",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute bianco (Vermouth di Torino)",
+    "abv": 18,
+    "volume_ml": 750,
+    "pais": "Itália",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível não visível (vidro escuro, gargalo fora da foto)"
+    ],
+    "obs": [
+      "Cav. Pietro Bordiga s.r.l., Cuneo; impresso '75 cl'; contém corante caramelo"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155010284_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.73,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155010284_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "la_fuerza_blanco",
+    "rotulo": "La Fuerza Vermouth Blanco",
+    "marca": "La Fuerza",
+    "expressao": "Blanco",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute blanco",
+    "abv": 17,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "primeiro dígito do ABV parcialmente na curvatura (lido como 17%); nível difícil de ver no vidro verde escuro, parece cheia até o gargalo"
+    ],
+    "obs": [
+      "versão em inglês ('Made in Argentina', '% Alc. by vol.'); topo da cápsula encostado na borda da foto",
+      "verso: 'Vermú de los Andes. Crafted in Mendoza, Argentina'; ABV/volume lidos na frente"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154600999_iOS.jpg",
+    "bbox": [
+      0.35,
+      0,
+      0.65,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154600999_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_154621459_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "la_fuerza_primavera_en_los_andes",
+    "rotulo": "La Fuerza Vermouth Primavera en los Andes",
+    "marca": "La Fuerza",
+    "expressao": "Primavera en los Andes",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute de primavera (cor dourada; estilo não especificado)",
+    "abv": 17,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "pode estar lacrada (tampa de rosca parece intacta, não confirmado)"
+    ],
+    "obs": [
+      "rótulo serigrafado no vidro transparente; 'Hecho en Argentina'",
+      "verso: 'Soñado, elaborado y embotellado en Mendoza, Argentina'; ABV/volume lidos na frente"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154520983_iOS.jpg",
+    "bbox": [
+      0.33,
+      0.02,
+      0.64,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154520983_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_154543887_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "la_fuerza_sideral",
+    "rotulo": "La Fuerza Vermouth Sideral",
+    "marca": "La Fuerza",
+    "expressao": "Sideral",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute envelhecido em barris de carvalho",
+    "abv": 17,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "pode estar lacrada (não confirmado)"
+    ],
+    "obs": [
+      "versão de exportação em inglês ('Gluten-free', 'Made in Argentina'); topo da cápsula encostado na borda da foto",
+      "verso: 'Vermouth inspired by Mendoza nights... Aged in oak barrels'; aviso do Surgeon General (EUA) e selo vegano; sugere servir puro ou com gelo e casca de laranja"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154642831_iOS.jpg",
+    "bbox": [
+      0.32,
+      0,
+      0.65,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154642831_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_154651747_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "dolores_de_gongora_e_yriarte_bodegas_gongora_rojo",
+    "rotulo": "Vermouth Dolores de Góngora e Yriarte Rojo",
+    "marca": "Dolores de Góngora e Yriarte (Bodegas Góngora)",
+    "expressao": "Rojo",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rojo (espanhol, Sevilha)",
+    "abv": 14.5,
+    "volume_ml": 750,
+    "pais": "Espanha",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Frente: 'Estbl. 1682', 'Villanueva del Ariscal, Sevilla', 75 cl, 14,5% vol. Vidro escuro; topo cortado.",
+      "Produzido e engarrafado por Bodegas Góngora S.L., Villanueva del Ariscal (Sevilla); 14,5% vol, 75 cl; receita 'Gin & It' no verso."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155427308_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.76,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155427308_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155441528_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "orlandoni_rosso",
+    "rotulo": "Orlandoni Vino Vermouth Rosso",
+    "marca": "Orlandoni",
+    "expressao": "Rosso",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso",
+    "abv": 15,
+    "volume_ml": 700,
+    "pais": "Espanha",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "volume impresso como \"0'70 cl\" (interpretado como 0,70 l = 700 ml); só o distribuidor (Murcia) está impresso, não o país de produção"
+    ],
+    "obs": [
+      "distribuído por Aguardientes y Licores Reylik S.A., San Ginés, Murcia; lacre plástico transparente no gargalo (pode estar lacrada); topo do gargalo cortado"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155227899_iOS.jpg",
+    "bbox": [
+      0.19,
+      0,
+      0.77,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155227899_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "vincenzo_familia_catena_rosso",
+    "rotulo": "Vermouth Vincenzo Rosso",
+    "marca": "Vincenzo (Familia Catena)",
+    "expressao": "Rosso",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso",
+    "abv": 16.5,
+    "volume_ml": 950,
+    "pais": "Argentina",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível não visível (vidro escuro, gargalo fora da foto)"
+    ],
+    "obs": [
+      "'Elaborado bajo la receta original italiana de la Familia Catena', Mendoza; ABV e volume lidos no verso (20261108_155208285_iOS.jpg)",
+      "elaborado para Catena Zapata, Agrelo, Luján de Cuyo, Mendoza"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155200950_iOS.jpg",
+    "bbox": [
+      0.28,
+      0,
+      0.74,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155200950_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155208285_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "cantieri_navali_rosso",
+    "rotulo": "Cantieri Navali Vermouth Rosso",
+    "marca": "Cantieri Navali",
+    "expressao": "Rosso",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (argentino, com ervas patagônicas)",
+    "abv": 16.5,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "'Con herbales patagónicos de montaña: enebro / rosa mosqueta / cranberry / burrito / cedrón'; 'Hecho en Argentina'; 16,5% vol (conferido no arquivo full); 750 ml. Vidro escuro; topo cortado.",
+      "Verso sem ABV/volume (valores da frente). Ingredientes: vinho branco, álcool etílico, infusão de ervas aromáticas; Capital Federal, Argentina. Etiqueta de loja '100454' cobrindo parte do texto/código de barras."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155506425_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.79,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155506425_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155518830_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "vecino_rosso_torino_clasica_receta",
+    "rotulo": "Vecino Rosso Torino",
+    "marca": "Vecino",
+    "expressao": "Rosso Torino - Clásica Receta",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (argentino, Mendoza)",
+    "abv": 16,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "ABV impresso pequeno e desfocado na lateral esquerda: lido como '16% alcohol/vol', mas pode ser 18%. Volume 'Cont. neto 750 c(c?)' parcialmente descascado."
+    ],
+    "obs": [
+      "'Auténtico vermut elaborado al pie de la Cordillera de Los Andes', Luján de Cuyo, Prov. de Mendoza; 'Industria de República Argentina'. Nível no ombro/gargalo (visto no arquivo full). Rótulo danificado no canto inferior direito; topo cortado.",
+      "Verso sem ABV/volume. Ingredientes: vinho branco de uvas criollas, álcool, alecrim, canela, feno-grego, noz-moscada, baunilha, coentro, orégano, absinto. Elaborado para Byrka S.A.S., Luján de Cuyo, Mendoza. Sugestão: com gelo e soda."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155639561_iOS.jpg",
+    "bbox": [
+      0.23,
+      0,
+      0.76,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155639561_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155646930_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "dos_deus_origins_red_vermouth_reserve_matured_in_sherry_priorat_barrels",
+    "rotulo": "Dos Déus Origins Red Vermouth Reserve",
+    "marca": "Dos Déus",
+    "expressao": "Origins - Red Vermouth Reserve (Matured in Sherry & Priorat Barrels)",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (espanhol, envelhecido em barris de jerez e de Priorat)",
+    "abv": 15,
+    "volume_ml": 750,
+    "pais": "Espanha",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O verso nomeia o produto 'Vermouth Dos Déus Iuturna'; a frente diz 'Origins'. Nome exato da linha ambíguo.",
+      "Nome no verso 'Iuturna' difere do 'Origins' da frente (o texto do verso cita 'Our Origins Red Vermouth')."
+    ],
+    "obs": [
+      "ABV, volume e país lidos no verso (20261108_155413182_iOS.jpg). Rótulo ilustrado (Atena). Vidro escuro; topo cortado.",
+      "Priorat B&D Lab, Bellmunt del Priorat, Tarragona; 'Product of Spain'; Alc. 15% by vol, 750 ml; batch L-26155; guardar entre 12 e 17 °C."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155405074_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.77,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155405074_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155413182_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "federal_rosso",
+    "rotulo": "Federal Rosso Vermouth",
+    "marca": "Federal",
+    "expressao": "Rosso",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (impresso 'Vermut tipo Torino')",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "ABV e volume não impressos nos rótulos visíveis (frente e verso); relevo no vidro parece '75 cl', parcialmente visível",
+      "ABV e volume não aparecem no contra-rótulo"
+    ],
+    "obs": [
+      "'Producto de República Argentina', 'Bebase bien frio'; tampa de rosca preta",
+      "elaborado e engarrafado em Mendoza para Andes Federales S.A.; data impressa 01/08/2025"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154933550_iOS.jpg",
+    "bbox": [
+      0.34,
+      0.02,
+      0.64,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154933550_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_154940892_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "cinzano_bottega_cinzano_1757",
+    "rotulo": "Bottega Cinzano 1757 Vermouth di Torino Rosso",
+    "marca": "Cinzano",
+    "expressao": "Bottega Cinzano 1757",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (Vermouth di Torino IGP)",
+    "abv": 16,
+    "volume_ml": 1000,
+    "pais": "Itália",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Gargantilha: 'Vermouth di Torino Rosso, prodotto secondo la tradizione piemontese'. Texto de volume/ABV na frente é pequeno; valores confirmados no verso (20261108_155545004_iOS.jpg). Rótulo com pequeno rasgo; topo cortado.",
+      "16% vol, 100 cl; produzido por DCM N.V. (Campari), planta em Novi Ligure (AL), Itália. Rótulo de importadora em português na lateral ('Vinho composto vermute tinto doce')."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155537551_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.77,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155537551_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155545004_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "carpano_antica_formula",
+    "rotulo": "Carpano Antica Formula Vermouth Pregiato",
+    "marca": "Carpano",
+    "expressao": "Antica Formula",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (Vermouth di Torino, baunilhado)",
+    "abv": 16.5,
+    "volume_ml": 1000,
+    "pais": "Itália",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Frente: 'Antica Ricetta', 'Prodotto d'Italia', Torino; 'Lotto Selezionato Nº 19/20', 'Bottiglia numerata Nº 00078'. ABV e volume lidos no verso (20261108_155347314_iOS.jpg). Garrafa de 1 L em vidro escuro; topo/tampa cortados na foto.",
+      "Verso: 'Classico Vermouth Vanigliato'; 'Vermouth di Torino'; F.lli Branca Distillerie srl, Milano; 16,5% vol, 1 l; 'Senza glutine'."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155340759_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.8,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155340759_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155347314_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "cocchi_storico",
+    "rotulo": "Cocchi Storico Vermouth di Torino Ricetta Originale",
+    "marca": "Cocchi",
+    "expressao": "Storico",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso (Vermouth di Torino)",
+    "abv": 16,
+    "volume_ml": 750,
+    "pais": "Itália",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "'rosso' não está impresso (estilo pelo reconhecimento da marca/cor); nível não visível"
+    ],
+    "obs": [
+      "Casa fondata 1891 Asti-Italia; ABV e volume lidos no verso (20261108_155319817_iOS.jpg); gargalo fora da foto",
+      "Giulio Cocchi Spumanti, Asti; selo IGP; impresso '75 cl'; notas de cacau, cítricos e ruibarbo"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155311486_iOS.jpg",
+    "bbox": [
+      0.28,
+      0,
+      0.71,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155311486_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155319817_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "schluck_maturado_em_barril_de_amburana",
+    "rotulo": "Schluck Vermute Rosso",
+    "marca": "Schluck",
+    "expressao": "Maturado em barril de amburana",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute rosso maturado em amburana",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Brasil",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "volume e ABV na borda direita cortados pela curvatura (parecem '70x' e '17%', não confirmados)"
+    ],
+    "obs": [
+      "'Feito naturalmente com ervas de origem brasileira', 'Elaborado com vinhos catarinenses'; selo 'Artisan Liquor' no gargalo; garrafa facetada decorativa com base grossa"
+    ],
+    "flags": [
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_155123236_iOS.jpg",
+    "bbox": [
+      0.3,
+      0,
+      0.71,
+      1
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155123236_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "companhia_dos_fermentados_coffea_arabica",
+    "rotulo": "Vermu Coffea arabica",
+    "marca": "Companhia dos Fermentados",
+    "expressao": "Coffea arabica",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute tinto com café, catuaba e jurubeba",
+    "abv": null,
+    "volume_ml": 750,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "número do ABV está na curvatura esquerda (só 'vol.' visível); nível não visível (vidro escuro)"
+    ],
+    "obs": [
+      "provavelmente brasileiro (texto em português, catuaba/jurubeba), país não impresso; gargalo fora da foto"
+    ],
+    "flags": [
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_155034809_iOS.jpg",
+    "bbox": [
+      0.29,
+      0,
+      0.69,
+      1
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155034809_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "la_fuerza_sideral_barrica_unica_edicion_limitada",
+    "rotulo": "La Fuerza Vermouth Sideral Barrica Única",
+    "marca": "La Fuerza",
+    "expressao": "Sideral Barrica Única - Edición limitada",
+    "categoria": "vermute_fortificado",
+    "tipo": "vermute tinto envelhecido em barrica",
+    "abv": 17,
+    "volume_ml": 750,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "pode estar lacrada (não confirmado)"
+    ],
+    "obs": [
+      "garrafa diferente da Sideral comum (20261108_154642831_iOS.jpg); 'Producto de República Argentina'",
+      "verso: '24 meses de crianza en barrica', ingredientes começam com vinho tinto; ABV/volume lidos na frente"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154707963_iOS.jpg",
+    "bbox": [
+      0.34,
+      0.02,
+      0.67,
+      0.98
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154707963_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_154716753_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "brig_s_pocas_junior_rose",
+    "rotulo": "Brig's Rosé Porto",
+    "marca": "Brig's (Poças Junior)",
+    "expressao": "Rosé",
+    "categoria": "vermute_fortificado",
+    "tipo": "vinho do Porto rosé",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Portugal",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Teor alcoólico e volume não visíveis. País lido no contra-rótulo, espelhado através do vidro ('VILA NOVA DE GAIA - PORTUGAL')."
+    ],
+    "obs": [
+      "Rótulo impresso no vidro: 'Registered Brand Poças Junior Porto'. Gargalo fora do quadro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161434513_iOS.jpg",
+    "bbox": [
+      0.31,
+      0,
+      0.66,
+      0.95
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161434513_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "ferreira_ruby",
+    "rotulo": "Ferreira Porto Ruby",
+    "marca": "Ferreira",
+    "expressao": "Ruby",
+    "categoria": "vermute_fortificado",
+    "tipo": "vinho do Porto ruby",
+    "abv": null,
+    "volume_ml": null,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Volume e teor alcoólico não aparecem na frente. A garrafa parece de formato grande, mas o volume não está legível."
+    ],
+    "obs": [
+      "Vidro escuro. Gargalo com selo 'GARANTIA' nº 406739 e cápsula com 'FOI VOCÊ QUE PEDI...' (cortado). 'Estd 1751'. O país não aparece nesta face. Topo fora do quadro; reflexo do fotógrafo no vidro."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161401865_iOS.jpg",
+    "bbox": [
+      0.26,
+      0,
+      0.68,
+      0.95
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161401865_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "san_basile_2",
+    "rotulo": "San Basile Artichoke",
+    "marca": "San Basile",
+    "expressao": null,
+    "categoria": "amaro",
+    "tipo": "amaro de alcachofra",
+    "abv": 20,
+    "volume_ml": 950,
+    "pais": null,
+    "nivel": "metade",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "País não impresso na frente (texto do verso em português sugere Brasil). O rótulo se descreve como 'licor/aperitivo/digestivo'; classifiquei como amaro de alcachofra."
+    ],
+    "obs": [
+      "Vidro transparente: vazio acima do rótulo; nível cerca de 60% (visto na foto lateral 20261108_155750930_iOS.jpg). Selo/fita visível no gargalo através do vidro.",
+      "Texto em português: 'Um licor. Um aperitivo. Um digestivo.', à base de Cynara scolymus. Receitas: Rabo de Galo (60 ml cachaça envelhecida, 40 ml Artichoke) e Mole Hill (whisky + Artichoke + Amaro Stomatico San Basile). Nível visível ~60% da garrafa."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_155737986_iOS.jpg",
+    "bbox": [
+      0.25,
+      0,
+      0.71,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_155737986_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_155750930_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "cynar_receita_original",
+    "rotulo": "Cynar Receita Original",
+    "marca": "Cynar",
+    "expressao": "Receita Original",
+    "categoria": "amaro",
+    "tipo": "amaro de alcachofra (impresso 'Aperitivo de Alcachofra')",
+    "abv": 20,
+    "volume_ml": 900,
+    "pais": null,
+    "nivel": "metade",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível estimado (~40-45%), um pouco abaixo da metade"
+    ],
+    "obs": [
+      "adesivo da loja Casa Santa Luzia (santaluzia.com.br) no ombro; país de produção não impresso na frente"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154333982_iOS.jpg",
+    "bbox": [
+      0.33,
+      0.03,
+      0.62,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154333982_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "apothek_aptk_spirits_batch_70004_lemon_sage_rosemary_saffron",
+    "rotulo": "Apothek Scarlatti Amaro",
+    "marca": "Apothek (APTK Spirits)",
+    "expressao": "Batch 70004 – Lemon, Sage, Rosemary, Saffron",
+    "categoria": "amaro",
+    "tipo": "amaro de ervas",
+    "abv": 30,
+    "volume_ml": 750,
+    "pais": "Brasil",
+    "nivel": "1/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nível estimado em ~1/3 (entre 1/4 e metade). O gargalo está fora do quadro."
+    ],
+    "obs": [
+      "Lote 70004, fabricado em 19/12/2020. Os ingredientes principais do lote são limão, sálvia, alecrim e açafrão. Destilaria em São Paulo (impresso 'São Paulo, Brazil')."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161322680_iOS.jpg",
+    "bbox": [
+      0.24,
+      0,
+      0.7,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161322680_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "destilaria_bizantina_armazenado_em_carvalho_frances_finalizado_com_menta_piperita",
+    "rotulo": "Artichoke – Armazenado Carvalho Francês, Infusionado Menta Piperita",
+    "marca": "Destilaria Bizantina",
+    "expressao": "Armazenado em carvalho francês, finalizado com menta piperita",
+    "categoria": "amaro",
+    "tipo": "amaro/bitter de alcachofra com menta (artesanal brasileiro)",
+    "abv": 20,
+    "volume_ml": 980,
+    "pais": "Brasil",
+    "nivel": "cheia",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "O rótulo não diz 'amaro' nem 'licor'. A classificação vem do produto-base (alcachofra) e dos 20GL; os ingredientes visíveis (água, álcool etílico potável, ervas aromáticas, corante caramelo) não citam açúcar. 'Artichoke' parece ser o nome do produto, e a marca seria a do fabricante."
+    ],
+    "obs": [
+      "'Produto base: Artichoke; Armazenamento: Carvalho Francês; Finalização: Menta Piperita; 20GL; 980ml; Tuiuti SP, Brasil'. 'Fabricado & engarrafado por: Destilaria Bizantina Indústria e Comércio de Bebidas Ltda.' Lacre de cera preta no gargalo, com trinca/corte no topo (possivelmente aberta), e medalhão de cera no rótulo. Nível na base do gargalo."
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_160447189_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.72,
+      1
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160447189_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "aperol_ricetta_originale",
+    "rotulo": "Aperol Aperitivo",
+    "marca": "Aperol",
+    "expressao": "Ricetta Originale",
+    "categoria": "amaro",
+    "tipo": "aperitivo (bitter de laranja leve)",
+    "abv": 11,
+    "volume_ml": 750,
+    "pais": "Itália",
+    "nivel": "1/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível estimado ~30-35% (entre 1/4 e metade); 'Padova·Italia' indica a casa fundadora, local de produção não explícito"
+    ],
+    "obs": [
+      "gargalo e tampa cortados na foto"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154402454_iOS.jpg",
+    "bbox": [
+      0.21,
+      0,
+      0.74,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154402454_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "campari",
+    "rotulo": "Campari Bitter",
+    "marca": "Campari",
+    "expressao": null,
+    "categoria": "amaro",
+    "tipo": "bitter aperitivo",
+    "abv": 28.5,
+    "volume_ml": 900,
+    "pais": null,
+    "nivel": "3/4",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível escondido pela faixa azul; estimado entre metade e 3/4"
+    ],
+    "obs": [
+      "tampa e gargalo cortados na foto; rótulo cita 'Davide Campari Milano' mas país de produção não está impresso; 900 ml sugere garrafa do mercado brasileiro"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154353258_iOS.jpg",
+    "bbox": [
+      0.28,
+      0,
+      0.74,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154353258_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "san_basile",
+    "rotulo": "San Basile Bitter",
+    "marca": "San Basile",
+    "expressao": null,
+    "categoria": "amaro",
+    "tipo": "bitter aperitivo",
+    "abv": 40,
+    "volume_ml": 750,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "nível escondido pelo rótulo opaco (gargalo e ombro vazios, então no máximo ~3/4); textos pequenos do rótulo ilegíveis"
+    ],
+    "obs": [
+      "tampa de rosca com restos de selo/fita; país não impresso (textos em português sugerem Brasil)",
+      "verso em português com receitas: Negroni Sbagliato e Boulevardier; ABV/volume lidos na frente"
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_154744885_iOS.jpg",
+    "bbox": [
+      0.33,
+      0.01,
+      0.63,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154744885_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_154800892_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 1
+      }
+    ]
+  },
+  {
+    "id": "fernet_branca",
+    "rotulo": "Fernet Branca",
+    "marca": "Fernet Branca",
+    "expressao": null,
+    "categoria": "amaro",
+    "tipo": "fernet",
+    "abv": null,
+    "volume_ml": null,
+    "pais": "Argentina",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "parcial",
+    "duvidas": [
+      "ABV impresso na borda esquerda do rótulo, ilegível pela curvatura (parece '39% vol', não confirmado); volume não visível; nível no início do ombro (~90%)"
+    ],
+    "obs": [
+      "rótulo impresso 'Industria Argentina' (versão argentina); gargalo e tampa cortados na foto"
+    ],
+    "flags": [
+      "leitura_parcial"
+    ],
+    "fotoPrincipal": "20261108_154414055_iOS.jpg",
+    "bbox": [
+      0.25,
+      0,
+      0.7,
+      0.96
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_154414055_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "angostura",
+    "rotulo": "Angostura Aromatic Bitters",
+    "marca": "Angostura",
+    "expressao": null,
+    "categoria": "bitters",
+    "tipo": "bitters aromático",
+    "abv": 44.7,
+    "volume_ml": 100,
+    "pais": "Trinidad e Tobago",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Rótulo de papel envolvente amassado e tampa amarela. 'Product of Trinidad & Tobago'. Fundo diferente (bandeja de isopor)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163750049_iOS.jpg",
+    "bbox": [
+      0.37,
+      0.12,
+      0.66,
+      0.94
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163750049_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "bittermens_elemakule_tiki",
+    "rotulo": "Bittermens 'Elemakule Tiki Bitters",
+    "marca": "Bittermens",
+    "expressao": "'Elemakule Tiki",
+    "categoria": "bitters",
+    "tipo": "bitters aromático tiki (canela, pimenta-da-jamaica e especiarias)",
+    "abv": 44,
+    "volume_ml": 146,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Frasco azul-cobalto com conta-gotas, 5 fl oz. Foto em outro ambiente (piso de madeira e bandeja de isopor), não na mesa de mármore."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163724176_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.7,
+      1
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163724176_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "bittermens_xocolatl_mole",
+    "rotulo": "Bittermens Xocolatl Mole Bitters",
+    "marca": "Bittermens",
+    "expressao": "Xocolatl Mole",
+    "categoria": "bitters",
+    "tipo": "bitters de cacau, canela e especiarias (mole)",
+    "abv": 53,
+    "volume_ml": 146,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Frasco azul-cobalto com conta-gotas, 5 fl oz. Fundo diferente (bandeja de isopor)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163733086_iOS.jpg",
+    "bbox": [
+      0.33,
+      0.04,
+      0.73,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163733086_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "angostura_orange",
+    "rotulo": "Angostura Orange Bitters",
+    "marca": "Angostura",
+    "expressao": "Orange",
+    "categoria": "bitters",
+    "tipo": "bitters de laranja",
+    "abv": 28,
+    "volume_ml": 100,
+    "pais": "Trinidad e Tobago",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "País lido de texto cortado na lateral ('PRODUCT OF T...', 'Trinidad & T...')."
+    ],
+    "obs": [
+      "Tampa laranja. Contra-rótulo em várias línguas (francês, espanhol, italiano) com menção 'Imported by...' parcialmente legível, o que sugere rótulo de importadora. Fundo diferente (bandeja de isopor)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163755780_iOS.jpg",
+    "bbox": [
+      0.33,
+      0.09,
+      0.65,
+      0.92
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163755780_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "bittermens_hellfire_habanero_shrub",
+    "rotulo": "Bittermens Hellfire Habanero Shrub",
+    "marca": "Bittermens",
+    "expressao": "Hellfire Habanero Shrub",
+    "categoria": "bitters",
+    "tipo": "shrub/extrato picante de habanero para coquetéis",
+    "abv": 44,
+    "volume_ml": 146,
+    "pais": null,
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Linha 'Shrubs, Citrates & Extracts', descrito no rótulo como molho picante para coquetéis; ficou em 'bitters' por ser a categoria mais próxima. Frasco azul-cobalto com conta-gotas (topo cortado), 5 fl oz."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163742101_iOS.jpg",
+    "bbox": [
+      0.27,
+      0,
+      0.71,
+      0.99
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163742101_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      }
+    ]
+  },
+  {
+    "id": "nielsen_massey",
+    "rotulo": "Nielsen-Massey Pure Lemon Extract",
+    "marca": "Nielsen-Massey",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "extrato culinário de limão",
+    "abv": null,
+    "volume_ml": 59,
+    "pais": null,
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Extrato culinário (não é bebida). 'Net contents 2 fl oz (59 ml)'. Tampa com filme plástico de lacre. Fundo diferente (bandeja de isopor)."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_163801982_iOS.jpg",
+    "bbox": [
+      0.31,
+      0.22,
+      0.64,
+      0.81
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_163801982_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      }
+    ]
+  },
+  {
+    "id": "noguchi_naohiko_sake_institute_2",
+    "rotulo": "Noguchi Naohiko Sake Institute (cup, estampa laranja)",
+    "marca": "Noguchi Naohiko Sake Institute (農口尚彦研究所)",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "saquê (nihonshu) com álcool adicionado (醸造アルコール)",
+    "abv": 20,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Nome/expressão do produto não impresso na frente (só a marca). Palavras pequenas da estampa: 'KAGAYASAI', '...GANI' (parcial), 'NOTO...' (cortada)."
+    ],
+    "obs": [
+      "Copo com sobretampa plástica e anel de abertura aparentemente intacto (provável lacrado). Estampa laranja com motivos (raiz de lótus, caranguejo). ABV 20 e 180 ml lidos no verso, em 20261108_160858112_iOS.jpg.",
+      "Texto do verso idêntico ao do copo azul (arroz Gohyakumangoku 100%, 20度, 180 ml), mas impresso em laranja. Fabricante 株式会社 農口尚彦研究所, Komatsu, Ishikawa."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160852924_iOS.jpg",
+    "bbox": [
+      0.2,
+      0.16,
+      0.78,
+      0.8
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160852924_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_160858112_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "karatsu_hikiyama",
+    "rotulo": "唐津ひきやま (Karatsu Hikiyama) 清酒",
+    "marca": "Karatsu Hikiyama (唐津ひきやま)",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "saquê (seishu) em copo – one cup",
+    "abv": null,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "ABV não visível neste lado. A tampa de alumínio parece intacta (anel de abertura não visível deste ângulo)."
+    ],
+    "obs": [
+      "'清酒', '内容量 180ml', produtor '小松酒造株式会社'. Ilustração de peixe vermelho e de pessoas puxando. Líquido quase até a tampa. Aviso sobre gravidez na borda da tampa."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160827788_iOS.jpg",
+    "bbox": [
+      0.26,
+      0.25,
+      0.77,
+      0.84
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160827788_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      }
+    ]
+  },
+  {
+    "id": "kinkyo",
+    "rotulo": "清酒 KINKYO 錦郷 (キンキョウ)",
+    "marca": "Kinkyo (錦郷)",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "saquê (seishu) em copo – one cup",
+    "abv": 15,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Texto da tampa lido em ângulo: 'アルコール分 15度' e '内容量 180ml' legíveis no arquivo full; o restante da borda está parcialmente oculto pela perspectiva."
+    ],
+    "obs": [
+      "Copo de vidro com tampa de alumínio com anel de puxar ('リングを手前に引っ張り'), aparentemente intacta. Ingredientes: arroz (nacional), koji (arroz nacional), álcool destilado adicionado (醸造アルコール). Etiqueta '26HC' na tampa. Ilustração de personagem sobre tartaruga.",
+      "Vista de cima da tampa: 'アルコール分 15度', '内容量 180ml', '米(国産), 米こうじ(国産米), 醸造アルコール', produtor em 和歌山県紀の川市桃山町元142番地1 (Wakayama), código de barras, etiqueta '26HC'."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160811610_iOS.jpg",
+    "bbox": [
+      0.26,
+      0.27,
+      0.74,
+      0.82
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160811610_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_160815154_iOS.jpg",
+        "lado": "detalhe",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "sogen",
+    "rotulo": "清酒 宗玄 (Seishu Sōgen)",
+    "marca": "Sōgen (宗玄)",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "saquê (seishu/nihonshu)",
+    "abv": 15,
+    "volume_ml": null,
+    "pais": "Japão",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Volume não impresso nas partes visíveis da tampa."
+    ],
+    "obs": [
+      "Copo (one cup) com tampa metálica de borda azul intacta. Ilustração de rochedo no mar. A tampa está fotografada em 20261108_160941134_iOS.jpg.",
+      "Tampa vista de cima: アルコール分15.0度; arroz e koji nacionais + álcool adicionado. Fabricante 宗玄酒造株式会社, Suzu, Ishikawa. Carimbo de data '2026.07'. EAN 4997369014075."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160936722_iOS.jpg",
+    "bbox": [
+      0.26,
+      0.27,
+      0.69,
+      0.85
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160936722_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_160941134_iOS.jpg",
+        "lado": "detalhe",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "noguchi_naohiko_sake_institute",
+    "rotulo": "Noguchi Naohiko Sake Institute",
+    "marca": "Noguchi Naohiko Sake Institute",
+    "expressao": null,
+    "categoria": "outros",
+    "tipo": "saquê em copo (cup sake)",
+    "abv": 20,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "cheia",
+    "confianca": "media",
+    "legibilidade": "clara",
+    "duvidas": [
+      "Só a marca está legível. O texto do verso, visto através do copo e espelhado, está ilegível, então o produto/estilo específico, o ABV e o volume são desconhecidos. País deduzido do idioma (palavras japonesas e kanji espelhados). Ilustrações 'Onsen', 'Senmaida' e '…ZAWAJO' (cortado).",
+      "Só o verso aparece; nome/expressão do produto não impresso nesta face. A frente deste copo azul parece ser 20261108_160840007_iOS.jpg (lote anterior), então provavelmente é foto repetida entre lotes. Não é o mesmo copo da estampa laranja (20261108_160852924_iOS.jpg)."
+    ],
+    "obs": [
+      "Copo de vidro com sobretampa plástica fosca; não dá para ver se há selo por baixo. Líquido quase até o topo; vidro embaçado.",
+      "Copo de vidro (one cup) com sobretampa plástica e anel de abertura de alumínio aparentemente intacto (provável lacrado). Arroz Gohyakumangoku (五百万石) 100%. Fabricante 株式会社 農口尚彦研究所, Komatsu, Ishikawa. Conservar em local fresco e escuro."
+    ],
+    "flags": [
+      "media_confianca"
+    ],
+    "fotoPrincipal": "20261108_160840007_iOS.jpg",
+    "bbox": [
+      0.21,
+      0.16,
+      0.79,
+      0.76
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160840007_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 4
+      },
+      {
+        "arquivo": "20261108_160844993_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "waka_ebis_honjozo",
+    "rotulo": "WAKA★EBIS 本醸造",
+    "marca": "Waka-Ebis",
+    "expressao": "Honjozo (本醸造)",
+    "categoria": "outros",
+    "tipo": "saquê honjozo",
+    "abv": 15,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Copo com tampa preta 'waka-ebis' e anel de abertura intactos; ilustração do deus Ebisu. Verso em 20261108_161013106_iOS.jpg.",
+      "Verso: 精米歩合 70%, アルコール分 15度, 180 ml; arroz e koji nacionais + álcool adicionado. Fabricante 若戎酒造株式会社, Iga, Mie."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_161008188_iOS.jpg",
+    "bbox": [
+      0.23,
+      0.21,
+      0.72,
+      0.82
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_161008188_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 5
+      },
+      {
+        "arquivo": "20261108_161013106_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "eshikoto_gohyakumangoku_junmai_daiginjo",
+    "rotulo": "Eshikoto (えしこと) – 行雲流水 'Blowing in the wind.'",
+    "marca": "Eshikoto",
+    "expressao": "Gohyakumangoku Junmai Daiginjo",
+    "categoria": "outros",
+    "tipo": "saquê junmai daiginjo",
+    "abv": 16,
+    "volume_ml": 720,
+    "pais": "Japão",
+    "nivel": "nao_visivel",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "A frente só traz a caligrafia 'えしこと', '行雲流水 Blowing in the wind.' e 'ESHIKOTO'; tipo, ABV e volume foram lidos no verso (20261108_160714043_iOS.jpg). Vidro verde-azulado; a faixa escura acima do rótulo é a silhueta do rótulo do outro lado, não o nível. Gargalo fora do quadro.",
+      "品目: 日本酒; 原材料: 米(国産)、米麹(国産米); 使用米: 福井県産五百万石100%; 精米歩合 50%; アルコール分 16度; 内容量 720ml; conservar em geladeira (冷蔵庫). Produtor: 黒龍酒造株式会社 (Kokuryu) +K, Eiheiji, Fukui. Pequena etiqueta adicional na lateral direita, ilegível."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160705979_iOS.jpg",
+    "bbox": [
+      0.23,
+      0,
+      0.75,
+      0.93
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160705979_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_160714043_iOS.jpg",
+        "lado": "verso",
+        "foto_para_app": 2
+      }
+    ]
+  },
+  {
+    "id": "atagonomatsu_tokubetsu_junmai_cup",
+    "rotulo": "Atagonomatsu Tokubetsu Junmai Cup",
+    "marca": "Atagonomatsu",
+    "expressao": "Tokubetsu Junmai (cup)",
+    "categoria": "outros",
+    "tipo": "saquê tokubetsu junmai",
+    "abv": 15,
+    "volume_ml": 180,
+    "pais": "Japão",
+    "nivel": "lacrada",
+    "confianca": "alta",
+    "legibilidade": "clara",
+    "duvidas": [],
+    "obs": [
+      "Copo com tampa metálica e anel de abertura intactos; mascote de samurai parcialmente cortado na lateral. Tampa com dados em 20261108_160956637_iOS.jpg.",
+      "Tampa: 精米歩合 60%, アルコール分 15度, 内容量 180ml. Conservar refrigerado entre -5°C e 5°C (要冷蔵). Fabricante 株式会社新澤醸造店, Ōsaki, Miyagi. Código '26IP'."
+    ],
+    "flags": [],
+    "fotoPrincipal": "20261108_160950546_iOS.jpg",
+    "bbox": [
+      0.23,
+      0.2,
+      0.71,
+      0.82
+    ],
+    "fotos": [
+      {
+        "arquivo": "20261108_160950546_iOS.jpg",
+        "lado": "frente",
+        "foto_para_app": 3
+      },
+      {
+        "arquivo": "20261108_160956637_iOS.jpg",
+        "lado": "detalhe",
+        "foto_para_app": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "bizantino_licor_ervas",
+    "tipoSugerido": "licor_ervas",
+    "rotulo": "Bizantino San Basile – Licor Fino de Ervas",
+    "marca": "San Basile",
+    "expressao": "Bizantino – Elixir Ervas",
+    "tipoLido": "licor de ervas",
+    "abvLido": 35,
+    "volumeMl": 750,
+    "paisLido": null,
+    "duvidas": [
+      "O título da 1ª receita está danificado ('...dy daisy'), além de parte das linhas abaixo dele."
+    ],
+    "obs": [
+      "Rótulo em português. O país não aparece na frente. A tampa fica fora do quadro.",
+      "Rótulo lateral com receitas ('...dy daisy' e 'Solar'), que citam Gin New Wave San Basile e Absinthe Blanc San Basile. Tampa metálica prateada. '750 ml' visível na borda do rótulo frontal."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161454876_iOS.jpg",
+      "20261108_161508318_iOS.jpg"
+    ]
+  },
+  {
+    "id": "reykjavik_blueberry",
+    "tipoSugerido": "licor_frutas_vermelhas",
+    "rotulo": "64° Reykjavik Distillery Uliginosum Blueberry – Bláberja Liqueur",
+    "marca": "64° Reykjavik Distillery",
+    "expressao": "Uliginosum Blueberry",
+    "tipoLido": "licor de mirtilo (blueberry)",
+    "abvLido": 21,
+    "volumeMl": 200,
+    "paisLido": "Islândia",
+    "duvidas": [
+      "Nível estimado: o líquido escuro parece chegar até o gargalo (topo fora do quadro)."
+    ],
+    "obs": [
+      "'The Original from Iceland'. Garrafa alta e fina, de vidro transparente com líquido escuro. Gargalo cortado.",
+      "Vintage 2023, Batch 01, Bottle 222 (manuscritos). Contém mirtilos e açúcar, sem conservantes. Produzido por Reykjavik Distillery ehf. EAN 5694230075072."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161526593_iOS.jpg",
+      "20261108_161540580_iOS.jpg"
+    ]
+  },
+  {
+    "id": "limoncino_bottega",
+    "tipoSugerido": "limoncello",
+    "rotulo": "Limoncino Limoncello Bottega",
+    "marca": "Bottega (Sandro Bottega)",
+    "expressao": "Limoncino – Limoni Sicilia",
+    "tipoLido": "limoncello (licor de limão)",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Itália",
+    "duvidas": [
+      "Teor alcoólico e volume não aparecem na frente."
+    ],
+    "obs": [
+      "Garrafa fosca em formato de pino de boliche, 'Product of Italy'. Há texto vertical em relevo no vidro, ilegível. Gargalo fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161601370_iOS.jpg"
+    ]
+  },
+  {
+    "id": "villa_massa_limoncello",
+    "tipoSugerido": "limoncello",
+    "rotulo": "Villa Massa Limoncello – Liquore di Limone di Sorrento",
+    "marca": "Villa Massa",
+    "expressao": null,
+    "tipoLido": "limoncello (licor de limão)",
+    "abvLido": 30,
+    "volumeMl": 500,
+    "paisLido": "Itália",
+    "duvidas": [
+      "O vidro fosco dificulta ver o nível; parece cheia."
+    ],
+    "obs": [
+      "'Piano di Sorrento - Italia'. Faixa 'RICETTA FA... VILLA MASSA' sobre a tampa (pode ser lacre, não confirmado). Garrafa inteira visível."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161549798_iOS.jpg"
+    ]
+  },
+  {
+    "id": "soberbo_vermouth",
+    "tipoSugerido": "vermute",
+    "rotulo": "Soberbo Apéritif Vermouth Remastered Recipe",
+    "marca": "Soberbo (Poças)",
+    "expressao": "Remastered Recipe",
+    "tipoLido": "vermute (estilo não indicado no rótulo; líquido escuro)",
+    "abvLido": 18.5,
+    "volumeMl": 750,
+    "paisLido": "Portugal",
+    "duvidas": [
+      "estilo (tinto/branco) não impresso; vidro verde escuro dificulta ver a cor"
+    ],
+    "obs": [
+      "Manoel D. Poças Júnior, Vinhos S.A., Vila Nova de Gaia; ABV e volume lidos no verso (20261108_154502665_iOS.jpg); topo da cápsula levemente cortado",
+      "contra-rótulo: 'Produto de Portugal', EAN 5601085003198; selo numerado de garantia na lateral"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154454088_iOS.jpg",
+      "20261108_154502665_iOS.jpg"
+    ]
+  },
+  {
+    "id": "vermute_fernanda_raul",
+    "tipoSugerido": "vermute",
+    "rotulo": "Vermute Fernanda & Raul 28.06.2025",
+    "marca": null,
+    "expressao": "edição personalizada 28.06.2025",
+    "tipoLido": "vermute (estilo não indicado; líquido âmbar escuro)",
+    "abvLido": 18,
+    "volumeMl": 500,
+    "paisLido": null,
+    "duvidas": [
+      "produtor/marca não identificado no rótulo; estilo não indicado"
+    ],
+    "obs": [
+      "rótulo personalizado (provável lembrança de casamento); garrafa de vidro transparente com rolha de madeira e barbante"
+    ],
+    "perfilPendente": true,
+    "fotos": [
+      "20261108_155100022_iOS.jpg"
+    ]
+  },
+  {
+    "id": "ataman_original",
+    "tipoSugerido": "vermute",
+    "rotulo": "Atamán Original Vermut",
+    "marca": "Atamán (Barbadillo)",
+    "expressao": "Original",
+    "tipoLido": "vermute à base de manzanilla",
+    "abvLido": 17,
+    "volumeMl": 500,
+    "paisLido": "Espanha",
+    "duvidas": [
+      "nível não visível (parte superior escura, gargalo fora da foto)"
+    ],
+    "obs": [
+      "'Elaborado con Manzanilla'; ABV e volume lidos no verso (20261108_155255515_iOS.jpg)",
+      "Bodegas Barbadillo S.L., Sanlúcar; 'Producto de España'; impresso '50 cl'"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155246272_iOS.jpg",
+      "20261108_155255515_iOS.jpg"
+    ]
+  },
+  {
+    "id": "mulassano_bianco",
+    "tipoSugerido": "vermute_bianco",
+    "rotulo": "Mulassano Vermouth Bianco",
+    "marca": "Mulassano",
+    "expressao": "Bianco",
+    "tipoLido": "vermute bianco (Vermouth di Torino)",
+    "abvLido": 18,
+    "volumeMl": 750,
+    "paisLido": "Itália",
+    "duvidas": [
+      "nível não visível (vidro escuro, gargalo fora da foto)"
+    ],
+    "obs": [
+      "Cav. Pietro Bordiga s.r.l., Cuneo; impresso '75 cl'; contém corante caramelo"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155010284_iOS.jpg"
+    ]
+  },
+  {
+    "id": "la_fuerza_blanco",
+    "tipoSugerido": "vermute_bianco",
+    "rotulo": "La Fuerza Vermouth Blanco",
+    "marca": "La Fuerza",
+    "expressao": "Blanco",
+    "tipoLido": "vermute blanco",
+    "abvLido": 17,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "primeiro dígito do ABV parcialmente na curvatura (lido como 17%); nível difícil de ver no vidro verde escuro, parece cheia até o gargalo"
+    ],
+    "obs": [
+      "versão em inglês ('Made in Argentina', '% Alc. by vol.'); topo da cápsula encostado na borda da foto",
+      "verso: 'Vermú de los Andes. Crafted in Mendoza, Argentina'; ABV/volume lidos na frente"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154600999_iOS.jpg",
+      "20261108_154621459_iOS.jpg"
+    ]
+  },
+  {
+    "id": "la_fuerza_primavera",
+    "tipoSugerido": "vermute",
+    "rotulo": "La Fuerza Vermouth Primavera en los Andes",
+    "marca": "La Fuerza",
+    "expressao": "Primavera en los Andes",
+    "tipoLido": "vermute de primavera (cor dourada; estilo não especificado)",
+    "abvLido": 17,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "pode estar lacrada (tampa de rosca parece intacta, não confirmado)"
+    ],
+    "obs": [
+      "rótulo serigrafado no vidro transparente; 'Hecho en Argentina'",
+      "verso: 'Soñado, elaborado y embotellado en Mendoza, Argentina'; ABV/volume lidos na frente"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154520983_iOS.jpg",
+      "20261108_154543887_iOS.jpg"
+    ]
+  },
+  {
+    "id": "la_fuerza_sideral",
+    "tipoSugerido": "vermute",
+    "rotulo": "La Fuerza Vermouth Sideral",
+    "marca": "La Fuerza",
+    "expressao": "Sideral",
+    "tipoLido": "vermute envelhecido em barris de carvalho",
+    "abvLido": 17,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "pode estar lacrada (não confirmado)"
+    ],
+    "obs": [
+      "versão de exportação em inglês ('Gluten-free', 'Made in Argentina'); topo da cápsula encostado na borda da foto",
+      "verso: 'Vermouth inspired by Mendoza nights... Aged in oak barrels'; aviso do Surgeon General (EUA) e selo vegano; sugere servir puro ou com gelo e casca de laranja"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154642831_iOS.jpg",
+      "20261108_154651747_iOS.jpg"
+    ]
+  },
+  {
+    "id": "la_fuerza_sideral_barrica_unica",
+    "tipoSugerido": "vermute",
+    "rotulo": "La Fuerza Vermouth Sideral Barrica Única",
+    "marca": "La Fuerza",
+    "expressao": "Sideral Barrica Única - Edición limitada",
+    "tipoLido": "vermute tinto envelhecido em barrica",
+    "abvLido": 17,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "pode estar lacrada (não confirmado)"
+    ],
+    "obs": [
+      "garrafa diferente da Sideral comum (20261108_154642831_iOS.jpg); 'Producto de República Argentina'",
+      "verso: '24 meses de crianza en barrica', ingredientes começam com vinho tinto; ABV/volume lidos na frente"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154707963_iOS.jpg",
+      "20261108_154716753_iOS.jpg"
+    ]
+  },
+  {
+    "id": "brigs_porto_rose",
+    "tipoSugerido": "porto_rose",
+    "rotulo": "Brig's Rosé Porto",
+    "marca": "Brig's (Poças Junior)",
+    "expressao": "Rosé",
+    "tipoLido": "vinho do Porto rosé",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Portugal",
+    "duvidas": [
+      "Teor alcoólico e volume não visíveis. País lido no contra-rótulo, espelhado através do vidro ('VILA NOVA DE GAIA - PORTUGAL')."
+    ],
+    "obs": [
+      "Rótulo impresso no vidro: 'Registered Brand Poças Junior Porto'. Gargalo fora do quadro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161434513_iOS.jpg"
+    ]
+  },
+  {
+    "id": "ferreira_porto_ruby",
+    "tipoSugerido": "porto_ruby",
+    "rotulo": "Ferreira Porto Ruby",
+    "marca": "Ferreira",
+    "expressao": "Ruby",
+    "tipoLido": "vinho do Porto ruby",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": null,
+    "duvidas": [
+      "Volume e teor alcoólico não aparecem na frente. A garrafa parece de formato grande, mas o volume não está legível."
+    ],
+    "obs": [
+      "Vidro escuro. Gargalo com selo 'GARANTIA' nº 406739 e cápsula com 'FOI VOCÊ QUE PEDI...' (cortado). 'Estd 1751'. O país não aparece nesta face. Topo fora do quadro; reflexo do fotógrafo no vidro."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_161401865_iOS.jpg"
+    ]
+  }
+]

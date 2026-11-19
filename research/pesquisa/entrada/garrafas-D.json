@@ -1,0 +1,266 @@
+[
+  {
+    "id": "dolores_rojo",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Vermouth Dolores de Góngora e Yriarte Rojo",
+    "marca": "Dolores de Góngora e Yriarte (Bodegas Góngora)",
+    "expressao": "Rojo",
+    "tipoLido": "vermute rojo (espanhol, Sevilha)",
+    "abvLido": 14.5,
+    "volumeMl": 750,
+    "paisLido": "Espanha",
+    "duvidas": [],
+    "obs": [
+      "Frente: 'Estbl. 1682', 'Villanueva del Ariscal, Sevilla', 75 cl, 14,5% vol. Vidro escuro; topo cortado.",
+      "Produzido e engarrafado por Bodegas Góngora S.L., Villanueva del Ariscal (Sevilla); 14,5% vol, 75 cl; receita 'Gin & It' no verso."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155427308_iOS.jpg",
+      "20261108_155441528_iOS.jpg"
+    ]
+  },
+  {
+    "id": "orlandoni_rosso",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Orlandoni Vino Vermouth Rosso",
+    "marca": "Orlandoni",
+    "expressao": "Rosso",
+    "tipoLido": "vermute rosso",
+    "abvLido": 15,
+    "volumeMl": 700,
+    "paisLido": "Espanha",
+    "duvidas": [
+      "volume impresso como \"0'70 cl\" (interpretado como 0,70 l = 700 ml); só o distribuidor (Murcia) está impresso, não o país de produção"
+    ],
+    "obs": [
+      "distribuído por Aguardientes y Licores Reylik S.A., San Ginés, Murcia; lacre plástico transparente no gargalo (pode estar lacrada); topo do gargalo cortado"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155227899_iOS.jpg"
+    ]
+  },
+  {
+    "id": "vincenzo_rosso",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Vermouth Vincenzo Rosso",
+    "marca": "Vincenzo (Familia Catena)",
+    "expressao": "Rosso",
+    "tipoLido": "vermute rosso",
+    "abvLido": 16.5,
+    "volumeMl": 950,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "nível não visível (vidro escuro, gargalo fora da foto)"
+    ],
+    "obs": [
+      "'Elaborado bajo la receta original italiana de la Familia Catena', Mendoza; ABV e volume lidos no verso (20261108_155208285_iOS.jpg)",
+      "elaborado para Catena Zapata, Agrelo, Luján de Cuyo, Mendoza"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155200950_iOS.jpg",
+      "20261108_155208285_iOS.jpg"
+    ]
+  },
+  {
+    "id": "cantieri_navali_rosso",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Cantieri Navali Vermouth Rosso",
+    "marca": "Cantieri Navali",
+    "expressao": "Rosso",
+    "tipoLido": "vermute rosso (argentino, com ervas patagônicas)",
+    "abvLido": 16.5,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [],
+    "obs": [
+      "'Con herbales patagónicos de montaña: enebro / rosa mosqueta / cranberry / burrito / cedrón'; 'Hecho en Argentina'; 16,5% vol (conferido no arquivo full); 750 ml. Vidro escuro; topo cortado.",
+      "Verso sem ABV/volume (valores da frente). Ingredientes: vinho branco, álcool etílico, infusão de ervas aromáticas; Capital Federal, Argentina. Etiqueta de loja '100454' cobrindo parte do texto/código de barras."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155506425_iOS.jpg",
+      "20261108_155518830_iOS.jpg"
+    ]
+  },
+  {
+    "id": "vecino_rosso_torino",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Vecino Rosso Torino",
+    "marca": "Vecino",
+    "expressao": "Rosso Torino - Clásica Receta",
+    "tipoLido": "vermute rosso (argentino, Mendoza)",
+    "abvLido": 16,
+    "volumeMl": 750,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "ABV impresso pequeno e desfocado na lateral esquerda: lido como '16% alcohol/vol', mas pode ser 18%. Volume 'Cont. neto 750 c(c?)' parcialmente descascado."
+    ],
+    "obs": [
+      "'Auténtico vermut elaborado al pie de la Cordillera de Los Andes', Luján de Cuyo, Prov. de Mendoza; 'Industria de República Argentina'. Nível no ombro/gargalo (visto no arquivo full). Rótulo danificado no canto inferior direito; topo cortado.",
+      "Verso sem ABV/volume. Ingredientes: vinho branco de uvas criollas, álcool, alecrim, canela, feno-grego, noz-moscada, baunilha, coentro, orégano, absinto. Elaborado para Byrka S.A.S., Luján de Cuyo, Mendoza. Sugestão: com gelo e soda."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155639561_iOS.jpg",
+      "20261108_155646930_iOS.jpg"
+    ]
+  },
+  {
+    "id": "dos_deus_origins",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Dos Déus Origins Red Vermouth Reserve",
+    "marca": "Dos Déus",
+    "expressao": "Origins - Red Vermouth Reserve (Matured in Sherry & Priorat Barrels)",
+    "tipoLido": "vermute rosso (espanhol, envelhecido em barris de jerez e de Priorat)",
+    "abvLido": 15,
+    "volumeMl": 750,
+    "paisLido": "Espanha",
+    "duvidas": [
+      "O verso nomeia o produto 'Vermouth Dos Déus Iuturna'; a frente diz 'Origins'. Nome exato da linha ambíguo.",
+      "Nome no verso 'Iuturna' difere do 'Origins' da frente (o texto do verso cita 'Our Origins Red Vermouth')."
+    ],
+    "obs": [
+      "ABV, volume e país lidos no verso (20261108_155413182_iOS.jpg). Rótulo ilustrado (Atena). Vidro escuro; topo cortado.",
+      "Priorat B&D Lab, Bellmunt del Priorat, Tarragona; 'Product of Spain'; Alc. 15% by vol, 750 ml; batch L-26155; guardar entre 12 e 17 °C."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155405074_iOS.jpg",
+      "20261108_155413182_iOS.jpg"
+    ]
+  },
+  {
+    "id": "federal_rosso",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Federal Rosso Vermouth",
+    "marca": "Federal",
+    "expressao": "Rosso",
+    "tipoLido": "vermute rosso (impresso 'Vermut tipo Torino')",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Argentina",
+    "duvidas": [
+      "ABV e volume não impressos nos rótulos visíveis (frente e verso); relevo no vidro parece '75 cl', parcialmente visível",
+      "ABV e volume não aparecem no contra-rótulo"
+    ],
+    "obs": [
+      "'Producto de República Argentina', 'Bebase bien frio'; tampa de rosca preta",
+      "elaborado e engarrafado em Mendoza para Andes Federales S.A.; data impressa 01/08/2025"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_154933550_iOS.jpg",
+      "20261108_154940892_iOS.jpg"
+    ]
+  },
+  {
+    "id": "cinzano_1757_rosso",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Bottega Cinzano 1757 Vermouth di Torino Rosso",
+    "marca": "Cinzano",
+    "expressao": "Bottega Cinzano 1757",
+    "tipoLido": "vermute rosso (Vermouth di Torino IGP)",
+    "abvLido": 16,
+    "volumeMl": 1000,
+    "paisLido": "Itália",
+    "duvidas": [],
+    "obs": [
+      "Gargantilha: 'Vermouth di Torino Rosso, prodotto secondo la tradizione piemontese'. Texto de volume/ABV na frente é pequeno; valores confirmados no verso (20261108_155545004_iOS.jpg). Rótulo com pequeno rasgo; topo cortado.",
+      "16% vol, 100 cl; produzido por DCM N.V. (Campari), planta em Novi Ligure (AL), Itália. Rótulo de importadora em português na lateral ('Vinho composto vermute tinto doce')."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155537551_iOS.jpg",
+      "20261108_155545004_iOS.jpg"
+    ]
+  },
+  {
+    "id": "carpano_antica_formula",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Carpano Antica Formula Vermouth Pregiato",
+    "marca": "Carpano",
+    "expressao": "Antica Formula",
+    "tipoLido": "vermute rosso (Vermouth di Torino, baunilhado)",
+    "abvLido": 16.5,
+    "volumeMl": 1000,
+    "paisLido": "Itália",
+    "duvidas": [],
+    "obs": [
+      "Frente: 'Antica Ricetta', 'Prodotto d'Italia', Torino; 'Lotto Selezionato Nº 19/20', 'Bottiglia numerata Nº 00078'. ABV e volume lidos no verso (20261108_155347314_iOS.jpg). Garrafa de 1 L em vidro escuro; topo/tampa cortados na foto.",
+      "Verso: 'Classico Vermouth Vanigliato'; 'Vermouth di Torino'; F.lli Branca Distillerie srl, Milano; 16,5% vol, 1 l; 'Senza glutine'."
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155340759_iOS.jpg",
+      "20261108_155347314_iOS.jpg"
+    ]
+  },
+  {
+    "id": "cocchi_storico",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Cocchi Storico Vermouth di Torino Ricetta Originale",
+    "marca": "Cocchi",
+    "expressao": "Storico",
+    "tipoLido": "vermute rosso (Vermouth di Torino)",
+    "abvLido": 16,
+    "volumeMl": 750,
+    "paisLido": "Itália",
+    "duvidas": [
+      "'rosso' não está impresso (estilo pelo reconhecimento da marca/cor); nível não visível"
+    ],
+    "obs": [
+      "Casa fondata 1891 Asti-Italia; ABV e volume lidos no verso (20261108_155319817_iOS.jpg); gargalo fora da foto",
+      "Giulio Cocchi Spumanti, Asti; selo IGP; impresso '75 cl'; notas de cacau, cítricos e ruibarbo"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155311486_iOS.jpg",
+      "20261108_155319817_iOS.jpg"
+    ]
+  },
+  {
+    "id": "schluck_rosso_amburana",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Schluck Vermute Rosso",
+    "marca": "Schluck",
+    "expressao": "Maturado em barril de amburana",
+    "tipoLido": "vermute rosso maturado em amburana",
+    "abvLido": null,
+    "volumeMl": null,
+    "paisLido": "Brasil",
+    "duvidas": [
+      "volume e ABV na borda direita cortados pela curvatura (parecem '70x' e '17%', não confirmados)"
+    ],
+    "obs": [
+      "'Feito naturalmente com ervas de origem brasileira', 'Elaborado com vinhos catarinenses'; selo 'Artisan Liquor' no gargalo; garrafa facetada decorativa com base grossa"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155123236_iOS.jpg"
+    ]
+  },
+  {
+    "id": "vermu_coffea_arabica",
+    "tipoSugerido": "vermute_rosso",
+    "rotulo": "Vermu Coffea arabica",
+    "marca": "Companhia dos Fermentados",
+    "expressao": "Coffea arabica",
+    "tipoLido": "vermute tinto com café, catuaba e jurubeba",
+    "abvLido": null,
+    "volumeMl": 750,
+    "paisLido": null,
+    "duvidas": [
+      "número do ABV está na curvatura esquerda (só 'vol.' visível); nível não visível (vidro escuro)"
+    ],
+    "obs": [
+      "provavelmente brasileiro (texto em português, catuaba/jurubeba), país não impresso; gargalo fora da foto"
+    ],
+    "perfilPendente": false,
+    "fotos": [
+      "20261108_155034809_iOS.jpg"
+    ]
+  }
+]

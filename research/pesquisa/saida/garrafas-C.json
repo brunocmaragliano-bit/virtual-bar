@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cachaca_fernanda_raul",
+    "rotulo": "Cachaça Fernanda & Raul",
+    "marca": null,
+    "produtor": null,
+    "tipo": "cachaca",
+    "abv": null,
+    "volumeMl": null,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": null,
+    "perfil": { "doce": 2, "acido": 0, "amargo": 0, "seco": 2, "herbal": 1, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Cachaça de lembrança de casamento, sem produtor, teor alcoólico ou madeira informados. A cor dourada sugere passagem ou armazenamento em madeira, então espere algo mais redondo e adocicado que uma prata, com cana madura e um toque amadeirado. Vale provar pura antes de escolher o drink.",
+    "melhorUso": [
+      { "alvo": "receita:caipirinha", "nota": 3, "frase": "Dourada faz uma caipirinha mais macia e amadeirada; perde um pouco do frescor de cana de uma prata." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "O toque de madeira conversa bem com o vermute e o Cynar do Rabo de Galo." },
+      { "alvo": "familia:old_fashioned", "nota": 3, "frase": "Se for mesmo envelhecida, aguenta um Old Fashioned simples com açúcar e Angostura." }
+    ],
+    "serveComo": [],
+    "fontes": [],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Garrafa sem fabricante conhecido (regra 6): perfil = perfilTipico de cachaça, ajustado só pela cor dourada da foto (doce +1, seco -1, cremoso +1). ABV e volume não aparecem no rótulo. Se descobrirem o alambique ou a madeira, considerar trocar para cachaca_envelhecida."
+  },
+  {
+    "id": "lena_jambu",
+    "rotulo": "Lena Jambu",
+    "marca": "Lena",
+    "produtor": null,
+    "tipo": "cachaca_jambu",
+    "abv": 30,
+    "volumeMl": 500,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": "Cachaça de alambique (mosto fermentado de caldo de cana) armazenada em tonéis de amburana e infusionada com flor de jambu.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 2, "herbal": 3, "frutado": 1, "defumado": 0, "picante": 3, "cremoso": 2, "umami": 0 },
+    "notas": "Cachaça de alambique que descansa em amburana e recebe flores de jambu: a madeira dá cor âmbar e notas de canela e baunilha, e o jambu provoca o formigamento típico nos lábios e na língua. Com 30% é mais leve de álcool que uma cachaça comum, mas o efeito do jambu resiste à diluição, o que rende drinks curiosos.",
+    "melhorUso": [
+      { "alvo": "receita:caipirinha", "nota": 4, "frase": "Caipirinha de jambu é clássico paraense: o limão realça o lado verde e o formigamento vira a graça do drink." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com tônica ou soda e limão vira um long drink fresco; a amburana arredonda o amargor da tônica." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Num sour com limão e xarope o jambu continua presente; como o teor é baixo, use dose generosa." }
+    ],
+    "serveComo": [],
+    "fontes": ["https://www.bebalena.com.br/product-page/lena-jambu"],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Tipo mantido (cachaca_jambu). O rótulo diz 'bebida alcoólica mista', provavelmente porque com 30% vol. e adição de jambu não se enquadra na definição legal de cachaça (38–48% vol.); o site da marca descreve o produto como cachaça de alambique armazenada em amburana e infusionada com jambu. A marca não informa alambique nem cidade. Sem ficha sensorial publicada: perfil inferido da composição. ABV e volume do rótulo iguais aos do site."
+  },
+  {
+    "id": "dom_tapparo_extra_premium",
+    "rotulo": "Dom Tápparo Cachaça Extra Premium Carvalho Europeu",
+    "marca": "Dom Tápparo",
+    "produtor": "Engenho Dom Tápparo",
+    "tipo": "cachaca_envelhecida",
+    "abv": 38,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Mirassol, interior de São Paulo",
+    "composicao": "100% cana-de-açúcar; Extra Premium envelhecida em tonéis de carvalho europeu (provavelmente 12 anos, ver observações).",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 2, "herbal": 1, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Cachaça extra premium de longo descanso em carvalho europeu, dourada e mais de madeira do que de cana fresca: especiarias, fruta seca, um leve tostado e taninos macios. Com 38% é suave no álcool e tem bom corpo; brilha pura ou em drinks mexidos curtos, no papel de destilado envelhecido.",
+    "melhorUso": [
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Carvalho europeu dá especiaria e fruta seca: Old Fashioned brasileiro, com menos baunilha e mais tanino que o de bourbon." },
+      { "alvo": "receita:rabo_de_galo", "nota": 4, "frase": "Envelhecida dá ao Rabo de Galo mais corpo e madeira, que casam com o vermute e o Cynar." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Funciona no lugar do whiskey; com 38% fica mais macio, então segure um pouco o vermute." }
+    ],
+    "serveComo": [
+      { "tipo": "rum_envelhecido", "qualidade": 2, "nota": "em drinks mexidos cobre um rum envelhecido seco, com mais tanino e menos melaço" }
+    ],
+    "fontes": [
+      "https://domtapparo.com.br/us/products/extra-premium-12-years-cachaca-spirit-750ml-38-vol/",
+      "https://forbes.com.br/forbesagro/2024/11/cachacaria-dom-tapparo-e-a-melhor-do-mundo-com-seus-ices-no-global-spirits-masters/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "O rótulo frontal não mostra idade. A ficha do produtor da Extra Premium 12 anos em carvalho europeu (750 ml, 38%) lista as mesmas medalhas vistas na garrafa (Bruxelas 2018, concurso brasileiro 2019, Spirits Business 2025), então é provavelmente essa versão; conferir no contrarrótulo. A ficha descreve só 'madeira e especiarias', o resto do perfil vem do estilo. ABV do rótulo igual ao da fonte."
+  },
+  {
+    "id": "tie_prata",
+    "rotulo": "Tiê Prata",
+    "marca": "Tiê",
+    "produtor": "Cachaça Tiê (Fazenda Guapiara)",
+    "tipo": "cachaca_prata",
+    "abv": 42,
+    "volumeMl": 700,
+    "pais": "Brasil",
+    "regiao": "Aiuruoca, Sul de Minas (Serra da Mantiqueira)",
+    "composicao": "Cana própria colhida à mão, sem queima; destilada em alambique de cobre a fogo direto e armazenada em dornas de inox, sem madeira.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 3, "herbal": 2, "frutado": 2, "defumado": 0, "picante": 2, "cremoso": 1, "umami": 0 },
+    "notas": "Prata mineira de alambique, descansada só em inox: cana fresca e adocicada no nariz, um toque cítrico e final picante sustentado pelos 42%. Tem álcool presente e sabor de cana intenso, por isso aparece bem através do limão e do açúcar.",
+    "melhorUso": [
+      { "alvo": "receita:caipirinha", "nota": 5, "frase": "Prata de alambique a 42%, cana intensa e final picante: o perfil que a caipirinha pede, sem madeira no caminho." },
+      { "alvo": "receita:rabo_de_galo", "nota": 4, "frase": "Cana marcante e álcool firme seguram o vermute e o Cynar sem o drink ficar doce demais." },
+      { "alvo": "receita:daiquiri", "nota": 4, "frase": "No lugar do rum branco dá um daiquiri mais vegetal e picante, com a cana verde em primeiro plano." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Como base de Negroni troca o zimbro por cana e pimenta; segura bem o Campari." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com tônica ou soda e limão a cana aparece limpa e o final picante dá estrutura ao copo longo." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.seudinheiro.com/2026/lifestyle/dia-da-cachaca-10-rotulos-premiados-produzidos-em-diferentes-partes-do-brasil-de-minas-gerais-a-paraiba-sama/",
+      "https://outraspalavras.net/mauricioayer/cachaca-tie-e-suas-raizes-na-mantiqueira/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "O dono confirmou que é a Tiê Prata comum (dúvida de cor da foto ignorada). As fontes divergem sobre a levedura (fermento caipira na matéria de 2017, leveduras selecionadas na de 2026). ABV 42% igual ao das fontes."
+  },
+  {
+    "id": "mezcal_union_uno",
+    "rotulo": "Mezcal Unión Uno",
+    "marca": "Mezcal Unión",
+    "produtor": "Mezcal Unión (coletivo de famílias produtoras de Oaxaca)",
+    "tipo": "mezcal",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Oaxaca",
+    "composicao": "Mezcal artesanal joven 100% agave: espadín (A. angustifolia) e cirial (A. karwinskii) de 8 a 14 anos; agave assado por cerca de 4 dias e destilado em alambique de cobre.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 2, "frutado": 2, "defumado": 3, "picante": 2, "cremoso": 1, "umami": 1 },
+    "notas": "Mezcal joven de entrada, pensado para misturar: fumaça de lenha média, agave assado adocicado, pera e maçã verde, fundo de terra molhada e ervas mentoladas. O cirial puxa para o lado terroso e cítrico. Em drinks a fumaça aparece sem dominar.",
+    "melhorUso": [
+      { "alvo": "receita:mezcal_negroni", "nota": 4, "frase": "Fumaça média e fruta de pera: aparece no Negroni sem apagar o Campari nem o vermute." },
+      { "alvo": "receita:paloma", "nota": 4, "frase": "O produtor indica a Paloma: toranja e sal realçam a fruta e deixam a fumaça como pano de fundo." },
+      { "alvo": "receita:margarita", "nota": 4, "frase": "Numa margarita cítrica a fumaça vira tempero; boa para ter o perfil de mezcal sem exagero." },
+      { "alvo": "familia:old_fashioned", "nota": 3, "frase": "Mexido com agave e bitters funciona; dividindo a base com tequila reposado fica ainda melhor." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.thebar.com/en-us/products/mezcal-union-uno-joven-750-ml",
+      "https://mezcalreviews.com/?p=500"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Volume: o rótulo lateral mostra '…50 ML' com 80 proof (versão EUA), lido como 750 ml. ABV 40% confere com as fontes (uma listagem cita também 38% para outro mercado). Mestre mezcalero e vila variam conforme a fonte (Mezcal Reviews cita San Baltazar Guelavila)."
+  },
+  {
+    "id": "madre_mezcal_espadin",
+    "rotulo": "Madre Mezcal Espadín",
+    "marca": "Madre",
+    "produtor": "Madre Mezcal (famílias de mezcaleros de Oaxaca)",
+    "tipo": "mezcal",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Oaxaca",
+    "composicao": "Mezcal artesanal joven, 100% agave espadín; assado em forno de chão, moído em tahona, fermentação aberta com leveduras nativas.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 3, "frutado": 1, "defumado": 2, "picante": 2, "cremoso": 1, "umami": 1 },
+    "notas": "Espadín de fumaça discreta, mais verde e terroso do que defumado: grama, hortelã, agave assado e açúcar queimado, com final de especiaria ácida. Com 40% tem corpo leve, o que facilita misturar; quem procura muita fumaça vai achá-lo contido.",
+    "melhorUso": [
+      { "alvo": "receita:paloma", "nota": 4, "frase": "Fumaça leve e lado herbal combinam com toranja e sal; a Paloma fica fresca, sem gosto de cinza." },
+      { "alvo": "receita:margarita", "nota": 4, "frase": "Margarita de mezcal suave: agave verde e hortelã aparecem e a fumaça só tempera." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "O próprio produtor sugere long drinks com hibisco ou goiaba e soda; o corpo leve vai bem no copo longo." },
+      { "alvo": "familia:old_fashioned", "nota": 3, "frase": "Funciona mexido com mel ou agave e bitters de cacau, como na receita do produtor; adoce com cuidado." },
+      { "alvo": "receita:mezcal_negroni", "nota": 3, "frase": "No Negroni a fumaça fica discreta e o drink sai mais herbal que defumado." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://madremezcal.com/pages/mezcal",
+      "https://madremezcal.com/blogs/news/espadin-cocktail-recipes",
+      "https://www.mezcalculture.com/brands/madre",
+      "https://mezcalistas.com/brand/madre-mezcal"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Fontes divergem sobre a família que faz o espadín (Mezcal Culture: Carlos Méndez Blas, Santiago Matatlán; Mezcalistas lista também a família García Morales, de San Dionisio, e a família Vásquez, de Miahuatlán). Lote BK-82 manuscrito no rótulo. ABV 40% igual às fontes."
+  },
+  {
+    "id": "pisco_tres_erres_especial",
+    "rotulo": "Pisco Especial Tres Erres 35°",
+    "marca": "Tres Erres",
+    "produtor": "Compañía Pisquera de Chile (grupo CCU)",
+    "tipo": "pisco_chileno",
+    "abv": 35,
+    "volumeMl": 1000,
+    "pais": "Chile",
+    "regiao": "Valle de Elqui",
+    "composicao": "Uvas Moscatel (Rosada e de Áustria) e Pedro Jiménez; dupla destilação; repouso em carvalho (cor palha).",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 3, "herbal": 2, "frutado": 3, "defumado": 0, "picante": 0, "cremoso": 1, "umami": 0 },
+    "notas": "Pisco chileno de 35°, leve e fácil, com aroma de uva moscatel e flores e um toque discreto de madeira e baunilha do repouso em carvalho, que dá a cor palha. Menos aromático e alcoólico que um pisco peruano mosto verde; feito para drinks longos e sours do dia a dia.",
+    "melhorUso": [
+      { "alvo": "receita:pisco_sour", "nota": 4, "frase": "É o estilo chileno de pisco sour: mais leve e floral; com 35° pede um pouco menos de limão e açúcar." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Base clássica da piscola e de long drinks com ginger ale ou tônica, onde o moscatel aparece sem pesar." },
+      { "alvo": "receita:tom_collins", "nota": 3, "frase": "Num Collins o floral da moscatel faz as vezes do gin; drink leve e refrescante." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.jumbo.cl/pisco-tres-erres-1-l-doble-destilado-35/p",
+      "https://www.mundomaritimo.cl/noticias/grupo-luksic-adquiere-el-40-de-pisquera-peruana-barsol"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "País confirmado: Chile (Valle de Elqui; marca da Compañía Pisquera de Chile, do grupo CCU). 'Pisco Especial' é a categoria chilena de 35°. A versão de 35° em 1 L com as mesmas uvas e dupla destilação aparece na Jumbo como 'añejado en roble'. ABV 35% igual ao da fonte. Perfil sensorial inferido do estilo e da composição."
+  },
+  {
+    "id": "pisco_1615_italia_mosto_verde",
+    "rotulo": "1615 Pisco Italia Mosto Verde",
+    "marca": "1615",
+    "produtor": "Bodega San Nicolás",
+    "tipo": "pisco_peruano",
+    "abv": 42,
+    "volumeMl": 700,
+    "pais": "Peru",
+    "regiao": "Ica",
+    "composicao": "100% uva Italia (aromática), mosto verde: destilado de mosto ainda em fermentação em alambique de cobre; 6 meses em inox, sem madeira; safra 2021.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 3, "herbal": 2, "frutado": 4, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Pisco peruano aromático de uva Italia, no estilo mosto verde: maçã verde, cítricos, uva fresca e flores brancas, boca frutada e redonda com sensação de frescor. Os 42% dão firmeza sem esconder o aroma, que atravessa bem o limão e a clara de ovo.",
+    "melhorUso": [
+      { "alvo": "receita:pisco_sour", "nota": 4, "frase": "A Italia mosto verde perfuma o sour com flor e fruta; mais aromático que um quebranta e de corpo mais redondo." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "No Chilcano (pisco, ginger ale e limão) o aroma floral aparece por cima do gengibre." },
+      { "alvo": "familia:punch_cobbler", "nota": 3, "frase": "Num Pisco Punch com abacaxi e limão, a fruta da uva Italia combina com naturalidade." }
+    ],
+    "serveComo": [],
+    "fontes": ["https://www.vinmonopolet.no/Land/Peru/Ica/Pisco-1615-Mosto-Verde-Italia/p/14110301"],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV 42% e 700 ml iguais aos da fonte (Vinmonopolet, que cita ~3 g/L de açúcar residual). Mosto verde costuma ser preferido puro; em drinks vale pela fragrância."
+  },
+  {
+    "id": "yvy_rum",
+    "rotulo": "YVY Rum",
+    "marca": "YVY",
+    "produtor": "YVY Destilaria",
+    "tipo": "rum",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": null,
+    "composicao": null,
+    "perfil": { "doce": 2, "acido": 0, "amargo": 0, "seco": 2, "herbal": 0, "frutado": 2, "defumado": 1, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Rum da YVY, destilaria brasileira conhecida pelos gins. Não há ficha pública com matéria-prima, envelhecimento ou notas, e o vidro azul opaco esconde a cor; o perfil é o de um rum genérico. Prove puro: se for claro e seco, use como rum branco; se tiver madeira, como envelhecido.",
+    "melhorUso": [
+      { "alvo": "receita:daiquiri", "nota": 3, "frase": "Rum de 40% sem estilo confirmado: rende um daiquiri correto; ajuste o açúcar depois de provar." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com cola, soda ou ginger ale e limão funciona sem depender do estilo exato." },
+      { "alvo": "familia:tiki", "nota": 3, "frase": "Entra bem como uma das bases de um tiki, ao lado de um rum de perfil conhecido." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.yvydestilaria.com.br/",
+      "https://theinspirationgrid.com/yvy-mar-gin-branding-packaging-by-estudio-bogota"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo mantido como 'rum' (genérico): não achei ficha do produto (o site oficial bloqueou a leitura automática; as buscas só trazem os gins e a vodka da YVY) e o vidro opaco não mostra a cor. 'Destilaria Original do Brasil' é o slogan da YVY; perfis da empresa a situam em Belo Horizonte (MG), não confirmado no rótulo. Perfil = perfilTipico de rum. Se a prova ou o contrarrótulo indicar rum claro, trocar para rum_branco; se dourado/envelhecido, rum_envelhecido."
+  },
+  {
+    "id": "sotol_la_higuera",
+    "rotulo": "La Higuera Sotol Wheeleri",
+    "marca": "La Higuera",
+    "produtor": "El Árbol del Pecado S.A. de C.V. (sotolero Gerardo Ruelas)",
+    "tipo": "sotol",
+    "abv": 43.4,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Aldama, Chihuahua",
+    "composicao": "Dasylirion wheeleri; cozido em forno cônico de lenha e pedras, fermentação com leveduras selvagens em tinas de pinho de 1000 L, duas destilações em alambique de cobre; joven (lote 35, 01/2023).",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 3, "herbal": 4, "frutado": 2, "defumado": 2, "picante": 2, "cremoso": 1, "umami": 1 },
+    "notas": "Sotol de Chihuahua feito à moda tradicional, mais herbal do que defumado: capim-limão, hortelã, terra e vegetal verde, com abacaxi quente no meio da boca e uma fumaça leve ao fundo. Os lotes variam bastante; vai bem puro e é muito versátil em drinks cítricos.",
+    "melhorUso": [
+      { "alvo": "receita:margarita", "nota": 4, "frase": "Mais verde e mineral que uma tequila blanco, com fumaça leve: margarita herbal e diferente." },
+      { "alvo": "receita:paloma", "nota": 4, "frase": "Ervas e abacaxi encontram a toranja; a Paloma fica mais aromática que a de tequila." },
+      { "alvo": "receita:mezcal_negroni", "nota": 3, "frase": "Troca o mezcal por algo menos defumado e mais herbal; o Negroni fica verde e terroso." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda ou tônica e limão o lado de capim-limão aparece bem no copo longo." }
+    ],
+    "serveComo": [
+      { "tipo": "mezcal", "qualidade": 2, "nota": "menos fumaça e mais erva; serve em drinks de mezcal que aceitam perfil mais verde" }
+    ],
+    "fontes": ["https://mezcalreviews.com/?p=3894"],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV 43,4% escrito à mão no rótulo (lote 35); a fonte cita 48% na ficha geral e outros lotes entre 44,6% e 49,6%: vale o do rótulo. Moagem: o rótulo diz mecânica, a fonte fala em machado à mão. Importado por Fidencio Spirits (EUA)."
+  },
+  {
+    "id": "herradura_reposado",
+    "rotulo": "Herradura Reposado",
+    "marca": "Herradura",
+    "produtor": "Casa Herradura (Tequila Herradura S.A. de C.V., NOM 1119)",
+    "tipo": "tequila_reposado",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "México",
+    "regiao": "Amatitán, Jalisco",
+    "composicao": "100% agave azul; cozido em fornos de barro, fermentação natural com leveduras do ambiente; 11 meses em barris de carvalho americano.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 2, "herbal": 2, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Reposado de 11 meses em carvalho americano, no limite da categoria: agave cozido com caramelo, baunilha, canela e maçã caramelada, e um fundo de chocolate amargo, amêndoa e pimenta-do-reino. Tem mais madeira e doçura que um reposado curto, mas o agave ainda aparece.",
+    "melhorUso": [
+      { "alvo": "receita:rosita", "nota": 4, "frase": "A Rosita pede reposado: caramelo e canela fazem ponte com os dois vermutes e o Campari." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Onze meses de barril dão estrutura para um Old Fashioned de tequila com agave e bitters." },
+      { "alvo": "receita:margarita", "nota": 4, "frase": "Margarita mais redonda e amadeirada que a de blanco; combina com licor de laranja mais doce." },
+      { "alvo": "receita:paloma", "nota": 3, "frase": "Funciona, mas a madeira disputa com a toranja; para uma Paloma fresca um blanco é mais direto." }
+    ],
+    "serveComo": [
+      { "tipo": "tequila_anejo", "qualidade": 2, "nota": "11 meses em carvalho aproximam do añejo em drinks mexidos" }
+    ],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/1119/herradura-reposado-tequila",
+      "https://www.herradura.com/the-story/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV 40% igual às fontes. Difford's informa carvalho americano e o site do produtor confirma os 11 meses de barril."
+  }
+]

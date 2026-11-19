@@ -1,0 +1,409 @@
+[
+  {
+    "id": "bizantino_licor_ervas",
+    "rotulo": "San Basile Bizantino",
+    "marca": "San Basile",
+    "produtor": "Destilaria Bizantina (San Basile), Tuiuti-SP",
+    "tipo": "licor_ervas",
+    "abv": 35,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "São Paulo (Tuiuti)",
+    "composicao": "licor fino de ervas e flores, receita não divulgada (notas de lavanda, alcaçuz e casca cítrica)",
+    "perfil": { "doce": 4, "acido": 0, "amargo": 1, "seco": 0, "herbal": 4, "frutado": 1, "defumado": 0, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Licor de ervas brasileiro da família dos licores 'amarelos', na linha do Chartreuse amarelo, porém mais leve (35%) e bem mais barato. Ervas, flores como lavanda e um toque de casca cítrica no nariz; na boca é doce sem enjoar, com anis e alcaçuz e um fim levemente amargo. Em drinks rende como modificador, em doses pequenas.",
+    "melhorUso": [
+      { "alvo": "familia:daisy", "nota": 4, "frase": "Faz o papel do licor no Daisy (o rótulo traz um Brandy Daisy): mais ervas e menos laranja que um triple sec." },
+      { "alvo": "receita:last_word", "nota": 3, "frase": "Troca acessível do Chartreuse verde: o drink sai mais doce, floral e manso, menos explosivo de ervas." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Meia dose no lugar de parte do xarope (como no 'Solar' do rótulo) dá ervas e anis a um gin sour." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Uma colher num Martini dá o ar de um Alaska; com 35% não domina o drink como o Chartreuse." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com tônica e gelo vira long drink herbal; o amargor da tônica equilibra o açúcar do licor." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://mothercityliquor.co.za/products/san-basile-bizantino-liqueur",
+      "https://www.pricecheck.co.za/offers/253948636/Basile+Bizantino+Liqueur",
+      "https://br.my-best.com/lists/17917"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Não achei página do produtor; notas e perfil vêm de varejistas e de um guia brasileiro que o compara ao Chartreuse ('não muito doce', de lavanda a alcaçuz). A 1ª receita do rótulo lateral é um Brandy Daisy (título danificado). Não existe tipo 'chartreuse' em tipos.json; se for criado, esta garrafa serviria como Chartreuse amarelo (qualidade 2)."
+  },
+  {
+    "id": "reykjavik_blueberry",
+    "rotulo": "64° Reykjavik Uliginosum Blueberry",
+    "marca": "64° Reykjavik Distillery",
+    "produtor": "Reykjavik Distillery ehf.",
+    "tipo": "licor_frutas_vermelhas",
+    "abv": 21,
+    "volumeMl": 200,
+    "pais": "Islândia",
+    "regiao": "Reykjavík",
+    "composicao": "mirtilo-do-pântano islandês silvestre (Vaccinium uliginosum) e açúcar, sem conservantes; pequeno lote numerado (safra 2023)",
+    "perfil": { "doce": 4, "acido": 2, "amargo": 1, "seco": 0, "herbal": 1, "frutado": 5, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 0 },
+    "notas": "Licor de pequeno lote feito com mirtilos silvestres colhidos à mão nas terras altas da Islândia, com safra, lote e número da garrafa no rótulo. Fruta escura intensa, um pouco terrosa e ácida, menos açucarado que um crème de cassis ou de mûre típico. Bom puro e gelado, e como modificador de fruta em drinks com espumante e sours.",
+    "melhorUso": [
+      { "alvo": "receita:bramble", "nota": 4, "frase": "No lugar do crème de mûre: fruta silvestre escura e terrosa, com menos açúcar, deixa o gin aparecer." },
+      { "alvo": "familia:champagne_cocktail", "nota": 4, "frase": "Um fio no espumante faz um Kir Royal nórdico; menos doce que o cassis, não pesa." },
+      { "alvo": "familia:daisy", "nota": 3, "frase": "Substitui o licor de laranja num Daisy, como na Blueberry Margarita de mezcal que a destilaria sugere." },
+      { "alvo": "familia:fizz_collins", "nota": 3, "frase": "Alongado com soda e limão vira um fizz leve; a acidez do mirtilo segura bem a diluição." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://reykjavikdistillery.is/?portfolio_page=blueberry-uliginosum",
+      "https://reykjavikdistillery.is/?portfolio_page=bluberry",
+      "https://vinepair.com/articles/icelandic-unique-spirits-distillers",
+      "https://blog.thewhiskyexchange.com/?p=19671"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Expressão 'Uliginosum' (bilberry islandês), edição de pequeno lote numerada (safra 2023, lote 01, garrafa 222); é diferente do 'Blueberry Liqueur' comum da casa, também com 21%. O produtor não publica teor de açúcar; 'pouco doce' vem de review."
+  },
+  {
+    "id": "limoncino_bottega",
+    "rotulo": "Bottega Limoncino",
+    "marca": "Bottega",
+    "produtor": "Bottega S.p.A. (Sandro Bottega)",
+    "tipo": "limoncello",
+    "abv": 30,
+    "volumeMl": null,
+    "pais": "Itália",
+    "regiao": "Vêneto (limões da Sicília)",
+    "composicao": "casca de limão Femminello da Sicília macerada cerca de 30 dias em álcool, açúcar e um toque de grappa",
+    "perfil": { "doce": 5, "acido": 1, "amargo": 1, "seco": 0, "herbal": 0, "frutado": 5, "defumado": 0, "picante": 0, "cremoso": 3, "umami": 0 },
+    "notas": "Limoncello feito no Vêneto com casca de limão siciliano e finalizado com um pouco de grappa, que arredonda o corpo. Doce, cheio e suculento, mais limão maduro do que casca ácida. Serve-se muito gelado puro ou como adoçante cítrico em spritzes e drinks com espumante.",
+    "melhorUso": [
+      { "alvo": "familia:spritz", "nota": 4, "frase": "Faz um Limoncello Spritz direto: doce e cheio, aguenta espumante e soda sem perder o limão." },
+      { "alvo": "familia:champagne_cocktail", "nota": 4, "frase": "Uma dose num flute de prosecco troca o cubo de açúcar por limão maduro." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com tônica e muito gelo vira long drink cítrico; como é bem doce, prefira tônica mais seca." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Num Lemon Drop com vodka e limão substitui o xarope; por ser mais doce, use menos." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.bottegaspa.com/en/collezioni/limoncino/",
+      "https://www.bottegaspa.com/en/collezioni/limoncino-21/",
+      "https://www.nicolas.com/en/Liquors/LIMONCINO-BOTTEGA-30%25VOL/p/488790.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV e volume não lidos no rótulo. 30% é o da ficha do produtor para o Limoncino padrão; a Bottega também faz o 'Limoncino 21' (21%), mas o rótulo da foto não traz o '21'. Tamanhos existentes: 3, 20, 50, 70 e 100 cl, então o volume ficou null."
+  },
+  {
+    "id": "villa_massa_limoncello",
+    "rotulo": "Villa Massa Limoncello",
+    "marca": "Villa Massa",
+    "produtor": "Villa Massa S.r.l.",
+    "tipo": "limoncello",
+    "abv": 30,
+    "volumeMl": 500,
+    "pais": "Itália",
+    "regiao": "Campânia (Piano di Sorrento)",
+    "composicao": "só a casca do limão Ovale di Sorrento IGP infusionada em álcool, com açúcar e água; sem aromas ou corantes artificiais",
+    "perfil": { "doce": 5, "acido": 2, "amargo": 1, "seco": 0, "herbal": 1, "frutado": 5, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 0 },
+    "notas": "Limoncello de Sorrento feito apenas com a casca do limão Ovale IGP. Aroma de casca recém-ralada; boca doce, mas com acidez cítrica viva e um leve toque verde e picante da casca. Mais fresco e menos pesado que limoncellos comuns; brilha gelado e em drinks com espumante ou tônica.",
+    "melhorUso": [
+      { "alvo": "familia:champagne_cocktail", "nota": 4, "frase": "É a base do Villamosa da casa (1 parte para 2 de prosecco): limão fresco no lugar de açúcar e bitters." },
+      { "alvo": "familia:spritz", "nota": 4, "frase": "Limoncello Spritz de referência: cítrico vivo o bastante para não enjoar com espumante e soda." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "O 'Villa Massa & Tonica' da casa: tônica e manjericão alongam sem apagar o limão." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Num Lemon Drop com vodka troca o xarope e reforça o limão; a acidez própria pede menos suco." },
+      { "alvo": "receita:tom_collins", "nota": 3, "frase": "Uma parte no lugar do xarope dá ao Collins um limão mais perfumado; reduza o açúcar." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://villamassa.com/limoncello/",
+      "https://www.falstaff.com/en/spirits/dettling-marmot-villa-massa-limoncello",
+      "https://www.callmewine.com/en/limoncello-villa-massa-50cl-P27392.htm"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": null
+  },
+  {
+    "id": "soberbo_vermouth",
+    "rotulo": "Poças Soberbo Vermouth",
+    "marca": "Soberbo (Poças)",
+    "produtor": "Manoel D. Poças Júnior, Vinhos S.A.",
+    "tipo": "vermute_bianco",
+    "abv": 18.5,
+    "volumeMl": 750,
+    "pais": "Portugal",
+    "regiao": "Douro (Vila Nova de Gaia)",
+    "composicao": "Vinho do Porto branco com 18 botânicos colhidos nas quintas da Poças no Douro; receita inspirada em registros dos anos 1930–40",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 1, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 3, "umami": 1 },
+    "notas": "Vermute português de base de Porto branco, cor palha-dourada, com casca de laranja, tangerina, esteva, açafrão e alecrim no nariz. A boca é macia e encorpada como a de um Porto, com mel e um amargor discreto no fim. Fica entre um bianco italiano e um Porto branco: ótimo com tônica e como modificador doce em drinks claros.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com tônica e laranja vira um Porto tónico mais aromático; a base de Porto dá um corpo que o bianco não tem." },
+      { "alvo": "receita:white_negroni", "nota": 3, "frase": "No lugar do Lillet: mais doce e encorpado, segura bem a genciana; diminua um pouco a dose." },
+      { "alvo": "familia:spritz", "nota": 3, "frase": "Spritz de bianco com espumante e soda: mel e laranja aparecem bem, o amargor fica leve." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Num Martini meio a meio traz mel e cítricos; tem mais corpo e açúcar que um vermute dry." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.pocas.pt/products/soberbo-vermouth",
+      "https://houseoftownend.com/spirits/type/aperitif/pocas-vermouth-soberbo",
+      "https://honest-rare.de/en/vermouth-soberbo",
+      "https://saltofportugal.com/2019/08/26/a-superb-vermouth"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Tipo trocado de 'vermute' para 'vermute_bianco': o produtor diz que a base é Vinho do Porto branco e a ficha do importador (House of Townend) descreve cor amarelo-palha; o vidro verde-escuro faz o líquido parecer escuro na foto. Uma loja alemã descreve outra receita (Porto branco + vinho branco, losna e 10 botânicos, 6 meses em barris de Porto, 112 g/L de açúcar, notas de frutas secas e tabaco), talvez a anterior à 'Remastered Recipe'. ABV 18,5% confere com as fontes."
+  },
+  {
+    "id": "vermute_fernanda_raul",
+    "rotulo": "Vermute Fernanda & Raul (28.06.2025)",
+    "marca": null,
+    "produtor": null,
+    "tipo": "vermute",
+    "abv": 18,
+    "volumeMl": 500,
+    "pais": null,
+    "regiao": null,
+    "composicao": null,
+    "perfil": { "doce": 3, "acido": 1, "amargo": 2, "seco": 1, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Vermute personalizado de lembrança de casamento, sem produtor identificado. O líquido é castanho-avermelhado escuro, o que sugere um estilo rosso, mas o rótulo não diz. Perfil genérico de vermute até alguém provar.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com soda, gelo e casca de laranja é o jeito mais seguro de conhecer um vermute de estilo desconhecido." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Pela cor escura deve funcionar como vermute doce num Manhattan; prove antes e ajuste a dose." },
+      { "alvo": "familia:negroni", "nota": 3, "frase": "Em partes iguais com gin e bitter; se for mais doce que um rosso comum, reduza a dose." }
+    ],
+    "serveComo": [],
+    "fontes": [],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "observacoes": "perfilPendente: perfil igual ao perfilTipico de 'vermute', sem pesquisa de produtor. A cor castanho-avermelhada escura na foto sugere vermute rosso; se a prova confirmar, trocar para vermute_rosso."
+  },
+  {
+    "id": "ataman_original",
+    "rotulo": "Atamán Original Vermut",
+    "marca": "Atamán (Barbadillo)",
+    "produtor": "Bodegas Barbadillo",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 500,
+    "pais": "Espanha",
+    "regiao": "Andaluzia (Sanlúcar de Barrameda)",
+    "composicao": "base de Manzanilla (cerca de 77%) com vinho macerado com ervas e um pouco de vinho quinado; losna, casca de laranja-amarga de Sevilha, alecrim, sabugueiro e cássia; parte de vermutes antigos guardados desde os anos 1970; 140 g/L de açúcar",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 3, "umami": 2 },
+    "notas": "Vermut de Sanlúcar feito sobre Manzanilla, cor mogno e estilo 'rojo' espanhol. Caramelo, casca de laranja, uva-passa e um fundo oxidativo e salino de xerez; na boca começa doce e termina bem amargo, com quina e losna secando o final. Mais amargo e mais salino que um rosso italiano; ótimo puro com gelo e em drinks mexidos.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Do jeito espanhol (gelo, laranja e um pouco de soda): o amargor e o sal do xerez seguram a diluição." },
+      { "alvo": "receita:adonis", "nota": 4, "frase": "Já tem xerez na base: com fino faz um Adonis mais profundo e amargo que com rosso italiano." },
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Quina e laranja-amarga dão ao Manhattan um fim seco; o fundo de xerez combina com rye." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Mais amargo que um rosso comum, deixa o Negroni seco e longo; vá de gin firme." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "Com cachaça, a nota de xerez e o amargor de quina dão um Rabo de Galo mais complexo." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.barbadillo.com/wp-content/uploads/2020/06/ficha-vermut-ataman-barbadillo.pdf",
+      "https://fells.co.uk/wine/ataman-vermut-2/pdf",
+      "https://www.skurnik.com/sku/vermut-ataman-by-bodegas-barbadillo-2/",
+      "https://jerez-xeres-sherry.blogspot.com/2018/05/vermut-ataman-17-bodegas-barbadillo.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Tipo trocado de 'vermute' para 'vermute_rosso': apesar da base de vinho branco (Manzanilla), é um vermut 'rojo' espanhol, cor mogno, 140 g/L de açúcar, usado como vermute doce. O importador americano o classifica como 'white' por causa da uva da base. Não confundir com o 'Atamán V' (vermut viejo), outro produto."
+  },
+  {
+    "id": "mulassano_bianco",
+    "rotulo": "Mulassano Vermouth Bianco",
+    "marca": "Mulassano",
+    "produtor": "Cav. Pietro Bordiga s.r.l.",
+    "tipo": "vermute_bianco",
+    "abv": 18,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": "Piemonte (Cuneo)",
+    "composicao": "Vermouth di Torino bianco; genciana, casca de limão, hortelã, sabugueiro, pimenta, sálvia, cardamomo, casca de laranja-amarga e baunilha de Madagascar",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 1, "seco": 1, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Bianco clássico de Torino feito pela destilaria Bordiga, com receita que remonta a 1879 e ao Caffè Mulassano. Ervas, especiarias, pêssego branco e camomila no nariz, com baunilha ao fundo; boca fresca e leve, doçura equilibrada e amargor discreto de genciana. Bianco versátil para spritz, tônica e drinks claros.",
+    "melhorUso": [
+      { "alvo": "familia:spritz", "nota": 4, "frase": "O spritz da casa (bianco, prosecco seco e soda): baunilha e pêssego aparecem sem açúcar demais." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com tônica e casca de limão, o amargor leve da genciana conversa bem com o quinino." },
+      { "alvo": "receita:white_negroni", "nota": 3, "frase": "No lugar do Lillet, com gin e Suze: mais herbal e baunilhado, um pouco mais doce." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Num Martini meio a meio com gin dá redondeza e baunilha; é mais doce que um dry clássico." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.mswalker.com/wp-content/uploads/mulassano_vermouth_family_ss.pdf",
+      "https://www.thewhiskyexchange.com/p/48317"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV lido no rótulo: 18%. A ficha do importador americano (M.S. Walker) indica 18,5%, provável diferença de versão de mercado; mantido o valor do rótulo."
+  },
+  {
+    "id": "la_fuerza_blanco",
+    "rotulo": "La Fuerza Vermouth Blanco",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_bianco",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho Torrontés de Mendoza, aguardente de vinho e mosto, com botânicos argentinos e ervas silvestres dos Andes (sálvia, alecrim, camomila, anis, coentro, hortelã, tomilho); cerca de 120 g/L de açúcar",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 1, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Vermú argentino de base Torrontés, uva aromática que dá perfume floral e cítrico. Sálvia, alecrim, camomila, anis e coentro; boca fresca, doçura média e amargor baixo. Feito para ser alongado: com soda ou tônica e limão é o uso pensado pelo produtor.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "O serviço da casa é soda ou tônica com limão; o Torrontés perfumado aguenta bem a diluição." },
+      { "alvo": "familia:spritz", "nota": 4, "frase": "No spritz da casa (espumante, um pouco de Aperol e soda) faz a base floral e cítrica." },
+      { "alvo": "receita:white_negroni", "nota": 3, "frase": "Troca o Lillet por um bianco mais herbal e floral; o drink fica mais leve e perfumado." },
+      { "alvo": "familia:martini_manhattan", "nota": 3, "frase": "Num Martini meio a meio dá sálvia e cítricos; é mais doce que um dry, então prefira um gin bem seco." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.vineconnections.com/media/3160/la-fuerza-blanco_tech-sheet.pdf",
+      "https://www.hatchmansfield.com/our-winemakers/zuccardi/wine/la-fuerza-vermouth-blanco-nv-6x75cl"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV de 17% confirmado pelo produtor (o primeiro dígito estava na curvatura do vidro)."
+  },
+  {
+    "id": "la_fuerza_primavera",
+    "rotulo": "La Fuerza Primavera en los Andes",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_bianco",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho Torrontés de Mendoza com flores (hibisco, lavanda, violeta), especiarias e ervas andinas; menos ervas que os outros La Fuerza",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 1, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 0 },
+    "notas": "Vermú sazonal de primavera: base Torrontés com hibisco, lavanda e violeta, que dão a cor dourado-rosada e um perfil mais floral do que herbal. Fresco, de doçura média e amargor bem baixo. Brilha alongado com soda e toranja ou com espumante rosé.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com soda e uma fatia de toranja (o serviço da casa): flores e hibisco no centro, sem açúcar demais." },
+      { "alvo": "familia:spritz", "nota": 4, "frase": "Spritz com espumante rosé e morango, como sugere o produtor; mais floral que um spritz de bianco." },
+      { "alvo": "receita:white_negroni", "nota": 3, "frase": "Versão floral do White Negroni no lugar do Lillet; violeta e lavanda suavizam a genciana." },
+      { "alvo": "familia:punch_cobbler", "nota": 3, "frase": "Num cobbler de vermute com frutas vermelhas e gelo picado, o hibisco reforça a fruta." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.vineconnections.com/media/254030/la-fuerza-primavera_tech-sheet-vc.pdf",
+      "https://www.cronista.com/clase/gourmet/la-fuerza-de-los-valientes-el-grupo-de-amigos-y-socios-que-recupero-la-identidad-del-vermu-argentino"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Tipo trocado de 'vermute' para 'vermute_bianco': base de vinho branco (Torrontés), cor dourada e uso de bianco floral. O próprio produtor diz 'ni Bianco, ni Rosso, ni Rosé'; se surgir um tipo de vermute floral ou rosé, reavaliar. Sem dado publicado de açúcar."
+  },
+  {
+    "id": "la_fuerza_sideral",
+    "rotulo": "La Fuerza Vermouth Sideral",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "blend de La Fuerza Rojo (base Malbec) com um pouco de La Fuerza Blanco (Torrontés), criado ao menos 12 meses em barricas de carvalho usadas para vinho",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 2, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Vermú rojo argentino envelhecido 12 meses em barricas usadas de vinho, com um pouco de Blanco no corte. Escuro e profundo: fruta vermelha e preta e especiarias herdadas do Rojo, ervas e madeira suave; amargor moderado e doçura média. O produtor o pensa para beber puro com gelo e laranja, mas ele segura bem drinks mexidos.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Madeira e especiarias do barril casam com rye ou bourbon; dá um Manhattan redondo e pouco enjoativo." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Indicado pelo produtor: mais profundo e amadeirado que um rosso jovem, deixa o Negroni mais longo." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Com bourbon, o toque de barrica do vermute se soma ao do whisky; resultado macio e escuro." },
+      { "alvo": "receita:milano_torino", "nota": 3, "frase": "Meio a meio com Campari e gelo: a madeira arredonda o amargo sem precisar de soda." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-sideral/",
+      "https://www.vineconnections.com/world-spirits/la-fuerza/la-fuerza-sideral-vermouth/",
+      "https://www.cronista.com/clase/gourmet/la-fuerza-de-los-valientes-el-grupo-de-amigos-y-socios-que-recupero-la-identidad-del-vermu-argentino",
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.hatchmansfield.com/our-winemakers/zuccardi/wine/la-fuerza-vermouth-rojo-nv-6x75cl"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Tipo trocado de 'vermute' para 'vermute_rosso': o produtor descreve o Sideral como blend de La Fuerza Rojo (Malbec) com um pouco de Blanco, criado em barrica. Uma loja americana o lista como 'white', o que contradiz o produtor. Sem dado de açúcar do Sideral (o Rojo tem 125 g/L)."
+  },
+  {
+    "id": "la_fuerza_sideral_barrica_unica",
+    "rotulo": "La Fuerza Sideral Barrica Única",
+    "marca": "La Fuerza",
+    "produtor": "La Fuerza (Mendoza)",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "o blend do Sideral (Rojo com um pouco de Blanco) devolvido a seis barricas por mais 12 meses, total de mais de 24 meses; vinho tinto, álcool vínico, mosto e macerado de ervas aromáticas",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 2, "seco": 2, "herbal": 3, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Edição limitada do Sideral com mais de 24 meses de barrica, de apenas seis barricas. Comparado ao Sideral comum, a madeira deve ficar mais presente e a fruta mais recolhida, com final mais seco e especiado. É um vermute para beber puro, depois do jantar; em drinks, vale nos mexidos com whisky.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Mais madeira e menos fruta que o Sideral: dá um Manhattan seco e especiado, de vermute 'riserva'." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "A barrica longa conversa com o bourbon; o drink fica mais seco e menos doce que com um rosso jovem." },
+      { "alvo": "receita:rob_roy", "nota": 3, "frase": "Com scotch, as especiarias e a madeira do vermute fazem ponte com o malte." },
+      { "alvo": "receita:vieux_carre", "nota": 3, "frase": "Segura conhaque e rye num Vieux Carré; a madeira se soma ao Bénédictine sem pesar." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://lafuerza.com.ar/la-fuerza-sideral/",
+      "https://lafuerza.com.ar/la-fuerza-vermu/",
+      "https://www.saratogawine.com/product/la-fuerza-vermouth-sideral-nv-750ml/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Tipo trocado de 'vermute' para 'vermute_rosso': os ingredientes do rótulo começam com vinho tinto e o produtor diz que é parte do Sideral (base Rojo) devolvida à barrica. O rótulo diz '1644 botellas'; o site do produtor fala em 1464 (divergência na tiragem). Sem notas de prova publicadas: perfil extrapolado do Sideral com mais tempo de madeira."
+  },
+  {
+    "id": "brigs_porto_rose",
+    "rotulo": "Brig's Rosé Porto",
+    "marca": "Brig's (Poças Junior)",
+    "produtor": "Manoel D. Poças Júnior, Vinhos S.A.",
+    "tipo": "porto_rose",
+    "abv": 19,
+    "volumeMl": 750,
+    "pais": "Portugal",
+    "regiao": "Douro",
+    "composicao": "Touriga Nacional, Touriga Franca e Tinta Roriz; maceração curta, fermentação interrompida com aguardente vínica, estágio em inox",
+    "perfil": { "doce": 4, "acido": 2, "amargo": 0, "seco": 0, "herbal": 0, "frutado": 4, "defumado": 0, "picante": 0, "cremoso": 2, "umami": 0 },
+    "notas": "Porto rosé leve da Poças, de maceração curta e sem madeira, para guardar a fruta fresca. Cereja, framboesa e frutas silvestres, boca macia e doce com frescor. Feito pensando em coquetelaria: o uso natural é com tônica e gelo ou em ponches de verão.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com tônica, gelo e frutas é o serviço clássico do Porto rosé; mais fresco e frutado que o Porto tónico de branco." },
+      { "alvo": "familia:spritz", "nota": 4, "frase": "Com espumante e soda faz um spritz rosado de fruta vermelha, menos amargo que o de Aperol." },
+      { "alvo": "familia:punch_cobbler", "nota": 4, "frase": "Base boa para cobbler ou ponche com frutas vermelhas e gelo picado: doçura e fruta já vêm prontas." },
+      { "alvo": "familia:champagne_cocktail", "nota": 3, "frase": "Uma dose no espumante dá cor e framboesa, no lugar do cubo de açúcar com bitters." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://winehouseportugal.com/en/pocas-port-wines/7261-pocas-brig-s-rose-port-wine-5601085004218.html",
+      "https://radar.wine/en/wines/wine/pocas-brigs-rose/",
+      "https://winevins.com/en/products/porto-pocas-brigs-rose"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV e volume não lidos no rótulo. Winehouse Portugal dá 19% e 750 ml (único tamanho encontrado); Wine Vins lista 20%. Usado 19%; conferir no contra-rótulo. O site da Poças não lista o Brig's."
+  },
+  {
+    "id": "ferreira_porto_ruby",
+    "rotulo": "Ferreira Porto Ruby",
+    "marca": "Ferreira",
+    "produtor": "A. A. Ferreira (Sogrape)",
+    "tipo": "porto_ruby",
+    "abv": 19.5,
+    "volumeMl": null,
+    "pais": "Portugal",
+    "regiao": "Douro",
+    "composicao": "uvas tintas do Douro (Cima Corgo e Baixo Corgo; Touriga Franca, Touriga Nacional, Tinta Roriz, Tinta Barroca e outras); fermentação interrompida com aguardente; envelhecido em tonéis de carvalho, idade média de cerca de 3 anos; 95 g/L de açúcar",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 0, "seco": 1, "herbal": 0, "frutado": 4, "defumado": 0, "picante": 1, "cremoso": 3, "umami": 0 },
+    "notas": "Ruby de entrada de uma das casas mais antigas de Gaia. Cor rubi intensa, morango, framboesa e groselha maduros; boca doce e redonda, com taninos macios e acidez que segura o açúcar. Tem fruta vermelha e corpo para flips, cobblers e drinks quentes.",
+    "melhorUso": [
+      { "alvo": "familia:flip", "nota": 4, "frase": "O Porto Flip pede ruby: fruta vermelha e corpo seguram ovo e açúcar sem ficar chato." },
+      { "alvo": "familia:punch_cobbler", "nota": 4, "frase": "Num Port Cobbler com laranja e gelo picado, a fruta madura e a doçura média fazem quase todo o drink." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Aquecido com especiarias e casca de laranja (estilo negus) vira um ponche de inverno simples." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Em float sobre um whisky sour dá cor e fruta vermelha, no papel do vinho tinto do New York Sour." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.libertywines.co.uk/our-portfolio/FE401-ruby-port",
+      "https://www.weinquelle.com/artikel/Ferreira_Ruby_Port_17947_e.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV e volume não lidos no rótulo. 19,5% vem do distribuidor britânico (Liberty Wines) e de lojas. A garrafa parece maior que 750 ml, mas o tamanho não foi confirmado e o volume ficou null. A página oficial (portoferreira.com) tem bloqueio de idade e não foi lida."
+  }
+]

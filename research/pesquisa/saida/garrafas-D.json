@@ -1,0 +1,358 @@
+[
+  {
+    "id": "dolores_rojo",
+    "rotulo": "Vermouth Yriarte Rojo",
+    "marca": "Dolores de Góngora e Yriarte",
+    "produtor": "Bodegas Góngora S.L.",
+    "tipo": "vermute_rosso",
+    "abv": 14.5,
+    "volumeMl": 750,
+    "pais": "Espanha",
+    "regiao": "Villanueva del Ariscal, Sevilha (Andaluzia)",
+    "composicao": "vinho andaluz (Garrido Fino e Pedro Ximénez, segundo catálogo de feira) com ervas selecionadas; receita de vermute do século XIX recuperada pela bodega",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 2, "seco": 1, "herbal": 2, "frutado": 3, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 1 },
+    "notas": "Vermute rojo de bodega andaluza fundada em 1682, leve e de teor baixo (14,5%). Cor mogno escura, nariz de tostado, casca de laranja e caramelo macio; boca de entrada leve, doce e especiada, com amargor de ervas discreto. Rende mais com gelo, soda e laranja do que em drinks mexidos com destilado forte.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Leve e alaranjado, é vermute de bodega para gelo, soda e azeitona; mais fácil de beber que os Torino encorpados." },
+      { "alvo": "receita:americano", "nota": 4, "frase": "Corpo leve e laranja tostada: alongado com soda, deixa o Campari conduzir sem pesar." },
+      { "alvo": "receita:adonis", "nota": 4, "frase": "Vermute da terra do xerez, conversa naturalmente com o fino do Adonis; mais caramelo que um Torino." },
+      { "alvo": "receita:milano_torino", "nota": 3, "frase": "Mais leve que o padrão: o Mi-To fica puxado para o Campari, mais refrescante que denso." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Com 14,5% e corpo leve, funciona, mas o Campari domina: Negroni mais aberto e menos redondo." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.bodegasgongora.com/producto/vermouth-yriarte/",
+      "https://www.gourmets.net/salon-gourmets/2024/exhibitors-catalogue/bodegas-gongora/red-vermouth-made-with-the-best-quality-wine-and-selected-herbs"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Rótulo: 'Vermouth Dolores de Góngora e Yriarte Rojo'; o produtor vende como 'Vermouth Yriarte'. ABV 14,5% do rótulo confere com o produtor. Uvas (Garrido Fino e Pedro Ximénez) só aparecem no catálogo do Salón de Gourmets 2024, não no site da bodega. Perfil baseado apenas nas notas do produtor (sem review independente); o produtor também sugere Negroni e Manhattan."
+  },
+  {
+    "id": "orlandoni_rosso",
+    "rotulo": "Orlandoni Vermouth Rosso",
+    "marca": "Orlandoni",
+    "produtor": "Aguardientes y Licores Reylik S.A. (distribuidor)",
+    "tipo": "vermute_rosso",
+    "abv": 15,
+    "volumeMl": 700,
+    "pais": "Espanha",
+    "regiao": null,
+    "composicao": null,
+    "perfil": { "doce": 4, "acido": 1, "amargo": 2, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Vermute rosso espanhol de linha econômica, distribuído pela Reylik (Múrcia), sem ficha sensorial publicada. Espere um rosso padrão, doce, de ervas e caramelo, sem a complexidade dos Torino premium. Vale mais em drinks alongados ou em que o vermute é coadjuvante.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 3, "frase": "Rosso simples: com gelo, soda e laranja funciona bem e poupa as garrafas melhores." },
+      { "alvo": "receita:americano", "nota": 3, "frase": "Alongado, as limitações somem; Campari e soda dão a estrutura que falta ao vermute." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "O Rabo de Galo de balcão sempre usou rosso comum; serve bem para o dia a dia." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.licorea.com/licores-reylik-en-m-438.html"
+    ],
+    "perfilStatus": "pendente",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Nenhuma ficha ou review do produto encontrada. A Reylik (San Ginés, Múrcia, fundada em 1986) é fabricante/distribuidora de destilados que também engarrafa para terceiros; o rótulo não identifica quem fez o vinho. Perfil = perfilTipico de vermute_rosso sem ajuste. País deduzido do distribuidor e do código de barras (prefixo 84, Espanha). Volume impresso '0'70 cl' lido como 700 ml. ABV 15% só do rótulo."
+  },
+  {
+    "id": "vincenzo_rosso",
+    "rotulo": "Vincenzo Vermouth Rosso",
+    "marca": "Vincenzo (Familia Catena)",
+    "produtor": "Bodega Catena Zapata",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 950,
+    "pais": "Argentina",
+    "regiao": "Agrelo, Luján de Cuyo (Mendoza)",
+    "composicao": "vinho branco com 33 botânicos de Mendoza cultivados no pedemonte (ervas, flores, raízes, cascas, cítricos, especiarias); receita familiar italiana adaptada pelo Catena Institute of Wine, com menos açúcar",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 2, "seco": 2, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Rosso da Catena Zapata, feito com 33 botânicos cultivados ao pé dos Andes e com a proposta declarada de menos açúcar que o padrão. Cor tostada, nariz herbal e fresco, boca equilibrada entre doce e amargo e final levemente tostado. Mais elegante que licoroso: vai bem alongado e onde não se quer vermute pesado.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Menos açúcar e ervas frescas: com gelo, soda e cítrico fica leve e seco, como o produtor sugere." },
+      { "alvo": "receita:americano", "nota": 4, "frase": "Herbal e pouco doce, deixa o Americano mais seco e refrescante que um Torino clássico." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Equilibrado, mas com menos corpo e doçura que Cocchi ou Carpano: Negroni mais seco e leve." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Funciona com bourbon; com rye potente falta um pouco do corpo dos italianos." },
+      { "alvo": "receita:boulevardier", "nota": 3, "frase": "O bourbon compensa o açúcar menor; resulta num Boulevardier menos licoroso." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.espaciovino.com.ar/destilado-ficha/Vincenzo-Vermouth-Rosso-950-ml",
+      "https://www.fondodeolla.com/nota/18618-vincenzo-el-rosso-de-catena/",
+      "https://www.losandes.com.ar/economia/dia-del-vermut-las-bodegas-que-tienen-el-suyo-y-un-opcion-diferente-de-prepararlo"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV 16,5% e 950 ml do rótulo conferem com a Espaciovino (outra loja anuncia 965 ml). Variedade do vinho branco não divulgada. A menor doçura vem da declaração do enólogo Alejandro Vigil ('menor concentración de azúcar'), não de dado de açúcar residual."
+  },
+  {
+    "id": "cantieri_navali_rosso",
+    "rotulo": "Cantieri Navali Rosso",
+    "marca": "Cantieri Navali",
+    "produtor": "Cantieri Navali (Inés de los Santos e Felipe José Menéndez, Ribera del Cuarzo)",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Alto Valle de Río Negro (Patagônia)",
+    "composicao": "vinho branco do Alto Valle de Río Negro; ervas patagônicas de montanha (zimbro, rosa mosqueta, cranberry, burrito, cedrón), absinto, cardamomo, anis-estrelado, camomila e cascas cítricas; açúcar de cana orgânico (~130–150 g/l)",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 2, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Rosso argentino de autor, criado pela bartender Inés de los Santos com o viticultor Felipe Menéndez sobre vinho branco patagônico e ervas de montanha como zimbro, rosa mosqueta e cedrón. Doce e macio, com laranja, caramelo, baunilha leve, cardamomo e anis-estrelado; o amargor é moderado. O zimbro faz ponte natural com gin.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Pensado para gelo e laranja; com soda, as ervas patagônicas e o cedrón aparecem bem." },
+      { "alvo": "receita:americano", "nota": 4, "frase": "Doce, cítrico e floral, ganha vida com soda; o amargor moderado deixa o Campari aparecer." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "O zimbro das ervas conversa com o gin; mais doce e menos amargo que um Torino, pede gin firme." },
+      { "alvo": "receita:hanky_panky", "nota": 3, "frase": "Açúcar e corpo suficientes para segurar o Fernet, e o zimbro ecoa o gin." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Laranja e especiarias doces combinam com bourbon; com rye fica um pouco leve." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.bebiendoestrellas.com.ar/productos/vermut-cantieri-navali-rosso-750-ml-139dx",
+      "https://sebarios.com.ar/cantieri-navali-vermouth-de-inspiracion-patagonica/",
+      "https://www.forbesargentina.com/lifestyle/dia-mundial-vermut-mas-irrespetuoso-vinos-n69379"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV 16,5% confere com as fontes. Os botânicos patagônicos vêm do rótulo; absinto, cardamomo, anis-estrelado e camomila vêm das fontes. Açúcar residual ~130–150 g/l segundo ficha de loja. Fontes divergem sobre quem assina o rosso (Inés de los Santos ou Felipe Menéndez); engarrafado em Capital Federal segundo o verso."
+  },
+  {
+    "id": "vecino_rosso_torino",
+    "rotulo": "Vecino Rosso Torino",
+    "marca": "Vecino",
+    "produtor": "Byrka S.A.S. (Vecino Vermú)",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Luján de Cuyo (Mendoza)",
+    "composicao": "vinho branco de uvas criollas (criolla chica, criolla grande, pedro giménez); alecrim, canela, feno-grego, noz-moscada, baunilha, coentro, orégano e absinto; caramelo tostado",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 2, "defumado": 0, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Rosso Torino de Mendoza, sobre vinho de uvas criollas, com caramelo tostado dando cor e equilíbrio. O absinto comanda a boca, amaciado por doçura de caramelo, canela e baunilha, com fundo de alecrim e orégano; corpo médio. O rótulo sugere gelo e soda, e é aí que ele rende mais.",
+    "melhorUso": [
+      { "alvo": "familia:highball", "nota": 4, "frase": "Absinto e caramelo pedem gelo e soda, o serviço do rótulo; o amargo de ervas refresca." },
+      { "alvo": "receita:americano", "nota": 4, "frase": "Amargor de absinto firme soma ao Campari num drink longo e mais seco que o habitual." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "O absinto ajuda, mas o corpo médio cede ao Campari: Negroni mais amargo e menos redondo." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "Canela e caramelo casam com cachaça; o absinto dá o amargo que o Cynar completa." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Canela e baunilha acompanham bourbon; falta corpo para um rye robusto." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.bebiendoestrellas.com.ar/productos/vermut-vecino-rosso-750-ml/",
+      "https://www.losandes.com.ar/agroindustria/mendoza-puso-un-vermut-nacido-la-pandemia-los-mejores-del-mundo-n5992399",
+      "https://caras.perfil.com/noticias/caras-resto/vecino-vermu-a-la-conquista-del-mercado.phtml"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV duvidoso no rótulo (16% ou 18%) confirmado em 16% pela ficha da Bebiendo Estrellas. Bronze no World Drinks Awards 2026 segundo o Los Andes. Produção feita com uma destilaria de Mendoza para a Byrka S.A.S."
+  },
+  {
+    "id": "dos_deus_origins",
+    "rotulo": "Dos Déus Origins Red Vermouth Reserve",
+    "marca": "Dos Déus",
+    "produtor": "Priorat B&D Lab",
+    "tipo": "vermute_rosso",
+    "abv": 15,
+    "volumeMl": 750,
+    "pais": "Espanha",
+    "regiao": "Bellmunt del Priorat, Tarragona (Priorat)",
+    "composicao": "vinho branco de Macabeo, Parellada e Xarel·lo; 40 ervas e especiarias (inclui sândalo, aloe vera e zimbro); dupla maturação, 6–12 meses, em barris de xerez e de vinho do Priorat",
+    "perfil": { "doce": 3, "acido": 2, "amargo": 2, "seco": 2, "herbal": 3, "frutado": 3, "defumado": 1, "picante": 2, "cremoso": 3, "umami": 2 },
+    "notas": "Vermute do Priorat com parte do lote em barris de xerez e parte em barris de vinho do Priorat, depois unidas. Quase negro, com noz-moscada, cravo, madeira velha, toque oxidativo de xerez e algo de moscatel e tomilho; boca cheia, acidez viva, doçura contida e amargor leve. É o mais vinoso e oxidativo do lote, ótimo ao lado de whisky.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Madeira de xerez e acidez estruturam o rye; menos doce que o Carpano e mais vinoso." },
+      { "alvo": "receita:rob_roy", "nota": 4, "frase": "Barril de xerez é o par clássico do scotch: Rob Roy seco, profundo e de nozes." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Doçura contida e corpo cheio equilibram bourbon e Campari sem ficar enjoativo." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Corpo e acidez seguram o Campari; o lado oxidativo dá um Negroni mais vinoso e complexo." },
+      { "alvo": "receita:adonis", "nota": 4, "frase": "Já traz o xerez do barril: com fino, faz um Adonis coeso, seco e de nozes." },
+      { "alvo": "receita:hanky_panky", "nota": 3, "frase": "Encorpado para o Fernet, mas a acidez deixa o drink menos redondo que com Carpano." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.vinissimus.com/en/vermouth/vermouth-dos-deus-origins/",
+      "https://www.licorea.com/dos-deus-origins-red-reserve-en-p-6511.html"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Frente: 'Origins Red Vermouth Reserve'; verso: 'Vermouth Dos Déus Iuturna'. Lojas vendem um 'Origins Iuturna Smoked Red' (defumado com turfa, barril de bourbon) como produto distinto; esta garrafa (rótulo de Atena, 'matured in sherry & Priorat barrels') é a Reserve, não a defumada. Tempo de barril 6–12 meses conforme a Vinissimus. ABV 15% confere. Notas só de lojas."
+  },
+  {
+    "id": "federal_rosso",
+    "rotulo": "Federal Rosso",
+    "marca": "Federal",
+    "produtor": "Andes Federales S.A.",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Argentina",
+    "regiao": "Mendoza",
+    "composicao": "vinho branco e mosto de Mendoza; absinto, genciana, cacau, baunilha, canela, erva-mate de Misiones e camomila de Neuquén; álcool de Córdoba",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 3, "seco": 2, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Rosso tipo Torino de Mendoza, montado com ingredientes de várias províncias, como erva-mate, genciana e cacau. Semi-doce e escuro, com frutas escuras, laranja amarga, cravo e especiarias de inverno; final seco e de raízes, com amargor persistente. Bronze no World Vermouth Awards 2025.",
+    "melhorUso": [
+      { "alvo": "receita:americano", "nota": 4, "frase": "Laranja amarga e final seco de raízes alongam bem com Campari e soda." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com gelo, soda ou tônica e cítrico, o amargor de genciana fica refrescante." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Genciana e laranja amarga combinam com Campari; corpo médio deixa o Negroni mais seco que redondo." },
+      { "alvo": "receita:milano_torino", "nota": 3, "frase": "Final seco e amargo acompanha o Campari: Mi-To mais austero que com rosso italiano." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Cravo e cacau vão bem com whiskey, mas falta a riqueza dos Torino para um Manhattan de referência." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.worldvermouthawards.com/winner-vermouth/bronze-56945-world-vermouth-awards-2025",
+      "https://www.vitobebidas.com/productos/vermouth-federal-rosso-750-ml/",
+      "https://www.booz.cl/productos/vermouth-rosso-federal-750cc-16-alc",
+      "https://www.sitioandino.com.ar/economia/identidad-argentina-una-botella-un-vermut-mendocino-logro-su-primera-exportacion-n5715999"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Rótulo sem ABV nem volume. ABV adotado 16% (inscrição no World Vermouth Awards 2025 e Booz.cl); a Vito Bebidas informa 15,5%. Volume 750 ml pelas lojas e pelo relevo '75 cl' no vidro. Rótulo impresso 'Vermut tipo Torino'. O mosto de pera citado na imprensa parece ser do Federal Rosato, não deste."
+  },
+  {
+    "id": "cinzano_1757_rosso",
+    "rotulo": "Cinzano 1757 Vermouth di Torino Rosso",
+    "marca": "Cinzano",
+    "produtor": "Cinzano (Campari Group)",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 1000,
+    "pais": "Itália",
+    "regiao": "Piemonte",
+    "composicao": "somente vinhos italianos com botânicos, com destaque para absinto (Artemisia) do Piemonte; IG Vermouth di Torino; garrafas numeradas",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 3, "seco": 2, "herbal": 3, "frutado": 3, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Linha premium e numerada da Cinzano, lançada em 2015 como Vermouth di Torino IG. Corpo médio, mais leve e menos doce que o Carpano, com figo e tâmara secos, ameixa, madeira tostada e baunilha suave, e um amargor de absinto que fica no final. Versátil e agridoce: deixa o destilado aparecer.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Absinto marcado e corpo médio: Negroni clássico e seco, em que o gin ainda aparece." },
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Figo, madeira e baunilha discreta; mais leve que o Carpano, brilha com bourbon ou rye macio." },
+      { "alvo": "receita:rabo_de_galo", "nota": 4, "frase": "Cinzano é o vermute histórico do Rabo de Galo; o 1757 leva mais madeira e absinto à cachaça." },
+      { "alvo": "receita:cin_cyn", "nota": 4, "frase": "É o 'Cin' do nome; o 1757 dá mais madeira e amargor ao lado do Cynar que o rosso comum." },
+      { "alvo": "receita:boulevardier", "nota": 3, "frase": "Funciona, mas bourbon e Campari pedem vermute mais rico: Boulevardier mais seco que o habitual." },
+      { "alvo": "receita:hanky_panky", "nota": 3, "frase": "Corpo médio: o Fernet aparece mais que com Carpano; bom para quem quer o drink mais amargo." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/5368/cinzano-1757-rosso",
+      "https://www.stocchettibevande.it/wp-content/uploads/2023/07/Cinzano-1757-rosso-vermouth.pdf",
+      "https://www.tastings.com/Wine-Review/Cinzano-NV-1757-Vermouth-di-Torino-Rosso-Liter-04-09-2020.aspx"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV 16% e 1 L conferem com as fontes (uma loja cita 18%, ignorado). Produzido por DCM N.V. (Campari) em Novi Ligure, segundo o verso; rótulo de importadora brasileira na lateral."
+  },
+  {
+    "id": "carpano_antica_formula",
+    "rotulo": "Carpano Antica Formula",
+    "marca": "Carpano",
+    "produtor": "Fratelli Branca Distillerie",
+    "tipo": "vermute_rosso",
+    "abv": 16.5,
+    "volumeMl": 1000,
+    "pais": "Itália",
+    "regiao": "Piemonte (IG Vermouth di Torino)",
+    "composicao": "vinhos brancos da Romagna, Puglia e Sicília; baunilha de Madagascar, Papua-Nova Guiné e Taiti, açafrão iraniano, absinto dos Alpes piemonteses e do Vale de Aosta, açúcar queimado",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 2, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 4, "umami": 0 },
+    "notas": "A referência de rosso rico e baunilhado, um 'vermouth vanigliato' com baunilha de três origens, açafrão e absinto. Cor âmbar-marrom, nariz de baunilha, laranja cristalizada, passas, amêndoa e cravo; boca cheia, doce e redonda, com cacau e tâmara e amargor bem integrado. Domina o drink: perfeito com whiskey, pode deixar o Negroni pesado.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 5, "frase": "O padrão de luxo: baunilha, passas e corpo cheio abraçam o rye sem sumir." },
+      { "alvo": "receita:boulevardier", "nota": 5, "frase": "Baunilha e cacau unem bourbon e Campari; o Boulevardier fica redondo e profundo." },
+      { "alvo": "receita:hanky_panky", "nota": 5, "frase": "Doçura e corpo amortecem o Fernet; o mentolado e a baunilha se completam." },
+      { "alvo": "receita:bitter_giuseppe", "nota": 5, "frase": "É o vermute da receita original: a doçura baunilhada equilibra o Cynar e o limão." },
+      { "alvo": "receita:negroni", "nota": 4, "frase": "Ótimo, mas baunilha e corpo pesam: Negroni mais doce e denso que com Cocchi." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "Funciona, porém a baunilha encobre a cachaça; vai melhor com cachaça envelhecida." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://carpano.com/?p=173",
+      "https://www.falstaff.com/en/spirits/fratelli-branca-distillery-spa-carpano-antica-formula"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV 16,5% e 1 L conferem com o produtor. Garrafa numerada (lote selecionado 19/20). Verso: 'Classico Vermouth Vanigliato', F.lli Branca Distillerie, Milão. Referência de doçura e corpo do lote: os outros rossos foram calibrados contra ele."
+  },
+  {
+    "id": "cocchi_storico",
+    "rotulo": "Cocchi Storico Vermouth di Torino",
+    "marca": "Cocchi",
+    "produtor": "Giulio Cocchi Spumanti",
+    "tipo": "vermute_rosso",
+    "abv": 16,
+    "volumeMl": 750,
+    "pais": "Itália",
+    "regiao": "Asti (Piemonte)",
+    "composicao": "base de Moscato do Piemonte; quina e ruibarbo (cor e amargor), absinto, cítricos, sândalo, mirra, noz-moscada, madeiras nobres; açúcar caramelizado no fogo",
+    "perfil": { "doce": 4, "acido": 1, "amargo": 3, "seco": 1, "herbal": 3, "frutado": 3, "defumado": 0, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Vermouth di Torino de Asti, relançado em 2011 a partir da receita original da casa (1891), sobre Moscato com quina, ruibarbo e absinto. Âmbar, doce de caramelo e açúcar queimado, mas cortado por cacau, laranja amarga e um amargor de quina que seca o final, com toque canforado. Mais equilibrado e amargo que o Carpano: o rosso mais versátil do lote.",
+    "melhorUso": [
+      { "alvo": "receita:negroni", "nota": 5, "frase": "Cacau, laranja amarga e quina: equilíbrio exato entre doce e amargo ao lado do Campari." },
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Corpo e especiarias firmes com rye; menos baunilha que o Carpano e final mais seco." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "O amargor de quina reforça o Campari e o cacau abraça o bourbon." },
+      { "alvo": "receita:hanky_panky", "nota": 4, "frase": "Encara bem o Fernet; o drink sai mais amargo e achocolatado que com Carpano." },
+      { "alvo": "receita:americano", "nota": 4, "frase": "Laranja amarga e ruibarbo brilham com soda: Americano firme e aromático." },
+      { "alvo": "receita:rabo_de_galo", "nota": 3, "frase": "Cacau e quina somam ao Cynar; dá um Rabo de Galo mais amargo que o tradicional." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.cocchi.it/en/products/storico-vermouth-di-torino/",
+      "https://www.diffordsguide.com/beer-wine-spirits/451/cocchi-vermouth-di-torino"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "'Rosso' não está impresso, mas o Storico é o vermute doce/rosso da Cocchi. ABV 16% e 75 cl conferem com o produtor (no Reino Unido sai em 70 cl). Base de Moscato segundo Difford's; o site da Cocchi diz apenas 'vinho'."
+  },
+  {
+    "id": "schluck_rosso_amburana",
+    "rotulo": "Schluck Vermute Rosso Amburana",
+    "marca": "Schluck",
+    "produtor": "Schluck Licores",
+    "tipo": "vermute_rosso",
+    "abv": 17,
+    "volumeMl": 700,
+    "pais": "Brasil",
+    "regiao": "Blumenau (Santa Catarina)",
+    "composicao": "vinho Cabernet Sauvignon catarinense com ervas de origem brasileira; maturado em barril de amburana",
+    "perfil": { "doce": 3, "acido": 1, "amargo": 3, "seco": 2, "herbal": 2, "frutado": 3, "defumado": 1, "picante": 3, "cremoso": 3, "umami": 0 },
+    "notas": "Rosso artesanal de Blumenau, sobre vinho tinto catarinense e ervas brasileiras, com passagem por barril de amburana. Rubi escuro, nariz de frutas secas, ameixa, baunilha e chocolate; entra doce com caramelo e fruta vermelha, vira para amargor marcado com canela, cravo e madeira e termina seco e aveludado. A amburana o aproxima da cachaça envelhecida.",
+    "melhorUso": [
+      { "alvo": "receita:rabo_de_galo", "nota": 5, "frase": "Amburana, canela e ervas brasileiras falam a língua da cachaça: é o Rabo de Galo do lote." },
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Madeira, baunilha e tanino de Cabernet sustentam o whiskey; o final seco evita o enjoativo." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "A amburana soma baunilha e canela ao bourbon; o amargor firme acompanha o Campari." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Funciona, mas madeira e canela puxam o drink para o lado do whiskey; pede gin encorpado." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "O produtor sugere com tônica e laranja; a madeira aparece mais que as ervas." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.schluckstore.com/vermute-rosso-700ml-schluck-novo",
+      "https://www.espacoprime.com.br/produto/vermute-rosso-schluck-700ml-73281",
+      "https://mixologynews.com.br/08/2025/schluck-licores/schluck-licores-tradicao-alema-alma-brasileira/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV e volume ilegíveis no rótulo da foto; 17% e 700 ml segundo a Espaço Prime e outras lojas, 700 ml também na loja do produtor (o site da Schluck não publica ABV). A ficha da Schluck Store não menciona amburana, que aparece no rótulo e na Mixology News (conteúdo patrocinado). Cabernet Sauvignon citado só pela Espaço Prime."
+  },
+  {
+    "id": "vermu_coffea_arabica",
+    "rotulo": "Vermú Coffea arabica",
+    "marca": "Companhia dos Fermentados",
+    "produtor": "Companhia dos Fermentados (Fermentare BNC Ltda.)",
+    "tipo": "vermute_rosso",
+    "abv": 18,
+    "volumeMl": 750,
+    "pais": "Brasil",
+    "regiao": "Barueri (São Paulo)",
+    "composicao": "vinho tinto fino com extrato de café catucaí amarelo fermentado, jurubeba, catuaba, artemísia, cítricos, gengibre e especiarias; fortificado com álcool de cereais",
+    "perfil": { "doce": 2, "acido": 1, "amargo": 3, "seco": 2, "herbal": 2, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Vermute tinto autoral feito em colaboração com o bar Hideout, sobre vinho tinto com extrato de café fermentado, jurubeba e catuaba, fortificado a 18%. Denso e aveludado, meio seco, com café torrado, caramelo, madeira, notas terrosas e leve defumado, e amargor moderado. Mais perto de um amaro de café que de um Torino: use quando o café for bem-vindo.",
+    "melhorUso": [
+      { "alvo": "receita:rabo_de_galo", "nota": 4, "frase": "Jurubeba, catuaba e café: versão bem brasileira, mais seca e escura que o padrão com Cinzano." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "O serviço do produtor: gelo, laranja e tônica; café com cítrico fica refrescante." },
+      { "alvo": "receita:boulevardier", "nota": 3, "frase": "Café e bourbon combinam, mas mudam o drink: Boulevardier mais seco e torrado." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Vira um Manhattan de café, denso e seco; pede bourbon e casca de laranja." },
+      { "alvo": "receita:negroni", "nota": 3, "frase": "Twist de café: o Campari aceita bem, mas foge do clássico e fica mais terroso." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://ciadosfermentados.com.br/alcoolicos/vermutes/vermu-de-cafe",
+      "https://elle.com.br/elle-a-table/guia-do-vermute-tudo-sobre-a-bebida-que-esta-conquistando-os-bares"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "ABV ilegível na foto; 18% segundo a página do produtor, que vende o mesmo produto como 'Vermú de café' (o rótulo diz 'Coffea arabica'; catucaí é cultivar de arábica). 750 ml no rótulo. País não impresso: produtor em Barueri (SP). Mantido vermute_rosso, mas é meio seco e de café, perto de um amaro; perfil só com descritores do produtor."
+  }
+]

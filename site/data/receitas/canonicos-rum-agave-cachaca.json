@@ -1,0 +1,3984 @@
+[
+  {
+    "id": "hurricane",
+    "nome": "Hurricane",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 120,
+        "papel": "base",
+        "nota": "Difford's pede Crossfire Hurricane Jamaican Rum."
+      },
+      {
+        "tipo": "xarope_maracuja",
+        "ml": 60,
+        "papel": "adocante",
+        "nota": "Em 1956 a Pat O'Brien's usava o xarope Passionola vermelho."
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 60,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "espeto de abacaxi com cereja",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo alto (o tradicional é o copo hurricane).",
+      "Bata o rum, o xarope de maracujá e o limão-siciliano com gelo.",
+      "Coe sobre gelo picado até dois terços do copo.",
+      "Mexa, complete com mais gelo picado e finalize com o espeto de frutas e um canudo."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 1,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Nova Orleans",
+      "bar": "Pat O'Brien's",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/992/hurricane-original-recipe",
+        "titulo": "Difford's Guide — Hurricane (original recipe)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/hurricane/",
+        "titulo": "Punch — Hurricane (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "120 ml Crossfire Hurricane Jamaican Rum, 60 ml Passion fruit syrup, 60 ml Lemon juice (Difford's, adaptado do Grog Log de Jeff Berry)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e86a2c",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "maracuja",
+      "historia_disputada"
+    ],
+    "abv": 17,
+    "volumeFinalMl": 310,
+    "estimativa": "v0"
+  },
+  {
+    "id": "painkiller",
+    "nome": "Painkiller",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_navy",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede navy rum, de preferência com ~55% de álcool (estilo Pusser's)."
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 90,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "creme_coco",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "Creme de coco adoçado (tipo Coco López)."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "tiki_mug",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora",
+        "essencial": false
+      },
+      {
+        "tipo": "abacaxi",
+        "texto": "gomo de abacaxi",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a caneca tiki (ou um copo alto) e encha de gelo.",
+      "Bata o rum, os sucos e o creme de coco com gelo.",
+      "Coe sobre o gelo.",
+      "Rale bastante noz-moscada por cima e prenda um gomo de abacaxi na borda."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Jost Van Dyke (Ilhas Virgens Britânicas)",
+      "bar": "Soggy Dollar Bar",
+      "bartender": "Daphne Henderson"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1454/painkiller",
+        "titulo": "Difford's Guide — Painkiller",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/painkiller/",
+        "titulo": "Punch — Painkiller (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Navy rum (ideally circa 55% alc./vol.), 90 ml Pineapple juice, 22.5 ml Orange juice, 15 ml Cream of coconut, 4 drop Difford's Daiquiri Bitters (optional)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e8c27a",
+    "variacaoDe": "pina_colada",
+    "tags": [
+      "tiki",
+      "rum",
+      "coco",
+      "historia_disputada"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 225,
+    "estimativa": "v0"
+  },
+  {
+    "id": "el_presidente",
+    "nome": "El Presidente",
+    "nomesAlt": [
+      "Presidente"
+    ],
+    "tipoReceita": "drink",
+    "familia": "martini_manhattan",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A Punch pede gold rum (rum dourado)."
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 22.5,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "curacao_laranja",
+        "ml": 7.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 2.5,
+        "papel": "adocante",
+        "nota": "½ colher de chá."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja ou de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Junte o rum, o vermute seco, o curaçao e a granadina no mixing glass com gelo.",
+      "Mexa até gelar bem.",
+      "Coe na taça e torça a casca de laranja por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 1,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Havana",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/el-presidente/",
+        "titulo": "Punch — El Presidente",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/701/el-presidente",
+        "titulo": "Difford's Guide — El Presidente (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces gold rum, 3/4 ounce dry vermouth, 1/4 ounce orange curaçao, 1/2 teaspoon grenadine",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9833a",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "cubano",
+      "spirit_forward",
+      "historia_disputada"
+    ],
+    "abv": 26,
+    "volumeFinalMl": 95,
+    "estimativa": "v0"
+  },
+  {
+    "id": "air_mail",
+    "nome": "Air Mail",
+    "nomesAlt": [
+      "Airmail"
+    ],
+    "tipoReceita": "drink",
+    "familia": "fizz_collins",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede rum dourado leve (1 a 3 anos)."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_mel",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A fonte usa xarope de mel 3:1 (mel:água, em peso), mais concentrado que o 1:1 da base."
+      },
+      {
+        "tipo": "espumante",
+        "ml": 50,
+        "papel": "diluidor",
+        "nota": "Brut, bem gelado."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "casca de limão (sem torcer) ou ponta de ramo de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo highball pequeno (até 300 ml) e encha de gelo.",
+      "Bata o rum, o limão e o xarope de mel com gelo.",
+      "Coe sobre o gelo do copo.",
+      "Complete com o espumante, mexa uma vez e finalize com a casca de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "festa",
+      "brunch"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/27/air-mail",
+        "titulo": "Difford's Guide — Air Mail",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Light gold rum, 15 ml Lime juice, 15 ml Honey syrup (3 parts honey to 1 water by weight), 50 ml Brut champagne/sparkling wine",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e9d79a",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "espumante",
+      "mel"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 165,
+    "estimativa": "v0"
+  },
+  {
+    "id": "queens_park_swizzle",
+    "nome": "Queen's Park Swizzle",
+    "nomesAlt": [
+      "Queens Park Swizzle"
+    ],
+    "tipoReceita": "drink",
+    "familia": "julep_smash",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_demerara",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "1:1."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "hortela",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "1 ramo grande."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 4,
+        "unidade": "dash",
+        "papel": "amargo",
+        "nota": "Angostura, pingada por cima no final."
+      }
+    ],
+    "tecnica": "swizzle",
+    "copo": "collins",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "ramo de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "No copo alto, amasse de leve as folhas de hortelã com o xarope, só para soltar o aroma.",
+      "Junte o limão, o rum e encha de gelo picado.",
+      "Gire o swizzle (ou uma colher) entre as mãos até o copo suar e gelar.",
+      "Complete com mais gelo, pingue a Angostura por cima e finalize com um ramo de hortelã."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 2,
+      "seco": 1,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Port of Spain",
+      "bar": "Queen's Park Hotel",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/queens-park-swizzle/",
+        "titulo": "Punch — Queen's Park Swizzle",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2740/queens-park-swizzle",
+        "titulo": "Difford's Guide — Queen's Park Swizzle (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 ounces demerara rum, 1 ounce simple syrup (1:1), 1 ounce lime juice, 1 large sprig mint, 4 dashes Angostura bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#8a5a2b",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "swizzle",
+      "hortela",
+      "trinidad"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 165,
+    "estimativa": "v0"
+  },
+  {
+    "id": "corn_n_oil",
+    "nome": "Corn 'n' Oil",
+    "nomesAlt": [
+      "Corn and Oil",
+      "Corning Oil"
+    ],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's pede rum caribenho de 6 a 10 anos; o tradicional é um rum de Barbados."
+      },
+      {
+        "tipo": "falernum",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 3,
+        "unidade": "dash",
+        "papel": "amargo"
+      },
+      {
+        "tipo": "rum_escuro",
+        "ml": 10,
+        "papel": "modificador",
+        "opcional": true,
+        "nota": "Blackstrap flutuando por cima, opcional (não é o tradicional de Barbados)."
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo baixo e encha de gelo picado.",
+      "Mexa o rum, o falernum e a Angostura com gelo.",
+      "Coe sobre o gelo picado.",
+      "Se quiser, derrame o rum escuro devagar por cima para formar a camada escura; finalize com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3029/corn-n-oil",
+        "titulo": "Difford's Guide — Corn 'n' Oil",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/corn-n-oil/",
+        "titulo": "Punch — Corn 'n' Oil (outra versão)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Caribbean blended rum aged 6-10 years, 15 ml Falernum liqueur, 3 dash Angostura Aromatic Bitters, 10 ml Dark/black/blackstrap rum (optional)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#5a2e14",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "falernum",
+      "barbados"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 110,
+    "estimativa": "v0"
+  },
+  {
+    "id": "navy_grog",
+    "nome": "Navy Grog",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 30,
+        "papel": "base",
+        "nota": "Rum leve de Porto Rico."
+      },
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 30,
+        "papel": "base",
+        "nota": "Rum escuro jamaicano."
+      },
+      {
+        "tipo": "rum_demerara",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "xarope_mel",
+        "ml": 30,
+        "papel": "adocante",
+        "nota": "Honey mix: mel e água quente em partes iguais."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 22.5,
+        "papel": "acido",
+        "nota": "Toranja branca."
+      },
+      {
+        "tipo": "agua_com_gas",
+        "ml": 22.5,
+        "papel": "diluidor",
+        "nota": "A citação diz \"¾ soda water\", sem a unidade; li como ¾ oz."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "dof",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "texto": "cone de gelo picado em volta do canudo",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Prepare o copo: modele um cone de gelo picado em volta de um canudo, ou só encha de gelo.",
+      "Bata os três runs, o xarope de mel, os sucos e a água com gás com bastante gelo.",
+      "Coe para o copo.",
+      "Sirva com o canudo atravessando o cone."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1940,
+      "cidade": null,
+      "bar": "Don the Beachcomber",
+      "bartender": "Donn Beach"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4866/navy-grog",
+        "titulo": "Difford's Guide — Navy Grog (cita o Grog Log de Jeff Berry)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "¾ ounce fresh lime juice, ¾ ounce white grapefruit juice, ¾ soda water, 1 ounce honey mix [equal parts clover honey & hot water], 1 ounce light Puerto Rican rum, 1 ounce dark Jamaican rum, 1 ounce Demerara rum (Beachbum Berry's Grog Log, citado pelo Difford's)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d2a256",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "tres_runs"
+    ],
+    "abv": 18,
+    "volumeFinalMl": 205,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rum_old_fashioned",
+    "nome": "Rum Old Fashioned",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 50,
+        "papel": "base",
+        "nota": "Rum caribenho de 6 a 10 anos."
+      },
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 10,
+        "papel": "base",
+        "nota": "Rum branco overproof jamaicano (funky)."
+      },
+      {
+        "tipo": "falernum",
+        "ml": 7.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 2.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja (ou de limão)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque um cubo grande de gelo num copo baixo.",
+      "Mexa os dois runs, o falernum, o xarope e a Angostura com gelo no mixing glass.",
+      "Coe sobre o cubo grande.",
+      "Torça a casca de laranja por cima e deixe no copo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 3,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2009,
+      "cidade": "Berlim",
+      "bar": null,
+      "bartender": "Gonçalo de Sousa Monteiro"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2845/rum-old-fashioned",
+        "titulo": "Difford's Guide — Rum Old Fashioned",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "50 ml Caribbean blended rum aged 6-10 years, 10 ml Overproof white rum (unaged Jamaican/funky), 7.5 ml Falernum liqueur, 2.5 ml Sugar syrup 'rich' (2:1), 1 dash Angostura Aromatic Bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#9a5a22",
+    "variacaoDe": "old_fashioned",
+    "tags": [
+      "rum",
+      "spirit_forward",
+      "falernum"
+    ],
+    "abv": 29,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "ti_punch",
+    "nome": "Ti' Punch",
+    "nomesAlt": [
+      "Ti Punch",
+      "Ti-Punch"
+    ],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_agricola",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Rhum agricole blanc (sem envelhecimento), tradicionalmente com 50%."
+      },
+      {
+        "tipo": "xarope_cana",
+        "ml": 7.5,
+        "papel": "adocante",
+        "nota": "Sirop de canne. A Punch diz que xarope simples serve no aperto."
+      },
+      {
+        "tipo": "limao_taiti",
+        "qtd": 1,
+        "unidade": "fatia",
+        "papel": "acido",
+        "nota": "Um disco cortado da lateral do limão, com casca e um pouco de polpa."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Coloque o rhum e o xarope de cana no copo baixo.",
+      "Esprema o disco de limão entre os dedos sobre o copo e jogue-o dentro.",
+      "Mexa bem.",
+      "Se quiser, junte um ou dois cubos grandes de gelo; na Martinica costuma ir sem gelo."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Martinica",
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1952/ti-punch",
+        "titulo": "Difford's Guide — Ti' Punch",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/ti-punch/",
+        "titulo": "Punch — Ti' Punch",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Agricole blanc/cane juice rhum (unaged), 7.5 ml Sugar cane syrup (from juice), 1 slice Lime (fresh)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#efe8c8",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "agricole",
+      "martinica"
+    ],
+    "abv": 37,
+    "volumeFinalMl": 60,
+    "estimativa": "v0"
+  },
+  {
+    "id": "fog_cutter",
+    "nome": "Fog Cutter",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum de Porto Rico (Trader Vic cita Ron Merito, Boca Chica ou Brugal)."
+      },
+      {
+        "tipo": "conhaque",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "gin",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 60,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "xerez",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Trader Vic pede só um \"float\" de xerez, sem quantidade (doce, na edição de 1972); a quantidade é a do Difford's (oloroso)."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "ramos de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto de gelo.",
+      "Bata o rum, o conhaque, o gin, os sucos e o orgeat com gelo.",
+      "Despeje no copo.",
+      "Derrame o xerez devagar por cima, para flutuar, e sirva com canudo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1946,
+      "cidade": null,
+      "bar": "Trader Vic's",
+      "bartender": "Victor Bergeron (Trader Vic)"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/778/fog-cutter",
+        "titulo": "Difford's Guide — Fog Cutter (cita Trader Vic's Book of Food and Drink, 1946)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Trader Vic, 1946: 2 ounces Puerto Rican rum, 1 ounce brandy, ½ ounce gin, 1 ounce orange juice, 2 ounces lemon juice, ½ ounce orgeat syrup, sherry wine float. Float pelo Difford's: 15 ml Oloroso sherry",
+    "confianca": "spec_publicada",
+    "cor": "#f0b54a",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "trader_vic"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 295,
+    "estimativa": "v0"
+  },
+  {
+    "id": "saturn",
+    "nome": "Saturn",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "gin",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_maracuja",
+        "ml": 7.5,
+        "papel": "modificador",
+        "nota": "A fonte pede purê de maracujá."
+      },
+      {
+        "tipo": "falernum",
+        "ml": 7.5,
+        "papel": "adocante",
+        "nota": "Velvet Falernum."
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "rocks",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja com anel de casca de limão-siciliano em volta (o \"planeta\")",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo de gelo picado.",
+      "Bata no liquidificador o gin, o limão, o orgeat, o maracujá e o falernum com cerca de 1 xícara de gelo picado, até ficar liso.",
+      "Despeje sobre o gelo do copo.",
+      "Finalize com a cereja envolta num anel de casca de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 3,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Anaheim",
+      "bar": "Palms in the Jungle",
+      "bartender": "J. \"Popo\" Galsini"
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/saturn-cocktail/",
+        "titulo": "Imbibe — Saturn Cocktail (adaptado por Garret Richard, Slowly Shirley)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4885/saturn",
+        "titulo": "Difford's Guide — Saturn (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 oz. gin, 1/2 oz. fresh lemon juice, 1/2 oz. orgeat, 1/4 oz. passion fruit purée, 1/4 oz. velvet falernum",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f2d27a",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "gin",
+      "frozen"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 135,
+    "estimativa": "v0"
+  },
+  {
+    "id": "hot_buttered_rum",
+    "nome": "Hot Buttered Rum",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "quente",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum caribenho de 6 a 10 anos."
+      },
+      {
+        "tipo": "mel",
+        "qtd": 2,
+        "unidade": "bsp",
+        "papel": "adocante"
+      },
+      {
+        "tipo": "manteiga",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "modificador",
+        "nota": "Uma noz de manteiga sem sal."
+      },
+      {
+        "tipo": "noz_moscada",
+        "qtd": 2,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "Ralada na hora."
+      },
+      {
+        "tipo": "agua",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "Fervente."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_quente",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "canela",
+        "texto": "pau de canela",
+        "essencial": false
+      },
+      {
+        "tipo": "limao_siciliano",
+        "texto": "rodela de limão-siciliano espetada com cravos",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Aqueça a caneca com água quente e descarte a água.",
+      "Coloque a colher com o mel dentro da caneca e junte o rum, a manteiga e a noz-moscada.",
+      "Complete com água fervente.",
+      "Mexa até o mel e a manteiga dissolverem e finalize com a canela e o limão com cravos."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 5,
+      "umami": 1
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "inverno",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/981/hot-buttered-rum-cocktail",
+        "titulo": "Difford's Guide — Hot Buttered Rum",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 barspoon Honey, 1 knob Unsalted butter, 60 ml Caribbean blended rum aged 6-10 years, 2 pinch Freshly grated nutmeg, Top up with Boiling water",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c88a3c",
+    "variacaoDe": null,
+    "tags": [
+      "quente",
+      "rum",
+      "manteiga"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 165,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rum_swizzle",
+    "nome": "Rum Swizzle",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum caribenho de 6 a 10 anos."
+      },
+      {
+        "tipo": "falernum",
+        "ml": 20,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 7.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_demerara",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "A fonte usa demerara 2:1, mais doce que o 1:1 da base."
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "swizzle",
+    "copo": "collins",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "rodela de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "hortela",
+        "texto": "ramos de hortelã",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque todos os ingredientes no copo alto gelado.",
+      "Encha dois terços do copo com gelo picado e gire o swizzle até gelar.",
+      "Complete com mais gelo e gire mais um pouco.",
+      "Finalize com a rodela de laranja, a hortelã e um canudo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 4,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Georgetown (Guiana)",
+      "bar": "Georgetown Club",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/2566/rum-swizzle",
+        "titulo": "Difford's Guide — Rum Swizzle",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Caribbean blended rum aged 6-10 years, 20 ml Falernum liqueur, 15 ml Lime juice, 7.5 ml Lemon juice, 15 ml Demerara sugar syrup (2:1), 1 dash Angostura Aromatic Bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b5732e",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "swizzle",
+      "falernum"
+    ],
+    "abv": 17,
+    "volumeFinalMl": 160,
+    "estimativa": "v0"
+  },
+  {
+    "id": "port_light",
+    "nome": "Port Light",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "bourbon",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_maracuja",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Trader Vic pede néctar de maracujá."
+      },
+      {
+        "tipo": "mel",
+        "qtd": 2,
+        "unidade": "bsp",
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "dof",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "hortela",
+        "texto": "hortelã fresca",
+        "essencial": false
+      },
+      {
+        "texto": "espeto de frutas",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o bourbon, o limão, o maracujá, o mel e a clara no liquidificador.",
+      "Junte uma concha de gelo picado e bata até espumar.",
+      "Despeje num copo baixo largo e acrescente cubos de gelo.",
+      "Finalize com hortelã e um espeto de frutas."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": "Trader Vic's",
+      "bartender": "Victor Bergeron (Trader Vic)"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1592/port-light",
+        "titulo": "Difford's Guide — Port Light (cita Trader Vic's Bartender's Guide, Revised, 1972)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Trader Vic, 1972: 2 barspoons honey, 1 ounce lemon juice, ½ ounce passion fruit nectar, 1 egg white, 2 ounces Bourbon",
+    "confianca": "spec_publicada",
+    "cor": "#f0c060",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "bourbon",
+      "trader_vic",
+      "clara"
+    ],
+    "abv": 13,
+    "volumeFinalMl": 215,
+    "estimativa": "v0"
+  },
+  {
+    "id": "mezcal_negroni",
+    "nome": "Mezcal Negroni",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "mezcal",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo"
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 30,
+        "papel": "modificador"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja (e/ou azeitona verde no palito)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo de gelo.",
+      "Coloque o mezcal, o bitter e o vermute.",
+      "Mexa por alguns segundos.",
+      "Torça a casca de laranja por cima e deixe no copo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 1,
+      "amargo": 4,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 4,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3382/mezcal-negroni",
+        "titulo": "Difford's Guide — Mezcal Negroni",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Del Maguey Vida Clásico Mezcal, 30 ml Red Bitter (Campari-style liqueur), 30 ml Rosso Vermouth",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a8262a",
+    "variacaoDe": "negroni",
+    "tags": [
+      "mezcal",
+      "partes_iguais",
+      "amargo"
+    ],
+    "abv": 24,
+    "volumeFinalMl": 105,
+    "estimativa": "v0"
+  },
+  {
+    "id": "oaxaca_old_fashioned",
+    "nome": "Oaxaca Old Fashioned",
+    "nomesAlt": [
+      "Oaxaca Old-Fashioned"
+    ],
+    "tipoReceita": "drink",
+    "familia": "old_fashioned",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila_reposado",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A fonte pede El Tesoro reposado."
+      },
+      {
+        "tipo": "mezcal",
+        "ml": 15,
+        "papel": "base",
+        "nota": "A fonte pede Del Maguey San Luis del Rio."
+      },
+      {
+        "tipo": "nectar_agave",
+        "qtd": 1,
+        "unidade": "bsp",
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "rocks",
+    "gelo": "cubo_grande",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "casca de laranja flambada",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque um cubo grande de gelo num copo baixo.",
+      "Junte a tequila, o mezcal, o néctar de agave e a Angostura.",
+      "Mexa até gelar.",
+      "Flambe a casca de laranja sobre o copo e jogue-a dentro."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 0,
+      "amargo": 2,
+      "seco": 3,
+      "herbal": 3,
+      "frutado": 1,
+      "defumado": 4,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 1
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "noite",
+      "aperitivo"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2007,
+      "cidade": "Nova York",
+      "bar": "Death & Co",
+      "bartender": "Phil Ward"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/oaxaca-old-fashioned/",
+        "titulo": "Punch — Oaxaca Old-Fashioned (de A Proper Drink, Robert Simonson)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3003/oaxaca-old-fashioned",
+        "titulo": "Difford's Guide — Oaxaca Old-Fashioned (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces El Tesoro reposado tequila, 1/2 ounce Del Maguey San Luis Del Rio mezcal, 2 dashes Angostura bitters, 1 barspoon agave nectar",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c9893a",
+    "variacaoDe": "old_fashioned",
+    "tags": [
+      "tequila",
+      "mezcal",
+      "spirit_forward"
+    ],
+    "abv": 31,
+    "volumeFinalMl": 80,
+    "estimativa": "v0"
+  },
+  {
+    "id": "el_diablo",
+    "nome": "El Diablo",
+    "nomesAlt": [
+      "Mexican El Diablo"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "licor_cassis",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "ginger_beer",
+        "unidade": "top",
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto de gelo.",
+      "Bata a tequila, o limão e o cassis com gelo.",
+      "Coe sobre o gelo.",
+      "Complete com ginger beer e finalize com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1946,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/el-diablo-2/",
+        "titulo": "Punch — El Diablo",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/700/el-diablo-cocktail",
+        "titulo": "Difford's Guide — El Diablo (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces tequila, 1/2 ounce lime juice, 1/2 ounce crème de cassis, ginger beer, to top",
+    "confianca": "adaptacao_publicada",
+    "cor": "#9c2a4a",
+    "variacaoDe": null,
+    "tags": [
+      "tequila",
+      "long_drink",
+      "cassis"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 195,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rosita",
+    "nome": "Rosita",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "negroni",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A Punch sugere reposado."
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 30,
+        "papel": "amargo",
+        "nota": "Campari."
+      },
+      {
+        "tipo": "vermute_rosso",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "vermute_dry",
+        "ml": 15,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "rocks",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "limao_siciliano",
+        "texto": "casca de limão-siciliano",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo de gelo picado.",
+      "Coloque a tequila, o Campari, os dois vermutes e a Angostura.",
+      "Mexa rapidamente.",
+      "Torça a casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 1,
+      "amargo": 4,
+      "seco": 3,
+      "herbal": 4,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/rosita/",
+        "titulo": "Punch — Rosita (Gary \"gaz\" Regan)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1696/rosita",
+        "titulo": "Difford's Guide — Rosita (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces tequila, 1 ounce Campari, 1/2 ounce sweet vermouth, 1/2 ounce dry vermouth, 1 dash Angostura bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b8302c",
+    "variacaoDe": "negroni",
+    "tags": [
+      "tequila",
+      "amargo",
+      "spirit_forward"
+    ],
+    "abv": 25,
+    "volumeFinalMl": 120,
+    "estimativa": "v0"
+  },
+  {
+    "id": "batanga",
+    "nome": "Batanga",
+    "nomesAlt": [
+      "Charro Negro"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila_blanco",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's pede Olmeca Altos Plata."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 12.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "Sal marinho, dissolvido no limão."
+      },
+      {
+        "tipo": "refrigerante_cola",
+        "ml": 105,
+        "papel": "diluidor"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "sal",
+        "texto": "borda de sal",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Umedeça a borda externa do copo alto com limão e passe no sal.",
+      "No fundo do copo, mexa a pitada de sal com o suco de limão até dissolver.",
+      "Encha de gelo e junte a tequila e a cola.",
+      "Mexa de leve e sirva."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 2
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1961,
+      "cidade": "Tequila (Jalisco)",
+      "bar": "La Capilla",
+      "bartender": "Don Javier Delgado Corona"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/540/batanga",
+        "titulo": "Difford's Guide — Batanga",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 pinch Salt (sea salt), 12.5 ml Lime juice, 60 ml Olmeca Altos Plata tequila, 105 ml Cola",
+    "confianca": "adaptacao_publicada",
+    "cor": "#3a1c10",
+    "variacaoDe": "cuba_libre",
+    "tags": [
+      "tequila",
+      "long_drink",
+      "mexicano"
+    ],
+    "abv": 12,
+    "volumeFinalMl": 205,
+    "estimativa": "v0"
+  },
+  {
+    "id": "siesta",
+    "nome": "Siesta",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila_blanco",
+        "ml": 45,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_toranja",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 22.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitter_aperitivo_vermelho",
+        "ml": 7.5,
+        "papel": "amargo",
+        "nota": "Campari."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "rodela de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata a tequila, os sucos, o xarope e o Campari com gelo.",
+      "Coe na taça gelada.",
+      "Finalize com uma rodela de limão."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2006,
+      "cidade": "Nova York",
+      "bar": "Flatiron Lounge",
+      "bartender": "Katie Stipe"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/siesta/",
+        "titulo": "Punch — Siesta (Katie Stipe)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/5086/siesta",
+        "titulo": "Difford's Guide — Siesta (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces tequila blanco, 3/4 ounce lime juice, 1/2 ounce grapefruit juice, 3/4 ounce simple syrup, 1/4 ounce Campari",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f2a59a",
+    "variacaoDe": "hemingway_special",
+    "tags": [
+      "tequila",
+      "campari",
+      "toranja"
+    ],
+    "abv": 14,
+    "volumeFinalMl": 145,
+    "estimativa": "v0"
+  },
+  {
+    "id": "matador",
+    "nome": "Matador",
+    "nomesAlt": [
+      "Matador No.1"
+    ],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila_reposado",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Difford's pede Olmeca Altos Reposado."
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "Triple sec."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 60,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "A fonte pede 3 gotas de solução salina (20 g de sal em 80 g de água) ou uma pitada de sal."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "gomo de abacaxi com cereja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto de gelo.",
+      "Bata a tequila, o triple sec, os sucos e o sal com gelo.",
+      "Coe sobre o gelo.",
+      "Finalize com um gomo de abacaxi espetado com uma cereja."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 1
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1273/matador-no1",
+        "titulo": "Difford's Guide — Matador No.1",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/9729/matador",
+        "titulo": "Difford's Guide — Matador (versão de Tarling, 1937)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Olmeca Altos Reposado Tequila, 20 ml Triple sec liqueur, 15 ml Lime juice, 60 ml Pineapple juice, 3 drop Saline solution or pinch of salt",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f1dc8a",
+    "variacaoDe": "margarita",
+    "tags": [
+      "tequila",
+      "abacaxi"
+    ],
+    "abv": 14,
+    "volumeFinalMl": 180,
+    "estimativa": "v0"
+  },
+  {
+    "id": "ranch_water",
+    "nome": "Ranch Water",
+    "nomesAlt": [
+      "Texas Ranch Water"
+    ],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila",
+        "ml": 60,
+        "papel": "base",
+        "nota": "A fonte usa Ocho Blanco."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "agua_com_gas",
+        "unidade": "top",
+        "papel": "diluidor",
+        "nota": "O original usa Topo Chico, água mineral com gás levemente salgada."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o limão no copo alto.",
+      "Encha de gelo e junte a tequila.",
+      "Complete com água com gás bem gelada.",
+      "Mexa uma vez e sirva com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 0,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 4,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 0,
+      "umami": 1
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://imbibemagazine.com/recipe/ranch-water/",
+        "titulo": "Imbibe — Ranch Water (Ricky Cobia)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/10034/ranch-water",
+        "titulo": "Difford's Guide — Ranch Water (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "2 oz. tequila (Cobia uses Ocho Blanco), 3/4 oz. fresh lime juice, top with sparkling water (Cobia uses Topo Chico)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#eef2e4",
+    "variacaoDe": null,
+    "tags": [
+      "tequila",
+      "long_drink",
+      "texas",
+      "historia_disputada"
+    ],
+    "abv": 12,
+    "volumeFinalMl": 200,
+    "estimativa": "v0"
+  },
+  {
+    "id": "division_bell",
+    "nome": "Division Bell",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "daisy",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "mezcal",
+        "ml": 30,
+        "papel": "base",
+        "nota": "A fonte sugere Del Maguey Vida."
+      },
+      {
+        "tipo": "aperitivo_laranja",
+        "ml": 22.5,
+        "papel": "amargo",
+        "nota": "Aperol."
+      },
+      {
+        "tipo": "maraschino",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "toranja",
+        "texto": "casca de toranja torcida por cima e descartada",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o mezcal, o Aperol, o maraschino e o limão com gelo.",
+      "Coe na taça.",
+      "Torça a casca de toranja sobre o drink e descarte-a."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 3,
+      "defumado": 4,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2009,
+      "cidade": "Nova York",
+      "bar": "Mayahuel",
+      "bartender": "Phil Ward"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/division-bell/",
+        "titulo": "Punch — Division Bell (Phil Ward)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/3634/division-bell",
+        "titulo": "Difford's Guide — Division Bell (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 ounce mezcal, preferably Del Maguey Vida, 3/4 ounce Aperol, 1/2 ounce maraschino liqueur, 3/4 ounce lime juice",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f08a3a",
+    "variacaoDe": "last_word",
+    "tags": [
+      "mezcal",
+      "aperol",
+      "moderno"
+    ],
+    "abv": 17,
+    "volumeFinalMl": 115,
+    "estimativa": "v0"
+  },
+  {
+    "id": "mezcal_mule",
+    "nome": "Mezcal Mule",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "mezcal",
+        "ml": 45,
+        "papel": "base",
+        "nota": "A fonte sugere Sombra."
+      },
+      {
+        "tipo": "ginger_beer",
+        "ml": 30,
+        "papel": "diluidor",
+        "nota": "A PDT usa uma ginger beer caseira."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_maracuja",
+        "ml": 22.5,
+        "papel": "modificador",
+        "nota": "A fonte pede purê de maracujá (Boiron)."
+      },
+      {
+        "tipo": "nectar_agave",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "pepino",
+        "qtd": 3,
+        "unidade": "fatia",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "pepino",
+        "texto": "fatia de pepino",
+        "essencial": false
+      },
+      {
+        "texto": "gengibre cristalizado",
+        "essencial": false
+      },
+      {
+        "texto": "pitada de pimenta em pó",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Amasse as fatias de pepino com o néctar de agave no fundo da coqueteleira.",
+      "Junte o mezcal, a ginger beer, o limão e o maracujá, encha de gelo e bata.",
+      "Coe sobre gelo num copo baixo gelado.",
+      "Finalize com uma fatia de pepino, um pedaço de gengibre cristalizado e um toque de pimenta em pó."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 2,
+      "frutado": 4,
+      "defumado": 3,
+      "picante": 3,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2008,
+      "cidade": "Nova York",
+      "bar": "PDT",
+      "bartender": "Jim Meehan"
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/mezcal-mule/",
+        "titulo": "Punch — Mezcal Mule (adaptado de The PDT Cocktail Book, Jim Meehan)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/14828/mezcal-mule",
+        "titulo": "Difford's Guide — Mezcal Mule (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 1/2 ounces mezcal (preferably Sombra), 1 ounce ginger beer (PDT's house recipe), 3/4 ounce lime juice, 3/4 ounce passion fruit purée (preferably Boiron), 1/2 ounce agave nectar, 3 slices cucumber",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e8d07a",
+    "variacaoDe": "moscow_mule",
+    "tags": [
+      "mezcal",
+      "maracuja",
+      "pepino"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 175,
+    "estimativa": "v0"
+  },
+  {
+    "id": "caju_amigo",
+    "nome": "Caju Amigo",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "highball",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "vodka",
+        "ml": 60,
+        "papel": "base",
+        "nota": "¼ de xícara. A versão do Pandoro era com vodca; hoje muitos bares usam cachaça."
+      },
+      {
+        "tipo": "suco_caju",
+        "ml": 60,
+        "papel": "diluidor",
+        "nota": "¼ de xícara de suco de caju concentrado."
+      },
+      {
+        "tipo": "caju_calda",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "adocante",
+        "nota": "Mais ¼ de colher de chá da calda da lata."
+      },
+      {
+        "tipo": "acucar",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "1 colher de sopa."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 5,
+        "papel": "acido",
+        "nota": "1 colher de chá."
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "collins",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Coloque o caju em calda no fundo de um copo alto.",
+      "Junte o açúcar, o suco de caju, a vodca, o limão e a pitada de calda do caju.",
+      "Encha de gelo.",
+      "Misture bem com a colher bailarina e sirva."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 2,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1974,
+      "cidade": "São Paulo",
+      "bar": "Pandoro",
+      "bartender": "Guilhermino Ribeiro dos Santos"
+    },
+    "fontes": [
+      {
+        "url": "https://panelinha.com.br/receita/caju-amigo",
+        "titulo": "Panelinha (Rita Lobo) — Caju amigo",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://forbes.com.br/forbes-wsb/2026/06/drink-da-semana-caju-amigo-o-classico-da-boemia-paulistana/",
+        "titulo": "Forbes Brasil — Caju Amigo, o clássico da boemia paulistana (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 caju em calda, 1 colher (sopa) de açúcar, ¼ de xícara (chá) de suco de caju concentrado, ¼ de xícara (chá) de vodca, ¼ de colher (chá) da calda do caju, 1 colher (chá) de caldo de limão, cubos de gelo",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f2c35a",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "caju",
+      "sao_paulo",
+      "historia_disputada"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 160,
+    "estimativa": "v0"
+  },
+  {
+    "id": "batida_de_coco",
+    "nome": "Batida de coco",
+    "nomesAlt": [
+      "Batida de Coco"
+    ],
+    "tipoReceita": "drink",
+    "familia": "creme",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca_prata",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "creme_coco",
+        "ml": 60,
+        "papel": "adocante",
+        "nota": "Creme de coco adoçado (tipo Coco López)."
+      },
+      {
+        "tipo": "leite_condensado",
+        "ml": 30,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "collins",
+    "gelo": "picado",
+    "guarnicao": [],
+    "passos": [
+      "Coloque a cachaça, o creme de coco e o leite condensado no liquidificador.",
+      "Junte uma concha grande de gelo picado.",
+      "Bata até ficar cremoso.",
+      "Despeje num copo alto e sirva com canudo."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "sobremesa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/182/batida-de-coco",
+        "titulo": "Difford's Guide — Batida de Coco",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/batida-de-coco/",
+        "titulo": "Punch — Batida de Coco (versão do Surubar, Rio de Janeiro)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Cachaça (unaged), 60 ml Cream of coconut, 30 ml Condensed milk",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f6f1e4",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "coco",
+      "batida"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 225,
+    "estimativa": "v0"
+  },
+  {
+    "id": "batida_de_maracuja",
+    "nome": "Batida de maracujá",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "creme",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "maracuja",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "acido",
+        "nota": "A polpa de 1 maracujá."
+      },
+      {
+        "tipo": "leite_condensado",
+        "ml": 30,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "cachaca",
+        "ml": 30,
+        "papel": "base"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "rocks",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Raspe a polpa do maracujá e coloque no liquidificador.",
+      "Junte o leite condensado, a cachaça e alguns cubos de gelo e bata até ficar liso.",
+      "Passe por uma peneira.",
+      "Sirva com gelo."
+    ],
+    "perfil": {
+      "doce": 5,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 0,
+      "cremoso": 5,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "sobremesa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://panelinha.com.br/receita/batida-de-maracuja",
+        "titulo": "Panelinha (Rita Lobo) — Batida de maracujá",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "4 maracujás, ½ xícara (chá) de leite condensado, ½ xícara (chá) de cachaça, cubos de gelo a gosto (serve até 4 porções; aqui dividida por 4)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f4dc7a",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "maracuja",
+      "batida"
+    ],
+    "abv": 13,
+    "volumeFinalMl": 90,
+    "estimativa": "v0"
+  },
+  {
+    "id": "bombeirinho",
+    "nome": "Bombeirinho",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca_prata",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 10,
+        "papel": "acido"
+      },
+      {
+        "tipo": "groselha",
+        "ml": 10,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "mexido",
+    "copo": "shot",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Coloque a cachaça, o limão e a groselha num mixing glass com gelo.",
+      "Mexa com a colher bailarina até gelar.",
+      "Coe direto para o copo de shot.",
+      "Beba de uma vez."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://tribunademinas.com.br/colunas/dicas-butecos-de-jf/26-08-2021/falando-groselha.html",
+        "titulo": "Tribuna de Minas — Butecos de JF: Falando groselha (Airton Soares)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Preparo gourmet: 30 ml de cachaça (prata), 10 ml de suco de limão (taiti), 10 ml de groselha",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c8243a",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "groselha",
+      "boteco",
+      "shot"
+    ],
+    "abv": 19,
+    "volumeFinalMl": 65,
+    "estimativa": "v0"
+  },
+  {
+    "id": "quentao",
+    "nome": "Quentão",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "quente",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca",
+        "ml": 720,
+        "papel": "base",
+        "nota": "3 xícaras. A receita rende até 6 canecas."
+      },
+      {
+        "tipo": "agua",
+        "ml": 480,
+        "papel": "diluidor",
+        "nota": "2 xícaras."
+      },
+      {
+        "tipo": "acucar",
+        "ml": 360,
+        "papel": "adocante",
+        "nota": "1½ xícara, caramelizado."
+      },
+      {
+        "tipo": "gengibre",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "1 colher de sopa de gengibre ralado (um pedaço de cerca de 3 × 3 cm)."
+      },
+      {
+        "tipo": "laranja",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "Só a casca, em tiras, sem a parte branca."
+      },
+      {
+        "tipo": "limao_taiti",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "tempero",
+        "nota": "Só a casca, em tiras."
+      },
+      {
+        "tipo": "canela",
+        "qtd": 2,
+        "unidade": "un",
+        "papel": "tempero"
+      },
+      {
+        "tipo": "cravo",
+        "qtd": 5,
+        "unidade": "un",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "montado",
+    "copo": "caneca_quente",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "texto": "fatias finas de minimaçã nas canecas (opcional)",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Receita de panela, para até 6 canecas. Tire a casca da laranja e do limão em tiras, sem a parte branca.",
+      "Numa panela, leve o açúcar, o gengibre, a canela e o cravo ao fogo médio até virar um caramelo dourado.",
+      "Desligue o fogo e junte a água aos poucos (vai borbulhar); mexa para dissolver.",
+      "Volte ao fogo com a cachaça e as cascas; quando ferver, abaixe e cozinhe por 25 minutos.",
+      "Sirva quente direto da panela, com fatias de maçã nas canecas se quiser."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 1,
+      "amargo": 1,
+      "seco": 0,
+      "herbal": 1,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 5,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "inverno",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://panelinha.com.br/receita/quentao",
+        "titulo": "Panelinha (Rita Lobo) — Quentão",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "3 xícaras (chá) de cachaça, 2 xícaras (chá) de água, 1½ xícara (chá) de açúcar, 1 colher (sopa) de gengibre ralado, casca de 1 laranja, casca de 1 limão, 2 ramas de canela, 5 cravos-da-índia, 1 minimaçã (opcional) — até 6 porções",
+    "confianca": "adaptacao_publicada",
+    "cor": "#a0571e",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "festa_junina",
+      "quente",
+      "receita_de_panela"
+    ],
+    "porcoesBase": 6,
+    "abv": 16,
+    "volumeFinalMl": 300,
+    "estimativa": "v0"
+  },
+  {
+    "id": "caipirinha_de_maracuja",
+    "nome": "Caipirinha de maracujá",
+    "nomesAlt": [
+      "Passion Fruit Caipirinha"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca_prata",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Guardada no congelador."
+      },
+      {
+        "tipo": "limao_taiti",
+        "qtd": 0.5,
+        "unidade": "un",
+        "papel": "acido",
+        "nota": "Meio limão em fatias finas de meia-lua."
+      },
+      {
+        "tipo": "acucar",
+        "qtd": 3,
+        "unidade": "bsp",
+        "papel": "adocante",
+        "nota": "Açúcar refinado fino; a fonte aceita 15 ml de xarope 2:1 no lugar."
+      },
+      {
+        "tipo": "maracuja",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "modificador",
+        "nota": "A polpa de 1 maracujá."
+      }
+    ],
+    "tecnica": "macerado",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [],
+    "passos": [
+      "Num copo baixo e firme, macere as fatias de limão com o açúcar.",
+      "Junte a polpa do maracujá e macere mais, até o açúcar dissolver.",
+      "Passe tudo para o copo de servir, enxágue o copo da maceração com a cachaça e despeje.",
+      "Mexa, encha de gelo pequeno ou quebrado, mexa de novo e complete com gelo."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 1,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1478/passion-fruit-caipirinha",
+        "titulo": "Difford's Guide — Passion Fruit Caipirinha",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1/2 fresh Lime (chopped), 3 barspoon Superfine/Caster sugar, 1 fresh Passion fruit, 60 ml Cachaça (unaged, from freezer)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#f0d060",
+    "variacaoDe": "caipirinha",
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "maracuja"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 85,
+    "estimativa": "v0"
+  },
+  {
+    "id": "macunaima",
+    "nome": "Macunaíma",
+    "nomesAlt": [
+      "Macunaima"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca",
+        "ml": 50,
+        "papel": "base",
+        "nota": "O criador recomenda cachaça envelhecida em bálsamo (Punch)."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_simples",
+        "ml": 20,
+        "papel": "adocante",
+        "nota": "1:1."
+      },
+      {
+        "tipo": "fernet",
+        "ml": 7,
+        "papel": "amargo",
+        "nota": "Fernet-Branca."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "rocks",
+    "gelo": "nenhum",
+    "guarnicao": [],
+    "passos": [
+      "Gele um copo baixo.",
+      "Bata a cachaça, o limão, o xarope e o Fernet com gelo.",
+      "Coe no copo gelado, sem gelo.",
+      "Sirva sem guarnição."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 3,
+      "seco": 2,
+      "herbal": 4,
+      "frutado": 1,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2014,
+      "cidade": "São Paulo",
+      "bar": "Boca de Ouro",
+      "bartender": "Arnaldo Hirai"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/5885/macunaima",
+        "titulo": "Difford's Guide — Macunaíma (com a receita usada no Boca de Ouro)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/macunaima/",
+        "titulo": "Punch — Macunaíma",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Receita do bar, citada pelo Difford's: 50 ml Cachaça, 20 ml Lime juice, 20 ml Sugar syrup (1:1), 7 ml Fernet Branca",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c4b98a",
+    "variacaoDe": null,
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "fernet",
+      "moderno"
+    ],
+    "abv": 18,
+    "volumeFinalMl": 125,
+    "estimativa": "v0"
+  },
+  {
+    "id": "cachaca_sour",
+    "nome": "Cachaça Sour",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "cachaca_prata",
+        "ml": 60,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 7.5,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "ovo_clara",
+        "ml": 20,
+        "papel": "espuma"
+      },
+      {
+        "tipo": "sal",
+        "qtd": 1,
+        "unidade": "pitada",
+        "papel": "tempero",
+        "nota": "A fonte pede 3 gotas de solução salina ou uma pitada de sal."
+      }
+    ],
+    "tecnica": "batido_seco",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "bitters_aromatico",
+        "texto": "gotas de bitter aromático sobre a espuma",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata todos os ingredientes com gelo e coe de volta para a coqueteleira.",
+      "Bata de novo sem gelo, para emulsionar a clara.",
+      "Coe fino na taça e pingue gotas de bitter sobre a espuma."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 4,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 2,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 4,
+      "umami": 1
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "aperitivo",
+      "noite"
+    ],
+    "origem": {
+      "classico": false,
+      "ano": 2025,
+      "cidade": null,
+      "bar": null,
+      "bartender": "Simon Difford"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/37097/cachaca-sour",
+        "titulo": "Difford's Guide — Cachaça Sour",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Cachaça (unaged), 15 ml Lime juice, 7.5 ml Lemon juice, 15 ml Sugar syrup 'rich' (2:1), 20 ml Egg white, 6 drop Bob's Ginseng Bitters (optional), 3 drop Saline solution or pinch of salt",
+    "confianca": "spec_publicada",
+    "cor": "#f3edd6",
+    "variacaoDe": "pisco_sour",
+    "tags": [
+      "brasileiro",
+      "cachaca",
+      "clara"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 160,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rum_runner",
+    "nome": "Rum Runner",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 30,
+        "papel": "base",
+        "nota": "Rum dourado leve (1 a 3 anos)."
+      },
+      {
+        "tipo": "licor_banana",
+        "ml": 30,
+        "papel": "modificador",
+        "nota": "Giffard Banane du Brésil."
+      },
+      {
+        "tipo": "licor_amora",
+        "ml": 15,
+        "papel": "modificador",
+        "nota": "Crème de mûre."
+      },
+      {
+        "tipo": "suco_abacaxi",
+        "ml": 60,
+        "papel": "modificador"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 30,
+        "papel": "acido"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 10,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "abacaxi",
+        "texto": "gomo de abacaxi",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo alto (o tradicional é o hurricane) de gelo picado.",
+      "Bata os runs, os licores, os sucos e a granadina com gelo.",
+      "Coe sobre o gelo picado.",
+      "Finalize com o gomo de abacaxi e a cereja."
+    ],
+    "perfil": {
+      "doce": 4,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 0,
+      "herbal": 0,
+      "frutado": 5,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": "Islamorada (Flórida)",
+      "bar": "Holiday Isle Tiki Bar",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1715/rum-runner",
+        "titulo": "Difford's Guide — Rum Runner",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "30 ml Jamaican Rum, 30 ml Light gold rum, 30 ml Giffard Banane du Brésil liqueur, 15 ml Giffard Crème de Mûre liqueur, 60 ml Pineapple juice, 30 ml Lime juice, 10 ml Grenadine",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c2402e",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "banana",
+      "florida"
+    ],
+    "abv": 13,
+    "volumeFinalMl": 265,
+    "estimativa": "v0"
+  },
+  {
+    "id": "scorpion",
+    "nome": "Scorpion",
+    "nomesAlt": [
+      "Scorpion Bowl"
+    ],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_branco",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum leve de Porto Rico."
+      },
+      {
+        "tipo": "conhaque",
+        "ml": 30,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 60,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 45,
+        "papel": "acido"
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "dof",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "texto": "gardênia ou outra flor comestível",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Coloque o rum, o conhaque, os sucos e o orgeat no liquidificador com uma concha de gelo picado.",
+      "Bata rapidamente.",
+      "Despeje num copo grande e acrescente cubos de gelo.",
+      "Decore com uma flor."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 0,
+      "picante": 1,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": "Trader Vic's",
+      "bartender": "Victor Bergeron (Trader Vic)"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1756/scorpion",
+        "titulo": "Difford's Guide — Scorpion (cita Trader Vic's Bartender's Guide, Revised, 1972)",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/scorpion-bowl/",
+        "titulo": "Punch — Scorpion Bowl (versão para 5)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Trader Vic, 1972 (individual): 1½ ounce lemon juice, 2 ounce orange juice, ½ ounce orgeat syrup, 1 ounce brandy, 2 ounce light Puerto Rican rum",
+    "confianca": "spec_publicada",
+    "cor": "#f0b048",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "trader_vic"
+    ],
+    "abv": 11,
+    "volumeFinalMl": 315,
+    "estimativa": "v0"
+  },
+  {
+    "id": "test_pilot",
+    "nome": "Test Pilot",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 52.5,
+        "papel": "base",
+        "nota": "Rum escuro jamaicano."
+      },
+      {
+        "tipo": "rum_branco",
+        "ml": 22.5,
+        "papel": "base",
+        "nota": "Rum leve de Porto Rico."
+      },
+      {
+        "tipo": "licor_laranja",
+        "ml": 7.5,
+        "papel": "adocante",
+        "nota": "Cointreau."
+      },
+      {
+        "tipo": "falernum",
+        "ml": 7.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_siciliano",
+        "ml": 7.5,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "dof",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "casca de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Bata os dois runs, o Cointreau, o falernum e o limão-siciliano com cubos de gelo.",
+      "Despeje tudo, com o gelo, num copo baixo largo.",
+      "Se quiser, torça uma casca de limão por cima."
+    ],
+    "perfil": {
+      "doce": 2,
+      "acido": 2,
+      "amargo": 0,
+      "seco": 3,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 3,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "festa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1941,
+      "cidade": null,
+      "bar": "Don the Beachcomber",
+      "bartender": "Donn Beach"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/1940/test-pilot",
+        "titulo": "Difford's Guide — Test Pilot (cita Trader Vic's Bartender's Guide, 1972)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Trader Vic, 1972: ¼ ounce lemon juice, ¼ ounce Falernum, ¼ ounce Cointreau, ¾ ounce light Puerto Rican rum, 1¾ ounce dark Jamaica rum",
+    "confianca": "adaptacao_publicada",
+    "cor": "#c98a3e",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "donn_beach"
+    ],
+    "abv": 28,
+    "volumeFinalMl": 125,
+    "estimativa": "v0"
+  },
+  {
+    "id": "nui_nui",
+    "nome": "Nui Nui",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum dourado leve (1 a 3 anos)."
+      },
+      {
+        "tipo": "licor_pimenta_jamaica",
+        "ml": 5,
+        "papel": "tempero"
+      },
+      {
+        "tipo": "suco_laranja",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_canela",
+        "ml": 10,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "xarope_baunilha",
+        "ml": 5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 1,
+        "unidade": "dash",
+        "papel": "tempero"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "tiki_mug",
+    "gelo": "picado",
+    "guarnicao": [],
+    "passos": [
+      "Bata tudo no liquidificador com uma concha de gelo picado.",
+      "Ponha a guarnição no copo, pendurada na borda.",
+      "Despeje o drink.",
+      "Complete com mais gelo picado."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 4,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa",
+      "inverno"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": "Don the Beachcomber",
+      "bartender": "Donn Beach"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4884/nui-nui",
+        "titulo": "Difford's Guide — Nui Nui",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/nui-nui/",
+        "titulo": "Punch — Nui Nui (outra versão)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Light gold rum, 5 ml Pimento dram/Allspice liqueur, 15 ml Orange juice, 15 ml Lime juice, 10 ml Cinnamon syrup, 5 ml Vanilla sugar syrup, 1 dash Angostura Aromatic Bitters",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9a04a",
+    "variacaoDe": null,
+    "tags": [
+      "tiki",
+      "rum",
+      "canela",
+      "donn_beach"
+    ],
+    "abv": 15,
+    "volumeFinalMl": 165,
+    "estimativa": "v0"
+  },
+  {
+    "id": "rum_flip",
+    "nome": "Rum Flip",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "flip",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Rum envelhecido de blend."
+      },
+      {
+        "tipo": "ovo",
+        "qtd": 1,
+        "unidade": "un",
+        "papel": "espuma",
+        "nota": "Ovo médio, inteiro."
+      },
+      {
+        "tipo": "xarope_demerara",
+        "ml": 7.5,
+        "papel": "adocante"
+      }
+    ],
+    "tecnica": "blender",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "noz_moscada",
+        "texto": "noz-moscada ralada na hora",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata o ovo, o xarope e o rum no liquidificador (ou mixer de milk-shake) por 10 segundos, sem gelo.",
+      "Junte bastante gelo picado e alguns cubos pequenos e bata rapidamente.",
+      "Coe duas vezes na taça e rale noz-moscada por cima."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 0,
+      "amargo": 0,
+      "seco": 1,
+      "herbal": 0,
+      "frutado": 2,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 5,
+      "umami": 1
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "inverno",
+      "noite",
+      "sobremesa"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://punchdrink.com/recipes/rum-flip/",
+        "titulo": "Punch — Rum Flip (Martin Cate, Smuggler's Cove)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "1 medium egg, 1/4 ounce demerara syrup, 2 ounces blended aged rum",
+    "confianca": "adaptacao_publicada",
+    "cor": "#d9b27a",
+    "variacaoDe": null,
+    "tags": [
+      "rum",
+      "ovo",
+      "flip"
+    ],
+    "abv": 14,
+    "volumeFinalMl": 175,
+    "estimativa": "v0"
+  },
+  {
+    "id": "dark_daiquiri",
+    "nome": "Dark Daiquiri",
+    "nomesAlt": [],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "rum_envelhecido",
+        "ml": 45,
+        "papel": "base",
+        "nota": "Rum caribenho de 6 a 10 anos."
+      },
+      {
+        "tipo": "rum_navy",
+        "ml": 15,
+        "papel": "base"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 15,
+        "papel": "acido"
+      },
+      {
+        "tipo": "xarope_rico",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "agua",
+        "ml": 10,
+        "papel": "diluidor",
+        "opcional": true,
+        "nota": "Água gelada; omita se o gelo estiver molhado."
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "coupe",
+    "gelo": "nenhum",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "gomo de limão",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele a taça.",
+      "Bata os dois runs, o limão, o xarope e a água com gelo.",
+      "Coe fino na taça gelada.",
+      "Finalize com um gomo de limão."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 0,
+      "frutado": 3,
+      "defumado": 1,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "noite",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": null,
+      "cidade": null,
+      "bar": null,
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/618/dark-daiquiri",
+        "titulo": "Difford's Guide — Dark Daiquiri",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "45 ml Caribbean blended rum aged 6-10 years, 15 ml Navy rum, 15 ml Lime juice, 15 ml Sugar syrup 'rich' (2:1), 10 ml Chilled water (omit if using wet ice)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#b88a4a",
+    "variacaoDe": "daiquiri",
+    "tags": [
+      "rum",
+      "daiquiri"
+    ],
+    "abv": 20,
+    "volumeFinalMl": 130,
+    "estimativa": "v0"
+  },
+  {
+    "id": "mexican_firing_squad",
+    "nome": "Mexican Firing Squad",
+    "nomesAlt": [
+      "Mexican Firing Squad Special"
+    ],
+    "tipoReceita": "drink",
+    "familia": "sour",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "tequila_reposado",
+        "ml": 60,
+        "papel": "base",
+        "nota": "Difford's pede Olmeca Altos Reposado; Baker (1939) diz só tequila."
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 20,
+        "papel": "acido"
+      },
+      {
+        "tipo": "granadina",
+        "ml": 12.5,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "bitters_aromatico",
+        "qtd": 2,
+        "unidade": "dash",
+        "papel": "amargo"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "highball",
+    "gelo": "cubos",
+    "guarnicao": [
+      {
+        "tipo": "laranja",
+        "texto": "rodela de laranja",
+        "essencial": false
+      },
+      {
+        "tipo": "abacaxi",
+        "texto": "gomo de abacaxi",
+        "essencial": false
+      },
+      {
+        "tipo": "cereja_marasquino",
+        "texto": "cereja em calda",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Gele um copo highball pequeno (até 300 ml) e encha de gelo.",
+      "Bata a tequila, o limão, a granadina e a Angostura com gelo.",
+      "Coe sobre o gelo.",
+      "Finalize com laranja, abacaxi e cereja; não complete com soda."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 2,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 3,
+      "defumado": 0,
+      "picante": 2,
+      "cremoso": 1,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "festa",
+      "verao"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 1937,
+      "cidade": "Cidade do México",
+      "bar": "La Cucaracha",
+      "bartender": null
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/4945/mexican-firing-squad-special",
+        "titulo": "Difford's Guide — Mexican Firing Squad Special",
+        "acessadoEm": "2026-11-19"
+      },
+      {
+        "url": "https://punchdrink.com/recipes/mexican-firing-squad/",
+        "titulo": "Punch — Mexican Firing Squad (história)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "60 ml Olmeca Altos Reposado Tequila, 20 ml Lime juice, 12.5 ml Grenadine, 2 dash Angostura Aromatic Bitters (adaptado de Charles H. Baker, 1939)",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e06a6a",
+    "variacaoDe": null,
+    "tags": [
+      "tequila",
+      "granadina",
+      "mexicano"
+    ],
+    "abv": 20,
+    "volumeFinalMl": 120,
+    "estimativa": "v0"
+  },
+  {
+    "id": "tia_mia",
+    "nome": "Tia Mia",
+    "nomesAlt": [
+      "Mezcal Mai Tai"
+    ],
+    "tipoReceita": "drink",
+    "familia": "tiki",
+    "iba": null,
+    "ingredientes": [
+      {
+        "tipo": "mezcal",
+        "ml": 30,
+        "papel": "base",
+        "nota": "O original usa Del Maguey Chichicapa."
+      },
+      {
+        "tipo": "rum_jamaicano",
+        "ml": 30,
+        "papel": "base",
+        "nota": "O original usa Appleton Estate Reserve."
+      },
+      {
+        "tipo": "curacao_laranja",
+        "ml": 15,
+        "papel": "adocante",
+        "nota": "Ferrand Dry Curaçao."
+      },
+      {
+        "tipo": "orgeat",
+        "ml": 15,
+        "papel": "adocante"
+      },
+      {
+        "tipo": "suco_limao_taiti",
+        "ml": 22.5,
+        "papel": "acido"
+      }
+    ],
+    "tecnica": "batido",
+    "copo": "dof",
+    "gelo": "picado",
+    "guarnicao": [
+      {
+        "tipo": "limao_taiti",
+        "texto": "meia casca de limão",
+        "essencial": false
+      },
+      {
+        "tipo": "hortela",
+        "texto": "ramos de hortelã",
+        "essencial": false
+      },
+      {
+        "tipo": "abacaxi",
+        "texto": "espeto de abacaxi com cereja",
+        "essencial": false
+      }
+    ],
+    "passos": [
+      "Encha um copo baixo largo de gelo picado.",
+      "Bata o mezcal, o rum, o curaçao, o orgeat e o limão com gelo.",
+      "Coe sobre o gelo picado.",
+      "Finalize com a casca de limão, a hortelã e o espeto de frutas."
+    ],
+    "perfil": {
+      "doce": 3,
+      "acido": 3,
+      "amargo": 0,
+      "seco": 2,
+      "herbal": 1,
+      "frutado": 4,
+      "defumado": 3,
+      "picante": 2,
+      "cremoso": 2,
+      "umami": 0
+    },
+    "dificuldade": 2,
+    "ocasioes": [
+      "verao",
+      "festa",
+      "noite"
+    ],
+    "origem": {
+      "classico": true,
+      "ano": 2010,
+      "cidade": "Nova York",
+      "bar": null,
+      "bartender": "Ivy Mix"
+    },
+    "fontes": [
+      {
+        "url": "https://www.diffordsguide.com/cocktails/recipe/9786/tia-mia",
+        "titulo": "Difford's Guide — Tia Mia (com a receita original de Ivy Mix)",
+        "acessadoEm": "2026-11-19"
+      }
+    ],
+    "specFonte": "Original recipe, Ivy Mix, 2010: 30 Del Maguey Chichicapa Mezcal, 30 Appleton Estate Reserve Jamaican Rum, 15 Ferrand Dry Curaçao, 15 Orgeat Syrup, 22.5 Lime juice",
+    "confianca": "adaptacao_publicada",
+    "cor": "#e0a44a",
+    "variacaoDe": "mai_tai",
+    "tags": [
+      "mezcal",
+      "rum",
+      "tiki"
+    ],
+    "abv": 22,
+    "volumeFinalMl": 145,
+    "estimativa": "v0"
+  }
+]

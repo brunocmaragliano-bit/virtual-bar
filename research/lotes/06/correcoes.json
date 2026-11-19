@@ -1,0 +1,9 @@
+{
+  "nota": "Correções minhas na revisão do lote 06 (2026-11-19): seguir a spec da fonte (blended scotch).",
+  "receitas": [
+    { "id": "mizuwari", "set": { "ingredientes": [
+      { "tipo": "scotch_blended", "ml": 60, "papel": "base", "nota": "A fonte (Difford's) pede blended scotch; no Japão o costume é whisky japonês, que o app oferece como troca." },
+      { "tipo": "agua", "unidade": "top", "papel": "diluidor", "nota": "Água mineral bem gelada. A proporção usual vai de 1:2,5 a 1:4 (whisky:água)." }
+    ] } }
+  ]
+}

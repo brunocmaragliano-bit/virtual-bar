@@ -1,0 +1,11 @@
+# originais das fotos (DNG, ~1,6 GB) — ficam só no OneDrive
+fotos/
+# derivados das fotos usados só na revisão
+research/inventario/thumbs/
+research/inventario/revisao.html
+research/inventario/recortes.html
+research/revisao-fase1.html
+# ferramentas
+node_modules/
+research/lotes/_staging/
+research/lotes/amostra.html

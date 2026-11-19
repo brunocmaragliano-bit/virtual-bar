@@ -1,0 +1,300 @@
+[
+  {
+    "id": "redwood_empire_lost_monarch",
+    "rotulo": "Redwood Empire Lost Monarch",
+    "marca": "Redwood Empire",
+    "produtor": "Redwood Empire Distilling (Purple Brands)",
+    "tipo": "whiskey_americano",
+    "abv": 45,
+    "volumeMl": 750,
+    "pais": "EUA",
+    "regiao": "Sonoma County, Califórnia",
+    "composicao": "Blend de straight rye e straight bourbon: 55% rye / 45% bourbon segundo o produtor (Breaking Bourbon dá 60/40); rye de 95% centeio e 5% cevada maltada, bourbon de 75% milho, 21% centeio e 4% cevada maltada; componentes de 3 a 14 anos; local de destilação não informado.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 2, "herbal": 2, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Blend californiano de rye e bourbon com o rye na frente: cravo, canela, casca de laranja e baunilha no nariz, boca de caramelo e xarope de bordo, final com pimenta. A 45% é macio para um rye, mas tem especiaria de sobra para drinks mexidos. Faz a ponte entre bourbon e rye no bar.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "O rye de 95% centeio dá especiaria ao vermute e o bourbon arredonda; um pouco mais macio que um rye bonded." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Cravo, laranja e bordo já vêm no destilado: pede pouco açúcar e casa com Angostura e casca de laranja." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Tem corpo de bourbon para o Campari e especiaria de rye que impede o drink de ficar enjoativo." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "A picância do rye corta limão e açúcar no whiskey sour; fica menos untuoso que com bourbon puro." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com ginger beer (o produtor sugere um mule) a especiaria do rye conversa com o gengibre." }
+    ],
+    "serveComo": [
+      { "tipo": "rye_whiskey", "qualidade": 3, "nota": "Mais da metade é rye de 95% centeio; menos picante que um rye 100 proof." },
+      { "tipo": "bourbon", "qualidade": 3, "nota": "Quase metade é bourbon; doçura de milho e baunilha presentes, com mais especiaria." }
+    ],
+    "fontes": [
+      "https://redwoodempirewhiskey.com/whiskey/small-batch-craft-whiskey-blend/",
+      "https://www.breakingbourbon.com/review/redwood-empire-lost-monarch",
+      "https://www.drinkhacker.com/2026/07/06/review-redwood-empire-pipe-dream-emerald-giant-and-lost-monarch-updated-2026/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Tipo mantido em whiskey_americano: é blend de straight rye e straight bourbon e não se enquadra legalmente em nenhum dos dois; por isso o serveComo para os dois. Proporção diverge entre fontes (55/45 no site do produtor, 60/40 no Breaking Bourbon). A Drinkhacker (2026) achou a versão atual mais doce e com o rye menos marcado que a de 2019. ABV do rótulo (45%) confere com as fontes."
+  },
+  {
+    "id": "johnnie_walker_red_label",
+    "rotulo": "Johnnie Walker Red Label",
+    "marca": "Johnnie Walker",
+    "produtor": "Diageo",
+    "tipo": "scotch_blended",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Escócia",
+    "regiao": null,
+    "composicao": "Blend de até 35 whiskies escoceses de malte e grão; maltes citados: Cardhu, Caol Ila e Teaninich; grande parte do grão vem de Cameronbridge; sem idade declarada.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 0, "frutado": 2, "defumado": 2, "picante": 1, "cremoso": 1, "umami": 0 },
+    "notas": "Blend escocês leve e de grão, pensado para misturar: maçã verde, pera e cítrico, toque de mel e baunilha, final curto com canela, pimenta e um fio de fumaça das ilhas. Puro é simples; com soda ou ginger ale a fumaça e a especiaria aparecem melhor.",
+    "melhorUso": [
+      { "alvo": "receita:highball_whisky", "nota": 4, "frase": "Feito para drink longo: leve e de grão, com um fio de fumaça que continua aparecendo sob a soda." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com ginger ale e limão (o serviço da própria marca), canela e pimenta do blend casam com o gengibre." },
+      { "alvo": "receita:penicillin", "nota": 3, "frase": "Base de blend correta: a fumaça leve reforça o float turfado, mas falta corpo diante do mel e gengibre." },
+      { "alvo": "receita:rob_roy", "nota": 3, "frase": "Funciona, mas é leve: o vermute manda; um blend mais encorpado dá mais estrutura." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.johnniewalker.com/en-us/our-whisky/core-range/johnnie-walker-red-label",
+      "https://thewhiskeywash.com/scotch-whiskey/the-ultimate-guide-to-johnnie-walker-red-label/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Garrafa de 1 L (versão importada/travel retail). ABV do rótulo (40%) confere com as fontes. As fontes variam sobre qual malte dá a fumaça (Caol Ila sempre citado; Talisker em algumas)."
+  },
+  {
+    "id": "union_barrel_aged",
+    "rotulo": "Union Blended Whisky Barrel Aged",
+    "marca": "Union Distillery",
+    "produtor": "Union Distillery",
+    "tipo": "whisky_brasileiro",
+    "abv": 40,
+    "volumeMl": 1000,
+    "pais": "Brasil",
+    "regiao": "Serra Gaúcha (RS)",
+    "composicao": "Destilado de cereais envelhecido e malt whisky, água e corante caramelo (INS 150a); envelhecido em barris de carvalho; sem idade declarada; garrafa numerada.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 0, "frutado": 1, "defumado": 1, "picante": 1, "cremoso": 1, "umami": 0 },
+    "notas": "Blend brasileiro simples, de malte com destilado de cereais envelhecido: aroma suave de cereal, tostado, baunilha e caramelo, boca equilibrada entre doçura e grão e final curto. Vai melhor em drinks longos e de volume, onde o whisky é base e não protagonista.",
+    "melhorUso": [
+      { "alvo": "receita:highball_whisky", "nota": 3, "frase": "Leve e de cereal: com soda e muito gelo dá um highball limpo, sem pretensão." },
+      { "alvo": "familia:highball", "nota": 3, "frase": "Com ginger ale e limão o perfil neutro some no mixer e o drink fica refrescante." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "No whisky sour o perfil discreto deixa limão e açúcar mandarem; correto, sem complexidade." },
+      { "alvo": "familia:punch_cobbler", "nota": 3, "frase": "Base suave em litro para ponche e drinks de jarra, onde frutas e especiarias fazem o trabalho." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.uniondistillery.com.br/whiskys/blended-whisky",
+      "https://thewhiskeywash.com/whiskey-articles/brazil-has-been-making-whisky-for-50-years-so-why-havent-you-heard-about-it/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "O site do produtor lista só 'Blended Whisky 1L' (40%), sem o termo Barrel Aged; assumi que é o mesmo produto. Não achei reviews independentes. O rótulo traz 'Fund. 1848', mas as fontes dão 1948 para a fundação da empresa (como vinícola) e 1972 para o início do whisky. ABV do rótulo (40%) confere."
+  },
+  {
+    "id": "jameson",
+    "rotulo": "Jameson",
+    "marca": "Jameson",
+    "produtor": "Irish Distillers (Pernod Ricard)",
+    "tipo": "irish_whiskey",
+    "abv": 40,
+    "volumeMl": 750,
+    "pais": "Irlanda",
+    "regiao": "Midleton, Cork",
+    "composicao": "Blend de pot still irlandês (cevada maltada e não maltada, destilação tripla) e whiskey de grão de coluna (milho e cevada); barris ex-bourbon e uma parte ex-xerez oloroso; sem idade declarada.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 0, "seco": 2, "herbal": 1, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Irish blend triplamente destilado, macio e redondo: mel, baunilha, milho amanteigado e um leve floral, com nozes de xerez e especiaria suave no fim. Não tem fumaça. Em drinks entra fácil e não domina, e vai bem com café, gengibre e cítricos.",
+    "melhorUso": [
+      { "alvo": "familia:quente", "nota": 4, "frase": "Macio e levemente doce: base clássica de Irish Coffee e toddy, se integra ao café e ao creme sem brigar." },
+      { "alvo": "familia:highball", "nota": 4, "frase": "Com ginger ale e limão (o serviço da casa) fica leve e refrescante; o mel do whiskey aparece." },
+      { "alvo": "receita:highball_whisky", "nota": 3, "frase": "Com soda vira um highball suave e limpo; tem menos presença que um scotch ou um bourbon." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Whiskey sour leve e frutado; menos estrutura que com bourbon, então pede menos açúcar." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://www.diffordsguide.com/beer-wine-spirits/1335/jameson-irish-whiskey"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "ABV não legível no rótulo da foto; usei 40%, o teor do Jameson Original nas fontes. Tipo mantido. Site oficial bloqueou acesso automático; perfil baseado no Difford's e no estilo conhecido."
+  },
+  {
+    "id": "rittenhouse_rye_bib",
+    "rotulo": "Rittenhouse Rye Bottled-in-Bond",
+    "marca": "Rittenhouse",
+    "produtor": "Heaven Hill Distillery",
+    "tipo": "rye_whiskey",
+    "abv": 50,
+    "volumeMl": 750,
+    "pais": "EUA",
+    "regiao": "Kentucky",
+    "composicao": "Straight rye Bottled-in-Bond: 51% centeio, 35% milho e 14% cevada maltada (algumas fontes dão 37% milho e 12% cevada); 4 anos em carvalho americano novo tostado; 100 proof.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 1, "frutado": 2, "defumado": 1, "picante": 3, "cremoso": 2, "umami": 0 },
+    "notas": "Rye clássico de bar, 4 anos e 100 proof: frutas secas, toffee e pimenta-doce no nariz, boca de cacau, canela, noz-moscada e casca de laranja, final longo e picante. Tem bastante milho para um rye, então é picante mas redondo. O teor alto aguenta diluição e vermute.",
+    "melhorUso": [
+      { "alvo": "receita:manhattan", "nota": 5, "frase": "Rye de bar por excelência: 50% e especiaria seguram o vermute doce sem o drink ficar mole." },
+      { "alvo": "receita:sazerac", "nota": 5, "frase": "Especiaria e teor alto sustentam açúcar, Peychaud's e absinto; é um dos ryes-padrão desse drink." },
+      { "alvo": "receita:vieux_carre", "nota": 4, "frase": "Dá a espinha seca e picante que equilibra o conhaque e o Bénédictine." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Cacau, laranja e pimenta no destilado; aguenta bem a diluição longa no gelo." },
+      { "alvo": "receita:toronto", "nota": 4, "frase": "A 50% não some diante do Fernet; a especiaria do rye casa com a menta do amaro." },
+      { "alvo": "receita:boulevardier", "nota": 4, "frase": "Versão com rye: mais seca e picante que com bourbon, segura bem o Campari." }
+    ],
+    "serveComo": [
+      { "tipo": "bourbon", "qualidade": 2, "nota": "Rye de centeio mínimo e bastante milho; em receita de bourbon fica mais picante e seco." }
+    ],
+    "fontes": [
+      "https://heavenhilldistillery.com/rittenhouse-rye.php",
+      "https://www.diffordsguide.com/beer-wine-spirits/1384/rittenhouse-bottled-in-bond",
+      "https://www.drinkhacker.com/2014/06/30/review-rittenhouse-straight-rye-whisky-100-proof-bottled-in-bond/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "A Heaven Hill não publica o mash bill (só diz que tem bastante milho); os números vêm do Difford's e de reviews e variam entre fontes. ABV do rótulo (50%) confere."
+  },
+  {
+    "id": "whisky_ye_monks",
+    "rotulo": "Ye Whisky of Ye Monks (Union Distillery)",
+    "marca": "Whisky of Ye Monks",
+    "produtor": "Union Distillery (segundo o rótulo)",
+    "tipo": "scotch_blended",
+    "abv": null,
+    "volumeMl": null,
+    "pais": null,
+    "regiao": null,
+    "composicao": "O rótulo diz Scotch Whisky envelhecido em barris de carvalho. O Ye Monks original (Donald Fisher Ltd, Edimburgo, 1893) é um blended scotch de cerca de 40 whiskies; a composição desta jarra é desconhecida.",
+    "perfil": { "doce": 1, "acido": 0, "amargo": 1, "seco": 3, "herbal": 0, "frutado": 2, "defumado": 1, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Jarra antiga de cerâmica, peça de coleção. O Ye Monks original é um blended scotch suave; um review de jarra dos anos 1970 cita cítrico, frutas secas, mel e final com leve turfa. O perfil abaixo é o de um blended scotch típico, sem prova desta garrafa.",
+    "melhorUso": [
+      { "alvo": "receita:highball_whisky", "nota": 3, "frase": "Blend suave: com soda funciona como qualquer scotch leve, sem pedir nada específico." },
+      { "alvo": "receita:rob_roy", "nota": 3, "frase": "Blend macio aceita bem vermute doce e Angostura, num Rob Roy clássico e leve." },
+      { "alvo": "familia:quente", "nota": 3, "frase": "Em toddy com mel e limão, um blend suave e pouco turfado é o que basta." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://scotchwhisky.com/whiskypedia/2559/ye-whisky-of-ye-monks/",
+      "https://www.connosr.com/donald-fisher-ltd-ye-whisky-of-ye-monks-whisky-review-13830",
+      "https://thewhiskeywash.com/whiskey-articles/brazil-has-been-making-whisky-for-50-years-so-why-havent-you-heard-about-it/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "baixa",
+    "observacoes": "Peça de coleção: fica no bar, não é para drinks. Ye Whisky of Ye Monks é um blended scotch criado em 1893 pela Donald Fisher Ltd (Edimburgo; comprada pela DCL em 1936, hoje Diageo); as jarras de cerâmica de 75 cl, com lacre de cera, foram vendidas do pós-guerra aos anos 1970 e costumavam ter 40%. Esta jarra, porém, diz 'Union Distillery', tem rótulo bilíngue inglês/português e selo fiscal brasileiro, o que sugere uma versão engarrafada ou vendida no Brasil pela Union (RS), que fez whisky com marca própria de 1972 a 1986. Não achei fonte que ligue a Union ao Ye Monks, então origem, ABV e volume ficam null. Tipo mantido em scotch_blended pelo que diz o rótulo; se a origem for brasileira, whisky_brasileiro seria mais correto. Perfil = perfilTipico de scotch_blended. Selo rasgado indica garrafa já aberta; o líquido pode estar oxidado ou ter evaporado."
+  },
+  {
+    "id": "nikka_from_the_barrel",
+    "rotulo": "Nikka From The Barrel",
+    "marca": "Nikka",
+    "produtor": "Nikka Whisky (Asahi)",
+    "tipo": "whisky_japones",
+    "abv": 51.4,
+    "volumeMl": 500,
+    "pais": "Japão",
+    "regiao": null,
+    "composicao": "Blend de mais de cem whiskies de malte e grão, com base nos maltes de Yoichi e Miyagikyo e no grão Coffey; casado de novo em barril por alguns meses; força quase de barril; sem idade. O verso japonês indica parte do whisky de grão produzida no Reino Unido.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 3, "herbal": 1, "frutado": 2, "defumado": 1, "picante": 2, "cremoso": 3, "umami": 0 },
+    "notas": "Blend de malte e grão da Nikka em força quase de barril: carvalho, baunilha, chocolate e casca de laranja no nariz, boca densa e doce com tanino de madeira, final longo, amadeirado e levemente amargo. É concentrado: pede dose menor ou um pouco de água, e dá estrutura a drinks mexidos.",
+    "melhorUso": [
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "A 51,4% e denso, segura açúcar e diluição; o carvalho e a laranja fazem o trabalho dos bitters." },
+      { "alvo": "receita:manhattan", "nota": 4, "frase": "Carvalho e chocolate seguram o vermute doce; menos picante que com rye, mais redondo e amadeirado." },
+      { "alvo": "receita:rob_roy", "nota": 4, "frase": "Malte e grão como um blend escocês, só que bem mais concentrado: Rob Roy encorpado e longo." },
+      { "alvo": "receita:highball_whisky", "nota": 4, "frase": "O teor alto sobrevive à soda: highball com bem mais sabor que um blend de 40%." },
+      { "alvo": "receita:mizuwari", "nota": 3, "frase": "Aceita muita água e ainda mostra baunilha e laranja; a madeira fica mais macia." }
+    ],
+    "serveComo": [
+      { "tipo": "scotch_blended", "qualidade": 3, "nota": "Blend de malte e grão de estilo escocês, mais denso e alcoólico: use um pouco menos." }
+    ],
+    "fontes": [
+      "https://nikka.com/en/brands/fromthebarrel/",
+      "https://nikka.com/en/brands/fromthebarrel/articles_1/",
+      "https://www.thewhiskyexchange.com/p/2928"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Versão do mercado japonês: o rótulo traz 51,4° e a linha legal arredonda para 51%. Como parte do grão é do Reino Unido, não atende aos critérios de 'Japanese Whisky' da JSLMA; tipo mantido em whisky_japones por ser o mais próximo. ABV confere com as fontes."
+  },
+  {
+    "id": "nikka_coffey_grain",
+    "rotulo": "Nikka Coffey Grain",
+    "marca": "Nikka",
+    "produtor": "Nikka Whisky (Asahi)",
+    "tipo": "whisky_japones",
+    "abv": 45,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Miyagi (destilaria Miyagikyo)",
+    "composicao": "Whisky de grão, principalmente milho, destilado em alambique contínuo Coffey; maturado em barris usados de carvalho americano, refeitos e retostados; sem idade declarada.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 0, "seco": 2, "herbal": 1, "frutado": 2, "defumado": 0, "picante": 1, "cremoso": 2, "umami": 0 },
+    "notas": "Whisky de grão de milho feito em coluna Coffey: lembra um bourbon leve, com baunilha, milho doce, coco, banana e mel, e um toque de camomila. Macio, sem aspereza e de final limpo. Abre bem com água e soda e traz doçura redonda a drinks clássicos.",
+    "melhorUso": [
+      { "alvo": "receita:highball_whisky", "nota": 4, "frase": "Doce e macio, abre bem na soda; o highball fica cremoso e com baunilha, sem amargor." },
+      { "alvo": "receita:mizuwari", "nota": 4, "frase": "Sem arestas para esconder: com água gelada mostra milho, mel e frutas tropicais." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Lembra um bourbon delicado: açúcar e Angostura realçam milho e baunilha sem pesar." },
+      { "alvo": "receita:manhattan", "nota": 3, "frase": "Manhattan redondo e pouco picante; o vermute aparece mais do que com rye." },
+      { "alvo": "familia:sour", "nota": 3, "frase": "Doçura de milho e frutas tropicais combinam com limão; corpo leve pede clara de ovo." }
+    ],
+    "serveComo": [
+      { "tipo": "bourbon", "qualidade": 2, "nota": "Milho e baunilha lembram bourbon, mas sem carvalho novo e com corpo mais leve." }
+    ],
+    "fontes": [
+      "https://www.nikka.com/en/brands/coffey-grain-malt/",
+      "https://www.masterofmalt.com/whiskies/nikka/nikka-coffey-grain-whisky-70cl/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "alta",
+    "observacoes": "Não existe tipo para whisky de grão; mantido whisky_japones (segundo a Nikka, atende aos critérios de Japanese Whisky da JSLMA). O verso japonês lista grão e malte como ingredientes. ABV do rótulo (45%) confere."
+  },
+  {
+    "id": "kanosuke_single_malt",
+    "rotulo": "Kanosuke Single Malt",
+    "marca": "Kanosuke",
+    "produtor": "Komasa Jyozo (Kanosuke Distillery)",
+    "tipo": "whisky_japones",
+    "abv": 48,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Kagoshima",
+    "composicao": "Single malt de três alambiques pot still; base de barris de carvalho americano retostados que guardaram shochu (Mellowed Kozuru), mais barris ex-xerez e ex-bourbon; jovem, sem idade declarada; sem filtragem a frio.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 2, "herbal": 1, "frutado": 3, "defumado": 1, "picante": 2, "cremoso": 2, "umami": 0 },
+    "notas": "Single malt jovem de Kagoshima, frutado e luminoso: mel, banana, chá com limão e caramelo no nariz, boca de marmelo em calda, canela japonesa e gengibre, final agridoce de tanino de chá. Os barris de shochu dão um frutado próprio. Brilha com água e em highball.",
+    "melhorUso": [
+      { "alvo": "receita:mizuwari", "nota": 4, "frase": "Mel, banana e chá com limão se abrem com água; a 48% tem estrutura para diluir bastante." },
+      { "alvo": "receita:highball_whisky", "nota": 4, "frase": "Frutado e cítrico com toque de canela: highball aromático, mais vivo que com um blend." },
+      { "alvo": "receita:old_fashioned", "nota": 3, "frase": "Mel e tanino de chá dão um Old Fashioned leve e frutado; use pouco açúcar." },
+      { "alvo": "receita:penicillin", "nota": 3, "frase": "Mel e gengibre já estão no whisky: conversa com o xarope do drink; ainda precisa do float turfado." }
+    ],
+    "serveComo": [],
+    "fontes": [
+      "https://kanosuke.com/en/products/single-malt-kanosuke",
+      "https://88bamboo.co/blogs/whisky-reviews/kanosuke-single-malt-48-abv"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Edição do core range não identificada (o vatting muda por ano). O produtor diz que usa malte não turfado, mas a edição 2023 e algumas lojas citam parte turfada; usei defumado 1. A página oficial bloqueou acesso direto (429), e as notas oficiais vieram do resumo da busca. ABV do rótulo (48%) confere."
+  },
+  {
+    "id": "komagatake_peated_sherry",
+    "rotulo": "Komagatake Peated × Sherry",
+    "marca": "Komagatake (Mars Whisky)",
+    "produtor": "Hombo Shuzo (Mars Komagatake Distillery)",
+    "tipo": "whisky_japones",
+    "abv": 50,
+    "volumeMl": 700,
+    "pais": "Japão",
+    "regiao": "Nagano",
+    "composicao": "Single malt de malte turfado maturado em barris de xerez; sem idade declarada; sem filtragem a frio; lote limitado lançado em outubro de 2026, o primeiro de uma nova série.",
+    "perfil": { "doce": 2, "acido": 0, "amargo": 1, "seco": 3, "herbal": 0, "frutado": 3, "defumado": 3, "picante": 2, "cremoso": 2, "umami": 1 },
+    "notas": "Single malt turfado de Nagano maturado em xerez: casca de laranja e mel sob um véu de fumaça de turfa, boca doce e rica com frutas escuras e cacau, final longo, agridoce e defumado. A turfa é delicada, longe de Islay. A 50% sustenta drinks mexidos com vermute.",
+    "melhorUso": [
+      { "alvo": "receita:rob_roy", "nota": 4, "frase": "Xerez, cacau e fumaça leve com vermute doce: Rob Roy escuro e profundo, e os 50% seguram bem." },
+      { "alvo": "receita:old_fashioned", "nota": 4, "frase": "Frutas escuras, laranja e turfa suave; com pouco açúcar vira um Old Fashioned defumado e elegante." },
+      { "alvo": "receita:penicillin", "nota": 3, "frase": "Serve de base com fumaça própria; como float é tímido perto de um Islay." },
+      { "alvo": "receita:mizuwari", "nota": 3, "frase": "A 50% aceita água: mel e laranja sobem e a turfa fica em segundo plano." },
+      { "alvo": "receita:highball_whisky", "nota": 3, "frase": "Highball defumado suave; o xerez dá corpo que um blend comum não tem." }
+    ],
+    "serveComo": [
+      { "tipo": "scotch_turfado", "qualidade": 2, "nota": "Turfa descrita como suave: serve em rinse ou float, mas sem a força de um Islay." }
+    ],
+    "fontes": [
+      "https://www.hombo.co.jp/en/2026/new-product/20260930-newproduct-whisky/"
+    ],
+    "perfilStatus": "pesquisado",
+    "confiancaPerfil": "media",
+    "observacoes": "Lançamento recente (out/2026): só há notas do produtor, sem reviews independentes; ppm de turfa e idade não informados. Tipo mantido em whisky_japones; serveComo scotch_turfado com qualidade 2 porque a fumaça é descrita como suave. ABV do rótulo (50%) confere."
+  }
+]
